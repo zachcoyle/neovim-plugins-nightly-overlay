@@ -9,9 +9,15 @@
       url = "github:numtide/devshell";
       inputs.nixpkgs.follows = "nixpkgs";
     };
-
+    flake-parts = {
+      url = "github:hercules-ci/flake-parts";
+      inputs.nixpkgs-lib.follows = "nixpkgs";
+    };
+    hercules-ci-effects = {
+      url = "github:hercules-ci/hercules-ci-effects";
+      inputs.nixpkgs.follows = "nixpkgs";
+    };
     utils.url = "github:numtide/flake-utils";
-
     barbar-nvim = {
       url = "github:romgrk/barbar.nvim";
       flake = false;
@@ -358,47 +364,52 @@
     };
   };
 
-  outputs = {
+  outputs = inputs @ {
     self,
     nixpkgs,
     devshell,
-    utils,
+    flake-parts,
+    hercules-ci-effects,
     ...
-  } @ inputs:
-    {
-      overlays.default = final: prev: let
-        inherit (prev.vimUtils) buildVimPluginFrom2Nix;
-
-        buildVimPluginFromInputs = name:
-          buildVimPluginFrom2Nix {
-            pname = name;
-            version = "nightly";
-            src = builtins.getAttr name inputs;
-          };
-
-        plugins =
-          builtins.filter
-          (name:
-            name
-            != "self"
-            && name != "nixpkgs"
-            && name != "devshell"
-            && name != "utils")
-          (builtins.attrNames inputs);
-      in {
-        vimPlugins =
-          prev.vimPlugins
-          // builtins.listToAttrs
-          (map (name: {
-              inherit name;
-              value = buildVimPluginFromInputs name;
-            })
-            plugins);
+  }:
+    flake-parts.lib.mkFlake {inherit inputs;} {
+      perSystem = {
+        config,
+        pkgs,
+        ...
+      }: {
+        formatter = pkgs.alejandra;
       };
-    }
-    // utils.lib.eachDefaultSystem (system: let
-      pkgs = import nixpkgs {inherit system;};
-    in {
-      formatter = pkgs.alejandra;
-    });
+      flake = {
+        overlays.default = final: prev: let
+          inherit (prev.vimUtils) buildVimPluginFrom2Nix;
+
+          buildVimPluginFromInputs = name:
+            buildVimPluginFrom2Nix {
+              pname = name;
+              version = "nightly";
+              src = builtins.getAttr name inputs;
+            };
+
+          plugins =
+            builtins.filter
+            (name:
+              name
+              != "self"
+              && name != "nixpkgs"
+              && name != "devshell"
+              && name != "hercules-ci-effects")
+            (builtins.attrNames inputs);
+        in {
+          vimPlugins =
+            prev.vimPlugins
+            // builtins.listToAttrs
+            (map (name: {
+                inherit name;
+                value = buildVimPluginFromInputs name;
+              })
+              plugins);
+        };
+      };
+    };
 }
