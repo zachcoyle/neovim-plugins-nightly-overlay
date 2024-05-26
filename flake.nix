@@ -472,6 +472,7 @@
               != "self"
               && name != "nixpkgs"
               && name != "devshell"
+              && name != "flake-parts"
               && name != "hercules-ci-effects")
             (builtins.attrNames inputs);
         in {
