@@ -324,12 +324,48 @@
       url = "github:scottmckendry/cyberdream.nvim";
       flake = false;
     };
+    dashboard-nvim = {
+      url = "github:nvimdev/dashboard-nvim";
+      flake = false;
+    };
+    debugprint-nvim = {
+      url = "github:andrewferrier/debugprint.nvim";
+      flake = false;
+    };
+    diffview-nvim = {
+      url = "github:sindrets/diffview.nvim";
+      flake = false;
+    };
+    direnv-vim = {
+      url = "github:direnv/direnv.vim";
+      flake = false;
+    };
     dracula-nvim = {
       url = "github:Mofiqul/dracula.nvim";
       flake = false;
     };
+    dressing-nvim = {
+      url = "github:stevearc/dressing.nvim";
+      flake = false;
+    };
+    efmls-configs-nvim = {
+      url = "github:creativenull/efmls-configs-nvim";
+      flake = false;
+    };
+    emmet-vim = {
+      url = "github:mattn/emmet-vim";
+      flake = false;
+    };
     feline-nvim = {
       url = "github:famiu/feline.nvim";
+      flake = false;
+    };
+    fidget-nvim = {
+      url = "github:j-hui/fidget.nvim";
+      flake = false;
+    };
+    flash-nvim = {
+      url = "github:folke/flash.nvim";
       flake = false;
     };
     focus-vim = {
@@ -346,6 +382,10 @@
     };
     fzf-lsp-nvim = {
       url = "github:gfanto/fzf-lsp.nvim";
+      flake = false;
+    };
+    fzf-lua = {
+      url = "github:ibhagwan/fzf-lua";
       flake = false;
     };
     galaxyline-nvim = {
@@ -646,6 +686,22 @@
     };
     vim-devicons = {
       url = "github:ryanoasis/vim-devicons";
+      flake = false;
+    };
+    vim-easyescape = {
+      url = "github:zhou13/vim-easyescape";
+      flake = false;
+    };
+    vim-endwise = {
+      url = "github:tpope/vim-endwise";
+      flake = false;
+    };
+    vim-floaterm = {
+      url = "github:voldikss/vim-floaterm";
+      flake = false;
+    };
+    vim-fugitive = {
+      url = "github:tpope/vim-fugitive";
       flake = false;
     };
     vim-import-cost = {
