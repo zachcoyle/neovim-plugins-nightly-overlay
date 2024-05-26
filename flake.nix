@@ -93,24 +93,175 @@
       url = "github:laytan/cloak.nvim";
       flake = false;
     };
+    cmp-async-path = {
+      # archived
+      url = "github:FelipeLema/cmp-async-path";
+      flake = false;
+    };
     cmp-buffer = {
       url = "github:hrsh7th/cmp-buffer";
+      flake = false;
+    };
+    cmp-calc = {
+      url = "github:hrsh7th/cmp-calc";
+      flake = false;
+    };
+    cmp-clippy = {
+      url = "github:vappolinario/cmp-clippy";
+      flake = false;
+    };
+    cmp-cmdline = {
+      url = "github:hrsh7th/cmp-cmdline";
+      flake = false;
+    };
+    cmp-cmdline-history = {
+      url = "github:dmitmel/cmp-cmdline-history";
+      flake = false;
+    };
+    cmp-conventionalcommits = {
+      url = "github:davidsierradz/cmp-conventionalcommits";
       flake = false;
     };
     cmp-copilot = {
       url = "github:hrsh7th/cmp-copilot";
       flake = false;
     };
+    cmp-dap = {
+      url = "github:rcarriga/cmp-dap";
+      flake = false;
+    };
+    cmp-dictionary = {
+      # archived
+      url = "github:uga-rosa/cmp-dictionary";
+      flake = false;
+    };
+    cmp-digraphs = {
+      url = "github:dmitmel/cmp-digraphs";
+      flake = false;
+    };
+    cmp-emoji = {
+      url = "github:hrsh7th/cmp-emoji";
+      flake = false;
+    };
+    cmp-fish = {
+      url = "github:mtoohey31/cmp-fish";
+      flake = false;
+    };
+    cmp-fuzzy-buffer = {
+      url = "github:tzachar/cmp-fuzzy-buffer";
+      flake = false;
+    };
+    cmp-fuzzy-path = {
+      url = "github:tzachar/cmp-fuzzy-path";
+      flake = false;
+    };
+    cmp-git = {
+      url = "github:petertriho/cmp-git";
+      flake = false;
+    };
+    cmp-greek = {
+      url = "github:max397574/cmp-greek";
+      flake = false;
+    };
+    cmp-latex-symbols = {
+      url = "github:kdheepak/cmp-latex-symbols";
+      flake = false;
+    };
+    cmp-look = {
+      url = "github:octaltree/cmp-look";
+      flake = false;
+    };
+    cmp-npm = {
+      url = "github:David-Kunz/cmp-npm";
+      flake = false;
+    };
     cmp-nvim-lsp = {
       url = "github:hrsh7th/cmp-nvim-lsp";
+      flake = false;
+    };
+    cmp-nvim-lsp-document-symbol = {
+      url = "github:hrsh7th/cmp-nvim-lsp-document-symbol";
+      flake = false;
+    };
+    cmp-nvim-lsp-signature-help = {
+      url = "github:hrsh7th/cmp-nvim-lsp-signature-help";
+      flake = false;
+    };
+    cmp-nvim-lua = {
+      url = "github:hrsh7th/cmp-nvim-lua";
+      flake = false;
+    };
+    cmp-nvim-ultisnips = {
+      url = "github:quangnguyen30192/cmp-nvim-ultisnips";
+      flake = false;
+    };
+    cmp-omni = {
+      url = "github:hrsh7th/cmp-omni";
+      flake = false;
+    };
+    cmp-pandoc-nvim = {
+      url = "github:aspeddro/cmp-pandoc.nvim";
+      flake = false;
+    };
+    cmp-pandoc-references = {
+      url = "github:jc-doyle/cmp-pandoc-references";
       flake = false;
     };
     cmp-path = {
       url = "github:hrsh7th/cmp-path";
       flake = false;
     };
+    cmp-rg = {
+      url = "github:lukas-reineke/cmp-rg";
+      flake = false;
+    };
+    cmp-snippy = {
+      url = "github:dcampos/cmp-snippy";
+      flake = false;
+    };
+    cmp-spell = {
+      url = "github:f3fora/cmp-spell";
+      flake = false;
+    };
+    cmp-tabby = {
+      url = "github:nzlov/cmp-tabby";
+      flake = false;
+    };
+    # TODO: needs override
+    cmp-tabnine = {
+      url = "github:tzachar/cmp-tabnine";
+      flake = false;
+    };
+    cmp-tmux = {
+      url = "github:andersevenrud/cmp-tmux";
+      flake = false;
+    };
     cmp-treesitter = {
       url = "github:ray-x/cmp-treesitter";
+      flake = false;
+    };
+    cmp-vim-lsp = {
+      url = "github:dmitmel/cmp-vim-lsp";
+      flake = false;
+    };
+    cmp-vimwiki-tags = {
+      url = "github:pontusk/cmp-vimwiki-tags";
+      flake = false;
+    };
+    cmp-vsnip = {
+      url = "github:hrsh7th/cmp-vsnip";
+      flake = false;
+    };
+    cmp-zsh = {
+      url = "github:tamago324/cmp-zsh";
+      flake = false;
+    };
+    cmp_luasnip = {
+      url = "github:saadparwaiz1/cmp_luasnip";
+      flake = false;
+    };
+    cmp_yanky = {
+      url = "github:chrisgrieser/cmp_yanky";
       flake = false;
     };
     comment-nvim = {
@@ -511,6 +662,7 @@
         formatter = pkgs.alejandra;
       };
       flake = {
+        # TODO: probably better to just override the src for each plugin so that the overrides aren't messed with
         overlays.default = final: prev: let
           inherit (prev.vimUtils) buildVimPluginFrom2Nix;
 
