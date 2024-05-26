@@ -264,16 +264,60 @@
       url = "github:chrisgrieser/cmp_yanky";
       flake = false;
     };
+    codeium-nvim = {
+      url = "github:Exafunction/codeium.nvim";
+      flake = false;
+    };
+    codeium-vim = {
+      url = "github:Exafunction/codeium.vim";
+      flake = false;
+    };
     comment-nvim = {
       url = "github:numToStr/Comment.nvim";
+      flake = false;
+    };
+    committia-vim = {
+      url = "github:rhysd/committia.vim";
+      flake = false;
+    };
+    competitest-nvim = {
+      url = "github:xeluxee/competitest.nvim";
       flake = false;
     };
     completion-nvim = {
       url = "github:nvim-lua/completion-nvim";
       flake = false;
     };
+    conform-nvim = {
+      url = "github:stevearc/conform.nvim";
+      flake = false;
+    };
+    conjure = {
+      url = "github:Olical/conjure";
+      flake = false;
+    };
+    copilot-cmp = {
+      url = "github:zbirenbaum/copilot-cmp";
+      flake = false;
+    };
+    copilot-lua = {
+      url = "github:zbirenbaum/copilot.lua";
+      flake = false;
+    };
     copilot-vim = {
       url = "github:github/copilot.vim";
+      flake = false;
+    };
+    coq-nvim = {
+      url = "github:ms-jpq/coq_nvim";
+      flake = false;
+    };
+    coq-thirdparty = {
+      url = "github:ms-jpq/coq.thirdparty";
+      flake = false;
+    };
+    crates-nvim = {
+      url = "github:Saecki/crates.nvim";
       flake = false;
     };
     cyberdream-nvim = {
@@ -398,6 +442,14 @@
     };
     nvim-colorizer-lua = {
       url = "github:norcalli/nvim-colorizer.lua";
+      flake = false;
+    };
+    nvim-coverage = {
+      url = "github:andythigpen/nvim-coverage";
+      flake = false;
+    };
+    nvim-cursorline = {
+      url = "github:yamatsum/nvim-cursorline";
       flake = false;
     };
     nvim-dap = {
@@ -582,6 +634,10 @@
     };
     vim-airline = {
       url = "github:vim-airline/vim-airline";
+      flake = false;
+    };
+    vim-commentary = {
+      url = "github:tpope/vim-commentary";
       flake = false;
     };
     vim-dadbod-ui = {
