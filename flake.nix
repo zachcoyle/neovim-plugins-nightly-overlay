@@ -1,5 +1,5 @@
 {
-  description = "curated evergreen vim-plugins overlay";
+  description = "overlay for neovim plugins, updated nightly";
 
   inputs = {
     nixpkgs = {
