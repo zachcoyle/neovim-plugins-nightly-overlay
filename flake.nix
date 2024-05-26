@@ -377,22 +377,22 @@
         inputs.hercules-ci-effects.flakeModule
       ];
 
-      hercules-ci.flake-update = {
-        enable = true;
-        baseMerge.enable = true;
-        baseMerge.method = "rebase";
-        autoMergeMethod = "rebase";
-        when = {
-          hour = [0];
-          minute = 0;
-        };
-      };
-
       perSystem = {
         config,
         pkgs,
         ...
       }: {
+        hercules-ci.flake-update = {
+          enable = true;
+          baseMerge.enable = true;
+          baseMerge.method = "rebase";
+          autoMergeMethod = "rebase";
+          when = {
+            hour = [0];
+            minute = 0;
+          };
+        };
+
         formatter = pkgs.alejandra;
       };
       flake = {
