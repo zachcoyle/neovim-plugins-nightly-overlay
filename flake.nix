@@ -17,16 +17,52 @@
       url = "github:hercules-ci/hercules-ci-effects";
       inputs.nixpkgs.follows = "nixpkgs";
     };
+    alpha-nvim = {
+      url = "github:goolord/alpha-nvim";
+      flake = false;
+    };
+    arrow-nvim = {
+      url = "github:otavioschwanck/arrow.nvim";
+      flake = false;
+    };
+    auto-save-nvim = {
+      url = "github:okuuva/auto-save.nvim";
+      flake = false;
+    };
+    auto-session = {
+      url = "github:rmagatti/auto-session";
+      flake = false;
+    };
+    autoclose-nvim = {
+      url = "github:m4xshen/autoclose.nvim";
+      flake = false;
+    };
+    baleia-nvim = {
+      url = "github:m00qek/baleia.nvim";
+      flake = false;
+    };
     barbar-nvim = {
       url = "github:romgrk/barbar.nvim";
+      flake = false;
+    };
+    barbecue-nvim = {
+      url = "github:utilyre/barbecue.nvim";
       flake = false;
     };
     base16-nvim = {
       url = "github:RRethy/base16-nvim";
       flake = false;
     };
+    better-escape-nvim = {
+      url = "github:max397574/better-escape.nvim";
+      flake = false;
+    };
     blamer-nvim = {
       url = "github:APZelos/blamer.nvim";
+      flake = false;
+    };
+    bufferline-nvim = {
+      url = "github:akinsho/bufferline.nvim";
       flake = false;
     };
     calvera-dark-nvim = {
@@ -35,6 +71,26 @@
     };
     catpuccin-nvim = {
       url = "github:catppuccin/nvim";
+      flake = false;
+    };
+    ccc-nvim = {
+      url = "github:uga-rosa/ccc.nvim";
+      flake = false;
+    };
+    chadtree = {
+      url = "github:ms-jpq/chadtree";
+      flake = false;
+    };
+    clangd_extensions-nvim = {
+      url = "github:p00f/clangd_extensions.nvim";
+      flake = false;
+    };
+    clipboard-image-nvim = {
+      url = "github:ekickx/clipboard-image.nvim";
+      flake = false;
+    };
+    cloak-nvim = {
+      url = "github:laytan/cloak.nvim";
       flake = false;
     };
     cmp-buffer = {
@@ -177,12 +233,12 @@
       url = "github:windwp/nvim-autopairs";
       flake = false;
     };
-    nvim-blame-line = {
-      url = "github:tveskag/nvim-blame-line";
+    nvim-bacon = {
+      url = "github:Canop/nvim-bacon";
       flake = false;
     };
-    nvim-bufferline-lua = {
-      url = "github:akinsho/nvim-bufferline.lua";
+    nvim-blame-line = {
+      url = "github:tveskag/nvim-blame-line";
       flake = false;
     };
     nvim-cmp = {
@@ -191,10 +247,6 @@
     };
     nvim-colorizer-lua = {
       url = "github:norcalli/nvim-colorizer.lua";
-      flake = false;
-    };
-    nvim-compe = {
-      url = "github:hrsh7th/nvim-compe";
       flake = false;
     };
     nvim-dap = {
@@ -375,6 +427,10 @@
     };
     trouble-nvim = {
       url = "github:folke/trouble.nvim";
+      flake = false;
+    };
+    vim-airline = {
+      url = "github:vim-airline/vim-airline";
       flake = false;
     };
     vim-dadbod-ui = {
