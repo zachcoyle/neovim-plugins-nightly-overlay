@@ -480,12 +480,40 @@
       url = "github:pta2002/intellitab.nvim";
       flake = false;
     };
+    jupytext = {
+      url = "github:GCBallesteros/jupytext.nvim";
+      flake = false;
+    };
     kanagawa-nvim = {
       url = "github:rebelot/kanagawa.nvim";
       flake = false;
     };
+    lazy-nvim = {
+      url = "github:folke/lazy.nvim";
+      flake = false;
+    };
+    lazygit-nvim = {
+      url = "github:kdheepak/lazygit.nvim";
+      flake = false;
+    };
+    lean-nvim = {
+      url = "github:Julian/lean.nvim";
+      flake = false;
+    };
     leap-nvim = {
       url = "github:ggandor/leap.nvim";
+      flake = false;
+    };
+    lightline-vim = {
+      url = "github:itchyny/lightline.vim";
+      flake = false;
+    };
+    lsp-format-nvim = {
+      url = "github:lukas-reineke/lsp-format.nvim";
+      flake = false;
+    };
+    lsp_lines-nvim = {
+      url = "https://git.sr.ht/~whynothugo/lsp_lines.nvim";
       flake = false;
     };
     lsp_signature-nvim = {
@@ -496,11 +524,19 @@
       url = "github:onsails/lspkind-nvim";
       flake = false;
     };
+    lspsaga-nvim = {
+      url = "github:nvimdev/lspsaga.nvim";
+      flake = false;
+    };
+    ltex_extra-nvim = {
+      url = "github:barreiroleo/ltex_extra.nvim";
+      flake = false;
+    };
     lualine-nvim = {
       url = "github:nvim-lualine/lualine.nvim";
       flake = false;
     };
-    LuaSnip = {
+    luasnip = {
       url = "github:L3MON4D3/LuaSnip";
       flake = false;
     };
@@ -570,6 +606,15 @@
     };
     nvim-jdtls = {
       url = "github:mfussenegger/nvim-jdtls";
+      flake = false;
+    };
+    nvim-lastplace = {
+      # archived
+      url = "github:ethanholz/nvim-lastplace";
+      flake = false;
+    };
+    nvim-lint = {
+      url = "github:mfussenegger/nvim-lint";
       flake = false;
     };
     nvim-lspconfig = {
@@ -786,6 +831,14 @@
     };
     vim-import-cost = {
       url = "github:yardnsm/vim-import-cost";
+      flake = false;
+    };
+    vim-julia-cell = {
+      url = "github:mroavi/vim-julia-cell";
+      flake = false;
+    };
+    vim-ledger = {
+      url = "github:ledger/vim-ledger";
       flake = false;
     };
     vim-one = {
