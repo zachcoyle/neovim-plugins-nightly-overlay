@@ -229,6 +229,46 @@
         "type": "github"
       }
     },
+    "flake-parts": {
+      "inputs": {
+        "nixpkgs-lib": [
+          "nixpkgs"
+        ]
+      },
+      "locked": {
+        "lastModified": 1715865404,
+        "narHash": "sha256-/GJvTdTpuDjNn84j82cU6bXztE0MSkdnTWClUCRub78=",
+        "owner": "hercules-ci",
+        "repo": "flake-parts",
+        "rev": "8dc45382d5206bd292f9c2768b8058a8fd8311d9",
+        "type": "github"
+      },
+      "original": {
+        "owner": "hercules-ci",
+        "repo": "flake-parts",
+        "type": "github"
+      }
+    },
+    "flake-parts_2": {
+      "inputs": {
+        "nixpkgs-lib": [
+          "hercules-ci-effects",
+          "nixpkgs"
+        ]
+      },
+      "locked": {
+        "lastModified": 1712014858,
+        "narHash": "sha256-sB4SWl2lX95bExY2gMFG5HIzvva5AVMJd4Igm+GpZNw=",
+        "owner": "hercules-ci",
+        "repo": "flake-parts",
+        "rev": "9126214d0a59633752a136528f5f3b9aa8565b7d",
+        "type": "github"
+      },
+      "original": {
+        "id": "flake-parts",
+        "type": "indirect"
+      }
+    },
     "flake-utils": {
       "inputs": {
         "systems": "systems"
@@ -389,6 +429,27 @@
       "original": {
         "owner": "ThePrimeagen",
         "repo": "harpoon",
+        "type": "github"
+      }
+    },
+    "hercules-ci-effects": {
+      "inputs": {
+        "flake-parts": "flake-parts_2",
+        "nixpkgs": [
+          "nixpkgs"
+        ]
+      },
+      "locked": {
+        "lastModified": 1713898448,
+        "narHash": "sha256-6q6ojsp/Z9P2goqnxyfCSzFOD92T3Uobmj8oVAicUOs=",
+        "owner": "hercules-ci",
+        "repo": "hercules-ci-effects",
+        "rev": "c0302ec12d569532a6b6bd218f698bc402e93adc",
+        "type": "github"
+      },
+      "original": {
+        "owner": "hercules-ci",
+        "repo": "hercules-ci-effects",
         "type": "github"
       }
     },
@@ -920,6 +981,7 @@
         "copilot-vim": "copilot-vim",
         "devshell": "devshell",
         "feline-nvim": "feline-nvim",
+        "flake-parts": "flake-parts",
         "focus-vim": "focus-vim",
         "formatter-nvim": "formatter-nvim",
         "friendly-snippets": "friendly-snippets",
@@ -929,6 +991,7 @@
         "goyo-vim": "goyo-vim",
         "gruvbox": "gruvbox",
         "harpoon": "harpoon",
+        "hercules-ci-effects": "hercules-ci-effects",
         "indent-blankline-nvim": "indent-blankline-nvim",
         "leap-nvim": "leap-nvim",
         "lsp_signature-nvim": "lsp_signature-nvim",
@@ -1415,11 +1478,11 @@
     "vim-dadbod-ui": {
       "flake": false,
       "locked": {
-        "lastModified": 1716315920,
-        "narHash": "sha256-D7EXN0q7nNmlSqfU7Luqb5NmjY1LsTNjGgHKlPNgS4w=",
+        "lastModified": 1716744606,
+        "narHash": "sha256-iMtQG/nyWPre1wJCrNijRtCb39wNrEbTPEz2rbaZNR8=",
         "owner": "kristijanhusak",
         "repo": "vim-dadbod-ui",
-        "rev": "5aa854ee6017e9a3463d3dc8eee5aac93739f021",
+        "rev": "70cd6278f826e0bd5415449b2a1cd0cb08c4351a",
         "type": "github"
       },
       "original": {
