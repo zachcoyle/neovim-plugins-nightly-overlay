@@ -17,9 +17,12 @@
       url = "github:hercules-ci/hercules-ci-effects";
       inputs.nixpkgs.follows = "nixpkgs";
     };
-    utils.url = "github:numtide/flake-utils";
     barbar-nvim = {
       url = "github:romgrk/barbar.nvim";
+      flake = false;
+    };
+    base16-nvim = {
+      url = "github:RRethy/base16-nvim";
       flake = false;
     };
     blamer-nvim = {
@@ -28,6 +31,10 @@
     };
     calvera-dark-nvim = {
       url = "github:yashguptaz/calvera-dark.nvim";
+      flake = false;
+    };
+    catpuccin-nvim = {
+      url = "github:catppuccin/nvim";
       flake = false;
     };
     cmp-buffer = {
@@ -62,6 +69,14 @@
       url = "github:github/copilot.vim";
       flake = false;
     };
+    cyberdream-nvim = {
+      url = "github:scottmckendry/cyberdream.nvim";
+      flake = false;
+    };
+    dracula-nvim = {
+      url = "github:Mofiqul/dracula.nvim";
+      flake = false;
+    };
     feline-nvim = {
       url = "github:famiu/feline.nvim";
       flake = false;
@@ -94,8 +109,8 @@
       url = "github:junegunn/goyo.vim";
       flake = false;
     };
-    gruvbox = {
-      url = "github:gruvbox-community/gruvbox";
+    gruvbox-nvim = {
+      url = "github:ellisonleao/gruvbox.nvim";
       flake = false;
     };
     harpoon = {
@@ -104,6 +119,10 @@
     };
     indent-blankline-nvim = {
       url = "github:lukas-reineke/indent-blankline.nvim";
+      flake = false;
+    };
+    kanagawa-nvim = {
+      url = "github:rebelot/kanagawa.nvim";
       flake = false;
     };
     leap-nvim = {
@@ -126,6 +145,10 @@
       url = "github:L3MON4D3/LuaSnip";
       flake = false;
     };
+    melange = {
+      url = "github:savq/melange-nvim";
+      flake = false;
+    };
     neogit = {
       url = "github:TimUntersberger/neogit";
       flake = false;
@@ -136,6 +159,14 @@
     };
     neorg = {
       url = "github:vhyrro/neorg";
+      flake = false;
+    };
+    neovim-ayu = {
+      url = "github:Shatur/neovim-ayu";
+      flake = false;
+    };
+    nord-nvim = {
+      url = "github:shaunsingh/nord.nvim";
       flake = false;
     };
     nvcode-color-schemes-vim = {
@@ -215,15 +246,27 @@
       flake = false;
     };
     onedark-nvim = {
-      url = "github:joshdick/onedark.vim";
+      url = "github:navarasu/onedark.nvim";
+      flake = false;
+    };
+    oxocarbon-nvim = {
+      url = "github:nyoom-engineering/oxocarbon.nvim";
       flake = false;
     };
     packer-nvim = {
       url = "github:wbthomason/packer.nvim";
       flake = false;
     };
+    palette-nvim = {
+      url = "github:roobert/palette.nvim";
+      flake = false;
+    };
     plenary-nvim = {
       url = "github:nvim-lua/plenary.nvim";
+      flake = false;
+    };
+    poimandres-nvim = {
+      url = "github:olivercederborg/poimandres.nvim";
       flake = false;
     };
     popup-nvim = {
@@ -232,6 +275,10 @@
     };
     presence-nvim = {
       url = "github:andweeb/presence.nvim";
+      flake = false;
+    };
+    rose-pine = {
+      url = "github:rose-pine/neovim";
       flake = false;
     };
     scrollbar-nvim = {
@@ -322,6 +369,10 @@
       url = "github:akinsho/toggleterm.nvim";
       flake = false;
     };
+    tokyonight-nvim = {
+      url = "github:folke/tokyonight.nvim";
+      flake = false;
+    };
     trouble-nvim = {
       url = "github:folke/trouble.nvim";
       flake = false;
@@ -336,6 +387,10 @@
     };
     vim-import-cost = {
       url = "github:yardnsm/vim-import-cost";
+      flake = false;
+    };
+    vim-one = {
+      url = "github:rakr/vim-one";
       flake = false;
     };
     vim-prisma = {
@@ -356,6 +411,10 @@
     };
     vim-which-key = {
       url = "github:liuchengxu/vim-which-key";
+      flake = false;
+    };
+    vscode-nvim = {
+      url = "github:Mofiqul/vscode.nvim";
       flake = false;
     };
     which-key-nvim = {
