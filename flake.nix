@@ -424,12 +424,60 @@
       url = "github:ellisonleao/gruvbox.nvim";
       flake = false;
     };
+    hardtime-nvim = {
+      url = "github:m4xshen/hardtime.nvim";
+      flake = false;
+    };
     harpoon = {
       url = "github:ThePrimeagen/harpoon";
       flake = false;
     };
+    haskell-scope-highlighting-nvim = {
+      url = "github:kiyoon/haskell-scope-highlighting.nvim";
+      flake = false;
+    };
+    headlines-nvim = {
+      url = "github:lukas-reineke/headlines.nvim";
+      flake = false;
+    };
+    hmts-nvim = {
+      url = "github:calops/hmts.nvim";
+      flake = false;
+    };
+    hop-nvim = {
+      url = "github:smoka7/hop.nvim";
+      flake = false;
+    };
+    hydra-nvim = {
+      url = "github:nvimtools/hydra.nvim";
+      flake = false;
+    };
+    image-nvim = {
+      url = "github:3rd/image.nvim";
+      flake = false;
+    };
+    improved-search-nvim = {
+      url = "github:backdround/improved-search.nvim";
+      flake = false;
+    };
+    inc-rename-nvim = {
+      url = "github:smjonas/inc-rename.nvim";
+      flake = false;
+    };
     indent-blankline-nvim = {
       url = "github:lukas-reineke/indent-blankline.nvim";
+      flake = false;
+    };
+    indent-o-matic = {
+      url = "github:Darazaki/indent-o-matic";
+      flake = false;
+    };
+    instant-nvim = {
+      url = "github:jbyuki/instant.nvim";
+      flake = false;
+    };
+    intellitab-nvim = {
+      url = "github:pta2002/intellitab.nvim";
       flake = false;
     };
     kanagawa-nvim = {
@@ -726,6 +774,14 @@
     };
     vim-godot = {
       url = "github:habamax/vim-godot";
+      flake = false;
+    };
+    vim-helm = {
+      url = "github:towolf/vim-helm";
+      flake = false;
+    };
+    vim-illuminate = {
+      url = "github:RRethy/vim-illuminate";
       flake = false;
     };
     vim-import-cost = {
