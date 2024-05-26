@@ -392,6 +392,26 @@
       url = "github:glepnir/galaxyline.nvim/main";
       flake = false;
     };
+    git-blame-nvim = {
+      url = "github:f-person/git-blame.nvim";
+      flake = false;
+    };
+    git-worktree-nvim = {
+      url = "github:ThePrimeagen/git-worktree.nvim";
+      flake = false;
+    };
+    gitignore-nvim = {
+      url = "github:wintermute-cell/gitignore.nvim";
+      flake = false;
+    };
+    gitlinker-nvim = {
+      url = "github:ruifm/gitlinker.nvim";
+      flake = false;
+    };
+    git-messenger-vim = {
+      url = "github:rhysd/git-messenger.vim";
+      flake = false;
+    };
     gitsigns-nvim = {
       url = "github:lewis6991/gitsigns.nvim";
       flake = false;
@@ -702,6 +722,10 @@
     };
     vim-fugitive = {
       url = "github:tpope/vim-fugitive";
+      flake = false;
+    };
+    vim-godot = {
+      url = "github:habamax/vim-godot";
       flake = false;
     };
     vim-import-cost = {
