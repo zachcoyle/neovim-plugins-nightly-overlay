@@ -944,22 +944,6 @@
         "type": "github"
       }
     },
-    "cmp_luasnip": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1696878902,
-        "narHash": "sha256-nUJJl2zyK/oSwz5RzI9j3gf9zpDfCImCYbPbVsyXgz8=",
-        "owner": "saadparwaiz1",
-        "repo": "cmp_luasnip",
-        "rev": "05a9ab28b53f71d1aece421ef32fee2cb857a843",
-        "type": "github"
-      },
-      "original": {
-        "owner": "saadparwaiz1",
-        "repo": "cmp_luasnip",
-        "type": "github"
-      }
-    },
     "cmp_yanky": {
       "flake": false,
       "locked": {
@@ -2072,7 +2056,7 @@
     "lsp_lines-nvim": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-B1RFeYisDPfobmnkI7AauDvmRbZLhOrc/nBvFbIKOo8=",
+        "narHash": "sha256-FY7MA3gZ+WU7hzzF19GIFv+IxtYTkxVVAJPQU9R93kI=",
         "type": "file",
         "url": "https://git.sr.ht/~whynothugo/lsp_lines.nvim"
       },
@@ -2158,22 +2142,6 @@
       "original": {
         "owner": "nvim-lualine",
         "repo": "lualine.nvim",
-        "type": "github"
-      }
-    },
-    "luasnip": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1716536093,
-        "narHash": "sha256-WP71ChUQR67GJ/hsynv3/KAfojVFqTqYRVkmUmC9aqo=",
-        "owner": "L3MON4D3",
-        "repo": "LuaSnip",
-        "rev": "878ace11983444d865a72e1759dbcc331d1ace4c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "L3MON4D3",
-        "repo": "LuaSnip",
         "type": "github"
       }
     },
@@ -2708,11 +2676,11 @@
     "nvim-dap": {
       "flake": false,
       "locked": {
-        "lastModified": 1716485656,
-        "narHash": "sha256-nInnMm5UkSwyK0ES2dD1r2eltsPNX005S36XY/+fBM4=",
+        "lastModified": 1716747841,
+        "narHash": "sha256-uzivFy0ZNLxAXDqkYNrNy1SSHPRrGv3OLVCNCRDiikU=",
         "owner": "mfussenegger",
         "repo": "nvim-dap",
-        "rev": "c65c163daa47e0623dd85d2303fce0c22e52ad01",
+        "rev": "922ebc75c2fa9305e36402fbd8c984c8638770a0",
         "type": "github"
       },
       "original": {
@@ -2958,22 +2926,6 @@
       "original": {
         "owner": "p00f",
         "repo": "nvim-ts-rainbow",
-        "type": "github"
-      }
-    },
-    "nvim-ufo": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1716226930,
-        "narHash": "sha256-tucS6d6ALl5mX7YHZlv+FDaVy8Tyho6yLqsbUBqRS1c=",
-        "owner": "kevinhwang91",
-        "repo": "nvim-ufo",
-        "rev": "65dda6360879f6ffe0278163b9192a573a0d2a08",
-        "type": "github"
-      },
-      "original": {
-        "owner": "kevinhwang91",
-        "repo": "nvim-ufo",
         "type": "github"
       }
     },
@@ -3390,7 +3342,6 @@
         "cmp-vimwiki-tags": "cmp-vimwiki-tags",
         "cmp-vsnip": "cmp-vsnip",
         "cmp-zsh": "cmp-zsh",
-        "cmp_luasnip": "cmp_luasnip",
         "cmp_yanky": "cmp_yanky",
         "codeium-nvim": "codeium-nvim",
         "codeium-vim": "codeium-vim",
@@ -3463,7 +3414,6 @@
         "lspsaga-nvim": "lspsaga-nvim",
         "ltex_extra-nvim": "ltex_extra-nvim",
         "lualine-nvim": "lualine-nvim",
-        "luasnip": "luasnip",
         "magma-nvim-goose": "magma-nvim-goose",
         "mark-radar-nvim": "mark-radar-nvim",
         "markdown-preview-nvim": "markdown-preview-nvim",
@@ -3513,7 +3463,6 @@
         "nvim-ts-autotag": "nvim-ts-autotag",
         "nvim-ts-context-commentstring": "nvim-ts-context-commentstring",
         "nvim-ts-rainbow": "nvim-ts-rainbow",
-        "nvim-ufo": "nvim-ufo",
         "nvim-web-devicons": "nvim-web-devicons",
         "obsidian-nvim": "obsidian-nvim",
         "octo-nvim": "octo-nvim",
