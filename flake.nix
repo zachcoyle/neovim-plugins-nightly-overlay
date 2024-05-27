@@ -17,6 +17,7 @@
       url = "github:hercules-ci/hercules-ci-effects";
       inputs.nixpkgs.follows = "nixpkgs";
     };
+    systems.url = "github:nix-systems/default";
 
     # nvim-treesitter.flake = false;
     # nvim-treesitter.url = "github:nvim-treesitter/nvim-treesitter";
@@ -526,60 +527,54 @@
     devshell,
     flake-parts,
     hercules-ci-effects,
+    systems,
     ...
   }:
     flake-parts.lib.mkFlake {inherit inputs;} {
+      systems = import systems;
       imports = [
         inputs.hercules-ci-effects.flakeModule
       ];
+
+      hercules-ci.flake-update = {
+        enable = true;
+        baseMerge.enable = true;
+        baseMerge.method = "rebase";
+        autoMergeMethod = "rebase";
+        when = {
+          hour = [0];
+          minute = 0;
+        };
+      };
 
       perSystem = {
         config,
         pkgs,
         ...
       }: {
-        hercules-ci.flake-update = {
-          enable = true;
-          baseMerge.enable = true;
-          baseMerge.method = "rebase";
-          autoMergeMethod = "rebase";
-          when = {
-            hour = [0];
-            minute = 0;
-          };
-        };
-
         formatter = pkgs.alejandra;
       };
       flake = {
-        # TODO: probably better to just override the src for each plugin so that the overrides aren't messed with
         overlays.default = final: prev: let
-          inherit (prev.vimUtils) buildVimPluginFrom2Nix;
-
-          buildVimPluginFromInputs = name:
-            buildVimPluginFrom2Nix {
-              pname = name;
-              version = "nightly";
-              src = builtins.getAttr name inputs;
-            };
-
-          plugins =
-            builtins.filter
-            (name:
-              name
-              != "self"
-              && name != "nixpkgs"
-              && name != "devshell"
-              && name != "flake-parts"
-              && name != "hercules-ci-effects")
-            (builtins.attrNames inputs);
+          plugins = builtins.filter (name:
+            name
+            != "self"
+            && name != "nixpkgs"
+            && name != "devshell"
+            && name != "flake-parts"
+            && name != "systems"
+            && name != "hercules-ci-effects")
+          (builtins.attrNames inputs);
         in {
           vimPlugins =
             prev.vimPlugins
             // builtins.listToAttrs
             (map (name: {
                 inherit name;
-                value = buildVimPluginFromInputs name;
+                value = prev.vimPlugins.${name}.overrideAttrs {
+                  src = inputs.${name};
+                  version = "nightly";
+                };
               })
               plugins);
         };
