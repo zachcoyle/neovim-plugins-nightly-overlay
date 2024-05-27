@@ -23,6 +23,3 @@ jobs:
           pr-labels: |- # Labels to be set on the PR
             dependencies
             automated
-      - run: "gh pr merge --auto --merge ${{ steps.update.outputs.pull-request-number }}"
-        env:
-          GH_TOKEN: ${{ secrets.REPO_SCOPED_TOKEN }}
