@@ -376,8 +376,8 @@
     nvim-ts-context-commentstring.url = "github:JoosepAlviste/nvim-ts-context-commentstring";
     nvim-ts-rainbow.flake = false;
     nvim-ts-rainbow.url = "github:p00f/nvim-ts-rainbow";
-    nvim-ufo.flake = false;
-    nvim-ufo.url = "github:kevinhwang91/nvim-ufo";
+    # nvim-ufo.flake = false;
+    # nvim-ufo.url = "github:kevinhwang91/nvim-ufo";
     nvim-web-devicons.flake = false;
     nvim-web-devicons.url = "github:kyazdani42/nvim-web-devicons";
     obsidian-nvim.flake = false;
