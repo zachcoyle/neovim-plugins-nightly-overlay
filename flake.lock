@@ -691,11 +691,11 @@
     "cmp-nvim-ultisnips": {
       "flake": false,
       "locked": {
-        "lastModified": 1716795104,
-        "narHash": "sha256-0H4J9aANo6czqMaohu3l6CHikor087F1CeGO/UJSZxc=",
+        "lastModified": 1716825197,
+        "narHash": "sha256-lem8ktSvke+ayll5cNwofp0ekj+MmlNcBwI4bxpAX3c=",
         "owner": "quangnguyen30192",
         "repo": "cmp-nvim-ultisnips",
-        "rev": "baac332791a2910190b5c6eec3b79b72c53227d9",
+        "rev": "ae00afe981c9d58619b84a8c511826dd89705f4b",
         "type": "github"
       },
       "original": {
@@ -2072,7 +2072,7 @@
     "lsp_lines-nvim": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-EydAl+9F9xpOasyRsmhoT0kk6ZqHDthUEAR5FokicQY=",
+        "narHash": "sha256-yiXBFePGSSJc6IOYOkLUNcWFjddPUmhO3x2O5GBajPk=",
         "type": "file",
         "url": "https://git.sr.ht/~whynothugo/lsp_lines.nvim"
       },
