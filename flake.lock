@@ -2072,7 +2072,7 @@
     "lsp_lines-nvim": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-FY7MA3gZ+WU7hzzF19GIFv+IxtYTkxVVAJPQU9R93kI=",
+        "narHash": "sha256-qL7/enRJ/vcJDSyEnfApAjoPkQ+OI80HZThAO7Mj2Kw=",
         "type": "file",
         "url": "https://git.sr.ht/~whynothugo/lsp_lines.nvim"
       },
@@ -4091,11 +4091,11 @@
     "telescope-nvim": {
       "flake": false,
       "locked": {
-        "lastModified": 1716732931,
-        "narHash": "sha256-JXdpKfrSvrzpTqy+g9Bg85/vIDTUZfDr+ZhxH8wJDxA=",
+        "lastModified": 1716774631,
+        "narHash": "sha256-YCAOZzC99NdAC5HsJa2N1RKI+OAbYxvj1hCTydN0muA=",
         "owner": "nvim-telescope",
         "repo": "telescope.nvim",
-        "rev": "349660c0d35da06459ee8589af77de2086b652ce",
+        "rev": "4c96370cf93e2ba287548da12d673442d0ffecc3",
         "type": "github"
       },
       "original": {
