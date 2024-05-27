@@ -2072,7 +2072,7 @@
     "lsp_lines-nvim": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-yiXBFePGSSJc6IOYOkLUNcWFjddPUmhO3x2O5GBajPk=",
+        "narHash": "sha256-Oq7I2MY573leGFd78/wF+oHCxmAlMHhuJPes8+sZALQ=",
         "type": "file",
         "url": "https://git.sr.ht/~whynothugo/lsp_lines.nvim"
       },
@@ -2404,11 +2404,11 @@
     "neorg": {
       "flake": false,
       "locked": {
-        "lastModified": 1716670007,
-        "narHash": "sha256-6HrVmKe8a0GK0h4E/f6SnGY+0NdKq81aYkAuk6wwFsY=",
+        "lastModified": 1716833832,
+        "narHash": "sha256-YG2XuJbQEMOgdUV0CgM5h+tn7mLJvafD6dHw+9ibYx4=",
         "owner": "vhyrro",
         "repo": "neorg",
-        "rev": "bd9ee52fff219fcdf59105505f8039fdc9b7c193",
+        "rev": "431a4cdc06d3c48ac6ef6160bc684687a5f0a80a",
         "type": "github"
       },
       "original": {
@@ -2900,11 +2900,11 @@
     "nvim-spectre": {
       "flake": false,
       "locked": {
-        "lastModified": 1716365160,
-        "narHash": "sha256-AQ+HLIboYtYRWCu6S3Czi5DpcZRhAkI1bhSfnM+FqZI=",
+        "lastModified": 1716828605,
+        "narHash": "sha256-JS0kfM+uxwC/z8bdkdkaC+MAJIyvlvXsi3BDJuBxADA=",
         "owner": "nvim-pack",
         "repo": "nvim-spectre",
-        "rev": "5690ea46baf08bbc1623980012e14b6239ce582e",
+        "rev": "366f46fdd4a1593cc237aea13d5ef113739a472c",
         "type": "github"
       },
       "original": {
