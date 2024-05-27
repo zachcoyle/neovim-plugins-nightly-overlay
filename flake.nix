@@ -19,8 +19,6 @@
     };
     systems.url = "github:nix-systems/default";
 
-    # nvim-treesitter.flake = false;
-    # nvim-treesitter.url = "github:nvim-treesitter/nvim-treesitter";
     # FIXME: for whatever reason, this one constantly gives a NAR hash mismatch
     # lsp_lines-nvim.flake = false;
     # lsp_lines-nvim.url = "https://git.sr.ht/~whynothugo/lsp_lines.nvim";
@@ -382,6 +380,8 @@
     nvim-treesitter-refactor.url = "github:nvim-treesitter/nvim-treesitter-refactor";
     nvim-treesitter-textobjects.flake = false;
     nvim-treesitter-textobjects.url = "github:nvim-treesitter/nvim-treesitter-textobjects";
+    nvim-treesitter.flake = false;
+    nvim-treesitter.url = "github:nvim-treesitter/nvim-treesitter";
     nvim-ts-autotag.flake = false;
     nvim-ts-autotag.url = "github:windwp/nvim-ts-autotag";
     nvim-ts-context-commentstring.flake = false;
