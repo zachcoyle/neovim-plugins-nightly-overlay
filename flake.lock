@@ -2069,18 +2069,6 @@
         "type": "github"
       }
     },
-    "lsp_lines-nvim": {
-      "flake": false,
-      "locked": {
-        "narHash": "sha256-Oq7I2MY573leGFd78/wF+oHCxmAlMHhuJPes8+sZALQ=",
-        "type": "file",
-        "url": "https://git.sr.ht/~whynothugo/lsp_lines.nvim"
-      },
-      "original": {
-        "type": "file",
-        "url": "https://git.sr.ht/~whynothugo/lsp_lines.nvim"
-      }
-    },
     "lsp_signature-nvim": {
       "flake": false,
       "locked": {
@@ -3537,7 +3525,6 @@
         "leap-nvim": "leap-nvim",
         "lightline-vim": "lightline-vim",
         "lsp-format-nvim": "lsp-format-nvim",
-        "lsp_lines-nvim": "lsp_lines-nvim",
         "lsp_signature-nvim": "lsp_signature-nvim",
         "lspkind-nvim": "lspkind-nvim",
         "lspsaga-nvim": "lspsaga-nvim",
