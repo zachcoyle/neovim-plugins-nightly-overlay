@@ -2072,7 +2072,7 @@
     "lsp_lines-nvim": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-qL7/enRJ/vcJDSyEnfApAjoPkQ+OI80HZThAO7Mj2Kw=",
+        "narHash": "sha256-JH3dKiEw1kQaSZJv2wo0UJI/uVYCbl20l+5NUNe+AY4=",
         "type": "file",
         "url": "https://git.sr.ht/~whynothugo/lsp_lines.nvim"
       },
@@ -3369,12 +3369,12 @@
         "owner": "HiPhish",
         "repo": "rainbow-delimiters.nvim",
         "rev": "849803e0a687c6ef7c9a0d305bd4d441017b8abf",
-        "type": "gitlab"
+        "type": "github"
       },
       "original": {
         "owner": "HiPhish",
         "repo": "rainbow-delimiters.nvim",
-        "type": "gitlab"
+        "type": "github"
       }
     },
     "refactoring-nvim": {
