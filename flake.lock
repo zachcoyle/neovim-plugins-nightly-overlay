@@ -1155,11 +1155,11 @@
     "coq-nvim": {
       "flake": false,
       "locked": {
-        "lastModified": 1716552888,
-        "narHash": "sha256-bAPEiMJ0Hb3gO4ZIOH91YwClEH04VvYEdesSYWiNchU=",
+        "lastModified": 1716780285,
+        "narHash": "sha256-FmahFCLkuZvhHeqgyIl5sOQq1HndqArpoLJmSedYeCI=",
         "owner": "ms-jpq",
         "repo": "coq_nvim",
-        "rev": "251ea08a3f6e0267d45a420bd90f7a6d24548c8b",
+        "rev": "055d7aa94d14eabf16656e6d9e433ad81bc96b94",
         "type": "github"
       },
       "original": {
@@ -2072,7 +2072,7 @@
     "lsp_lines-nvim": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-5xKdl3MwIj8C/U0gKDXNn4mHsXuQFcN+Tt3QwPrdZb8=",
+        "narHash": "sha256-zV5c0H5r5C2wQD1+aGnMcG0UO0ek2VgsGcp+5sj6L+8=",
         "type": "file",
         "url": "https://git.sr.ht/~whynothugo/lsp_lines.nvim"
       },
