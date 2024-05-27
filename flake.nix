@@ -21,6 +21,9 @@
 
     # nvim-treesitter.flake = false;
     # nvim-treesitter.url = "github:nvim-treesitter/nvim-treesitter";
+    # FIXME: for whatever reason, this one constantly gives a NAR hash mismatch
+    # lsp_lines-nvim.flake = false;
+    # lsp_lines-nvim.url = "https://git.sr.ht/~whynothugo/lsp_lines.nvim";
     alpha-nvim.flake = false;
     alpha-nvim.url = "github:goolord/alpha-nvim";
     arrow-nvim.flake = false;
@@ -267,8 +270,6 @@
     lightline-vim.url = "github:itchyny/lightline.vim";
     lsp-format-nvim.flake = false;
     lsp-format-nvim.url = "github:lukas-reineke/lsp-format.nvim";
-    # lsp_lines-nvim.flake = false;
-    # lsp_lines-nvim.url = "https://git.sr.ht/~whynothugo/lsp_lines.nvim";
     lsp_signature-nvim.flake = false;
     lsp_signature-nvim.url = "github:ray-x/lsp_signature.nvim";
     lspkind-nvim.flake = false;
