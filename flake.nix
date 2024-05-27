@@ -427,8 +427,8 @@
     qmk-nvim.url = "github:codethread/qmk.nvim";
     quickmath-nvim.flake = false;
     quickmath-nvim.url = "github:jbyuki/quickmath.nvim";
-    rainbow-delimeters-nvim.flake = false;
-    rainbow-delimeters-nvim.url = "gitlab:HiPhish/rainbow-delimiters.nvim";
+    rainbow-delimiters-nvim.flake = false;
+    rainbow-delimiters-nvim.url = "gitlab:HiPhish/rainbow-delimiters.nvim";
     refactoring-nvim.flake = false;
     refactoring-nvim.url = "github:ThePrimeagen/refactoring.nvim";
     rest-nvim.flake = false;

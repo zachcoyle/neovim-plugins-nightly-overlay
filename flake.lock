@@ -3361,7 +3361,7 @@
         "type": "github"
       }
     },
-    "rainbow-delimeters-nvim": {
+    "rainbow-delimiters-nvim": {
       "flake": false,
       "locked": {
         "lastModified": 1716546688,
@@ -3618,7 +3618,7 @@
         "project-nvim": "project-nvim",
         "qmk-nvim": "qmk-nvim",
         "quickmath-nvim": "quickmath-nvim",
-        "rainbow-delimeters-nvim": "rainbow-delimeters-nvim",
+        "rainbow-delimiters-nvim": "rainbow-delimiters-nvim",
         "refactoring-nvim": "refactoring-nvim",
         "rest-nvim": "rest-nvim",
         "rose-pine": "rose-pine",
