@@ -138,8 +138,8 @@
     cmp-vsnip.url = "github:hrsh7th/cmp-vsnip";
     cmp-zsh.flake = false;
     cmp-zsh.url = "github:tamago324/cmp-zsh";
-    cmp_luasnip.flake = false;
-    cmp_luasnip.url = "github:saadparwaiz1/cmp_luasnip";
+    # cmp_luasnip.flake = false;
+    # cmp_luasnip.url = "github:saadparwaiz1/cmp_luasnip";
     cmp_yanky.flake = false;
     cmp_yanky.url = "github:chrisgrieser/cmp_yanky";
     codeium-nvim.flake = false;
@@ -278,8 +278,8 @@
     ltex_extra-nvim.url = "github:barreiroleo/ltex_extra.nvim";
     lualine-nvim.flake = false;
     lualine-nvim.url = "github:nvim-lualine/lualine.nvim";
-    luasnip.flake = false;
-    luasnip.url = "github:L3MON4D3/LuaSnip";
+    # luasnip.flake = false;
+    # luasnip.url = "github:L3MON4D3/LuaSnip";
     magma-nvim-goose.flake = false;
     magma-nvim-goose.url = "github:WhiteBlackGoose/magma-nvim-goose";
     mark-radar-nvim.flake = false;
