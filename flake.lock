@@ -2072,7 +2072,7 @@
     "lsp_lines-nvim": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-JH3dKiEw1kQaSZJv2wo0UJI/uVYCbl20l+5NUNe+AY4=",
+        "narHash": "sha256-5xKdl3MwIj8C/U0gKDXNn4mHsXuQFcN+Tt3QwPrdZb8=",
         "type": "file",
         "url": "https://git.sr.ht/~whynothugo/lsp_lines.nvim"
       },
