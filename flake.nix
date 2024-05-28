@@ -654,7 +654,7 @@
                 inherit name;
                 value = prev.vimPlugins.${name}.overrideAttrs {
                   src = inputs.${name};
-                  version = "nightly-" + builtins.readFile ./date;
+                  version = "nightly";
                 };
               })
               plugins);
