@@ -21,6 +21,7 @@ jobs:
           git config user.name 'github-actions'
           git config user.email 'actions@github.com'
           date -u +%Y-%m-%d > date
+          ls -a
           git add date
           git commit -m "update date"
           nix flake update --commit-lock-file
