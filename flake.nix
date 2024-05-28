@@ -368,6 +368,8 @@
     nvim-osc52.url = "github:ojroques/nvim-osc52";
     nvim-scrollview.flake = false;
     nvim-scrollview.url = "github:dstein64/nvim-scrollview";
+    nvim-solarized-lua.flake = false;
+    nvim-solarized-lua.url = "github:ishan9299/nvim-solarized-lua";
     nvim-spectre.flake = false;
     nvim-spectre.url = "github:nvim-pack/nvim-spectre";
     nvim-spider.flake = false;
