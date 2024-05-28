@@ -318,6 +318,8 @@
     neovim-ayu.url = "github:Shatur/neovim-ayu";
     netman-nvim.flake = false;
     netman-nvim.url = "github:miversen33/netman.nvim";
+    nightfox-nvim.flake = false;
+    nightfox-nvim.url = "github:EdenEast/nightfox.nvim";
     nix-develop-nvim.flake = false;
     nix-develop-nvim.url = "github:figsoda/nix-develop.nvim";
     noice-nvim.flake = false;

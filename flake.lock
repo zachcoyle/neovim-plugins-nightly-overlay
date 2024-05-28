@@ -2469,6 +2469,22 @@
         "type": "github"
       }
     },
+    "nightfox-nvim": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1714329621,
+        "narHash": "sha256-ly9yavagB6A8t2plHZyNJt5tqCBq+ExEtYGKR4+9qHQ=",
+        "owner": "EdenEast",
+        "repo": "nightfox.nvim",
+        "rev": "df75a6a94910ae47854341d6b5a6fd483192c0eb",
+        "type": "github"
+      },
+      "original": {
+        "owner": "EdenEast",
+        "repo": "nightfox.nvim",
+        "type": "github"
+      }
+    },
     "nix-develop-nvim": {
       "flake": false,
       "locked": {
@@ -3582,6 +3598,7 @@
         "neotest": "neotest",
         "neovim-ayu": "neovim-ayu",
         "netman-nvim": "netman-nvim",
+        "nightfox-nvim": "nightfox-nvim",
         "nix-develop-nvim": "nix-develop-nvim",
         "nixpkgs": "nixpkgs",
         "noice-nvim": "noice-nvim",
