@@ -214,6 +214,8 @@
     galaxyline-nvim.url = "github:glepnir/galaxyline.nvim/main";
     git-blame-nvim.flake = false;
     git-blame-nvim.url = "github:f-person/git-blame.nvim";
+    git-conflict-nvim.flake = false;
+    git-conflict-nvim.url = "github:akinsho/git-conflict.nvim";
     git-messenger-vim.flake = false;
     git-messenger-vim.url = "github:rhysd/git-messenger.vim";
     git-worktree-nvim.flake = false;
@@ -272,6 +274,8 @@
     lightline-vim.url = "github:itchyny/lightline.vim";
     lsp-format-nvim.flake = false;
     lsp-format-nvim.url = "github:lukas-reineke/lsp-format.nvim";
+    lsp-status-nvim.flake = false;
+    lsp-status-nvim.url = "github:nvim-lua/lsp-status.nvim";
     lsp_signature-nvim.flake = false;
     lsp_signature-nvim.url = "github:ray-x/lsp_signature.nvim";
     lspkind-nvim.flake = false;
@@ -298,6 +302,8 @@
     mini-nvim.url = "github:echasnovski/mini.nvim";
     mkdnflow-nvim.flake = false;
     mkdnflow-nvim.url = "github:jakewvincent/mkdnflow.nvim";
+    modus-themes-nvim.flake = false;
+    modus-themes-nvim.url = "github:miikanissi/modus-themes.nvim";
     molten-nvim.flake = false;
     molten-nvim.url = "github:benlubas/molten-nvim";
     multicursors-nvim.flake = false;
@@ -518,6 +524,8 @@
     tokyonight-nvim.url = "github:folke/tokyonight.nvim";
     transparent-nvim.flake = false;
     transparent-nvim.url = "github:xiyaowong/transparent.nvim";
+    trim-nvim.flake = false;
+    trim-nvim.url = "github:cappyzawa/trim.nvim";
     trouble-nvim.flake = false;
     trouble-nvim.url = "github:folke/trouble.nvim";
     twilight-nvim.flake = false;
