@@ -186,6 +186,8 @@
     dracula-nvim.url = "github:Mofiqul/dracula.nvim";
     dressing-nvim.flake = false;
     dressing-nvim.url = "github:stevearc/dressing.nvim";
+    dropbar-nvim.flake = false;
+    dropbar-nvim.url = "github:Bekaboo/dropbar.nvim";
     efmls-configs-nvim.flake = false;
     efmls-configs-nvim.url = "github:creativenull/efmls-configs-nvim";
     emmet-vim.flake = false;
@@ -194,6 +196,8 @@
     feline-nvim.url = "github:famiu/feline.nvim";
     fidget-nvim.flake = false;
     fidget-nvim.url = "github:j-hui/fidget.nvim";
+    firenvim.flake = false;
+    firenvim.url = "github:glacambre/firenvim";
     flash-nvim.flake = false;
     flash-nvim.url = "github:folke/flash.nvim";
     focus-vim.flake = false;
@@ -308,6 +312,8 @@
     neogit.url = "github:TimUntersberger/neogit";
     neon.flake = false;
     neon.url = "github:rafamadriz/neon";
+    neorepl-nvim.flake = false;
+    neorepl-nvim.url = "github:ii14/neorepl.nvim";
     neorg.flake = false;
     neorg.url = "github:vhyrro/neorg";
     neoscroll-nvim.flake = false;
@@ -502,6 +508,8 @@
     telescope-z-nvim.url = "github:nvim-telescope/telescope-z.nvim";
     texpresso-vim.flake = false;
     texpresso-vim.url = "github:let-def/texpresso.vim";
+    tint-nvim.flake = false;
+    tint-nvim.url = "github:levouh/tint.nvim";
     todo-comments-nvim.flake = false;
     todo-comments-nvim.url = "github:folke/todo-comments.nvim";
     toggleterm-nvim.flake = false;
@@ -594,6 +602,8 @@
     wtf-nvim.url = "github:piersolenski/wtf.nvim";
     yanky-nvim.flake = false;
     yanky-nvim.url = "github:gbprod/yanky.nvim";
+    yuck-vim.flake = false;
+    yuck-vim.url = "github:elkowar/yuck.vim";
     zellij-nvim.flake = false;
     zellij-nvim.url = "github:Lilja/zellij.nvim";
     zen-mode-nvim.flake = false;
