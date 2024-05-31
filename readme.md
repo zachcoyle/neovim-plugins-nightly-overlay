@@ -30,9 +30,5 @@ Simply add this flake as a flake input and add the provided `neovim-plugins-nigh
 
 The only prior art I've personally seen has all made the same design choice for the overlay, which is "incompatible" with `Nixvim`. This overlay just overrides the `src` and `version` of each included plugin rather than including a separate package set.  The benefit of this is being able to take advantage of the existing overrides in nixpkgs (which add dependencies, etc, to some plugins) as well as being plug-and-play for `Nixvim`.
 
-## Why some may not want to use this flake (yet)
-
-As it is currently implemented (Nix Flake with zero extra tooling), the flake currently adds a flake input for each plugin (~300). I might add in some Niv, borrow some of the nixpkgs vimPlugins tooling, or do something custom in the future, I haven't quite decided what I'd like to do regarding that.
-
 PRs welcome!
 
