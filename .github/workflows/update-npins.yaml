@@ -1,0 +1,26 @@
+name: update flake lock
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: 0 0 * * *
+jobs:
+  lockfile:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@main
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+      - name: Install Nix
+        uses: cachix/install-nix-action@master
+        with:
+          extra_nix_config: |
+            access-tokens = github.com=${{ secrets.GH_TOKEN }}
+      - name: Update lockfile
+        run: |
+          git config user.name 'github-actions'
+          git config user.email 'actions@github.com'
+          nix run nixpkgs#npins -- update
+          git add .
+          git commit -m "update npins"
+          git push
