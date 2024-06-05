@@ -1,5 +1,17 @@
 {
   "pins": {
+    "CopilotChat-nvim": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "CopilotC-Nvim",
+        "repo": "CopilotChat.nvim"
+      },
+      "branch": "main",
+      "revision": "b99aabf5138f3949f139df334828d0eb7859cc27",
+      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/b99aabf5138f3949f139df334828d0eb7859cc27.tar.gz",
+      "hash": "04c20igpdcvxlq0qvsdha699d8zhzcq19zy9z249dwkffdsyra5r"
+    },
     "alpha-nvim": {
       "type": "Git",
       "repository": {
@@ -995,6 +1007,18 @@
       "revision": "2b546383bdf4daa254ac70c760ee1e5524bc60b1",
       "url": "https://github.com/Bekaboo/dropbar.nvim/archive/2b546383bdf4daa254ac70c760ee1e5524bc60b1.tar.gz",
       "hash": "0x52s0s0skqim321frhi9kd9h0d391fngmrc25bgn47s4wkfkp38"
+    },
+    "edgy-nvim": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "folke",
+        "repo": "edgy.nvim"
+      },
+      "branch": "main",
+      "revision": "de79b7d92a5979cd71a9a1d8b6282515345e5055",
+      "url": "https://github.com/folke/edgy.nvim/archive/de79b7d92a5979cd71a9a1d8b6282515345e5055.tar.gz",
+      "hash": "0z5mb5cnwdpcswy3w099vyfjz0hmb04j4vbkgxnc8g9y6lffn2rs"
     },
     "efmls-configs-nvim": {
       "type": "Git",
