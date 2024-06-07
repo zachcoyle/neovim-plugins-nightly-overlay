@@ -2131,9 +2131,9 @@
         "repo": "nvim-lint"
       },
       "branch": "master",
-      "revision": "cf6ffafe158441b8c5e2051ab0fe5b1983527ba7",
-      "url": "https://github.com/mfussenegger/nvim-lint/archive/cf6ffafe158441b8c5e2051ab0fe5b1983527ba7.tar.gz",
-      "hash": "19rkhknj70689bhzrjiafby3dd3sk93kkkmilfa6a6bk3sb936sh"
+      "revision": "941fa1220a61797a51f3af9ec6b7d74c8c7367ce",
+      "url": "https://github.com/mfussenegger/nvim-lint/archive/941fa1220a61797a51f3af9ec6b7d74c8c7367ce.tar.gz",
+      "hash": "152j681hplib3vyizx1lcnkr3d411a4gi743716h759x0g20bmic"
     },
     "nvim-lspconfig": {
       "type": "Git",
@@ -3067,9 +3067,9 @@
         "repo": "trouble.nvim"
       },
       "branch": "main",
-      "revision": "c11dc2777d52da2c8da25836817e43608ec951a5",
-      "url": "https://github.com/folke/trouble.nvim/archive/c11dc2777d52da2c8da25836817e43608ec951a5.tar.gz",
-      "hash": "1n4xx0sd4prla1nynxy9y6hyih7jkpjzlcrga1y4wbkh9slv7pq1"
+      "revision": "38915023a777b7f2422e503dc603f6a64b465bf5",
+      "url": "https://github.com/folke/trouble.nvim/archive/38915023a777b7f2422e503dc603f6a64b465bf5.tar.gz",
+      "hash": "0rhycvl30gc6a3434zspn4zsnplbhshy7dbxkqykmrxb64c4y7lh"
     },
     "twilight-nvim": {
       "type": "Git",
