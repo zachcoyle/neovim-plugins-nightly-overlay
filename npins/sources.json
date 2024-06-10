@@ -2311,9 +2311,9 @@
         "repo": "nvim-ts-autotag"
       },
       "branch": "main",
-      "revision": "e0506426a47b425cd7670654080e170f49e43845",
-      "url": "https://github.com/windwp/nvim-ts-autotag/archive/e0506426a47b425cd7670654080e170f49e43845.tar.gz",
-      "hash": "1s97csdand4x264nbkv61fzdsrv2q2xk0q3s5zmv97209dl3bw0p"
+      "revision": "2692808eca8a4ac3311516a1c4a14bb97ecc6482",
+      "url": "https://github.com/windwp/nvim-ts-autotag/archive/2692808eca8a4ac3311516a1c4a14bb97ecc6482.tar.gz",
+      "hash": "10cfvdpp6ml6cm64wi6xvcfhgjap526ws94nkjrii22fh318av4p"
     },
     "nvim-ts-context-commentstring": {
       "type": "Git",
@@ -2383,9 +2383,9 @@
         "repo": "oil.nvim"
       },
       "branch": "master",
-      "revision": "18272aba9d00a3176a5443d50dbb4464acc167bd",
-      "url": "https://github.com/stevearc/oil.nvim/archive/18272aba9d00a3176a5443d50dbb4464acc167bd.tar.gz",
-      "hash": "1hk8bay47i5ibr91hrn2gg9yc5kdb32x3k8fwzf2jxm2a3cfrznd"
+      "revision": "a62ec258d1c99d354b256a2ec39733ad9109d808",
+      "url": "https://github.com/stevearc/oil.nvim/archive/a62ec258d1c99d354b256a2ec39733ad9109d808.tar.gz",
+      "hash": "1bn2g3argjfiiq3arrdhplm0sx47p1g0yl9vz2xwgxsy7rsvd3yi"
     },
     "ollama-nvim": {
       "type": "Git",
@@ -3067,9 +3067,9 @@
         "repo": "trouble.nvim"
       },
       "branch": "main",
-      "revision": "4d0f0454ae2a246ec3e0ff541a347164dac23b7b",
-      "url": "https://github.com/folke/trouble.nvim/archive/4d0f0454ae2a246ec3e0ff541a347164dac23b7b.tar.gz",
-      "hash": "0m871mwppd1nrf3bdwsyqhkw8vshkyqqxvabh497lpxkjzdybgmm"
+      "revision": "57b50a6dc129f3a82c3bdd9f81b9f2d4e770ac09",
+      "url": "https://github.com/folke/trouble.nvim/archive/57b50a6dc129f3a82c3bdd9f81b9f2d4e770ac09.tar.gz",
+      "hash": "1f76w7gx9x085xlfwvkr3lrphf2f2aips36cvgms915kb7z0miz8"
     },
     "twilight-nvim": {
       "type": "Git",
