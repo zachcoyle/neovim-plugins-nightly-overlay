@@ -1160,9 +1160,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "5d1e32e0cc7d4a23c528c2df61cd32d8b122bb06",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/5d1e32e0cc7d4a23c528c2df61cd32d8b122bb06.tar.gz",
-      "hash": "15j43pjzhqfwqq0l5ldlj57rmk4d9vykj1ag8xklc5rfx26z1fhl"
+      "revision": "f376aea43a1994fd03338a38664560abbb2ac016",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/f376aea43a1994fd03338a38664560abbb2ac016.tar.gz",
+      "hash": "14dafk5qn4wz0r8hmsw8mqb1hk54k0p5g4psy5jpj6fnkj22khj8"
     },
     "galaxyline-nvim": {
       "type": "Git",
@@ -1843,9 +1843,9 @@
         "repo": "neorg"
       },
       "branch": "main",
-      "revision": "5239a98c462fb24201e76305d9d6265e4742a31e",
-      "url": "https://github.com/vhyrro/neorg/archive/5239a98c462fb24201e76305d9d6265e4742a31e.tar.gz",
-      "hash": "1y6vvz86rfk9y58ifk9rx1baqvb05cr5xyyqi7zvjx0hnn3q1kis"
+      "revision": "0b9b5ca69f0e16213f4f88fb837e97ee6c22e242",
+      "url": "https://github.com/vhyrro/neorg/archive/0b9b5ca69f0e16213f4f88fb837e97ee6c22e242.tar.gz",
+      "hash": "0dibbi7a0bfkyniaqc2bll4z1a4h9cha1qb16i30y9675bkiwqfp"
     },
     "neoscroll-nvim": {
       "type": "Git",
@@ -2311,9 +2311,9 @@
         "repo": "nvim-ts-autotag"
       },
       "branch": "main",
-      "revision": "2692808eca8a4ac3311516a1c4a14bb97ecc6482",
-      "url": "https://github.com/windwp/nvim-ts-autotag/archive/2692808eca8a4ac3311516a1c4a14bb97ecc6482.tar.gz",
-      "hash": "10cfvdpp6ml6cm64wi6xvcfhgjap526ws94nkjrii22fh318av4p"
+      "revision": "06fe07d7523ba8c755fac7c913fceba43b1720ee",
+      "url": "https://github.com/windwp/nvim-ts-autotag/archive/06fe07d7523ba8c755fac7c913fceba43b1720ee.tar.gz",
+      "hash": "1k23jy33abcxc84qgkw68mzbcl8fxpvg8p5phh5pgvp5n32aspbz"
     },
     "nvim-ts-context-commentstring": {
       "type": "Git",
@@ -3007,9 +3007,9 @@
         "repo": "todo-comments.nvim"
       },
       "branch": "main",
-      "revision": "9c104cf7868f1c739b43a07e5593666cc9de2d67",
-      "url": "https://github.com/folke/todo-comments.nvim/archive/9c104cf7868f1c739b43a07e5593666cc9de2d67.tar.gz",
-      "hash": "0js766asdwhimcq1yr1ql02d5jyrj49178cq2yjpi5bbn61b163x"
+      "revision": "a9acb02e858fe5495857bd82b6b706dec56355aa",
+      "url": "https://github.com/folke/todo-comments.nvim/archive/a9acb02e858fe5495857bd82b6b706dec56355aa.tar.gz",
+      "hash": "0lz9rsx6bz782mxjflkl4a8y3c2105nscchzl316whcqvq0d7626"
     },
     "toggleterm-nvim": {
       "type": "Git",
@@ -3031,9 +3031,9 @@
         "repo": "tokyonight.nvim"
       },
       "branch": "main",
-      "revision": "0283787031ef9878a2b80300de0d22e938771998",
-      "url": "https://github.com/folke/tokyonight.nvim/archive/0283787031ef9878a2b80300de0d22e938771998.tar.gz",
-      "hash": "1w4dbb4q97kdhhh81dar1x0sh36gs81rq7qpcgybf14wwg79f45p"
+      "revision": "024621763d91bb48f2b486df529c7aaeb8d6d355",
+      "url": "https://github.com/folke/tokyonight.nvim/archive/024621763d91bb48f2b486df529c7aaeb8d6d355.tar.gz",
+      "hash": "0my3ga07bfbbkbnpybwwygzvlkcd1fbjsbrz1pi6qd52j72b7899"
     },
     "transparent-nvim": {
       "type": "Git",
