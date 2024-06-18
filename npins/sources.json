@@ -3467,6 +3467,18 @@
       "url": "https://github.com/hrsh7th/vim-vsnip-integ/archive/1914e72cf3de70df7f5dde476cd299aba2440aef.tar.gz",
       "hash": "0jqnzvvhlvwrqbxk70j1z7qx5hgzqjnv0hp8rzs9sfbv3wkgq12q"
     },
+    "vim-wakatime": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "wakatime",
+        "repo": "vim-wakatime"
+      },
+      "branch": "master",
+      "revision": "3cb40867cb5a3120f9bef76eff88edc7f1dc1a23",
+      "url": "https://github.com/wakatime/vim-wakatime/archive/3cb40867cb5a3120f9bef76eff88edc7f1dc1a23.tar.gz",
+      "hash": "0cikyb55z31jnh3zvm3xf8skfqdvdg3ihhb1z8xc1cxhx9gyc4hz"
+    },
     "vim-which-key": {
       "type": "Git",
       "repository": {
