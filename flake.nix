@@ -76,12 +76,12 @@
             vimPlugins =
               prev.vimPlugins
               // builtins.listToAttrs (
-                map (name: {
-                  inherit name;
-                  value = prev.vimPlugins.${name}.overrideAttrs rec {
-                    pname = name;
+                map (name': {
+                  name = name';
+                  value = prev.vimPlugins.${name'}.overrideAttrs rec {
+                    pname = name';
                     name = "${pname}-${version}";
-                    src = pins.${name};
+                    src = pins.${name'};
                     version = "nightly-${mkDate self.lastModifiedDate}";
                   };
                 }) plugins
