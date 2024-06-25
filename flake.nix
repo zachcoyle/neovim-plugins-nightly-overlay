@@ -20,16 +20,17 @@
     systems.url = "github:nix-systems/default/main";
   };
 
-  outputs = inputs @ {
-    self,
-    nixpkgs,
-    devshell,
-    flake-parts,
-    hercules-ci-effects,
-    systems,
-    ...
-  }:
-    flake-parts.lib.mkFlake {inherit inputs;} {
+  outputs =
+    inputs@{
+      self,
+      nixpkgs,
+      devshell,
+      flake-parts,
+      hercules-ci-effects,
+      systems,
+      ...
+    }:
+    flake-parts.lib.mkFlake { inherit inputs; } {
       systems = import systems;
       imports = [
         inputs.devshell.flakeModule
@@ -42,42 +43,50 @@
         baseMerge.method = "rebase";
         autoMergeMethod = "rebase";
         when = {
-          hour = [0];
+          hour = [ 0 ];
           minute = 0;
         };
       };
 
-      perSystem = {
-        config,
-        pkgs,
-        ...
-      }: {
-        formatter = pkgs.alejandra;
+      perSystem =
+        { config, pkgs, ... }:
+        {
+          formatter = pkgs.alejandra;
 
-        devshells.default = {
-          name = "neovim-plugins-nightly-overlay";
-          packages = with pkgs; [
-            npins
-          ];
+          devshells.default = {
+            name = "neovim-plugins-nightly-overlay";
+            packages = with pkgs; [ npins ];
+          };
         };
-      };
       flake = {
-        overlays.default = final: prev: let
-          pins = import ./npins;
-          plugins = builtins.attrNames pins;
-        in {
-          vimPlugins =
-            prev.vimPlugins
-            // builtins.listToAttrs
-            (map (name: {
-                inherit name;
-                value = prev.vimPlugins.${name}.overrideAttrs {
-                  src = pins.${name};
-                  version = "nightly-${pins.${name}.revision}";
-                };
-              })
-              plugins);
-        };
+        overlays.default =
+          final: prev:
+          let
+            pins = import ./npins;
+            plugins = builtins.attrNames pins;
+            mkDate =
+              longDate:
+              (prev.lib.concatStringsSep "-" [
+                (builtins.substring 0 4 longDate)
+                (builtins.substring 4 2 longDate)
+                (builtins.substring 6 2 longDate)
+              ]);
+          in
+          {
+            vimPlugins =
+              prev.vimPlugins
+              // builtins.listToAttrs (
+                map (name: {
+                  inherit name;
+                  value = prev.vimPlugins.${name}.overrideAttrs rec {
+                    pname = name;
+                    name = "${pname}-${version}";
+                    src = pins.${name};
+                    version = "nightly-${mkDate self.lastModifiedDate}";
+                  };
+                }) plugins
+              );
+          };
       };
     };
 }
