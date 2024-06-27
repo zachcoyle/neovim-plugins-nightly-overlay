@@ -20,7 +20,7 @@ nixpkgs.overlays = [
 
 ## Motivation:
 
-The plugins available in nipxkgs are updated way too slowly when using Neovim nightlies, even when running on unstable, causing extended periods of breakage. Having the plugins update nightly, independently from nixpkgs, reduces this to just the brief breakage of regular Neovim nightly usage.
+The plugins available in nipxkgs are updated way too slowly when using Neovim nightlies, even when running on unstable, causing extended periods of breakage. Having the plugins update nightly, independently from nixpkgs, reduces this to just the brief breakage of regular Neovim nightly usage. This overlay updates the plugins every hour and updates the flake inputs daily.
 
 ## How to use:
 
