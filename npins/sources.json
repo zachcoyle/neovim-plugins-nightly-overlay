@@ -2663,6 +2663,18 @@
       "url": "https://github.com/michaelb/sniprun/archive/1420cff041a0582636f63960d7160f7832463c10.tar.gz",
       "hash": "1vnjpp0pldzrx0q7553a8pz1bvl2gh7awx9j198ajhj301smcisg"
     },
+    "solarized-nvim": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "maxmx03",
+        "repo": "solarized.nvim"
+      },
+      "branch": "main",
+      "revision": "6875d609077411c88d293cb0520ca4e08b829ded",
+      "url": "https://github.com/maxmx03/solarized.nvim/archive/6875d609077411c88d293cb0520ca4e08b829ded.tar.gz",
+      "hash": "1r4gm1b33b6v9s3mm1qq85p9m5k6v22g7swgfkwbpi7gg85lf3r6"
+    },
     "specs-nvim": {
       "type": "Git",
       "repository": {
