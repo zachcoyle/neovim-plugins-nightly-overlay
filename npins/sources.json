@@ -1484,9 +1484,9 @@
         "repo": "lazy.nvim"
       },
       "branch": "main",
-      "revision": "a617d9f47b05b80cce595cce0966b88332c75b49",
-      "url": "https://github.com/folke/lazy.nvim/archive/a617d9f47b05b80cce595cce0966b88332c75b49.tar.gz",
-      "hash": "0a461vwgzvnypzspzd59wsdmbflhmqcyxp9988y966n3634i0k94"
+      "revision": "ec95702ae617308df35f35ad93c469c86d47346f",
+      "url": "https://github.com/folke/lazy.nvim/archive/ec95702ae617308df35f35ad93c469c86d47346f.tar.gz",
+      "hash": "1aca2cwxv29s5hk4732hb29blpywl5a8yxr7mb2n351aqil5sprw"
     },
     "lazygit-nvim": {
       "type": "Git",
