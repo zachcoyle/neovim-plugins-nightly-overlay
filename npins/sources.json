@@ -1256,9 +1256,9 @@
         "repo": "gitsigns.nvim"
       },
       "branch": "main",
-      "revision": "0595724fa9516a35696ff6b1e3cb95b6462b38b1",
-      "url": "https://github.com/lewis6991/gitsigns.nvim/archive/0595724fa9516a35696ff6b1e3cb95b6462b38b1.tar.gz",
-      "hash": "0cm6j99y4zspc1cpxza9fmkicp5rpnv8hs33pk2mshddmaw419i6"
+      "revision": "6b1a14eabcebbcca1b9e9163a26b2f8371364cb7",
+      "url": "https://github.com/lewis6991/gitsigns.nvim/archive/6b1a14eabcebbcca1b9e9163a26b2f8371364cb7.tar.gz",
+      "hash": "1xaxi3v67wdrgyclcrimcpfd1ggfb0wxxy2iz9xmqlkvc3g3aws1"
     },
     "goyo-vim": {
       "type": "Git",
@@ -1484,9 +1484,9 @@
         "repo": "lazy.nvim"
       },
       "branch": "main",
-      "revision": "60fe75c88db22025989600bb53dba247654d9ed5",
-      "url": "https://github.com/folke/lazy.nvim/archive/60fe75c88db22025989600bb53dba247654d9ed5.tar.gz",
-      "hash": "18jzn11ml1zzpzpxgmsvbrqv8vf8h3z7i982l3p1w7ijsidc9cz9"
+      "revision": "a36ebd2a75145cd8a377b1847a7a1ccf31b2ab7a",
+      "url": "https://github.com/folke/lazy.nvim/archive/a36ebd2a75145cd8a377b1847a7a1ccf31b2ab7a.tar.gz",
+      "hash": "1gc9466b3cp2l0n1k4bljy5fm780ic6mdljynrn0wjixab3l93vl"
     },
     "lazygit-nvim": {
       "type": "Git",
@@ -1807,9 +1807,9 @@
         "repo": "neogit"
       },
       "branch": "master",
-      "revision": "683f69378bde873ddec7e52e4cd8f4f0bf1dfdd0",
-      "url": "https://github.com/TimUntersberger/neogit/archive/683f69378bde873ddec7e52e4cd8f4f0bf1dfdd0.tar.gz",
-      "hash": "1qrv9spf9568zixxkdvrxg9a7s5v9w6fjpa6kpd963y7cjhppn87"
+      "revision": "76380b650ce2bb752cebf34a15583b9f2f141d62",
+      "url": "https://github.com/TimUntersberger/neogit/archive/76380b650ce2bb752cebf34a15583b9f2f141d62.tar.gz",
+      "hash": "0ac4rjr0k7kfmj8i299s544dga6f77gfkb981b1hrbfgsbqfw58y"
     },
     "neon": {
       "type": "Git",
