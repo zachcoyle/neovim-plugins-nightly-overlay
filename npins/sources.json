@@ -944,9 +944,9 @@
         "repo": "cyberdream.nvim"
       },
       "branch": "main",
-      "revision": "fb0aff51a4f62933baa62ef105df9157e2413051",
-      "url": "https://github.com/scottmckendry/cyberdream.nvim/archive/fb0aff51a4f62933baa62ef105df9157e2413051.tar.gz",
-      "hash": "17ixa76jvkzpb6wbddkmyr2fg17a507hacxzyxxaspvy9z1rv7hb"
+      "revision": "3d8ee41853e43b021342d101fd7fcaf99656c3d8",
+      "url": "https://github.com/scottmckendry/cyberdream.nvim/archive/3d8ee41853e43b021342d101fd7fcaf99656c3d8.tar.gz",
+      "hash": "05b9jxms15f5l0g4rh4y4bmbscx4217blavrqss8ns9qp8pksmaw"
     },
     "dashboard-nvim": {
       "type": "Git",
@@ -1711,9 +1711,9 @@
         "repo": "melange-nvim"
       },
       "branch": "master",
-      "revision": "b76b906cd6ed3c3152a47924a8eb5dcb35b326d8",
-      "url": "https://github.com/savq/melange-nvim/archive/b76b906cd6ed3c3152a47924a8eb5dcb35b326d8.tar.gz",
-      "hash": "0xy98wlbdljcf08wzl4hndwadmswb3a4jmf0ynnrrkczg73pbq2b"
+      "revision": "9c20bfeb6cb86ffa1599db13c609e09cea63e3c9",
+      "url": "https://github.com/savq/melange-nvim/archive/9c20bfeb6cb86ffa1599db13c609e09cea63e3c9.tar.gz",
+      "hash": "0gryrwy8vr7bwkq31w5zhw6nanbfncad7b275nc51lchd4wr7qw1"
     },
     "mini-nvim": {
       "type": "Git",
