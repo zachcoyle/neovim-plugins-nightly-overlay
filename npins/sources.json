@@ -780,6 +780,18 @@
       "url": "https://github.com/Exafunction/codeium.vim/archive/7a01ffb1e6538fe634f294908a50a7b680039284.tar.gz",
       "hash": "196a66my0jy4166irhwg908dayqc2pv0yiwqgsisi8srzybacm6f"
     },
+    "codesnap-nvim": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "mistricky",
+        "repo": "codesnap.nvim"
+      },
+      "branch": "main",
+      "revision": "a223fd882953e56ae1a8747fdc44b8d6a2ff7a9b",
+      "url": "https://github.com/mistricky/codesnap.nvim/archive/a223fd882953e56ae1a8747fdc44b8d6a2ff7a9b.tar.gz",
+      "hash": "1j1qw9wr2ymwj75k3yhby2fcq81b68yxp4wvd16xnq3ivyg74r3l"
+    },
     "comment-nvim": {
       "type": "Git",
       "repository": {
