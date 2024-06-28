@@ -1651,9 +1651,9 @@
         "repo": "LuaSnip"
       },
       "branch": "master",
-      "revision": "5de556a3e970346debd43b686deab4ed1f9bf18a",
-      "url": "https://github.com/L3MON4D3/LuaSnip/archive/5de556a3e970346debd43b686deab4ed1f9bf18a.tar.gz",
-      "hash": "1kpzncjyh4pay6aryprfra2bmzq56m3pb2i36j51srf35k1wavnw"
+      "revision": "93abea587de12c8e1ac258f63617f040b10253a2",
+      "url": "https://github.com/L3MON4D3/LuaSnip/archive/93abea587de12c8e1ac258f63617f040b10253a2.tar.gz",
+      "hash": "064cqkj2rknw7aw6fzpz4x3sxyf8b2bkjrd6qmd9cq9limsbz2ny"
     },
     "magma-nvim-goose": {
       "type": "Git",
@@ -1855,9 +1855,9 @@
         "repo": "neorg"
       },
       "branch": "main",
-      "revision": "a5c2624bc41cb760c4689734b2c3c5a9f17e4c48",
-      "url": "https://github.com/vhyrro/neorg/archive/a5c2624bc41cb760c4689734b2c3c5a9f17e4c48.tar.gz",
-      "hash": "1yldgbsm1saq1432zaighf62sm6xb9h5bsfqpkywqrjwy1dkw41w"
+      "revision": "9279672d2b97929fc52d1b182af754497dfd8d8a",
+      "url": "https://github.com/vhyrro/neorg/archive/9279672d2b97929fc52d1b182af754497dfd8d8a.tar.gz",
+      "hash": "1x63qllh4s8xpbhq7gdkg4kl2566ksd9fqc9p6sl0f3klnk16jyf"
     },
     "neoscroll-nvim": {
       "type": "Git",
