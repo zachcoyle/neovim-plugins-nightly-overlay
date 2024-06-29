@@ -1711,9 +1711,9 @@
         "repo": "melange-nvim"
       },
       "branch": "master",
-      "revision": "9c20bfeb6cb86ffa1599db13c609e09cea63e3c9",
-      "url": "https://github.com/savq/melange-nvim/archive/9c20bfeb6cb86ffa1599db13c609e09cea63e3c9.tar.gz",
-      "hash": "0gryrwy8vr7bwkq31w5zhw6nanbfncad7b275nc51lchd4wr7qw1"
+      "revision": "f626d41b9110e6ab853538d8b939979a0f1adfeb",
+      "url": "https://github.com/savq/melange-nvim/archive/f626d41b9110e6ab853538d8b939979a0f1adfeb.tar.gz",
+      "hash": "19xak308004015avjarqdrmwwwfkyam72kjav7g7v8pg27rqckzr"
     },
     "mini-nvim": {
       "type": "Git",
