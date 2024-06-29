@@ -1496,9 +1496,9 @@
         "repo": "lazy.nvim"
       },
       "branch": "main",
-      "revision": "8dd947fccddbf70893a1f0ae6522361cc1777609",
-      "url": "https://github.com/folke/lazy.nvim/archive/8dd947fccddbf70893a1f0ae6522361cc1777609.tar.gz",
-      "hash": "0d7kh6k1jsdrx0bapa7dfhq58136ndpshnfc5hll5fjswiljaid6"
+      "revision": "332a7ff9b3d226529d8afda4e61979e8b410f350",
+      "url": "https://github.com/folke/lazy.nvim/archive/332a7ff9b3d226529d8afda4e61979e8b410f350.tar.gz",
+      "hash": "19spandllykb8a6hlsi5wvjm0l07a2spz1wvwj0f5d6pn2mf6g6y"
     },
     "lazygit-nvim": {
       "type": "Git",
@@ -1723,9 +1723,9 @@
         "repo": "mini.nvim"
       },
       "branch": "main",
-      "revision": "334a2d9cfbd86ea08c4d870e39b5ba8bb354d938",
-      "url": "https://github.com/echasnovski/mini.nvim/archive/334a2d9cfbd86ea08c4d870e39b5ba8bb354d938.tar.gz",
-      "hash": "1ams525mnsz0ybh5bbwgzl6381zsq5s4bc8vkbyyqgmfvaq28f43"
+      "revision": "3e5da8e651d6504a432a7566c66eb4daea41e83d",
+      "url": "https://github.com/echasnovski/mini.nvim/archive/3e5da8e651d6504a432a7566c66eb4daea41e83d.tar.gz",
+      "hash": "0drhcn44dcrkz3cfx1fzmw7j1dr02hxl2sqbkf0zch6j7rcks97i"
     },
     "mkdnflow-nvim": {
       "type": "Git",
