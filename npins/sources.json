@@ -932,9 +932,9 @@
         "repo": "crates.nvim"
       },
       "branch": "main",
-      "revision": "df9937e1d2352704b0b58087d41da199261f7fc3",
-      "url": "https://github.com/Saecki/crates.nvim/archive/df9937e1d2352704b0b58087d41da199261f7fc3.tar.gz",
-      "hash": "1q8c579rkpv0k8y7j4zwrbs69q8ayirhj16vrm0acwhwc34gm8vb"
+      "revision": "dcc451c3355816bf69a734a2aeaed8ef259c6299",
+      "url": "https://github.com/Saecki/crates.nvim/archive/dcc451c3355816bf69a734a2aeaed8ef259c6299.tar.gz",
+      "hash": "18qvh86iadc8wzv0gfg3pd2vjh0drmbfqxblpl0i904b73flmasw"
     },
     "cyberdream-nvim": {
       "type": "Git",
@@ -1891,9 +1891,9 @@
         "repo": "neovim-ayu"
       },
       "branch": "master",
-      "revision": "123dda90019215646700bfec70f178ad95820545",
-      "url": "https://github.com/Shatur/neovim-ayu/archive/123dda90019215646700bfec70f178ad95820545.tar.gz",
-      "hash": "0g0nyasr7df7wsbfkcvkpwxyhsl93iq35q46fick8iq3mdf0mjl4"
+      "revision": "d64a8b7e8730095ff634e6586584e8543043e986",
+      "url": "https://github.com/Shatur/neovim-ayu/archive/d64a8b7e8730095ff634e6586584e8543043e986.tar.gz",
+      "hash": "0ikam4lmbi1541sy8sqbc4psblhizf40mspnwcag6q4w7g5pswh4"
     },
     "netman-nvim": {
       "type": "Git",
@@ -2287,9 +2287,9 @@
         "repo": "nvim-treesitter-context"
       },
       "branch": "master",
-      "revision": "f2cbd231e296a282aa9aedb2a411539801557307",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter-context/archive/f2cbd231e296a282aa9aedb2a411539801557307.tar.gz",
-      "hash": "0mpvjg1szy1p41fkfnmdn3lbnagi23b77479f4km80iihkafhq29"
+      "revision": "1b9c756c0cad415f0a2661c858448189dd120c15",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter-context/archive/1b9c756c0cad415f0a2661c858448189dd120c15.tar.gz",
+      "hash": "00nczjmmziyr91za9rq9fshg169z2f0rg2wr8l66dg9m724m7pa0"
     },
     "nvim-treesitter-refactor": {
       "type": "Git",
