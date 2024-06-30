@@ -1496,9 +1496,9 @@
         "repo": "lazy.nvim"
       },
       "branch": "main",
-      "revision": "0507e19289539396313503f6eb6b02bbe8a5e483",
-      "url": "https://github.com/folke/lazy.nvim/archive/0507e19289539396313503f6eb6b02bbe8a5e483.tar.gz",
-      "hash": "186pmhqy7f5khz23js04f2xmpmv1402y0pd7l2azvq5fdq8yaikm"
+      "revision": "2f4ac035bcc66292250de7134d73007b147f64e8",
+      "url": "https://github.com/folke/lazy.nvim/archive/2f4ac035bcc66292250de7134d73007b147f64e8.tar.gz",
+      "hash": "0ag6sjqdwpw7h0nrhr2js26z8zb810bb3afg8z285k6lzgdz15fc"
     },
     "lazygit-nvim": {
       "type": "Git",
@@ -2275,9 +2275,9 @@
         "repo": "nvim-treesitter"
       },
       "branch": "master",
-      "revision": "e70472794dd797e4be938152d129e4cfae61fefa",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/e70472794dd797e4be938152d129e4cfae61fefa.tar.gz",
-      "hash": "0z7zs63q172zxfzb5jjjj6r4d5vpjhvwid0c6wy8hqf0226qkj34"
+      "revision": "533da572ae357704d67878b6604db8ded25f7fc1",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/533da572ae357704d67878b6604db8ded25f7fc1.tar.gz",
+      "hash": "05q418rpmbj6sg0l1r2ry7jrvdnk5zsyhp9nlc1z6yf0zng4s79r"
     },
     "nvim-treesitter-context": {
       "type": "Git",
