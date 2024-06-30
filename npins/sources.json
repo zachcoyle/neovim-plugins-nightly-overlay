@@ -1723,9 +1723,9 @@
         "repo": "mini.nvim"
       },
       "branch": "main",
-      "revision": "cd0ae731cfa43cdac830dbc3c9e42bbbe065b278",
-      "url": "https://github.com/echasnovski/mini.nvim/archive/cd0ae731cfa43cdac830dbc3c9e42bbbe065b278.tar.gz",
-      "hash": "091hck2688rznxb5brhw3x89bjr5c083xzsr2zaz2h91311ix88s"
+      "revision": "7cd21b780e9891cb84e47198aa2ee20e184b8354",
+      "url": "https://github.com/echasnovski/mini.nvim/archive/7cd21b780e9891cb84e47198aa2ee20e184b8354.tar.gz",
+      "hash": "1sdn2x4x7yf7wck026m8lhwx4aylp857gqli7gzhbhli3f1452hd"
     },
     "mkdnflow-nvim": {
       "type": "Git",
@@ -1819,9 +1819,9 @@
         "repo": "neogit"
       },
       "branch": "master",
-      "revision": "c630c6906d19d5ab2f0dbec90924ce3cdfa61977",
-      "url": "https://github.com/TimUntersberger/neogit/archive/c630c6906d19d5ab2f0dbec90924ce3cdfa61977.tar.gz",
-      "hash": "0a2fkvykw3m9415g433517sf9mwvbrjwr6vdza4k17cahd7s05mh"
+      "revision": "e25d4a757f9f6e4dba11c85235b9e99d6e38e262",
+      "url": "https://github.com/TimUntersberger/neogit/archive/e25d4a757f9f6e4dba11c85235b9e99d6e38e262.tar.gz",
+      "hash": "16nydgykfr69v11m3m1hpgkr2cl7c2pv81c73x3fbsfa7sv5hns3"
     },
     "neon": {
       "type": "Git",
