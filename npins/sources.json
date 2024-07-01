@@ -932,9 +932,9 @@
         "repo": "crates.nvim"
       },
       "branch": "main",
-      "revision": "dcc451c3355816bf69a734a2aeaed8ef259c6299",
-      "url": "https://github.com/Saecki/crates.nvim/archive/dcc451c3355816bf69a734a2aeaed8ef259c6299.tar.gz",
-      "hash": "18qvh86iadc8wzv0gfg3pd2vjh0drmbfqxblpl0i904b73flmasw"
+      "revision": "a11060e68f2ecd74fab431c8c9b4469afba5419b",
+      "url": "https://github.com/Saecki/crates.nvim/archive/a11060e68f2ecd74fab431c8c9b4469afba5419b.tar.gz",
+      "hash": "1ihr4a6hywnrnp5ciy98kwfx6xp9p422fyhraiyd8rk2jia9xi86"
     },
     "cyberdream-nvim": {
       "type": "Git",
@@ -2275,9 +2275,9 @@
         "repo": "nvim-treesitter"
       },
       "branch": "master",
-      "revision": "7ff0b8d3d21b15eb7231fcbd2acfded8987f5efd",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/7ff0b8d3d21b15eb7231fcbd2acfded8987f5efd.tar.gz",
-      "hash": "0gc588kjjjbqxds310da58n23mci0a1vkahl19gjcj9pf0ayg0y7"
+      "revision": "4ee5fdd666f46fb379302a32750f932d25448d98",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/4ee5fdd666f46fb379302a32750f932d25448d98.tar.gz",
+      "hash": "1mmn63riah2gm5v9vmdbas6k2jaf2k04kp6wsw8alwkwgrgdr56i"
     },
     "nvim-treesitter-context": {
       "type": "Git",
