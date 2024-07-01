@@ -932,9 +932,9 @@
         "repo": "crates.nvim"
       },
       "branch": "main",
-      "revision": "eb62dfb5ae02509418114365ae155dc1c500735a",
-      "url": "https://github.com/Saecki/crates.nvim/archive/eb62dfb5ae02509418114365ae155dc1c500735a.tar.gz",
-      "hash": "00czcnz08bnlndwgrql723abfqz6nms1zcmqib8817q6563dj3z7"
+      "revision": "c3fd47391de6999f4c939af89494d08443f71916",
+      "url": "https://github.com/Saecki/crates.nvim/archive/c3fd47391de6999f4c939af89494d08443f71916.tar.gz",
+      "hash": "0vw47mbx7pw4zzrj70yli86nk407j05ll1lq7d4nb41vii3lnlyb"
     },
     "cyberdream-nvim": {
       "type": "Git",
@@ -1172,9 +1172,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "41ea49cfc1b3f0586753bbeb7850474f28dc22cf",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/41ea49cfc1b3f0586753bbeb7850474f28dc22cf.tar.gz",
-      "hash": "1s4ljp8wdwyma4ypyy3akzjzx6my0y6m71c55prk1bixjdmr2prp"
+      "revision": "0cdc3dfcd50402fce87b8bb947504e8dd25fbd7e",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/0cdc3dfcd50402fce87b8bb947504e8dd25fbd7e.tar.gz",
+      "hash": "0szb3fzv2v0wgj2yf66w5wzzsmcmgsv5d4v2f4bwphznfbilyxwz"
     },
     "galaxyline-nvim": {
       "type": "Git",
@@ -1855,9 +1855,9 @@
         "repo": "neorg"
       },
       "branch": "main",
-      "revision": "be332f580ae5c93b68785b077ecd13672599062f",
-      "url": "https://github.com/vhyrro/neorg/archive/be332f580ae5c93b68785b077ecd13672599062f.tar.gz",
-      "hash": "03dyzg9vv5857j68lmz9kav7s69922qqdird3rlm9w4jy94br33r"
+      "revision": "99b32492b836b64a5ff4544d4c466496f0aec9bd",
+      "url": "https://github.com/vhyrro/neorg/archive/99b32492b836b64a5ff4544d4c466496f0aec9bd.tar.gz",
+      "hash": "0hjbllib07aqzb531fb9lflid3p09ny9bii8ds4fnpvkbic2wl48"
     },
     "neoscroll-nvim": {
       "type": "Git",
