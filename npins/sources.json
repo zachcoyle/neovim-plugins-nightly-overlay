@@ -20,9 +20,9 @@
         "repo": "SchemaStore.nvim"
       },
       "branch": "main",
-      "revision": "9dc31b046d06bc11c8ba2ad4ada06e2763d1897c",
-      "url": "https://github.com/b0o/SchemaStore.nvim/archive/9dc31b046d06bc11c8ba2ad4ada06e2763d1897c.tar.gz",
-      "hash": "0k81r2j53afd3jhymrk6kkd3s7752k2jljfni5kv373w4p8yp7hp"
+      "revision": "3c4fb38e44a50496cc99bc3e832675afe0a039b5",
+      "url": "https://github.com/b0o/SchemaStore.nvim/archive/3c4fb38e44a50496cc99bc3e832675afe0a039b5.tar.gz",
+      "hash": "1zbmxmpk4qaf5igkjym85bzdjrq2fbslqj4rspzkrns7simmylrg"
     },
     "alpha-nvim": {
       "type": "Git",
@@ -2647,9 +2647,9 @@
         "repo": "oil.nvim"
       },
       "branch": "master",
-      "revision": "65c53dbe4f2140236590a7568a5f22a77d16be39",
-      "url": "https://github.com/stevearc/oil.nvim/archive/65c53dbe4f2140236590a7568a5f22a77d16be39.tar.gz",
-      "hash": "03cfvmxsg9yli0cbla3ihfynr7p85372nl2fwv0sl3pz8f7rznij"
+      "revision": "ace46a41a1ea56d544a3775adf30490f2abd9235",
+      "url": "https://github.com/stevearc/oil.nvim/archive/ace46a41a1ea56d544a3775adf30490f2abd9235.tar.gz",
+      "hash": "0pafwy4mv5r7l8mnv6gl4494dfz2w9f6h9l7i2rvix82vc2bm31f"
     },
     "ollama-nvim": {
       "type": "Git",
@@ -3151,9 +3151,9 @@
         "repo": "telescope.nvim"
       },
       "branch": "master",
-      "revision": "7bd2f9b72f8449780b79bcf351534e2cd36ec43a",
-      "url": "https://github.com/nvim-telescope/telescope.nvim/archive/7bd2f9b72f8449780b79bcf351534e2cd36ec43a.tar.gz",
-      "hash": "0hd1qz19x1g6i4ijyxm752zvg9hsy1w4i9mn994i4qj9lskq5v0f"
+      "revision": "bfcc7d5c6f12209139f175e6123a7b7de6d9c18a",
+      "url": "https://github.com/nvim-telescope/telescope.nvim/archive/bfcc7d5c6f12209139f175e6123a7b7de6d9c18a.tar.gz",
+      "hash": "1ysbn67rlf2p63pp8155198a5v0hv5cn2bbhdjz9r5255y5f19sk"
     },
     "telescope-packer-nvim": {
       "type": "Git",
