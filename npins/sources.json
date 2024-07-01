@@ -932,9 +932,9 @@
         "repo": "crates.nvim"
       },
       "branch": "main",
-      "revision": "a11060e68f2ecd74fab431c8c9b4469afba5419b",
-      "url": "https://github.com/Saecki/crates.nvim/archive/a11060e68f2ecd74fab431c8c9b4469afba5419b.tar.gz",
-      "hash": "1ihr4a6hywnrnp5ciy98kwfx6xp9p422fyhraiyd8rk2jia9xi86"
+      "revision": "eb62dfb5ae02509418114365ae155dc1c500735a",
+      "url": "https://github.com/Saecki/crates.nvim/archive/eb62dfb5ae02509418114365ae155dc1c500735a.tar.gz",
+      "hash": "00czcnz08bnlndwgrql723abfqz6nms1zcmqib8817q6563dj3z7"
     },
     "cyberdream-nvim": {
       "type": "Git",
@@ -956,9 +956,9 @@
         "repo": "dashboard-nvim"
       },
       "branch": "master",
-      "revision": "69a4c935cc43d3d725ed0600c6d00593bc23d132",
-      "url": "https://github.com/nvimdev/dashboard-nvim/archive/69a4c935cc43d3d725ed0600c6d00593bc23d132.tar.gz",
-      "hash": "0jaznghvkij6cwfl1m72z7ghha0d0hw5d8j7qfz2lyf63iibqqsa"
+      "revision": "e6e33b848f0e2fe5c13f6553c568764555c390a3",
+      "url": "https://github.com/nvimdev/dashboard-nvim/archive/e6e33b848f0e2fe5c13f6553c568764555c390a3.tar.gz",
+      "hash": "14nhv9jx0f92gp49bymr5wfnsvwkfllsmb8ax9nbvj68i22baq14"
     },
     "debugprint-nvim": {
       "type": "Git",
@@ -3127,9 +3127,9 @@
         "repo": "typst.vim"
       },
       "branch": "main",
-      "revision": "d9a7650e76c85f8ba437e056d08dd43b01b8bfd6",
-      "url": "https://github.com/kaarmu/typst.vim/archive/d9a7650e76c85f8ba437e056d08dd43b01b8bfd6.tar.gz",
-      "hash": "1l4mq2m8s7kav6hpq6nay4xyy2jvq6jbblyy100yfb9nrzkpggpc"
+      "revision": "4d18ced62599ffe5b3c0e5e49566d5456121bc02",
+      "url": "https://github.com/kaarmu/typst.vim/archive/4d18ced62599ffe5b3c0e5e49566d5456121bc02.tar.gz",
+      "hash": "011kbs2fqg2bp8nb17ppgv92x89dlxw5sjn5y303qg13xb7f9s32"
     },
     "undotree": {
       "type": "Git",
