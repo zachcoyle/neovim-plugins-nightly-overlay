@@ -2467,9 +2467,9 @@
         "repo": "nvim-scrollview"
       },
       "branch": "main",
-      "revision": "47b2c0afdab6ac048642d8f3de4810a6fd83229e",
-      "url": "https://github.com/dstein64/nvim-scrollview/archive/47b2c0afdab6ac048642d8f3de4810a6fd83229e.tar.gz",
-      "hash": "1qn47ssrqrjmx0h15b6fg753sysda4jljky9vc0wn7bdff6c490b"
+      "revision": "965f10569d033c4e704327ef9a22d306ac20847a",
+      "url": "https://github.com/dstein64/nvim-scrollview/archive/965f10569d033c4e704327ef9a22d306ac20847a.tar.gz",
+      "hash": "0zc5dd65bcm85nwvlc9vpfzn0n7pn1xl80lm2f76nn1s4hzzxzzf"
     },
     "nvim-solarized-lua": {
       "type": "Git",
