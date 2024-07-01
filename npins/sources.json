@@ -1883,6 +1883,258 @@
       "url": "https://github.com/nvim-neotest/neotest/archive/26ed90509c377d10dbdebd25b7094a886323b32b.tar.gz",
       "hash": "1b0pw875qnisxxraxwwsb4r6b6234a3na1vhs6r1hz6h5xrxzqmf"
     },
+    "neotest-bash": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "rcasia",
+        "repo": "neotest-bash"
+      },
+      "branch": "main",
+      "revision": "57eab5b80a5296dc3fc5b22112b3ed78da3a5732",
+      "url": "https://github.com/rcasia/neotest-bash/archive/57eab5b80a5296dc3fc5b22112b3ed78da3a5732.tar.gz",
+      "hash": "1w3i01znzja575nz8xba2kwm7zp83nvvjlwqsnf51na2bqbzqn48"
+    },
+    "neotest-dart": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "sidlatau",
+        "repo": "neotest-dart"
+      },
+      "branch": "main",
+      "revision": "33b9335cd8c2be4dcf9dd8f196b24325e7c2e8e7",
+      "url": "https://github.com/sidlatau/neotest-dart/archive/33b9335cd8c2be4dcf9dd8f196b24325e7c2e8e7.tar.gz",
+      "hash": "1g3xa33p2n5j3w1rpc8zf0dl7wkwnai2f9fs8dr8xanqp22vpl3i"
+    },
+    "neotest-deno": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "MarkEmmons",
+        "repo": "neotest-deno"
+      },
+      "branch": "main",
+      "revision": "7136b9342aeecb675c7c16a0bde327d7fcb00a1c",
+      "url": "https://github.com/MarkEmmons/neotest-deno/archive/7136b9342aeecb675c7c16a0bde327d7fcb00a1c.tar.gz",
+      "hash": "1qryyk6x47ffdsb258gxsk5aj3qc0jn6g7ljy8idn361rs12qjcc"
+    },
+    "neotest-dotnet": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "Issafalcon",
+        "repo": "neotest-dotnet"
+      },
+      "branch": "main",
+      "revision": "caeb52b602fa8a5855c5839c338fb65b50a40ab3",
+      "url": "https://github.com/Issafalcon/neotest-dotnet/archive/caeb52b602fa8a5855c5839c338fb65b50a40ab3.tar.gz",
+      "hash": "1w73kzljwkxdanvdqig96jmkfd2v2hjwbqn2h095dkwf71pygnbb"
+    },
+    "neotest-elixir": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "jfpedroza",
+        "repo": "neotest-elixir"
+      },
+      "branch": "master",
+      "revision": "c5067bcc3ec6a0bba7b5694fa15aeb17f16aeb3c",
+      "url": "https://github.com/jfpedroza/neotest-elixir/archive/c5067bcc3ec6a0bba7b5694fa15aeb17f16aeb3c.tar.gz",
+      "hash": "0ld08afx7rhrji9l3jyip86hdwrkmfx9ngchcvklk9a07fx4yr4c"
+    },
+    "neotest-foundry": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "llllvvuu",
+        "repo": "neotest-foundry"
+      },
+      "branch": "main",
+      "revision": "efe5fae9a602946b3e7d60a8a9b2a8b7f255a66c",
+      "url": "https://github.com/llllvvuu/neotest-foundry/archive/efe5fae9a602946b3e7d60a8a9b2a8b7f255a66c.tar.gz",
+      "hash": "0xx32s8lc2c2c8xrm95l74q269b0gy8ic3vs20gax1931dlk5d3s"
+    },
+    "neotest-go": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "nvim-neotest",
+        "repo": "neotest-go"
+      },
+      "branch": "main",
+      "revision": "92950ad7be2ca02a41abca5c6600ff6ffaf5b5d6",
+      "url": "https://github.com/nvim-neotest/neotest-go/archive/92950ad7be2ca02a41abca5c6600ff6ffaf5b5d6.tar.gz",
+      "hash": "0wmxiv06zjjsr2fzp20p8lynn8wxqlx86r6zycan8v6kgs2vljh4"
+    },
+    "neotest-gradle": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "weilbith",
+        "repo": "neotest-gradle"
+      },
+      "branch": "main",
+      "revision": "cfb5d5d7d193631fc2a60244adc78313561c5d0d",
+      "url": "https://github.com/weilbith/neotest-gradle/archive/cfb5d5d7d193631fc2a60244adc78313561c5d0d.tar.gz",
+      "hash": "1prf726livgkld935r648d72flsbm3lylw6h1y3864fj034kvq5v"
+    },
+    "neotest-gtest": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "alfaix",
+        "repo": "neotest-gtest"
+      },
+      "branch": "main",
+      "revision": "b44c8afc26cea75ffc80617ce07b4e745a56e589",
+      "url": "https://github.com/alfaix/neotest-gtest/archive/b44c8afc26cea75ffc80617ce07b4e745a56e589.tar.gz",
+      "hash": "09h94w4s1yp3qx0n342qkksixgilkfmqiqp65jayfxiwa3jpkgya"
+    },
+    "neotest-haskell": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "mrcjkb",
+        "repo": "neotest-haskell"
+      },
+      "branch": "master",
+      "revision": "f5614c9cf7a056f791565183f216401b28438818",
+      "url": "https://github.com/mrcjkb/neotest-haskell/archive/f5614c9cf7a056f791565183f216401b28438818.tar.gz",
+      "hash": "0jli4pp124ils5kxrzdba7w49jsw823rqvkjib382xa2mp5n9f3i"
+    },
+    "neotest-java": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "rcasia",
+        "repo": "neotest-java"
+      },
+      "branch": "main",
+      "revision": "be4de749884af78fbef7bf2a1f8a24aeb4686478",
+      "url": "https://github.com/rcasia/neotest-java/archive/be4de749884af78fbef7bf2a1f8a24aeb4686478.tar.gz",
+      "hash": "0i4cf5yqsyjimnffr6s4x307afhggsdblq86bmnypzzmysana6ay"
+    },
+    "neotest-jest": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "nvim-neotest",
+        "repo": "neotest-jest"
+      },
+      "branch": "main",
+      "revision": "514fd4eae7da15fd409133086bb8e029b65ac43f",
+      "url": "https://github.com/nvim-neotest/neotest-jest/archive/514fd4eae7da15fd409133086bb8e029b65ac43f.tar.gz",
+      "hash": "1lmz248bzdhggvarikhpr5210mbw9fycks93k719d05sb4l6i2dg"
+    },
+    "neotest-minitest": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "zidhuss",
+        "repo": "neotest-minitest"
+      },
+      "branch": "main",
+      "revision": "0543bf4e997b2c970707cb297e2f74c438eb0653",
+      "url": "https://github.com/zidhuss/neotest-minitest/archive/0543bf4e997b2c970707cb297e2f74c438eb0653.tar.gz",
+      "hash": "053j4xm84i5z2a2qpka7vgq462928mg81gwkwvr2jbxjm4h4sk2r"
+    },
+    "neotest-pest": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "V13Axel",
+        "repo": "neotest-pest"
+      },
+      "branch": "main",
+      "revision": "b665a4881c706eea476fcaf79a21996e9b65514d",
+      "url": "https://github.com/V13Axel/neotest-pest/archive/b665a4881c706eea476fcaf79a21996e9b65514d.tar.gz",
+      "hash": "17l55nc0v46libw4hiijid5c57ri3m203rw405l1i362jfyyn8xr"
+    },
+    "neotest-phpunit": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "olimorris",
+        "repo": "neotest-phpunit"
+      },
+      "branch": "main",
+      "revision": "baae8dfa0a3aaacd9f0bb6845d6348f5bcdc48bb",
+      "url": "https://github.com/olimorris/neotest-phpunit/archive/baae8dfa0a3aaacd9f0bb6845d6348f5bcdc48bb.tar.gz",
+      "hash": "1szdxgydihik1pm0p7p9qa4mib5hv8gmk566fx6xmvzihyi72p3v"
+    },
+    "neotest-playwright": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "thenbe",
+        "repo": "neotest-playwright"
+      },
+      "branch": "master",
+      "revision": "f61463f5c74d53fc5975b7e086b7c6e9356d9215",
+      "url": "https://github.com/thenbe/neotest-playwright/archive/f61463f5c74d53fc5975b7e086b7c6e9356d9215.tar.gz",
+      "hash": "18d9qqxqrgng373xlkiinxcp9s13zj40sjxsibhdccji75pr3ziy"
+    },
+    "neotest-plenary": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "nvim-neotest",
+        "repo": "neotest-plenary"
+      },
+      "branch": "master",
+      "revision": "dcaf5ed67a9e28a246e9783319e5aa6c9ea1c584",
+      "url": "https://github.com/nvim-neotest/neotest-plenary/archive/dcaf5ed67a9e28a246e9783319e5aa6c9ea1c584.tar.gz",
+      "hash": "01dg3n3bnhc1ppai24syq48n5xkm1a3vm731xrah2y0qi390q0l3"
+    },
+    "neotest-python": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "nvim-neotest",
+        "repo": "neotest-python"
+      },
+      "branch": "master",
+      "revision": "2e83d2bc00acbcc1fd529dbf0a0e677cabfe6b50",
+      "url": "https://github.com/nvim-neotest/neotest-python/archive/2e83d2bc00acbcc1fd529dbf0a0e677cabfe6b50.tar.gz",
+      "hash": "1xpd08mrw7jlgl7ciph9nxni98pa6x27va7ys7xapkkzc1bym1r2"
+    },
+    "neotest-rspec": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "olimorris",
+        "repo": "neotest-rspec"
+      },
+      "branch": "main",
+      "revision": "48573d5882cbe8d8bcd3b735d9ee7705168b1b87",
+      "url": "https://github.com/olimorris/neotest-rspec/archive/48573d5882cbe8d8bcd3b735d9ee7705168b1b87.tar.gz",
+      "hash": "00l3v77d3zgq47gbsgjl916yp735kyr9s0jizi1sr5yg7wypx2cx"
+    },
+    "neotest-rust": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "rouge8",
+        "repo": "neotest-rust"
+      },
+      "branch": "main",
+      "revision": "0418811e1e3499b2501593f2e131d02f5e6823d4",
+      "url": "https://github.com/rouge8/neotest-rust/archive/0418811e1e3499b2501593f2e131d02f5e6823d4.tar.gz",
+      "hash": "1ffa0in8zvw6fc9lwga67s9gjqmvn1a69i3wpajrslf2d0ngmw3y"
+    },
+    "neotest-scala": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "stevanmilic",
+        "repo": "neotest-scala"
+      },
+      "branch": "main",
+      "revision": "685f0fac6196862b47025c6b91513af6a406501a",
+      "url": "https://github.com/stevanmilic/neotest-scala/archive/685f0fac6196862b47025c6b91513af6a406501a.tar.gz",
+      "hash": "0ii8brm5maffqrhji6d4g2kd45mhydj3gby22sv81g9jz6ah0y3s"
+    },
     "neovim-ayu": {
       "type": "Git",
       "repository": {
