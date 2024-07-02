@@ -1292,9 +1292,9 @@
         "repo": "gruvbox.nvim"
       },
       "branch": "main",
-      "revision": "a7cacf59418a6fe52da3d022bfd76a8caf34dc8d",
-      "url": "https://github.com/ellisonleao/gruvbox.nvim/archive/a7cacf59418a6fe52da3d022bfd76a8caf34dc8d.tar.gz",
-      "hash": "0d9982z85n3hs8zys9sq9x8kdai99f6ninaahnhvv2n2manlp86a"
+      "revision": "fa8138d25c061b9cbfacdd3f4dd1929e2a6d92ce",
+      "url": "https://github.com/ellisonleao/gruvbox.nvim/archive/fa8138d25c061b9cbfacdd3f4dd1929e2a6d92ce.tar.gz",
+      "hash": "007i6gkbapyn2fv19yr5izfsv859qw4qnbdxfp7kv0sidkqdk47p"
     },
     "hardtime-nvim": {
       "type": "Git",
