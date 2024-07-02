@@ -2527,9 +2527,9 @@
         "repo": "nvim-treesitter"
       },
       "branch": "master",
-      "revision": "e0d6c7643dc953acc2e817d0cebfc2f1f8c008e1",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/e0d6c7643dc953acc2e817d0cebfc2f1f8c008e1.tar.gz",
-      "hash": "078j3a1vpbjys7h5x8n35h7kb75r36rwij26q9gw306van5c3d25"
+      "revision": "6cd4ce6cab184e8787f164a182954534221f2af2",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/6cd4ce6cab184e8787f164a182954534221f2af2.tar.gz",
+      "hash": "04r0gd33fkxchhnd2cdfln6g0zqn8nkad1ik5f4v06k6mk3fy729"
     },
     "nvim-treesitter-context": {
       "type": "Git",
@@ -3307,9 +3307,9 @@
         "repo": "tokyonight.nvim"
       },
       "branch": "main",
-      "revision": "5b1e0e9545f9e619427657b8d5569039c8c51e2c",
-      "url": "https://github.com/folke/tokyonight.nvim/archive/5b1e0e9545f9e619427657b8d5569039c8c51e2c.tar.gz",
-      "hash": "1l6sb92izk8qb4za0fcsxjlp5qwp4zrnrdkg4k3ayh9k2xwnd91m"
+      "revision": "875d145f81cfc7f73f2867d2a7f0d3548baf8642",
+      "url": "https://github.com/folke/tokyonight.nvim/archive/875d145f81cfc7f73f2867d2a7f0d3548baf8642.tar.gz",
+      "hash": "1zah587sz4aazsic0hn725cs3sz05hgd4i05ndzsi8l7nlx1ynlf"
     },
     "transparent-nvim": {
       "type": "Git",
