@@ -32,9 +32,9 @@
         "repo": "SchemaStore.nvim"
       },
       "branch": "main",
-      "revision": "3c4fb38e44a50496cc99bc3e832675afe0a039b5",
-      "url": "https://github.com/b0o/SchemaStore.nvim/archive/3c4fb38e44a50496cc99bc3e832675afe0a039b5.tar.gz",
-      "hash": "1zbmxmpk4qaf5igkjym85bzdjrq2fbslqj4rspzkrns7simmylrg"
+      "revision": "b606847df9f91ab6a7d0484c2e3fae096c9fe028",
+      "url": "https://github.com/b0o/SchemaStore.nvim/archive/b606847df9f91ab6a7d0484c2e3fae096c9fe028.tar.gz",
+      "hash": "13whydyh7wrw0wfpbx9sn330nybbggcks5866fqpx05zdkcv1kfc"
     },
     "alpha-nvim": {
       "type": "Git",
@@ -2359,9 +2359,9 @@
         "repo": "nvim-dap-virtual-text"
       },
       "branch": "master",
-      "revision": "d7c695ea39542f6da94ee4d66176f5d660ab0a77",
-      "url": "https://github.com/theHamsta/nvim-dap-virtual-text/archive/d7c695ea39542f6da94ee4d66176f5d660ab0a77.tar.gz",
-      "hash": "1hqnwq2hy7qn62qxp204c9mx6japjhd6q8sfac0kfvzgw49v3khi"
+      "revision": "484995d573c0f0563f6a66ebdd6c67b649489615",
+      "url": "https://github.com/theHamsta/nvim-dap-virtual-text/archive/484995d573c0f0563f6a66ebdd6c67b649489615.tar.gz",
+      "hash": "0p889jkyia04l4nhndmg4yl88mc10hf0fzgyyqj08ybzws5z9zgr"
     },
     "nvim-jdtls": {
       "type": "Git",
