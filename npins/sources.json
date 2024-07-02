@@ -2647,9 +2647,9 @@
         "repo": "oil.nvim"
       },
       "branch": "master",
-      "revision": "b0a6cf98982cdcf82b19b0029b734bbbcd24bcc4",
-      "url": "https://github.com/stevearc/oil.nvim/archive/b0a6cf98982cdcf82b19b0029b734bbbcd24bcc4.tar.gz",
-      "hash": "12ww9vrcdfg4g9wxqdvbnqkk0b95dgikch8nk7mbyjpqpiah2knc"
+      "revision": "b15e4c1e647b9ddbb75a31caeb720b3b3ce4db54",
+      "url": "https://github.com/stevearc/oil.nvim/archive/b15e4c1e647b9ddbb75a31caeb720b3b3ce4db54.tar.gz",
+      "hash": "1aw3ddn2cg9h0z5cxmvpyjs29crhr4sb1yfs0481m0sprfqi6ywj"
     },
     "ollama-nvim": {
       "type": "Git",
@@ -3307,9 +3307,9 @@
         "repo": "tokyonight.nvim"
       },
       "branch": "main",
-      "revision": "875d145f81cfc7f73f2867d2a7f0d3548baf8642",
-      "url": "https://github.com/folke/tokyonight.nvim/archive/875d145f81cfc7f73f2867d2a7f0d3548baf8642.tar.gz",
-      "hash": "1zah587sz4aazsic0hn725cs3sz05hgd4i05ndzsi8l7nlx1ynlf"
+      "revision": "5808dbed0682270f0c40ae7a1bc517ad1fbcaede",
+      "url": "https://github.com/folke/tokyonight.nvim/archive/5808dbed0682270f0c40ae7a1bc517ad1fbcaede.tar.gz",
+      "hash": "0p1q9lcf9sdx9b2fqkq4qvf4v61jgpqpl82xv4cf32j3q1nm3xya"
     },
     "transparent-nvim": {
       "type": "Git",
