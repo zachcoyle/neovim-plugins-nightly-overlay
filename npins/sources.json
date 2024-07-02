@@ -12,6 +12,18 @@
       "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/b99aabf5138f3949f139df334828d0eb7859cc27.tar.gz",
       "hash": "04c20igpdcvxlq0qvsdha699d8zhzcq19zy9z249dwkffdsyra5r"
     },
+    "Preview-nvim": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "henriklovhaug",
+        "repo": "Preview.nvim"
+      },
+      "branch": "main",
+      "revision": "388882f3bfd09bcb0d5b4ab3d0fa5bc2dacbbc2e",
+      "url": "https://github.com/henriklovhaug/Preview.nvim/archive/388882f3bfd09bcb0d5b4ab3d0fa5bc2dacbbc2e.tar.gz",
+      "hash": "11bqcxwsk61xkj0pxc1jzfmrlvg42yvxi5wszzj0bxfq8977cyaf"
+    },
     "SchemaStore-nvim": {
       "type": "Git",
       "repository": {
@@ -2434,6 +2446,18 @@
       "revision": "8649f694d3e76ee10c19255dece6411c29206a54",
       "url": "https://github.com/SmiteshP/nvim-navic/archive/8649f694d3e76ee10c19255dece6411c29206a54.tar.gz",
       "hash": "0964wgwh6i4nm637vx36bshkpd5i63ipwzqmrdbkz5h9bzyng7nj"
+    },
+    "nvim-neoclip-lua": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "AckslD",
+        "repo": "nvim-neoclip.lua"
+      },
+      "branch": "main",
+      "revision": "709c97fabec9da7d04f7d2f5e207423af8c02871",
+      "url": "https://github.com/AckslD/nvim-neoclip.lua/archive/709c97fabec9da7d04f7d2f5e207423af8c02871.tar.gz",
+      "hash": "0sh5a680jr9390hdn7h6j72h2148089is506qk4khxrqag2yd4zi"
     },
     "nvim-notify": {
       "type": "Git",
