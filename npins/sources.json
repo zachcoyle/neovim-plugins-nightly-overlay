@@ -1496,9 +1496,9 @@
         "repo": "lazy.nvim"
       },
       "branch": "main",
-      "revision": "a9d7ade203b3f3ee3058c082c62afdf8e4bcb416",
-      "url": "https://github.com/folke/lazy.nvim/archive/a9d7ade203b3f3ee3058c082c62afdf8e4bcb416.tar.gz",
-      "hash": "10d3avcdpj3fv72lhdba4xrhx3g5cgq3zhkpxy5fljqlfyghcnwh"
+      "revision": "d0921f5b9b3d2c5e09618da55a018228edcc4d16",
+      "url": "https://github.com/folke/lazy.nvim/archive/d0921f5b9b3d2c5e09618da55a018228edcc4d16.tar.gz",
+      "hash": "1yl852zim52mrj4ddc30pfgyrp58wjkfcvmiyncqgj1nsibhdnxz"
     },
     "lazygit-nvim": {
       "type": "Git",
@@ -2011,9 +2011,9 @@
         "repo": "neotest-java"
       },
       "branch": "main",
-      "revision": "481415b2355a44d5884ddc1d2f13669e872a1abe",
-      "url": "https://github.com/rcasia/neotest-java/archive/481415b2355a44d5884ddc1d2f13669e872a1abe.tar.gz",
-      "hash": "1g5l50dbjsmh3ckvyjq1hszfhd7l1zvg2fhw3y9d4zg024wflzf4"
+      "revision": "3d8ea9c6e9729f88754046350afae32963ef92b1",
+      "url": "https://github.com/rcasia/neotest-java/archive/3d8ea9c6e9729f88754046350afae32963ef92b1.tar.gz",
+      "hash": "09qgqx4wm5yy4j75dx4dyxc23mk90kncpdp8f3psp1n9973candi"
     },
     "neotest-jest": {
       "type": "Git",
@@ -3307,9 +3307,9 @@
         "repo": "tokyonight.nvim"
       },
       "branch": "main",
-      "revision": "a9851c5b44fe2fa5757080fd83e8ae4100a27c3e",
-      "url": "https://github.com/folke/tokyonight.nvim/archive/a9851c5b44fe2fa5757080fd83e8ae4100a27c3e.tar.gz",
-      "hash": "1m8ymmj841hj4w8295w44ygzpd2cjb7vifvq2sry6k21nif17yp9"
+      "revision": "ef79fd5f3d1fff4ad60ebe184df7f279c2178c66",
+      "url": "https://github.com/folke/tokyonight.nvim/archive/ef79fd5f3d1fff4ad60ebe184df7f279c2178c66.tar.gz",
+      "hash": "1shnnwszxz5gwsss51lrx8y9gfdflsibhw7nxki40rzrvg4fhfpa"
     },
     "transparent-nvim": {
       "type": "Git",
