@@ -3367,9 +3367,9 @@
         "repo": "trouble.nvim"
       },
       "branch": "main",
-      "revision": "0fe430e953a6c47433ef923555dfe9a42351113a",
-      "url": "https://github.com/folke/trouble.nvim/archive/0fe430e953a6c47433ef923555dfe9a42351113a.tar.gz",
-      "hash": "0qr0yggnsj9jyl6lh5saxgw75kgfs3838s89zwwm5j7b8lhg8si0"
+      "revision": "42dcb58e95723f833135d5cf406c38bd54304389",
+      "url": "https://github.com/folke/trouble.nvim/archive/42dcb58e95723f833135d5cf406c38bd54304389.tar.gz",
+      "hash": "1cd8azfabrv4yn47lmk09xp7gvzfgcpxz25i5h1jckwa6r2pwgcv"
     },
     "twilight-nvim": {
       "type": "Git",
