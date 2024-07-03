@@ -3331,9 +3331,9 @@
         "repo": "tokyonight.nvim"
       },
       "branch": "main",
-      "revision": "56ed62bea70e1f6201347717ceb15fd0122cce7a",
-      "url": "https://github.com/folke/tokyonight.nvim/archive/56ed62bea70e1f6201347717ceb15fd0122cce7a.tar.gz",
-      "hash": "1yvd559cd445pxvfrnpwa6jvy0vckwfxanw0c96fzg63y9bblg5p"
+      "revision": "c645c1fe778e1428143beca1908b54b78b0b5c1a",
+      "url": "https://github.com/folke/tokyonight.nvim/archive/c645c1fe778e1428143beca1908b54b78b0b5c1a.tar.gz",
+      "hash": "1rlfdrdv727l3smrvvr735w8vvmx8p0vd1cib4aq4zwxqzx26mqv"
     },
     "transparent-nvim": {
       "type": "Git",
