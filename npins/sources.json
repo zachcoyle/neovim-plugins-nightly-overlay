@@ -1280,9 +1280,9 @@
         "repo": "gitsigns.nvim"
       },
       "branch": "main",
-      "revision": "d44a7948ffc717af578c424add818b7684c7ed68",
-      "url": "https://github.com/lewis6991/gitsigns.nvim/archive/d44a7948ffc717af578c424add818b7684c7ed68.tar.gz",
-      "hash": "074hjbq03f1d6z0126mvwgpmkzn405ak2qhmsmppbqdnhjv1dgm2"
+      "revision": "82bc6225e958411a6846b27ac7c21bf8af1f72e4",
+      "url": "https://github.com/lewis6991/gitsigns.nvim/archive/82bc6225e958411a6846b27ac7c21bf8af1f72e4.tar.gz",
+      "hash": "0sh75nspl88il2xk47m4b0jdqdzzhjqp3fa5gb7jh58zaa7vdc38"
     },
     "goyo-vim": {
       "type": "Git",
@@ -3331,9 +3331,9 @@
         "repo": "tokyonight.nvim"
       },
       "branch": "main",
-      "revision": "18116ad82e2c2b573b6e919387b95bdf733a52b1",
-      "url": "https://github.com/folke/tokyonight.nvim/archive/18116ad82e2c2b573b6e919387b95bdf733a52b1.tar.gz",
-      "hash": "0sw7p89v4l6ahc2wylr5azin9lj4j0j3g9frar7ggd8cnklfvfns"
+      "revision": "56ed62bea70e1f6201347717ceb15fd0122cce7a",
+      "url": "https://github.com/folke/tokyonight.nvim/archive/56ed62bea70e1f6201347717ceb15fd0122cce7a.tar.gz",
+      "hash": "1yvd559cd445pxvfrnpwa6jvy0vckwfxanw0c96fzg63y9bblg5p"
     },
     "transparent-nvim": {
       "type": "Git",
@@ -3367,9 +3367,9 @@
         "repo": "trouble.nvim"
       },
       "branch": "main",
-      "revision": "e5d0e04121c662ce29190a57dd03655d43c59d44",
-      "url": "https://github.com/folke/trouble.nvim/archive/e5d0e04121c662ce29190a57dd03655d43c59d44.tar.gz",
-      "hash": "1mqdsy0ainbq7rrr5jf1skw6akyr222krgajawzxbzx696hj46l0"
+      "revision": "0fe430e953a6c47433ef923555dfe9a42351113a",
+      "url": "https://github.com/folke/trouble.nvim/archive/0fe430e953a6c47433ef923555dfe9a42351113a.tar.gz",
+      "hash": "0qr0yggnsj9jyl6lh5saxgw75kgfs3838s89zwwm5j7b8lhg8si0"
     },
     "twilight-nvim": {
       "type": "Git",
