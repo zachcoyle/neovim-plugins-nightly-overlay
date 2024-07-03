@@ -1532,9 +1532,9 @@
         "repo": "lean.nvim"
       },
       "branch": "main",
-      "revision": "a46a28499bae49f5f0e99d04134ba4617a213304",
-      "url": "https://github.com/Julian/lean.nvim/archive/a46a28499bae49f5f0e99d04134ba4617a213304.tar.gz",
-      "hash": "00621vmbyvrgqpwlshmndnmflggb9jhislqqlmps8amqryq57y5w"
+      "revision": "6cfbdb2a7403f293e1b76a9f91f8def244868f93",
+      "url": "https://github.com/Julian/lean.nvim/archive/6cfbdb2a7403f293e1b76a9f91f8def244868f93.tar.gz",
+      "hash": "1rz1sg1fbl87j038sdfrpxwwzpby62dkz38j9nv36pdd2phz4dxk"
     },
     "leap-nvim": {
       "type": "Git",
@@ -2491,9 +2491,9 @@
         "repo": "nvim-scrollview"
       },
       "branch": "main",
-      "revision": "965f10569d033c4e704327ef9a22d306ac20847a",
-      "url": "https://github.com/dstein64/nvim-scrollview/archive/965f10569d033c4e704327ef9a22d306ac20847a.tar.gz",
-      "hash": "0zc5dd65bcm85nwvlc9vpfzn0n7pn1xl80lm2f76nn1s4hzzxzzf"
+      "revision": "30ca6e18265928eb4ea7402346b4dfddbd8ce41e",
+      "url": "https://github.com/dstein64/nvim-scrollview/archive/30ca6e18265928eb4ea7402346b4dfddbd8ce41e.tar.gz",
+      "hash": "1xjzy48hn3iakxp09x7d5i62gryfbcy7hb804flgdl233iq5q0qm"
     },
     "nvim-solarized-lua": {
       "type": "Git",
@@ -3331,9 +3331,9 @@
         "repo": "tokyonight.nvim"
       },
       "branch": "main",
-      "revision": "c645c1fe778e1428143beca1908b54b78b0b5c1a",
-      "url": "https://github.com/folke/tokyonight.nvim/archive/c645c1fe778e1428143beca1908b54b78b0b5c1a.tar.gz",
-      "hash": "1rlfdrdv727l3smrvvr735w8vvmx8p0vd1cib4aq4zwxqzx26mqv"
+      "revision": "7d91481956f7d54c7f520d9f9765efdd3fe7155e",
+      "url": "https://github.com/folke/tokyonight.nvim/archive/7d91481956f7d54c7f520d9f9765efdd3fe7155e.tar.gz",
+      "hash": "0ggpmkr9p40ssrh3hl71n1a03q9j76bh8w8a3z9scafglcw57dxk"
     },
     "transparent-nvim": {
       "type": "Git",
