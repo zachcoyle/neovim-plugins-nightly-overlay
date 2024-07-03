@@ -2611,9 +2611,9 @@
         "repo": "nvim-ts-context-commentstring"
       },
       "branch": "main",
-      "revision": "cb064386e667def1d241317deed9fd1b38f0dc2e",
-      "url": "https://github.com/JoosepAlviste/nvim-ts-context-commentstring/archive/cb064386e667def1d241317deed9fd1b38f0dc2e.tar.gz",
-      "hash": "13xyrzp9gfbnrxp6v7xxpiwyk18rnw5pn3vw01f0xvnpfsqfz3w4"
+      "revision": "2b7dcf6aab0947b9c4195f1d8aa592cdcd944ffe",
+      "url": "https://github.com/JoosepAlviste/nvim-ts-context-commentstring/archive/2b7dcf6aab0947b9c4195f1d8aa592cdcd944ffe.tar.gz",
+      "hash": "163nj4y192ik63a4c3d8z6qpxyic6xflifm5nnhq0plzws4hqnc1"
     },
     "nvim-ufo": {
       "type": "Git",
@@ -3331,9 +3331,9 @@
         "repo": "tokyonight.nvim"
       },
       "branch": "main",
-      "revision": "c16eaeb9eaf4eb307431e58ec6101eecf2dbe52d",
-      "url": "https://github.com/folke/tokyonight.nvim/archive/c16eaeb9eaf4eb307431e58ec6101eecf2dbe52d.tar.gz",
-      "hash": "008g4jbbfphpkx9wwc8rllkfja8fiarg9cffyvydjdb35fdzzs9l"
+      "revision": "a086dbd667656047126751adc1240122feb6bd06",
+      "url": "https://github.com/folke/tokyonight.nvim/archive/a086dbd667656047126751adc1240122feb6bd06.tar.gz",
+      "hash": "1riml82374dy3ym61jgk38b7266szv3v65f6cg1h9bg8m98bk9ni"
     },
     "transparent-nvim": {
       "type": "Git",
