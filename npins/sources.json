@@ -152,9 +152,9 @@
         "repo": "better-escape.nvim"
       },
       "branch": "master",
-      "revision": "424ad776c3dff1197a67998c6bc8f20c571ca846",
-      "url": "https://github.com/max397574/better-escape.nvim/archive/424ad776c3dff1197a67998c6bc8f20c571ca846.tar.gz",
-      "hash": "04vrivjy9m49abyfflv3p7f9gp20qqcxsckb5awyx2vl9g9xj08y"
+      "revision": "3973b07287293a3c8e2a117f48419af7ad99e60e",
+      "url": "https://github.com/max397574/better-escape.nvim/archive/3973b07287293a3c8e2a117f48419af7ad99e60e.tar.gz",
+      "hash": "0cscv4ifd7ybnkw8a57sxh1ilhyrwqiwsljj2fw51gwww4l1hc8w"
     },
     "blamer-nvim": {
       "type": "Git",
@@ -1532,9 +1532,9 @@
         "repo": "lean.nvim"
       },
       "branch": "main",
-      "revision": "6cfbdb2a7403f293e1b76a9f91f8def244868f93",
-      "url": "https://github.com/Julian/lean.nvim/archive/6cfbdb2a7403f293e1b76a9f91f8def244868f93.tar.gz",
-      "hash": "1rz1sg1fbl87j038sdfrpxwwzpby62dkz38j9nv36pdd2phz4dxk"
+      "revision": "31e0289c776ef1d967e424a5093433e57a32b295",
+      "url": "https://github.com/Julian/lean.nvim/archive/31e0289c776ef1d967e424a5093433e57a32b295.tar.gz",
+      "hash": "1vn7d87phi2wi3ah5vwldxf0840a31y2p6gr53jxca5zkvrggzxc"
     },
     "leap-nvim": {
       "type": "Git",
@@ -3331,9 +3331,9 @@
         "repo": "tokyonight.nvim"
       },
       "branch": "main",
-      "revision": "bf00020f81d55acdd4f078be8b6eb0ac628af5d4",
-      "url": "https://github.com/folke/tokyonight.nvim/archive/bf00020f81d55acdd4f078be8b6eb0ac628af5d4.tar.gz",
-      "hash": "1j4viqrssihp89rgjs6mgrfdp6nlj2z15ryx9p8pp2i4n4xgccd8"
+      "revision": "2562a63eb9ee9ffe77550e34df2eb60ec2eb89e6",
+      "url": "https://github.com/folke/tokyonight.nvim/archive/2562a63eb9ee9ffe77550e34df2eb60ec2eb89e6.tar.gz",
+      "hash": "12wjl7lzjzw7n2wd9fa6hwg6alfi6z0hv9wa3mwk18c3h0grz5fw"
     },
     "transparent-nvim": {
       "type": "Git",
@@ -3859,9 +3859,9 @@
         "repo": "wtf.nvim"
       },
       "branch": "main",
-      "revision": "8e7bec4d3cb2ea2e3d078b9af8c4cc68d1066c33",
-      "url": "https://github.com/piersolenski/wtf.nvim/archive/8e7bec4d3cb2ea2e3d078b9af8c4cc68d1066c33.tar.gz",
-      "hash": "1q0j06lkkg60f62bjqxq7x6a8wxgcqdh1ldi6rp5sg6rkad8kzd7"
+      "revision": "06e320bd06d0f5f1791eec9d55644a07db2b6cc5",
+      "url": "https://github.com/piersolenski/wtf.nvim/archive/06e320bd06d0f5f1791eec9d55644a07db2b6cc5.tar.gz",
+      "hash": "13fvwyxckjscm04m9209ik8jcwb30ilw0jxrqj2zabjmzgic5s0b"
     },
     "yanky-nvim": {
       "type": "Git",
