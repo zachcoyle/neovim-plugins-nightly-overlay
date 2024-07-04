@@ -1304,9 +1304,9 @@
         "repo": "gruvbox.nvim"
       },
       "branch": "main",
-      "revision": "fa8138d25c061b9cbfacdd3f4dd1929e2a6d92ce",
-      "url": "https://github.com/ellisonleao/gruvbox.nvim/archive/fa8138d25c061b9cbfacdd3f4dd1929e2a6d92ce.tar.gz",
-      "hash": "007i6gkbapyn2fv19yr5izfsv859qw4qnbdxfp7kv0sidkqdk47p"
+      "revision": "7a1b23e4edf73a39642e77508ee6b9cbb8c60f9e",
+      "url": "https://github.com/ellisonleao/gruvbox.nvim/archive/7a1b23e4edf73a39642e77508ee6b9cbb8c60f9e.tar.gz",
+      "hash": "0hr9yf7cn6asq39szfr6nwvq40vcyz7hv9bph51z14gjkdv67pzs"
     },
     "hardtime-nvim": {
       "type": "Git",
