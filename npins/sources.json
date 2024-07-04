@@ -800,9 +800,9 @@
         "repo": "codesnap.nvim"
       },
       "branch": "main",
-      "revision": "08d7588ea03af711e8d6c4b94736e223f0464d18",
-      "url": "https://github.com/mistricky/codesnap.nvim/archive/08d7588ea03af711e8d6c4b94736e223f0464d18.tar.gz",
-      "hash": "1yzsix5a74v3vaad9j05ix6vgapzp4s5flsg8s2phzv0g92q1dq8"
+      "revision": "6367c2d41bb3109e8756c695d682ee73942876d0",
+      "url": "https://github.com/mistricky/codesnap.nvim/archive/6367c2d41bb3109e8756c695d682ee73942876d0.tar.gz",
+      "hash": "1p5q3mlf0syj8j5gd2k4k49y8g15wj2yj29i7pghnp9ra9isimxi"
     },
     "comment-nvim": {
       "type": "Git",
@@ -3331,9 +3331,9 @@
         "repo": "tokyonight.nvim"
       },
       "branch": "main",
-      "revision": "24520cb440629930442328a3da63d551c626a2d1",
-      "url": "https://github.com/folke/tokyonight.nvim/archive/24520cb440629930442328a3da63d551c626a2d1.tar.gz",
-      "hash": "1x96q5vbq19k2v24086pn1kqwn6jkdmx4q4218nlvcs4mhy3gvkz"
+      "revision": "a2ff09e2f7c2d88ae1a381fb17081b8cb6c39bd8",
+      "url": "https://github.com/folke/tokyonight.nvim/archive/a2ff09e2f7c2d88ae1a381fb17081b8cb6c39bd8.tar.gz",
+      "hash": "137v2nsi2ix38l0mvc0dd14cl3ci928igk33iv6a0vrd2gd4xdms"
     },
     "transparent-nvim": {
       "type": "Git",
