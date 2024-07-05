@@ -1,5 +1,17 @@
 {
   "pins": {
+    "ChatGPT-nvim": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "jackMort",
+        "repo": "ChatGPT.nvim"
+      },
+      "branch": "main",
+      "revision": "f081338f07216a46d3915ce46c1fcb083bcb5016",
+      "url": "https://github.com/jackMort/ChatGPT.nvim/archive/f081338f07216a46d3915ce46c1fcb083bcb5016.tar.gz",
+      "hash": "1hgwdahp5h2nfzwfgjjgdbki5jnyg5gmapvz1kd1zmcycslb85di"
+    },
     "CopilotChat-nvim": {
       "type": "Git",
       "repository": {
