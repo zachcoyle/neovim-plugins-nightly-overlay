@@ -1891,9 +1891,9 @@
         "repo": "neoscroll.nvim"
       },
       "branch": "master",
-      "revision": "a731f66f1d39ec6175fd201c5bf849e54abda99c",
-      "url": "https://github.com/karb94/neoscroll.nvim/archive/a731f66f1d39ec6175fd201c5bf849e54abda99c.tar.gz",
-      "hash": "1f9f5gqn1kbrhwfblqcsjacm7y17qai931xmrlny7hqlv1c6a26i"
+      "revision": "a7f5953dbfbe7069568f2d0ed23a9709a56725ab",
+      "url": "https://github.com/karb94/neoscroll.nvim/archive/a7f5953dbfbe7069568f2d0ed23a9709a56725ab.tar.gz",
+      "hash": "012jvfkmi2x28h1bpx83mbn836h576fl09zv8a25xnran78m8qwq"
     },
     "neotest": {
       "type": "Git",
