@@ -1064,9 +1064,9 @@
         "repo": "edgy.nvim"
       },
       "branch": "main",
-      "revision": "b7f2266a398a36400fa1f7ee828b17d228aa5f46",
-      "url": "https://github.com/folke/edgy.nvim/archive/b7f2266a398a36400fa1f7ee828b17d228aa5f46.tar.gz",
-      "hash": "0cfcdv6zqazbh6s3cyi6cp70nvz0iywrzqlkrmprrcf4lab4qc0b"
+      "revision": "a1610e3af1028dc804eb008269b2eb9274bc2b0d",
+      "url": "https://github.com/folke/edgy.nvim/archive/a1610e3af1028dc804eb008269b2eb9274bc2b0d.tar.gz",
+      "hash": "0k6fbbvmf1kfkwjms8h3lpv6hafnk21zlzj7y256xh5r0hgnz78l"
     },
     "efmls-configs-nvim": {
       "type": "Git",
@@ -1136,9 +1136,9 @@
         "repo": "flash.nvim"
       },
       "branch": "main",
-      "revision": "93455045d73c67e5e231c4b06dc68cd0545b1ada",
-      "url": "https://github.com/folke/flash.nvim/archive/93455045d73c67e5e231c4b06dc68cd0545b1ada.tar.gz",
-      "hash": "0bcgnm7xf7i0h6pmcrdszvngx2shzwr3xgng9n50y7whjwajcr1q"
+      "revision": "b3948e75f521878f5bd5a8ae8ee4cf1b1f64b76a",
+      "url": "https://github.com/folke/flash.nvim/archive/b3948e75f521878f5bd5a8ae8ee4cf1b1f64b76a.tar.gz",
+      "hash": "1amd9b03wwwbk9cbfaqn74q7axh9j8s1n8z4aj1ap06azx1c0myp"
     },
     "focus-vim": {
       "type": "Git",
@@ -1520,9 +1520,9 @@
         "repo": "lazy.nvim"
       },
       "branch": "main",
-      "revision": "894cd193e9ffc05dcb75ff0093c1b72880d5d9c1",
-      "url": "https://github.com/folke/lazy.nvim/archive/894cd193e9ffc05dcb75ff0093c1b72880d5d9c1.tar.gz",
-      "hash": "0qwswmnb6i65022dp9kh0icmisilvrhbphpk91xfgiifx6llp338"
+      "revision": "d901d2166fef0304e360316e7a04316f11ab62d0",
+      "url": "https://github.com/folke/lazy.nvim/archive/d901d2166fef0304e360316e7a04316f11ab62d0.tar.gz",
+      "hash": "1hjqj1rk93kwyfpxa0s71fz2vvhnhgqcsnv7jnakz4jvkc2x5g1r"
     },
     "lazygit-nvim": {
       "type": "Git",
@@ -2215,9 +2215,9 @@
         "repo": "noice.nvim"
       },
       "branch": "main",
-      "revision": "f26515c768a4b8eb39b4ec6b04d244ad4bc7cfc9",
-      "url": "https://github.com/folke/noice.nvim/archive/f26515c768a4b8eb39b4ec6b04d244ad4bc7cfc9.tar.gz",
-      "hash": "0afz5s2151g3syhxvvsmip1348hwkihg3r6wwr3ffm2a2yqx1ys2"
+      "revision": "f278f273e9c9a43bd18ac293b0c36d39b7deec89",
+      "url": "https://github.com/folke/noice.nvim/archive/f278f273e9c9a43bd18ac293b0c36d39b7deec89.tar.gz",
+      "hash": "1ncy64wq7km0s8667ys5g710yi071f2ya2l39rz3jyxvajmlm9sj"
     },
     "none-ls-nvim": {
       "type": "Git",
@@ -2767,9 +2767,9 @@
         "repo": "persistence.nvim"
       },
       "branch": "main",
-      "revision": "04599f36b5fa9b2bb0fca09c7b5ac2d1fda5a8e1",
-      "url": "https://github.com/folke/persistence.nvim/archive/04599f36b5fa9b2bb0fca09c7b5ac2d1fda5a8e1.tar.gz",
-      "hash": "16319cw1c2mlrn699djr3bh6v2p4nx5hfc765ri2g9gf2i4mxv9n"
+      "revision": "57953891f8183a49bff2da2cc16995969b8eaed4",
+      "url": "https://github.com/folke/persistence.nvim/archive/57953891f8183a49bff2da2cc16995969b8eaed4.tar.gz",
+      "hash": "1km9sj71r9g72ahgrvivsr4g5msgmjgc0mx1aclaymgm52p5kx1h"
     },
     "plantuml-syntax": {
       "type": "Git",
@@ -3319,9 +3319,9 @@
         "repo": "todo-comments.nvim"
       },
       "branch": "main",
-      "revision": "92e180db74102057263bd5a1dc30056b03424a08",
-      "url": "https://github.com/folke/todo-comments.nvim/archive/92e180db74102057263bd5a1dc30056b03424a08.tar.gz",
-      "hash": "0mn1vbrd5g85gxjv30ssw9s8vnr28lrav55r75qgfmnrv4mjp3vg"
+      "revision": "d58b3767f854963996133dce6113fea62377464b",
+      "url": "https://github.com/folke/todo-comments.nvim/archive/d58b3767f854963996133dce6113fea62377464b.tar.gz",
+      "hash": "0bjlax0ib5yck1d0j92hc3izq0q74h1m2rri8ia8d0qg5cajlwb5"
     },
     "toggleterm-nvim": {
       "type": "Git",
@@ -3343,9 +3343,9 @@
         "repo": "tokyonight.nvim"
       },
       "branch": "main",
-      "revision": "3657946439efe55c9ff51ad92c100f266e29a601",
-      "url": "https://github.com/folke/tokyonight.nvim/archive/3657946439efe55c9ff51ad92c100f266e29a601.tar.gz",
-      "hash": "1dy8b6liakcy8rvq3hg12n2jlsq6pwyc7319a51d3gfpc9p2js2s"
+      "revision": "c2dde8d093b4196a24e8c0fd69ca272f31ba05b9",
+      "url": "https://github.com/folke/tokyonight.nvim/archive/c2dde8d093b4196a24e8c0fd69ca272f31ba05b9.tar.gz",
+      "hash": "08ys30viy28bk4zsjjpmwr35nlv4hqp3qydbnjp5wa7d002mc2fz"
     },
     "transparent-nvim": {
       "type": "Git",
@@ -3379,9 +3379,9 @@
         "repo": "trouble.nvim"
       },
       "branch": "main",
-      "revision": "34be821abfd5ee0aba337a1869d2161c36c45b1d",
-      "url": "https://github.com/folke/trouble.nvim/archive/34be821abfd5ee0aba337a1869d2161c36c45b1d.tar.gz",
-      "hash": "0j95s2l8wr0yr5xqbncj1bvhxs440lx9512bi63zyy7q4c3lv5vj"
+      "revision": "e32c194558ebeb433ccfd580a34c66770bc102bd",
+      "url": "https://github.com/folke/trouble.nvim/archive/e32c194558ebeb433ccfd580a34c66770bc102bd.tar.gz",
+      "hash": "0nmwm93jybax3mq3f6mw103x64b9gggbqi3d6ymgc9zlx2yid331"
     },
     "twilight-nvim": {
       "type": "Git",
@@ -3847,9 +3847,9 @@
         "repo": "which-key.nvim"
       },
       "branch": "main",
-      "revision": "c13a5fb71b5b05d21c15b317d90269d7c7774892",
-      "url": "https://github.com/folke/which-key.nvim/archive/c13a5fb71b5b05d21c15b317d90269d7c7774892.tar.gz",
-      "hash": "0zkx4xg5r4n8dd0n0xwpaplgcbm4v95r2nkm5l9wbwpza4gcv2ly"
+      "revision": "ca2d995c1f7d1ba4ce54a9936a6cdd8cfa594f2d",
+      "url": "https://github.com/folke/which-key.nvim/archive/ca2d995c1f7d1ba4ce54a9936a6cdd8cfa594f2d.tar.gz",
+      "hash": "02r45009hw014c4lj4i5yvhla2qnpsxdzxiza3z0f9368bwzvf16"
     },
     "wilder-nvim": {
       "type": "Git",
@@ -3919,9 +3919,9 @@
         "repo": "zen-mode.nvim"
       },
       "branch": "main",
-      "revision": "abe7784f0413fc464da43f68c870a39677418e38",
-      "url": "https://github.com/folke/zen-mode.nvim/archive/abe7784f0413fc464da43f68c870a39677418e38.tar.gz",
-      "hash": "0fcyc04c5q10spq210hr7cdn8lk0v4q31a8n6zm854lm1l05cg3y"
+      "revision": "e7e5563d736900679d147e1e6bbdc64d6ecbba3f",
+      "url": "https://github.com/folke/zen-mode.nvim/archive/e7e5563d736900679d147e1e6bbdc64d6ecbba3f.tar.gz",
+      "hash": "1l9v9g0yic88mfcz2jwf15alv5zh4m8az36k8p3mb2prbv1p5183"
     },
     "zig-vim": {
       "type": "Git",
