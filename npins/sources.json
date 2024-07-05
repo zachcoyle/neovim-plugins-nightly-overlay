@@ -2683,9 +2683,9 @@
         "repo": "oil.nvim"
       },
       "branch": "master",
-      "revision": "b5a1abfde00eead6814cae3321e4c90ff98cfff1",
-      "url": "https://github.com/stevearc/oil.nvim/archive/b5a1abfde00eead6814cae3321e4c90ff98cfff1.tar.gz",
-      "hash": "1yqzqvcmvfgyy3wg5cm6v0js7ma1j5pk20wzdzhmkyc9adba6nw6"
+      "revision": "a543ea598eaef3363fe253e0e11837c1404eb04d",
+      "url": "https://github.com/stevearc/oil.nvim/archive/a543ea598eaef3363fe253e0e11837c1404eb04d.tar.gz",
+      "hash": "1a3ixqxim6hi8dw08d58fyzka6gp7s3g9a6c72bq0ms6l2gn2h3b"
     },
     "ollama-nvim": {
       "type": "Git",
@@ -3319,9 +3319,9 @@
         "repo": "todo-comments.nvim"
       },
       "branch": "main",
-      "revision": "d58b3767f854963996133dce6113fea62377464b",
-      "url": "https://github.com/folke/todo-comments.nvim/archive/d58b3767f854963996133dce6113fea62377464b.tar.gz",
-      "hash": "0bjlax0ib5yck1d0j92hc3izq0q74h1m2rri8ia8d0qg5cajlwb5"
+      "revision": "01b4599b36ea873305a993c93cb6186cb03a51e7",
+      "url": "https://github.com/folke/todo-comments.nvim/archive/01b4599b36ea873305a993c93cb6186cb03a51e7.tar.gz",
+      "hash": "1s2zsc6ml2rl5v5vjhwygldsg118rpdcg61r438kc3i6pczy3mjc"
     },
     "toggleterm-nvim": {
       "type": "Git",
