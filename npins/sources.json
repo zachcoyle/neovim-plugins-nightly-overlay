@@ -1879,9 +1879,9 @@
         "repo": "neorg"
       },
       "branch": "main",
-      "revision": "99b32492b836b64a5ff4544d4c466496f0aec9bd",
-      "url": "https://github.com/vhyrro/neorg/archive/99b32492b836b64a5ff4544d4c466496f0aec9bd.tar.gz",
-      "hash": "0hjbllib07aqzb531fb9lflid3p09ny9bii8ds4fnpvkbic2wl48"
+      "revision": "0255c2de18dc558e320b7424dc3daed6cbe94260",
+      "url": "https://github.com/vhyrro/neorg/archive/0255c2de18dc558e320b7424dc3daed6cbe94260.tar.gz",
+      "hash": "1jlcmsk33y730l9x9kp93rn8nckigg16y5r5cmlah22vkqpf7558"
     },
     "neoscroll-nvim": {
       "type": "Git",
@@ -2503,9 +2503,9 @@
         "repo": "nvim-scrollview"
       },
       "branch": "main",
-      "revision": "20df774fee588466187901ebba8ecc84ff31e1ca",
-      "url": "https://github.com/dstein64/nvim-scrollview/archive/20df774fee588466187901ebba8ecc84ff31e1ca.tar.gz",
-      "hash": "1zxz6jq33srf5i17ff29wnfl5cg6qvwg5bpzdgc1friik8pzhx8j"
+      "revision": "1fa858ab2a98cbec1b5b07bd2774f77d3e6efd2e",
+      "url": "https://github.com/dstein64/nvim-scrollview/archive/1fa858ab2a98cbec1b5b07bd2774f77d3e6efd2e.tar.gz",
+      "hash": "0z9rchby9n7ifwbnsqxycqy4i6zhqbkw0lis5z6ls6yvmrlhsq8d"
     },
     "nvim-solarized-lua": {
       "type": "Git",
