@@ -812,9 +812,9 @@
         "repo": "codesnap.nvim"
       },
       "branch": "main",
-      "revision": "8f03a0795bc3321c2d75233076f13bbb92bdbfb5",
-      "url": "https://github.com/mistricky/codesnap.nvim/archive/8f03a0795bc3321c2d75233076f13bbb92bdbfb5.tar.gz",
-      "hash": "07ndl73pm6ydrjyz1v5dfcy5k3hxy7lmdwgxywbwsw377xrg2vb0"
+      "revision": "eb867dea3c368ae90d549ffffe354603e570585f",
+      "url": "https://github.com/mistricky/codesnap.nvim/archive/eb867dea3c368ae90d549ffffe354603e570585f.tar.gz",
+      "hash": "0ra7fgxlwmbipqm2qgk8w47ah5hdwr8nyg9y11rijrjqdl1cza47"
     },
     "comment-nvim": {
       "type": "Git",
@@ -968,9 +968,9 @@
         "repo": "cyberdream.nvim"
       },
       "branch": "main",
-      "revision": "d118d45734a71cc23d6383b4dce695bfc99afbbf",
-      "url": "https://github.com/scottmckendry/cyberdream.nvim/archive/d118d45734a71cc23d6383b4dce695bfc99afbbf.tar.gz",
-      "hash": "1lpsbd79nikzdw0207gbzv3d3jcigxw62q7c55gagsipfq86sv4r"
+      "revision": "eba58d7acaac1cc93905574d0946bd50d1e072e3",
+      "url": "https://github.com/scottmckendry/cyberdream.nvim/archive/eba58d7acaac1cc93905574d0946bd50d1e072e3.tar.gz",
+      "hash": "0grg0f2x23d5srk6qviz8941dw6ppbpppr6s1pwnl0i2n430in75"
     },
     "dashboard-nvim": {
       "type": "Git",
