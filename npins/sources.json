@@ -1556,9 +1556,9 @@
         "repo": "leap.nvim"
       },
       "branch": "main",
-      "revision": "75c246f562ab34a92c359c3c4d2eb138768b92ec",
-      "url": "https://github.com/ggandor/leap.nvim/archive/75c246f562ab34a92c359c3c4d2eb138768b92ec.tar.gz",
-      "hash": "0d5qrd9aj70gzmbyhs0lsvm1wadrz81fva5b0cxxjxby1ys7kdgi"
+      "revision": "72812e3e4a3a4f7ec027a8ec0b3554a0c6b3337c",
+      "url": "https://github.com/ggandor/leap.nvim/archive/72812e3e4a3a4f7ec027a8ec0b3554a0c6b3337c.tar.gz",
+      "hash": "18qgx4h225f9gnyd435zpxzjjm2w7fgm9plww7k378fcg279bfxz"
     },
     "lightline-vim": {
       "type": "Git",
@@ -2707,9 +2707,9 @@
         "repo": "onedark.nvim"
       },
       "branch": "master",
-      "revision": "8e4b79b0e6495ddf29552178eceba1e147e6cecf",
-      "url": "https://github.com/navarasu/onedark.nvim/archive/8e4b79b0e6495ddf29552178eceba1e147e6cecf.tar.gz",
-      "hash": "1xxa0q9val9hl5jby2zqn7wlh0vkibj3s8mbmj8vfba4afqlqi0q"
+      "revision": "fae34f7c635797f4bf62fb00e7d0516efa8abe37",
+      "url": "https://github.com/navarasu/onedark.nvim/archive/fae34f7c635797f4bf62fb00e7d0516efa8abe37.tar.gz",
+      "hash": "1l5kvpnmp83mdm8xw28rgc26rzksywvbw978fsksxrdq0vils1ac"
     },
     "openscad-nvim": {
       "type": "Git",
