@@ -2503,9 +2503,9 @@
         "repo": "nvim-scrollview"
       },
       "branch": "main",
-      "revision": "30ca6e18265928eb4ea7402346b4dfddbd8ce41e",
-      "url": "https://github.com/dstein64/nvim-scrollview/archive/30ca6e18265928eb4ea7402346b4dfddbd8ce41e.tar.gz",
-      "hash": "1xjzy48hn3iakxp09x7d5i62gryfbcy7hb804flgdl233iq5q0qm"
+      "revision": "20df774fee588466187901ebba8ecc84ff31e1ca",
+      "url": "https://github.com/dstein64/nvim-scrollview/archive/20df774fee588466187901ebba8ecc84ff31e1ca.tar.gz",
+      "hash": "1zxz6jq33srf5i17ff29wnfl5cg6qvwg5bpzdgc1friik8pzhx8j"
     },
     "nvim-solarized-lua": {
       "type": "Git",
@@ -3547,9 +3547,9 @@
         "repo": "vim-fugitive"
       },
       "branch": "master",
-      "revision": "5661dea7be3d176773ed217c424c0d0f5717bd31",
-      "url": "https://github.com/tpope/vim-fugitive/archive/5661dea7be3d176773ed217c424c0d0f5717bd31.tar.gz",
-      "hash": "1hzrg175gnb1arls3rdcqsw0frx619w4j2qbisv72061iy6crxfr"
+      "revision": "8c8cdf4405cb8bdb70dd9812a33bb52363a87dbc",
+      "url": "https://github.com/tpope/vim-fugitive/archive/8c8cdf4405cb8bdb70dd9812a33bb52363a87dbc.tar.gz",
+      "hash": "1njc46mdvpipci7l2gcljsi0nxxjzwjr7s8pfkvr2l25bi3irz09"
     },
     "vim-godot": {
       "type": "Git",
