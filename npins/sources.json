@@ -3091,9 +3091,9 @@
         "repo": "telescope-frecency.nvim"
       },
       "branch": "master",
-      "revision": "8f593064f7dfc6adc0667b4cb70c544674d5c887",
-      "url": "https://github.com/nvim-telescope/telescope-frecency.nvim/archive/8f593064f7dfc6adc0667b4cb70c544674d5c887.tar.gz",
-      "hash": "1qm1s7r5rayxzwn3myhynlfgirdy44mahp8wgakg2cvcx32qvcr4"
+      "revision": "82c41acfbfbe4fdd87422566034fbbaca0a307e8",
+      "url": "https://github.com/nvim-telescope/telescope-frecency.nvim/archive/82c41acfbfbe4fdd87422566034fbbaca0a307e8.tar.gz",
+      "hash": "0hh3aa9lx3g9zi7aky2jf6lj669wp1xzgxb0yhb58v5vkd2lrb34"
     },
     "telescope-fzf-native-nvim": {
       "type": "Git",
@@ -3319,9 +3319,9 @@
         "repo": "todo-comments.nvim"
       },
       "branch": "main",
-      "revision": "01b4599b36ea873305a993c93cb6186cb03a51e7",
-      "url": "https://github.com/folke/todo-comments.nvim/archive/01b4599b36ea873305a993c93cb6186cb03a51e7.tar.gz",
-      "hash": "1s2zsc6ml2rl5v5vjhwygldsg118rpdcg61r438kc3i6pczy3mjc"
+      "revision": "2cf72f6e1a783cb90e9137c8f7d2b2bea1a4dc22",
+      "url": "https://github.com/folke/todo-comments.nvim/archive/2cf72f6e1a783cb90e9137c8f7d2b2bea1a4dc22.tar.gz",
+      "hash": "1flhgvzdxs1jrbipqf1wycf94pprky0lm7mzw7c1ks0zi5r5ph0x"
     },
     "toggleterm-nvim": {
       "type": "Git",
@@ -3343,9 +3343,9 @@
         "repo": "tokyonight.nvim"
       },
       "branch": "main",
-      "revision": "c2dde8d093b4196a24e8c0fd69ca272f31ba05b9",
-      "url": "https://github.com/folke/tokyonight.nvim/archive/c2dde8d093b4196a24e8c0fd69ca272f31ba05b9.tar.gz",
-      "hash": "08ys30viy28bk4zsjjpmwr35nlv4hqp3qydbnjp5wa7d002mc2fz"
+      "revision": "a93f06dfbccdcf74b0931c054103144cb3a716bc",
+      "url": "https://github.com/folke/tokyonight.nvim/archive/a93f06dfbccdcf74b0931c054103144cb3a716bc.tar.gz",
+      "hash": "0jd3jl3327is7is2dsby6rdi05gxyg480cy2qzc540d417wn28if"
     },
     "transparent-nvim": {
       "type": "Git",
