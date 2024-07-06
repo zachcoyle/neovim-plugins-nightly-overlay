@@ -1544,9 +1544,9 @@
         "repo": "lean.nvim"
       },
       "branch": "main",
-      "revision": "a2b8e61b1418a57b3a3445c862068068965728ff",
-      "url": "https://github.com/Julian/lean.nvim/archive/a2b8e61b1418a57b3a3445c862068068965728ff.tar.gz",
-      "hash": "0hvs3q78n5a97lvcs6vysgfr9wl8bbpvkdrfmygagy28b6bi70wl"
+      "revision": "8453020fec802046d1ecce35594ca1eff62b48b9",
+      "url": "https://github.com/Julian/lean.nvim/archive/8453020fec802046d1ecce35594ca1eff62b48b9.tar.gz",
+      "hash": "1442r1zaran7n91d7922mp93ga86xjz99b5f6p28fslxiqbjgaj5"
     },
     "leap-nvim": {
       "type": "Git",
@@ -2767,9 +2767,9 @@
         "repo": "persistence.nvim"
       },
       "branch": "main",
-      "revision": "08af8fee779df4804b34a5fbfa74ce360a321bb4",
-      "url": "https://github.com/folke/persistence.nvim/archive/08af8fee779df4804b34a5fbfa74ce360a321bb4.tar.gz",
-      "hash": "0zfm37h825rw5jvy5wbzkj8a8bybq46qh5xk495bzg8f65zcaik6"
+      "revision": "7f1e8ce9978f54dba412e8798bc303477bc6eef4",
+      "url": "https://github.com/folke/persistence.nvim/archive/7f1e8ce9978f54dba412e8798bc303477bc6eef4.tar.gz",
+      "hash": "17bjp0pyrsyqw8aahnbhdlzmq1jw4hzra2pcviyxk3x287zdncjn"
     },
     "plantuml-syntax": {
       "type": "Git",
