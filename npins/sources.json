@@ -2503,9 +2503,9 @@
         "repo": "nvim-scrollview"
       },
       "branch": "main",
-      "revision": "1fa858ab2a98cbec1b5b07bd2774f77d3e6efd2e",
-      "url": "https://github.com/dstein64/nvim-scrollview/archive/1fa858ab2a98cbec1b5b07bd2774f77d3e6efd2e.tar.gz",
-      "hash": "0z9rchby9n7ifwbnsqxycqy4i6zhqbkw0lis5z6ls6yvmrlhsq8d"
+      "revision": "15060b6096016b53f22f59ffa4a0f63983458ad5",
+      "url": "https://github.com/dstein64/nvim-scrollview/archive/15060b6096016b53f22f59ffa4a0f63983458ad5.tar.gz",
+      "hash": "1sfqqr4m7z3i412svm2mzj58ddglnhhhf2sfrjy7raa6as3w7qzq"
     },
     "nvim-solarized-lua": {
       "type": "Git",
@@ -3343,9 +3343,9 @@
         "repo": "tokyonight.nvim"
       },
       "branch": "main",
-      "revision": "ee612bf60608376d877c883eca641d87da9bd486",
-      "url": "https://github.com/folke/tokyonight.nvim/archive/ee612bf60608376d877c883eca641d87da9bd486.tar.gz",
-      "hash": "0wb82hchmbh8yybxkhsds0pacgvik5r52kj2pj9dqj4y166f9q7w"
+      "revision": "9460bc9bf570b1811a6bf24232be8a9439330d0e",
+      "url": "https://github.com/folke/tokyonight.nvim/archive/9460bc9bf570b1811a6bf24232be8a9439330d0e.tar.gz",
+      "hash": "08dcrcas0cf9r8ckl0mj60advalnhk59jxv0nl65gkks3iiw6qvh"
     },
     "transparent-nvim": {
       "type": "Git",
