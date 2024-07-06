@@ -3391,9 +3391,9 @@
         "repo": "twilight.nvim"
       },
       "branch": "main",
-      "revision": "6a663ec1663d83efab6707144996fd62245cce6c",
-      "url": "https://github.com/folke/twilight.nvim/archive/6a663ec1663d83efab6707144996fd62245cce6c.tar.gz",
-      "hash": "04gsycm5j665r0fxgdibx9sjbs14dd34cf0vv672pkp5hcppli39"
+      "revision": "2ef602920387420eab11865dd3b2508673e2e7c9",
+      "url": "https://github.com/folke/twilight.nvim/archive/2ef602920387420eab11865dd3b2508673e2e7c9.tar.gz",
+      "hash": "1h3x33av34mxi7kqrw4n229bnabcdm29bbbzrq7jr11nwhhix4am"
     },
     "typescript-tools-nvim": {
       "type": "Git",
