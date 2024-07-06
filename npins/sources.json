@@ -1196,9 +1196,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "72752f7d783b3a56f4e27c8592600646b991a928",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/72752f7d783b3a56f4e27c8592600646b991a928.tar.gz",
-      "hash": "18mpfwqi4xmf640ybcw5rnr8rdghg4jwvi45h35p6kxdks6kgy5a"
+      "revision": "30e8e962405c274d7766dda207e1761a0105929c",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/30e8e962405c274d7766dda207e1761a0105929c.tar.gz",
+      "hash": "1c0w89gqifws6m89i8ngyy8s3li1yzyid780llvmk6s024snlvln"
     },
     "galaxyline-nvim": {
       "type": "Git",
@@ -2215,9 +2215,9 @@
         "repo": "noice.nvim"
       },
       "branch": "main",
-      "revision": "27b63bdadcdf54bf1a83631266e6bbe099f463f0",
-      "url": "https://github.com/folke/noice.nvim/archive/27b63bdadcdf54bf1a83631266e6bbe099f463f0.tar.gz",
-      "hash": "0pn9ads5v746v7w9p1rwa1n13vsn4lr9hpli1sw8gsi39a9ps4dg"
+      "revision": "cd0cd97c40fd8594bc727edab16c9e4a0e43dce0",
+      "url": "https://github.com/folke/noice.nvim/archive/cd0cd97c40fd8594bc727edab16c9e4a0e43dce0.tar.gz",
+      "hash": "00gn09gcijlw99izn37jwfv3ck91zdz5781spay1axb12qvr5a3b"
     },
     "none-ls-nvim": {
       "type": "Git",
@@ -3919,9 +3919,9 @@
         "repo": "zen-mode.nvim"
       },
       "branch": "main",
-      "revision": "cf3025dbfed1505a8452e2b7a70686cba8cf9ad6",
-      "url": "https://github.com/folke/zen-mode.nvim/archive/cf3025dbfed1505a8452e2b7a70686cba8cf9ad6.tar.gz",
-      "hash": "1xhnnjyyznfm2kh3wzlns72j61l3ijqg8mc9g799m1x42gpb7pm7"
+      "revision": "f01150c3a965963d771c21bdf52ae884fd5754a8",
+      "url": "https://github.com/folke/zen-mode.nvim/archive/f01150c3a965963d771c21bdf52ae884fd5754a8.tar.gz",
+      "hash": "0gja16xkzg0n6nmbfiwmmhvmyzbskgidvyn5w2yhyjw831zdixrv"
     },
     "zig-vim": {
       "type": "Git",
