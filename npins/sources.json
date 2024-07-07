@@ -1064,9 +1064,9 @@
         "repo": "edgy.nvim"
       },
       "branch": "main",
-      "revision": "2546a8e81532a672b31bb585942f67088561a343",
-      "url": "https://github.com/folke/edgy.nvim/archive/2546a8e81532a672b31bb585942f67088561a343.tar.gz",
-      "hash": "1hvr2i62l0vakmhs1m7b03cvk4iqjc3c3kk54bdxj43yhci2gi9w"
+      "revision": "3a88691ad3956ee619e6776c7c8084a9460ce2c4",
+      "url": "https://github.com/folke/edgy.nvim/archive/3a88691ad3956ee619e6776c7c8084a9460ce2c4.tar.gz",
+      "hash": "1dm7aad5v3kp3mavrvvdrvxibmbllf937abkp7n4w6jv6aim5kmz"
     },
     "efmls-configs-nvim": {
       "type": "Git",
@@ -1136,9 +1136,9 @@
         "repo": "flash.nvim"
       },
       "branch": "main",
-      "revision": "5fc8ecaddd1aada93bc55bc5417befa70280aa44",
-      "url": "https://github.com/folke/flash.nvim/archive/5fc8ecaddd1aada93bc55bc5417befa70280aa44.tar.gz",
-      "hash": "1kb81f0w9b4jxrq7j2mp2ym9w342h3adhpnfdgi1sxpj9vp6vn0p"
+      "revision": "2f2256e6d1a00e923918ccd0ab326a078552d95f",
+      "url": "https://github.com/folke/flash.nvim/archive/2f2256e6d1a00e923918ccd0ab326a078552d95f.tar.gz",
+      "hash": "02zcn5y0nxlhwn632yvmi7mfrvxyfyflc0hs46wks6s5mzsg3bcc"
     },
     "focus-vim": {
       "type": "Git",
@@ -1520,9 +1520,9 @@
         "repo": "lazy.nvim"
       },
       "branch": "main",
-      "revision": "933f0b596c7372daf534373ae9a11e98744b8636",
-      "url": "https://github.com/folke/lazy.nvim/archive/933f0b596c7372daf534373ae9a11e98744b8636.tar.gz",
-      "hash": "196mfyzbk57gy7as554jyw4fq8r0bj1wxcysfcc5il23n8a1i3im"
+      "revision": "c771cf4928d1a1428ac7461658ab2916ed48adf5",
+      "url": "https://github.com/folke/lazy.nvim/archive/c771cf4928d1a1428ac7461658ab2916ed48adf5.tar.gz",
+      "hash": "081f76fb5ycy906m4bp4760dlp94gkfff9g7kzgx1pqa0gln5vzl"
     },
     "lazygit-nvim": {
       "type": "Git",
@@ -1663,9 +1663,9 @@
         "repo": "lualine.nvim"
       },
       "branch": "master",
-      "revision": "0a5a66803c7407767b799067986b4dc3036e1983",
-      "url": "https://github.com/nvim-lualine/lualine.nvim/archive/0a5a66803c7407767b799067986b4dc3036e1983.tar.gz",
-      "hash": "1llhfs5wgv87k5hv8mdyv4qjpw37zq27488lq0j063jicxszdhar"
+      "revision": "e20896769ca3cd7e623f0d9f0f68c2155e1eeee2",
+      "url": "https://github.com/nvim-lualine/lualine.nvim/archive/e20896769ca3cd7e623f0d9f0f68c2155e1eeee2.tar.gz",
+      "hash": "1bq5kcr2zwa63h1gmp97f4gq2k2ndz2xnnlcl6yyr40ghm1vjnhw"
     },
     "luasnip": {
       "type": "Git",
