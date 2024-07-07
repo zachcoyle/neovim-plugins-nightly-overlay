@@ -1292,9 +1292,9 @@
         "repo": "gitsigns.nvim"
       },
       "branch": "main",
-      "revision": "aa12bb9cd22f1a612dd9cda6c6fc26475e94fc4f",
-      "url": "https://github.com/lewis6991/gitsigns.nvim/archive/aa12bb9cd22f1a612dd9cda6c6fc26475e94fc4f.tar.gz",
-      "hash": "02ycgwykbf8vc2188k9bzb0hvqsp5pfrxsnnzh0i0s0r08kamh81"
+      "revision": "220446c8c86a280180d852efac60991eaf1a21d4",
+      "url": "https://github.com/lewis6991/gitsigns.nvim/archive/220446c8c86a280180d852efac60991eaf1a21d4.tar.gz",
+      "hash": "0mrslcm75mnds7jklhd7rn4h02sa8ifbqw04qahb7mqgylrzg07i"
     },
     "goyo-vim": {
       "type": "Git",
@@ -2563,9 +2563,9 @@
         "repo": "nvim-treesitter"
       },
       "branch": "master",
-      "revision": "b7c0dbbe7d724f4741af37779135653bc3860304",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/b7c0dbbe7d724f4741af37779135653bc3860304.tar.gz",
-      "hash": "1nrmimripw94alm4bh10kkx1bvv69nxnpm46y3pyn7lqvmy30fp6"
+      "revision": "64f6f0ab4e3f613aa682eb5fe29c5025db500ddd",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/64f6f0ab4e3f613aa682eb5fe29c5025db500ddd.tar.gz",
+      "hash": "1cis4gm58rhz297g5inhh24fmf3amcxlq5cm46w01155zrm3gpvj"
     },
     "nvim-treesitter-context": {
       "type": "Git",
@@ -2767,9 +2767,9 @@
         "repo": "persistence.nvim"
       },
       "branch": "main",
-      "revision": "fc8273bac058397a6cace0f4258dad22febc3aa4",
-      "url": "https://github.com/folke/persistence.nvim/archive/fc8273bac058397a6cace0f4258dad22febc3aa4.tar.gz",
-      "hash": "1aipicdhcbb7pkdgml7p2r0qdvxzmchg6vdqap9cvsdr6szpb10h"
+      "revision": "a93748acdb2e7bc4389b3738b4c787b764c3b2a6",
+      "url": "https://github.com/folke/persistence.nvim/archive/a93748acdb2e7bc4389b3738b4c787b764c3b2a6.tar.gz",
+      "hash": "0d1mw4ix6vbqk7rhkzqink6l9qg1d27f8z9ad5dwkjr8f4r4sxnf"
     },
     "plantuml-syntax": {
       "type": "Git",
@@ -3319,9 +3319,9 @@
         "repo": "todo-comments.nvim"
       },
       "branch": "main",
-      "revision": "509016f8107ebeea2323473309691337581a700c",
-      "url": "https://github.com/folke/todo-comments.nvim/archive/509016f8107ebeea2323473309691337581a700c.tar.gz",
-      "hash": "0s87k8y0hy4fnnz8v5cllv71scl8di2154v45zxdq48wgd64044g"
+      "revision": "74abcc81254feee74aa129c0a219750686ebcefd",
+      "url": "https://github.com/folke/todo-comments.nvim/archive/74abcc81254feee74aa129c0a219750686ebcefd.tar.gz",
+      "hash": "0nsf0rbqjn9niph1svggi32pdihc6h9s22nnyjrk7r2bbdpnj8yf"
     },
     "toggleterm-nvim": {
       "type": "Git",
