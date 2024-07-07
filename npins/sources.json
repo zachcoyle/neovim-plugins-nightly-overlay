@@ -1520,9 +1520,9 @@
         "repo": "lazy.nvim"
       },
       "branch": "main",
-      "revision": "c771cf4928d1a1428ac7461658ab2916ed48adf5",
-      "url": "https://github.com/folke/lazy.nvim/archive/c771cf4928d1a1428ac7461658ab2916ed48adf5.tar.gz",
-      "hash": "081f76fb5ycy906m4bp4760dlp94gkfff9g7kzgx1pqa0gln5vzl"
+      "revision": "436d09af7d3d9e1ff39dc2cf51be800a7ab45be9",
+      "url": "https://github.com/folke/lazy.nvim/archive/436d09af7d3d9e1ff39dc2cf51be800a7ab45be9.tar.gz",
+      "hash": "13i6wa6gsp0i6ivx3l4ibfi63mp7g9lv6w6s6g1zmlm3idmvhwad"
     },
     "lazygit-nvim": {
       "type": "Git",
@@ -1544,9 +1544,9 @@
         "repo": "lean.nvim"
       },
       "branch": "main",
-      "revision": "0ea5c9bb1d058e387b266d1f7ad5016979aa3118",
-      "url": "https://github.com/Julian/lean.nvim/archive/0ea5c9bb1d058e387b266d1f7ad5016979aa3118.tar.gz",
-      "hash": "0lm9d131bvz7cy9qrd0s07mk6n2xzsav8vmpqm63d4hvmrifn2m1"
+      "revision": "589f6084768b0cad7e4a92a4e9466e5286ceb267",
+      "url": "https://github.com/Julian/lean.nvim/archive/589f6084768b0cad7e4a92a4e9466e5286ceb267.tar.gz",
+      "hash": "1qa1rvyjg9l15r28z62iqcbqy2bh66r277b82vl8qb25fxdkh9lh"
     },
     "leap-nvim": {
       "type": "Git",
