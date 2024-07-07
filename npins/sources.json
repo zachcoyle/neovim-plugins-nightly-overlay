@@ -1112,9 +1112,9 @@
         "repo": "fidget.nvim"
       },
       "branch": "main",
-      "revision": "ef99df04a1c53a453602421bc0f756997edc8289",
-      "url": "https://github.com/j-hui/fidget.nvim/archive/ef99df04a1c53a453602421bc0f756997edc8289.tar.gz",
-      "hash": "1j0s31k8dszb0sq46c492hj27w0ag2zmxy75y8204f3j80dkz68s"
+      "revision": "43607ed19059a245a2193bb9fadfac575b1e35f3",
+      "url": "https://github.com/j-hui/fidget.nvim/archive/43607ed19059a245a2193bb9fadfac575b1e35f3.tar.gz",
+      "hash": "040jl8535mawajhb669mpfrg4kiqs67zyb4hff59a5yxjdqch0fx"
     },
     "firenvim": {
       "type": "Git",
@@ -2683,9 +2683,9 @@
         "repo": "oil.nvim"
       },
       "branch": "master",
-      "revision": "a543ea598eaef3363fe253e0e11837c1404eb04d",
-      "url": "https://github.com/stevearc/oil.nvim/archive/a543ea598eaef3363fe253e0e11837c1404eb04d.tar.gz",
-      "hash": "1a3ixqxim6hi8dw08d58fyzka6gp7s3g9a6c72bq0ms6l2gn2h3b"
+      "revision": "10fbfdd37b6904c0776c5db1a27ab47eecba335e",
+      "url": "https://github.com/stevearc/oil.nvim/archive/10fbfdd37b6904c0776c5db1a27ab47eecba335e.tar.gz",
+      "hash": "07dvl1n63gy3858brjz0j1d47psq93f63zhh3xhrk7j3nnapmk6j"
     },
     "ollama-nvim": {
       "type": "Git",
