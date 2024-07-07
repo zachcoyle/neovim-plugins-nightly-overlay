@@ -1064,9 +1064,9 @@
         "repo": "edgy.nvim"
       },
       "branch": "main",
-      "revision": "3a88691ad3956ee619e6776c7c8084a9460ce2c4",
-      "url": "https://github.com/folke/edgy.nvim/archive/3a88691ad3956ee619e6776c7c8084a9460ce2c4.tar.gz",
-      "hash": "1dm7aad5v3kp3mavrvvdrvxibmbllf937abkp7n4w6jv6aim5kmz"
+      "revision": "e26aedb26b976583c2f7294620a5b49727c4135e",
+      "url": "https://github.com/folke/edgy.nvim/archive/e26aedb26b976583c2f7294620a5b49727c4135e.tar.gz",
+      "hash": "0ay2jz1wvyc1x0lpfpddkkz5b165a5xws41j9fyrrcs2mf4rdlhp"
     },
     "efmls-configs-nvim": {
       "type": "Git",
@@ -1196,9 +1196,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "30e8e962405c274d7766dda207e1761a0105929c",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/30e8e962405c274d7766dda207e1761a0105929c.tar.gz",
-      "hash": "1c0w89gqifws6m89i8ngyy8s3li1yzyid780llvmk6s024snlvln"
+      "revision": "975534f4861e2575396716225c1202572645583d",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/975534f4861e2575396716225c1202572645583d.tar.gz",
+      "hash": "1lkvv0g1a7a5cy74jwbg0cnrriifl66vxmh232l6yam4078jvd00"
     },
     "galaxyline-nvim": {
       "type": "Git",
@@ -2563,9 +2563,9 @@
         "repo": "nvim-treesitter"
       },
       "branch": "master",
-      "revision": "a8c082b4f5b3b70bde2ffb08cc112dfd7e515fb3",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/a8c082b4f5b3b70bde2ffb08cc112dfd7e515fb3.tar.gz",
-      "hash": "0mq7dhyikasslkw52371zihjvwdhlsj7fwc8bklwzqvk02l1l2iq"
+      "revision": "b7c0dbbe7d724f4741af37779135653bc3860304",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/b7c0dbbe7d724f4741af37779135653bc3860304.tar.gz",
+      "hash": "1nrmimripw94alm4bh10kkx1bvv69nxnpm46y3pyn7lqvmy30fp6"
     },
     "nvim-treesitter-context": {
       "type": "Git",
