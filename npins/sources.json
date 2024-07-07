@@ -164,9 +164,9 @@
         "repo": "better-escape.nvim"
       },
       "branch": "master",
-      "revision": "78cdf5d4e0edf72c81dc273ff0c82305c0855725",
-      "url": "https://github.com/max397574/better-escape.nvim/archive/78cdf5d4e0edf72c81dc273ff0c82305c0855725.tar.gz",
-      "hash": "00cn64x6w0gpk45ivcqc7pbq5kn0vk8infdkdfrz73jifz3x1bqd"
+      "revision": "bbfdf773c41f4f991beecd1d9808b6a3e87828a0",
+      "url": "https://github.com/max397574/better-escape.nvim/archive/bbfdf773c41f4f991beecd1d9808b6a3e87828a0.tar.gz",
+      "hash": "1mmp0v5a52441j6572fscbv6yd9mz8l8hbcl3yk21hmsvxna0prs"
     },
     "blamer-nvim": {
       "type": "Git",
@@ -1879,9 +1879,9 @@
         "repo": "neorg"
       },
       "branch": "main",
-      "revision": "7f0845781ad5b6ade37cf6ea97d7f751dd42180d",
-      "url": "https://github.com/vhyrro/neorg/archive/7f0845781ad5b6ade37cf6ea97d7f751dd42180d.tar.gz",
-      "hash": "0gjprxfdw2wlpkz4zak2galkn7wfscw83s1b05p7skkhrv7x8i06"
+      "revision": "bb8e102b8ccf0332ec9d9bb97331eb24092d942e",
+      "url": "https://github.com/vhyrro/neorg/archive/bb8e102b8ccf0332ec9d9bb97331eb24092d942e.tar.gz",
+      "hash": "1n5xgikfbcb8mk0gvpx60gkvpah0v3ha7s576gnd1yj1hx97rn98"
     },
     "neoscroll-nvim": {
       "type": "Git",
