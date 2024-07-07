@@ -92,9 +92,9 @@
         "repo": "auto-session"
       },
       "branch": "main",
-      "revision": "4685eafe4dfdd2e5677c92889c29b883c3dfc0b2",
-      "url": "https://github.com/rmagatti/auto-session/archive/4685eafe4dfdd2e5677c92889c29b883c3dfc0b2.tar.gz",
-      "hash": "1g5as2ak996pcpdghxay0plqs6n9gndxsq1csjjnpvxh4rj64365"
+      "revision": "d5f5c186e2da4266daa5487716b13ed702731b4a",
+      "url": "https://github.com/rmagatti/auto-session/archive/d5f5c186e2da4266daa5487716b13ed702731b4a.tar.gz",
+      "hash": "08hdnr7b32ywiw52rpvqijwds6jzkf4sraj76hnlf6wbx3vjjhid"
     },
     "autoclose-nvim": {
       "type": "Git",
@@ -2767,9 +2767,9 @@
         "repo": "persistence.nvim"
       },
       "branch": "main",
-      "revision": "2c7d3eb6b81f7179d4adf8fbc84f4105ee9e20be",
-      "url": "https://github.com/folke/persistence.nvim/archive/2c7d3eb6b81f7179d4adf8fbc84f4105ee9e20be.tar.gz",
-      "hash": "1k4dazllwvs6ngqr4zpn6c6dyk2655fwnhyvrw9yv5dqg8fg5hrr"
+      "revision": "f18d0131ed10a382b7792071b95ba6a5601b9aa0",
+      "url": "https://github.com/folke/persistence.nvim/archive/f18d0131ed10a382b7792071b95ba6a5601b9aa0.tar.gz",
+      "hash": "0r93vzxzda2v2ykgprq7zjwmqxnbbh7vchn777gcxd9128878v7z"
     },
     "plantuml-syntax": {
       "type": "Git",
