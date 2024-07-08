@@ -1879,9 +1879,9 @@
         "repo": "neorg"
       },
       "branch": "main",
-      "revision": "bb8e102b8ccf0332ec9d9bb97331eb24092d942e",
-      "url": "https://github.com/vhyrro/neorg/archive/bb8e102b8ccf0332ec9d9bb97331eb24092d942e.tar.gz",
-      "hash": "1n5xgikfbcb8mk0gvpx60gkvpah0v3ha7s576gnd1yj1hx97rn98"
+      "revision": "04d201d56857073efecf79a8be29fae45b57ebeb",
+      "url": "https://github.com/vhyrro/neorg/archive/04d201d56857073efecf79a8be29fae45b57ebeb.tar.gz",
+      "hash": "00sgzzpq7licm89sqqvyjv18ad07zfi4iwxabksi3ycnphsi4q80"
     },
     "neoscroll-nvim": {
       "type": "Git",
@@ -2623,9 +2623,9 @@
         "repo": "nvim-ts-context-commentstring"
       },
       "branch": "main",
-      "revision": "2b7dcf6aab0947b9c4195f1d8aa592cdcd944ffe",
-      "url": "https://github.com/JoosepAlviste/nvim-ts-context-commentstring/archive/2b7dcf6aab0947b9c4195f1d8aa592cdcd944ffe.tar.gz",
-      "hash": "163nj4y192ik63a4c3d8z6qpxyic6xflifm5nnhq0plzws4hqnc1"
+      "revision": "85589f303bdf807163eb736b24363993ccb21d9f",
+      "url": "https://github.com/JoosepAlviste/nvim-ts-context-commentstring/archive/85589f303bdf807163eb736b24363993ccb21d9f.tar.gz",
+      "hash": "1j6zx7kwx5s5rmpcnjnqkri6pzxzsigp22q1gasdcyg9mqyapmc8"
     },
     "nvim-ufo": {
       "type": "Git",
