@@ -92,9 +92,9 @@
         "repo": "auto-session"
       },
       "branch": "main",
-      "revision": "d5f5c186e2da4266daa5487716b13ed702731b4a",
-      "url": "https://github.com/rmagatti/auto-session/archive/d5f5c186e2da4266daa5487716b13ed702731b4a.tar.gz",
-      "hash": "08hdnr7b32ywiw52rpvqijwds6jzkf4sraj76hnlf6wbx3vjjhid"
+      "revision": "15586c4b997f4fc031432f958a942ba3b201d6aa",
+      "url": "https://github.com/rmagatti/auto-session/archive/15586c4b997f4fc031432f958a942ba3b201d6aa.tar.gz",
+      "hash": "06rsxbam5ybiji2apxl96xpvljfiq1nxayhbbinrd22v88c983gm"
     },
     "autoclose-nvim": {
       "type": "Git",
@@ -164,9 +164,9 @@
         "repo": "better-escape.nvim"
       },
       "branch": "master",
-      "revision": "bbfdf773c41f4f991beecd1d9808b6a3e87828a0",
-      "url": "https://github.com/max397574/better-escape.nvim/archive/bbfdf773c41f4f991beecd1d9808b6a3e87828a0.tar.gz",
-      "hash": "1mmp0v5a52441j6572fscbv6yd9mz8l8hbcl3yk21hmsvxna0prs"
+      "revision": "769c1e2d349731cb0d78da440a68b50485140d64",
+      "url": "https://github.com/max397574/better-escape.nvim/archive/769c1e2d349731cb0d78da440a68b50485140d64.tar.gz",
+      "hash": "0h0l5nsz3csvqwanh8ax22z04q1qdrm5yrvpasqvzls0k0n4lkwv"
     },
     "blamer-nvim": {
       "type": "Git",
