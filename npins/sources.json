@@ -812,9 +812,9 @@
         "repo": "codesnap.nvim"
       },
       "branch": "main",
-      "revision": "188f741c65bbb71bbb0fdc7bb0a301b004e2b345",
-      "url": "https://github.com/mistricky/codesnap.nvim/archive/188f741c65bbb71bbb0fdc7bb0a301b004e2b345.tar.gz",
-      "hash": "09in0m1r9i482y6jar82b6qaibwzaivqjib3dr39iaimpz47zwsx"
+      "revision": "6755ac6335c5710229b0e69880fff9de273c5756",
+      "url": "https://github.com/mistricky/codesnap.nvim/archive/6755ac6335c5710229b0e69880fff9de273c5756.tar.gz",
+      "hash": "1vrd33yzkmcy910kc2rbicrv2dfjbk5rlff0v29frfjrvmm04yj7"
     },
     "comment-nvim": {
       "type": "Git",
@@ -2527,9 +2527,9 @@
         "repo": "nvim-spectre"
       },
       "branch": "master",
-      "revision": "49fae98ef2bfa8342522b337892992e3495065d5",
-      "url": "https://github.com/nvim-pack/nvim-spectre/archive/49fae98ef2bfa8342522b337892992e3495065d5.tar.gz",
-      "hash": "027jfxxmccfjyn2g9pzsyrx9ls9lg8fg28rac8bqrwa95v5z5dgn"
+      "revision": "9a28f926d3371b7ef02243cbbb653a0478d06e31",
+      "url": "https://github.com/nvim-pack/nvim-spectre/archive/9a28f926d3371b7ef02243cbbb653a0478d06e31.tar.gz",
+      "hash": "156v7by8hyzrc4r1h0nrpjpb5hd4hdplysm1j4dkbzzgb478gj33"
     },
     "nvim-spider": {
       "type": "Git",
