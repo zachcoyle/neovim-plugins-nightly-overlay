@@ -1544,9 +1544,9 @@
         "repo": "lean.nvim"
       },
       "branch": "main",
-      "revision": "589f6084768b0cad7e4a92a4e9466e5286ceb267",
-      "url": "https://github.com/Julian/lean.nvim/archive/589f6084768b0cad7e4a92a4e9466e5286ceb267.tar.gz",
-      "hash": "1qa1rvyjg9l15r28z62iqcbqy2bh66r277b82vl8qb25fxdkh9lh"
+      "revision": "03f743773b684ab4db63c4224dcef06588c1a6f7",
+      "url": "https://github.com/Julian/lean.nvim/archive/03f743773b684ab4db63c4224dcef06588c1a6f7.tar.gz",
+      "hash": "1128bmbdq1xaxa7k469rkzh3maw40mjdfp7h0ss3gjxa356sf1a1"
     },
     "leap-nvim": {
       "type": "Git",
@@ -1556,9 +1556,9 @@
         "repo": "leap.nvim"
       },
       "branch": "main",
-      "revision": "d9fcd0d9bc877405ece28fef815c8e5b16847cec",
-      "url": "https://github.com/ggandor/leap.nvim/archive/d9fcd0d9bc877405ece28fef815c8e5b16847cec.tar.gz",
-      "hash": "0h2fqzjfypdnchbhv11nzh0b1mkd4kf334wmmd365gn4nz9hr1vi"
+      "revision": "0cdb59d87dc6287a025edbe4296b7cb05278561c",
+      "url": "https://github.com/ggandor/leap.nvim/archive/0cdb59d87dc6287a025edbe4296b7cb05278561c.tar.gz",
+      "hash": "06323fsqn1cpnvhhlahcc0d47lzkas80rwfkwbjkywy6xkakq36k"
     },
     "lightline-vim": {
       "type": "Git",
