@@ -1663,9 +1663,9 @@
         "repo": "lualine.nvim"
       },
       "branch": "master",
-      "revision": "e20896769ca3cd7e623f0d9f0f68c2155e1eeee2",
-      "url": "https://github.com/nvim-lualine/lualine.nvim/archive/e20896769ca3cd7e623f0d9f0f68c2155e1eeee2.tar.gz",
-      "hash": "1bq5kcr2zwa63h1gmp97f4gq2k2ndz2xnnlcl6yyr40ghm1vjnhw"
+      "revision": "6a40b530539d2209f7dc0492f3681c8c126647ad",
+      "url": "https://github.com/nvim-lualine/lualine.nvim/archive/6a40b530539d2209f7dc0492f3681c8c126647ad.tar.gz",
+      "hash": "17plr9wq4w73dhpyldn9kp97dip0xr3z02iny3mgcf1jmzsclv0l"
     },
     "luasnip": {
       "type": "Git",
@@ -3091,9 +3091,9 @@
         "repo": "telescope-frecency.nvim"
       },
       "branch": "master",
-      "revision": "a03eb9b78a0bb54c400e853d10fee4224cf0b7fa",
-      "url": "https://github.com/nvim-telescope/telescope-frecency.nvim/archive/a03eb9b78a0bb54c400e853d10fee4224cf0b7fa.tar.gz",
-      "hash": "1pyilbz0yiyd3qfs2p14qqlavdgimaslcx0xapbwqhsslvy9h6xg"
+      "revision": "631bf1af1d12468655efb472dd2b176a693803f5",
+      "url": "https://github.com/nvim-telescope/telescope-frecency.nvim/archive/631bf1af1d12468655efb472dd2b176a693803f5.tar.gz",
+      "hash": "1b085hsdjaamknjcq3qlnfqvi7r49f49pz0br22zw780hawdznha"
     },
     "telescope-fzf-native-nvim": {
       "type": "Git",
@@ -3343,9 +3343,9 @@
         "repo": "tokyonight.nvim"
       },
       "branch": "main",
-      "revision": "9714c1143287ecb9ca895a7eef0df7b67e8abcb3",
-      "url": "https://github.com/folke/tokyonight.nvim/archive/9714c1143287ecb9ca895a7eef0df7b67e8abcb3.tar.gz",
-      "hash": "0v6z4hl3innmx1zh0v9d6pal2fcpsjk5r287nm4gvrja5gkvvk3q"
+      "revision": "4f97a3373c3955f8aff7d9729167daa09c8c1542",
+      "url": "https://github.com/folke/tokyonight.nvim/archive/4f97a3373c3955f8aff7d9729167daa09c8c1542.tar.gz",
+      "hash": "13s0v5nsrp07yg8mdj52y92jglsa601i769gl8aw0dnfcxmj50v7"
     },
     "transparent-nvim": {
       "type": "Git",
