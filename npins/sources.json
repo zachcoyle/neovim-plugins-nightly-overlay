@@ -92,9 +92,9 @@
         "repo": "auto-session"
       },
       "branch": "main",
-      "revision": "15586c4b997f4fc031432f958a942ba3b201d6aa",
-      "url": "https://github.com/rmagatti/auto-session/archive/15586c4b997f4fc031432f958a942ba3b201d6aa.tar.gz",
-      "hash": "06rsxbam5ybiji2apxl96xpvljfiq1nxayhbbinrd22v88c983gm"
+      "revision": "df99506c3a68890c80ed60be4c63ed96131e0c0c",
+      "url": "https://github.com/rmagatti/auto-session/archive/df99506c3a68890c80ed60be4c63ed96131e0c0c.tar.gz",
+      "hash": "08dg6zxzyr7hdxkj5c2m0pdsd364bqichp6vcm9y44wpazcbiypy"
     },
     "autoclose-nvim": {
       "type": "Git",
@@ -1544,9 +1544,9 @@
         "repo": "lean.nvim"
       },
       "branch": "main",
-      "revision": "e3ec7adc00ac5fee3e705ea6ba340a65b7e7186e",
-      "url": "https://github.com/Julian/lean.nvim/archive/e3ec7adc00ac5fee3e705ea6ba340a65b7e7186e.tar.gz",
-      "hash": "137ah2mfmyr4cydfv6q09ayr9jzswd8r84j1xxgmcncvxmnmnqrb"
+      "revision": "98405acd71828e5186d75c1767617fecd116153d",
+      "url": "https://github.com/Julian/lean.nvim/archive/98405acd71828e5186d75c1767617fecd116153d.tar.gz",
+      "hash": "1w9x6lbwwkn19nh2ssq772g9fbk1msxmnx2i8z19sp2hr4dvdiy5"
     },
     "leap-nvim": {
       "type": "Git",
