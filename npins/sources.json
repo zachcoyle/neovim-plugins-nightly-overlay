@@ -212,9 +212,9 @@
         "repo": "nvim"
       },
       "branch": "main",
-      "revision": "1d76b57bb22069a6477030edd68b52f3b07a9e48",
-      "url": "https://github.com/catppuccin/nvim/archive/1d76b57bb22069a6477030edd68b52f3b07a9e48.tar.gz",
-      "hash": "0sjwvpl1ra4s79a4bwgzh2r4frkxffp5n0bawq3r3ndq4722v4kj"
+      "revision": "2d3419c2aead379b7d1854d32458f20ffaa58562",
+      "url": "https://github.com/catppuccin/nvim/archive/2d3419c2aead379b7d1854d32458f20ffaa58562.tar.gz",
+      "hash": "1aqripls02lalrd257nafg6as0frby3bqb20knmgzsikdl8fy5s1"
     },
     "ccc-nvim": {
       "type": "Git",
@@ -1556,9 +1556,9 @@
         "repo": "leap.nvim"
       },
       "branch": "main",
-      "revision": "e3bbf330049c5be8ed02e0855c128b379215a2d3",
-      "url": "https://github.com/ggandor/leap.nvim/archive/e3bbf330049c5be8ed02e0855c128b379215a2d3.tar.gz",
-      "hash": "0zsahbzfvrhgn4jfglcmjl43iy48s9wfkhxzbqlynd1dd5nb0p2n"
+      "revision": "d9fcd0d9bc877405ece28fef815c8e5b16847cec",
+      "url": "https://github.com/ggandor/leap.nvim/archive/d9fcd0d9bc877405ece28fef815c8e5b16847cec.tar.gz",
+      "hash": "0h2fqzjfypdnchbhv11nzh0b1mkd4kf334wmmd365gn4nz9hr1vi"
     },
     "lightline-vim": {
       "type": "Git",
