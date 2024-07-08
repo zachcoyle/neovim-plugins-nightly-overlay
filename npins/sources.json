@@ -164,9 +164,9 @@
         "repo": "better-escape.nvim"
       },
       "branch": "master",
-      "revision": "769c1e2d349731cb0d78da440a68b50485140d64",
-      "url": "https://github.com/max397574/better-escape.nvim/archive/769c1e2d349731cb0d78da440a68b50485140d64.tar.gz",
-      "hash": "0h0l5nsz3csvqwanh8ax22z04q1qdrm5yrvpasqvzls0k0n4lkwv"
+      "revision": "b273bcf75b99529cfe2ef2b1b7fe189cc6216347",
+      "url": "https://github.com/max397574/better-escape.nvim/archive/b273bcf75b99529cfe2ef2b1b7fe189cc6216347.tar.gz",
+      "hash": "1zx7rw2ck2rzav1s994cg7bqabyvn76918g3rraiafhd4pxnp5yk"
     },
     "blamer-nvim": {
       "type": "Git",
@@ -968,9 +968,9 @@
         "repo": "cyberdream.nvim"
       },
       "branch": "main",
-      "revision": "8f0798dcc13d633027e84b20c0ee70efe90b55aa",
-      "url": "https://github.com/scottmckendry/cyberdream.nvim/archive/8f0798dcc13d633027e84b20c0ee70efe90b55aa.tar.gz",
-      "hash": "1kv6f4nkg43liicirxjgja697jfys4v4mmdvsxx19fcchmpg3ylf"
+      "revision": "3b1f58627b5b28bf56fbe5a2636d583db393d6d4",
+      "url": "https://github.com/scottmckendry/cyberdream.nvim/archive/3b1f58627b5b28bf56fbe5a2636d583db393d6d4.tar.gz",
+      "hash": "1g22z8px4iwf8i8nj81svz5ri0v14rhqx5bpbcsbwlaspfknwyi8"
     },
     "dashboard-nvim": {
       "type": "Git",
