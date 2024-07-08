@@ -1544,9 +1544,9 @@
         "repo": "lean.nvim"
       },
       "branch": "main",
-      "revision": "03f743773b684ab4db63c4224dcef06588c1a6f7",
-      "url": "https://github.com/Julian/lean.nvim/archive/03f743773b684ab4db63c4224dcef06588c1a6f7.tar.gz",
-      "hash": "1128bmbdq1xaxa7k469rkzh3maw40mjdfp7h0ss3gjxa356sf1a1"
+      "revision": "e3ec7adc00ac5fee3e705ea6ba340a65b7e7186e",
+      "url": "https://github.com/Julian/lean.nvim/archive/e3ec7adc00ac5fee3e705ea6ba340a65b7e7186e.tar.gz",
+      "hash": "137ah2mfmyr4cydfv6q09ayr9jzswd8r84j1xxgmcncvxmnmnqrb"
     },
     "leap-nvim": {
       "type": "Git",
@@ -2095,9 +2095,9 @@
         "repo": "neotest-playwright"
       },
       "branch": "master",
-      "revision": "f61463f5c74d53fc5975b7e086b7c6e9356d9215",
-      "url": "https://github.com/thenbe/neotest-playwright/archive/f61463f5c74d53fc5975b7e086b7c6e9356d9215.tar.gz",
-      "hash": "18d9qqxqrgng373xlkiinxcp9s13zj40sjxsibhdccji75pr3ziy"
+      "revision": "6266945039dac27a354de33d2f2a66e75485d5e9",
+      "url": "https://github.com/thenbe/neotest-playwright/archive/6266945039dac27a354de33d2f2a66e75485d5e9.tar.gz",
+      "hash": "1gkiv2a9g80qh5h52pa6ysxjx7nxli4jvb1lcq5qyn4fnig0mrlk"
     },
     "neotest-plenary": {
       "type": "Git",
