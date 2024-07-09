@@ -92,9 +92,9 @@
         "repo": "auto-session"
       },
       "branch": "main",
-      "revision": "df99506c3a68890c80ed60be4c63ed96131e0c0c",
-      "url": "https://github.com/rmagatti/auto-session/archive/df99506c3a68890c80ed60be4c63ed96131e0c0c.tar.gz",
-      "hash": "08dg6zxzyr7hdxkj5c2m0pdsd364bqichp6vcm9y44wpazcbiypy"
+      "revision": "4b0728715e674ad9c18f1519127dcaed59f9981b",
+      "url": "https://github.com/rmagatti/auto-session/archive/4b0728715e674ad9c18f1519127dcaed59f9981b.tar.gz",
+      "hash": "07yk89s02nvr2r69rqbsjgl4rr8rr6ii33wpnha06x863f896kfj"
     },
     "autoclose-nvim": {
       "type": "Git",
@@ -1292,9 +1292,9 @@
         "repo": "gitsigns.nvim"
       },
       "branch": "main",
-      "revision": "220446c8c86a280180d852efac60991eaf1a21d4",
-      "url": "https://github.com/lewis6991/gitsigns.nvim/archive/220446c8c86a280180d852efac60991eaf1a21d4.tar.gz",
-      "hash": "0mrslcm75mnds7jklhd7rn4h02sa8ifbqw04qahb7mqgylrzg07i"
+      "revision": "375c44bdfdde25585466a966f00c2e291db74f2d",
+      "url": "https://github.com/lewis6991/gitsigns.nvim/archive/375c44bdfdde25585466a966f00c2e291db74f2d.tar.gz",
+      "hash": "18vi0ms8gz17vz6rq0pil7rybpjp6nx4jmf2ywhnh1xy08yn5zim"
     },
     "goyo-vim": {
       "type": "Git",
@@ -3343,9 +3343,9 @@
         "repo": "tokyonight.nvim"
       },
       "branch": "main",
-      "revision": "0a84c2df1dc65610ee0d9b516b2fb342e4b0ed6f",
-      "url": "https://github.com/folke/tokyonight.nvim/archive/0a84c2df1dc65610ee0d9b516b2fb342e4b0ed6f.tar.gz",
-      "hash": "0yj1ymwzmgx3gr25kc7kwqqa186ccfxy52dxcivi91zz54z2yqdp"
+      "revision": "dd0e062039d00bfc64619b4355bcbbd00756295d",
+      "url": "https://github.com/folke/tokyonight.nvim/archive/dd0e062039d00bfc64619b4355bcbbd00756295d.tar.gz",
+      "hash": "1p6w07c92xnk1kxlxl556l1yhdhsnr1rpxw9srsna5f7jn2gww38"
     },
     "transparent-nvim": {
       "type": "Git",
