@@ -164,9 +164,9 @@
         "repo": "better-escape.nvim"
       },
       "branch": "master",
-      "revision": "c74c22cde3eddafa32358219cca401e837ca03fa",
-      "url": "https://github.com/max397574/better-escape.nvim/archive/c74c22cde3eddafa32358219cca401e837ca03fa.tar.gz",
-      "hash": "1ry0mm2hg21gjjmwfd043x6yd11kxavj14bkqky8rnw6x3apv4x0"
+      "revision": "7b351629d4f08039977e290961915d916a985aa3",
+      "url": "https://github.com/max397574/better-escape.nvim/archive/7b351629d4f08039977e290961915d916a985aa3.tar.gz",
+      "hash": "0l5g8y2sklff88x6vdmb2miqk7r1k6gxnpxyvd8769glvyd6qa3d"
     },
     "blamer-nvim": {
       "type": "Git",
@@ -788,9 +788,9 @@
         "repo": "codeium.nvim"
       },
       "branch": "main",
-      "revision": "d3b88eb3aa1de6da33d325c196b8a41da2bcc825",
-      "url": "https://github.com/Exafunction/codeium.nvim/archive/d3b88eb3aa1de6da33d325c196b8a41da2bcc825.tar.gz",
-      "hash": "0zssbn655hqxihmswbhih5w9k75gkhyqn9bm8n9vdqihygh5g9js"
+      "revision": "f6a2ef32a9e923cb0104a19d3e426b0e40e49505",
+      "url": "https://github.com/Exafunction/codeium.nvim/archive/f6a2ef32a9e923cb0104a19d3e426b0e40e49505.tar.gz",
+      "hash": "0cijady83i5wixjfsgv979h9iggw76d5fwr6vrrnijwdkx7im6zi"
     },
     "codeium-vim": {
       "type": "Git",
@@ -3343,9 +3343,9 @@
         "repo": "tokyonight.nvim"
       },
       "branch": "main",
-      "revision": "78cc1ae48a26990dd028f4098892a5d6c041e194",
-      "url": "https://github.com/folke/tokyonight.nvim/archive/78cc1ae48a26990dd028f4098892a5d6c041e194.tar.gz",
-      "hash": "0ph933fq6akkfsgh2jfcs3w5a1qihc19wgl5rpb92jhp45pzd9rd"
+      "revision": "66a272ba6cf93bf303c4b7a91b100ca0dd3ec7bd",
+      "url": "https://github.com/folke/tokyonight.nvim/archive/66a272ba6cf93bf303c4b7a91b100ca0dd3ec7bd.tar.gz",
+      "hash": "1j8nhpsk5fdxv1kmkc3a4340v5zfywqds6rjcw0p27hnfjz7hkff"
     },
     "transparent-nvim": {
       "type": "Git",
