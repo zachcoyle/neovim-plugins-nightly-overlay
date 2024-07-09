@@ -44,9 +44,9 @@
         "repo": "SchemaStore.nvim"
       },
       "branch": "main",
-      "revision": "a1be387e7c5d5f4f503515b170b79626a0644b4a",
-      "url": "https://github.com/b0o/SchemaStore.nvim/archive/a1be387e7c5d5f4f503515b170b79626a0644b4a.tar.gz",
-      "hash": "00shnllgp4i6a8v3i1s8r6qq2k5fhqkrsc170fq2wprlxksblvw8"
+      "revision": "d8d36b5b3f670983655bb3f5f0b4641c8c5dc4e6",
+      "url": "https://github.com/b0o/SchemaStore.nvim/archive/d8d36b5b3f670983655bb3f5f0b4641c8c5dc4e6.tar.gz",
+      "hash": "1qbwm8m74l8sbf776r8p4kcwmk8yinamgfan997z61prxkxgij9r"
     },
     "alpha-nvim": {
       "type": "Git",
@@ -3487,9 +3487,9 @@
         "repo": "vim-dadbod-ui"
       },
       "branch": "master",
-      "revision": "dc6975d2a6a6735ad0979ac30e3e19cafd75f5f9",
-      "url": "https://github.com/kristijanhusak/vim-dadbod-ui/archive/dc6975d2a6a6735ad0979ac30e3e19cafd75f5f9.tar.gz",
-      "hash": "1z2rksb777pfgl4kn0fvqpdh8jhha62imprmkj7lcprk40dlw82b"
+      "revision": "b6f72022f04f02e3d8b06d9a334fa946460315ac",
+      "url": "https://github.com/kristijanhusak/vim-dadbod-ui/archive/b6f72022f04f02e3d8b06d9a334fa946460315ac.tar.gz",
+      "hash": "1spwv2sqhqxcngb4xs3bsycilh1qd18l0yax7kvs9pv0i6s027vc"
     },
     "vim-devicons": {
       "type": "Git",
