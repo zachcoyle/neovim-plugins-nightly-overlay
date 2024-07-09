@@ -164,9 +164,9 @@
         "repo": "better-escape.nvim"
       },
       "branch": "master",
-      "revision": "b273bcf75b99529cfe2ef2b1b7fe189cc6216347",
-      "url": "https://github.com/max397574/better-escape.nvim/archive/b273bcf75b99529cfe2ef2b1b7fe189cc6216347.tar.gz",
-      "hash": "1zx7rw2ck2rzav1s994cg7bqabyvn76918g3rraiafhd4pxnp5yk"
+      "revision": "3b41a905799577e3259ead9056bcabb72dedf537",
+      "url": "https://github.com/max397574/better-escape.nvim/archive/3b41a905799577e3259ead9056bcabb72dedf537.tar.gz",
+      "hash": "0qy992l3c3rjnlnm6yr5ip0iygvch3zwlldw5p4vvx9hjrd22jxj"
     },
     "blamer-nvim": {
       "type": "Git",
