@@ -1556,9 +1556,9 @@
         "repo": "leap.nvim"
       },
       "branch": "main",
-      "revision": "0cdb59d87dc6287a025edbe4296b7cb05278561c",
-      "url": "https://github.com/ggandor/leap.nvim/archive/0cdb59d87dc6287a025edbe4296b7cb05278561c.tar.gz",
-      "hash": "06323fsqn1cpnvhhlahcc0d47lzkas80rwfkwbjkywy6xkakq36k"
+      "revision": "c099aecaf858574909bd38cbadb8543c4dd16611",
+      "url": "https://github.com/ggandor/leap.nvim/archive/c099aecaf858574909bd38cbadb8543c4dd16611.tar.gz",
+      "hash": "14yxi5axkgylrwkxfhfjcfvr3zy1vwa16pxafwa6mrampjqj6s68"
     },
     "lightline-vim": {
       "type": "Git",
@@ -1747,9 +1747,9 @@
         "repo": "mini.nvim"
       },
       "branch": "main",
-      "revision": "7df11e3acddd0d352e9bf58a638cf41e97532747",
-      "url": "https://github.com/echasnovski/mini.nvim/archive/7df11e3acddd0d352e9bf58a638cf41e97532747.tar.gz",
-      "hash": "1x5693aw4xm9ai863azqjyqmp60g195dvvi49als8rc6wf2r0hd7"
+      "revision": "072ef026a538cf4a9dedba56ad8eecffa9e9abb6",
+      "url": "https://github.com/echasnovski/mini.nvim/archive/072ef026a538cf4a9dedba56ad8eecffa9e9abb6.tar.gz",
+      "hash": "1as8r19hpq8420pkik8xajakj5nhm22sjif25nwj5rwkqfn7mv56"
     },
     "mkdnflow-nvim": {
       "type": "Git",
