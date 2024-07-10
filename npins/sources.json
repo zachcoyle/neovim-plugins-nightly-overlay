@@ -824,9 +824,9 @@
         "repo": "codesnap.nvim"
       },
       "branch": "main",
-      "revision": "2fc15dcb61ad328a62fc22283fbe41897859b800",
-      "url": "https://github.com/mistricky/codesnap.nvim/archive/2fc15dcb61ad328a62fc22283fbe41897859b800.tar.gz",
-      "hash": "08blg11df93yjnlg40x0a1h8did8gsbz9gw8qb8cwrgd950ds764"
+      "revision": "06d8e345e7be43a5b2bd67a86a3993da91c59781",
+      "url": "https://github.com/mistricky/codesnap.nvim/archive/06d8e345e7be43a5b2bd67a86a3993da91c59781.tar.gz",
+      "hash": "1r3z9q3a6jfz08dz9brnizn68izl8p3b5xmbj7cima1l7xik0i4j"
     },
     "comment-nvim": {
       "type": "Git",
