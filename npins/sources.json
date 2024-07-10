@@ -164,9 +164,9 @@
         "repo": "better-escape.nvim"
       },
       "branch": "master",
-      "revision": "7b351629d4f08039977e290961915d916a985aa3",
-      "url": "https://github.com/max397574/better-escape.nvim/archive/7b351629d4f08039977e290961915d916a985aa3.tar.gz",
-      "hash": "0l5g8y2sklff88x6vdmb2miqk7r1k6gxnpxyvd8769glvyd6qa3d"
+      "revision": "7619e1e582d8ae43c8860dfc183455374a11aa85",
+      "url": "https://github.com/max397574/better-escape.nvim/archive/7619e1e582d8ae43c8860dfc183455374a11aa85.tar.gz",
+      "hash": "0ir732pis4f84n55hv29xddnylmxsfychf0jdd4my57yz4msl38g"
     },
     "blamer-nvim": {
       "type": "Git",
@@ -824,9 +824,9 @@
         "repo": "codesnap.nvim"
       },
       "branch": "main",
-      "revision": "f70596a74b91151ff96c7ddb1223fc1c8a20d2ce",
-      "url": "https://github.com/mistricky/codesnap.nvim/archive/f70596a74b91151ff96c7ddb1223fc1c8a20d2ce.tar.gz",
-      "hash": "046mz4v7wqph271m02xcwszm8lrvfmkar4q0vivy7c1szxjyixrh"
+      "revision": "2fc15dcb61ad328a62fc22283fbe41897859b800",
+      "url": "https://github.com/mistricky/codesnap.nvim/archive/2fc15dcb61ad328a62fc22283fbe41897859b800.tar.gz",
+      "hash": "08blg11df93yjnlg40x0a1h8did8gsbz9gw8qb8cwrgd950ds764"
     },
     "comment-nvim": {
       "type": "Git",
@@ -2647,9 +2647,9 @@
         "repo": "nvim-ts-context-commentstring"
       },
       "branch": "main",
-      "revision": "f1905136b99b5d706858d4c9274a3b152b4359ed",
-      "url": "https://github.com/JoosepAlviste/nvim-ts-context-commentstring/archive/f1905136b99b5d706858d4c9274a3b152b4359ed.tar.gz",
-      "hash": "0p1mff4z3cmhcv80ikn85i8gm9jh6q1ifz5h3m8kl3057pj9z28s"
+      "revision": "6b5f95aa4d24f2c629a74f2c935c702b08dbde62",
+      "url": "https://github.com/JoosepAlviste/nvim-ts-context-commentstring/archive/6b5f95aa4d24f2c629a74f2c935c702b08dbde62.tar.gz",
+      "hash": "1fqncyiw747s6dq9kjkz4d463ni18liik8c559alx0avhfsrrp5i"
     },
     "nvim-ufo": {
       "type": "Git",
