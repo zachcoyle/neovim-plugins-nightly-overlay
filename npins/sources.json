@@ -1296,6 +1296,18 @@
       "url": "https://github.com/lewis6991/gitsigns.nvim/archive/375c44bdfdde25585466a966f00c2e291db74f2d.tar.gz",
       "hash": "18vi0ms8gz17vz6rq0pil7rybpjp6nx4jmf2ywhnh1xy08yn5zim"
     },
+    "glow-nvim": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "ellisonleao",
+        "repo": "glow.nvim"
+      },
+      "branch": "main",
+      "revision": "238070a686c1da3bccccf1079700eb4b5e19aea4",
+      "url": "https://github.com/ellisonleao/glow.nvim/archive/238070a686c1da3bccccf1079700eb4b5e19aea4.tar.gz",
+      "hash": "1j63y3hb03n5m4jig8576sxnb3jixxlr66m9xcs8vgfm5h0mrhqs"
+    },
     "goyo-vim": {
       "type": "Git",
       "repository": {
