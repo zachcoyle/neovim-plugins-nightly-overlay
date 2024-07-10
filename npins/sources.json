@@ -1064,9 +1064,9 @@
         "repo": "dropbar.nvim"
       },
       "branch": "master",
-      "revision": "79847a78ec0c58f5e5c0360192b03d0cee803e95",
-      "url": "https://github.com/Bekaboo/dropbar.nvim/archive/79847a78ec0c58f5e5c0360192b03d0cee803e95.tar.gz",
-      "hash": "0k92lqkqfah0xgl3yq85f1fr8pryp6cfcgglwdbsqw1jwsh37687"
+      "revision": "cab5e0226bc4f90a28cadcb0dc7341d550f1bdf0",
+      "url": "https://github.com/Bekaboo/dropbar.nvim/archive/cab5e0226bc4f90a28cadcb0dc7341d550f1bdf0.tar.gz",
+      "hash": "14548km67rn8rgpy529iihry8sh03wrl1j8pricqy94a1fjlmghh"
     },
     "edgy-nvim": {
       "type": "Git",
@@ -3895,9 +3895,9 @@
         "repo": "wtf.nvim"
       },
       "branch": "main",
-      "revision": "2b0d2a4dc2af48ea14b97e9e20683da7b33b44fe",
-      "url": "https://github.com/piersolenski/wtf.nvim/archive/2b0d2a4dc2af48ea14b97e9e20683da7b33b44fe.tar.gz",
-      "hash": "1yhjfyd3gw5hg6hhk1mh13ds0a55psy8i7gwbf3nqrdnybj4yfrk"
+      "revision": "7aefcc970ea56dc0a89dafdf9f5eb0de7b1ee58c",
+      "url": "https://github.com/piersolenski/wtf.nvim/archive/7aefcc970ea56dc0a89dafdf9f5eb0de7b1ee58c.tar.gz",
+      "hash": "157vdbbrqqal1jhh68bzwvgv3wn12yfmhkjkvwp3jb4h40m974zs"
     },
     "yanky-nvim": {
       "type": "Git",
