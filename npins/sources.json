@@ -3511,9 +3511,9 @@
         "repo": "vim-dadbod-ui"
       },
       "branch": "master",
-      "revision": "b6f72022f04f02e3d8b06d9a334fa946460315ac",
-      "url": "https://github.com/kristijanhusak/vim-dadbod-ui/archive/b6f72022f04f02e3d8b06d9a334fa946460315ac.tar.gz",
-      "hash": "1spwv2sqhqxcngb4xs3bsycilh1qd18l0yax7kvs9pv0i6s027vc"
+      "revision": "acfb660447f41634b6a299039e034abac126653a",
+      "url": "https://github.com/kristijanhusak/vim-dadbod-ui/archive/acfb660447f41634b6a299039e034abac126653a.tar.gz",
+      "hash": "1p0vs3ld8r5qkigv9gva1fpgxg2if2lz7rzz87cwr98sq5lx7p2a"
     },
     "vim-devicons": {
       "type": "Git",
@@ -3895,9 +3895,9 @@
         "repo": "wtf.nvim"
       },
       "branch": "main",
-      "revision": "06e320bd06d0f5f1791eec9d55644a07db2b6cc5",
-      "url": "https://github.com/piersolenski/wtf.nvim/archive/06e320bd06d0f5f1791eec9d55644a07db2b6cc5.tar.gz",
-      "hash": "13fvwyxckjscm04m9209ik8jcwb30ilw0jxrqj2zabjmzgic5s0b"
+      "revision": "2b0d2a4dc2af48ea14b97e9e20683da7b33b44fe",
+      "url": "https://github.com/piersolenski/wtf.nvim/archive/2b0d2a4dc2af48ea14b97e9e20683da7b33b44fe.tar.gz",
+      "hash": "1yhjfyd3gw5hg6hhk1mh13ds0a55psy8i7gwbf3nqrdnybj4yfrk"
     },
     "yanky-nvim": {
       "type": "Git",
