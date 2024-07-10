@@ -180,6 +180,18 @@
       "url": "https://github.com/APZelos/blamer.nvim/archive/e0d43c11697300eb68f00d69df8b87deb0bf52dc.tar.gz",
       "hash": "1r88z0320lsv1q0bhnf8hgzi2qp1a6s1fb198zypc5m0kf410n3v"
     },
+    "bufdelete-nvim": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "famiu",
+        "repo": "bufdelete.nvim"
+      },
+      "branch": "master",
+      "revision": "f6bcea78afb3060b198125256f897040538bcb81",
+      "url": "https://github.com/famiu/bufdelete.nvim/archive/f6bcea78afb3060b198125256f897040538bcb81.tar.gz",
+      "hash": "0xfzk3zgnxbwnr55n3lglsb8nmhnchpiqz9d152xr6j8d9z0sdcn"
+    },
     "bufferline-nvim": {
       "type": "Git",
       "repository": {
