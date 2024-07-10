@@ -932,9 +932,9 @@
         "repo": "copilot.vim"
       },
       "branch": "release",
-      "revision": "0668308e68b0ac28b332b204b469fbe04601536a",
-      "url": "https://github.com/github/copilot.vim/archive/0668308e68b0ac28b332b204b469fbe04601536a.tar.gz",
-      "hash": "0vhcdzhrkh3rs88kh481310z9ma775za1gf7nf8fq1x0znd2455w"
+      "revision": "25f73977033c597d530c7ab0e211d99b60927d2d",
+      "url": "https://github.com/github/copilot.vim/archive/25f73977033c597d530c7ab0e211d99b60927d2d.tar.gz",
+      "hash": "1s1jf98kvv7rfiyxyhj3ba091rissc7n953dshpikbj2n85inlma"
     },
     "coq-thirdparty": {
       "type": "Git",
@@ -980,9 +980,9 @@
         "repo": "cyberdream.nvim"
       },
       "branch": "main",
-      "revision": "b36e66120020c9544771d24c5e304d755276ae2d",
-      "url": "https://github.com/scottmckendry/cyberdream.nvim/archive/b36e66120020c9544771d24c5e304d755276ae2d.tar.gz",
-      "hash": "1kr68f73l3fnk779zf9dhvx142x2896frg4b2k37j3vdj62y29wp"
+      "revision": "cb68ab9fcc572f134f682e4e1ed65584baa4a279",
+      "url": "https://github.com/scottmckendry/cyberdream.nvim/archive/cb68ab9fcc572f134f682e4e1ed65584baa4a279.tar.gz",
+      "hash": "1x30k2cz9h3mbqwbrcc1b0sqi6nlx8krc5mfyjg5rk2da825r9nr"
     },
     "dashboard-nvim": {
       "type": "Git",
