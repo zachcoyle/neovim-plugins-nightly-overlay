@@ -1783,9 +1783,9 @@
         "repo": "mkdnflow.nvim"
       },
       "branch": "main",
-      "revision": "8065d69e73a2623203138bca9dc436df7784ef11",
-      "url": "https://github.com/jakewvincent/mkdnflow.nvim/archive/8065d69e73a2623203138bca9dc436df7784ef11.tar.gz",
-      "hash": "0gxzl1ly9cw9lqpxrrk4k28blrq4a7vcl7jl279zm981yvpbnba5"
+      "revision": "0fa1e682e35d46cd1a0102cedd05b0283e41d18d",
+      "url": "https://github.com/jakewvincent/mkdnflow.nvim/archive/0fa1e682e35d46cd1a0102cedd05b0283e41d18d.tar.gz",
+      "hash": "0cflg2g4alhqhfcwz14k4d634lw482xx201k3ppfgx47g45gk40s"
     },
     "modus-themes-nvim": {
       "type": "Git",
@@ -3835,9 +3835,9 @@
         "repo": "vimtex"
       },
       "branch": "master",
-      "revision": "2dc2a5435809c13f6f4aa07964be4ef19a7864f5",
-      "url": "https://github.com/lervag/vimtex/archive/2dc2a5435809c13f6f4aa07964be4ef19a7864f5.tar.gz",
-      "hash": "1s3w4kbdvwvqmpv82hkdizcr28dyx61mwxfg0k6hkhnpr7fimz6a"
+      "revision": "fdb5618e05964e1cfcfd3bc1f2463ef3148ae8ff",
+      "url": "https://github.com/lervag/vimtex/archive/fdb5618e05964e1cfcfd3bc1f2463ef3148ae8ff.tar.gz",
+      "hash": "1l9fp35x06g5myr7gk0ddlmd6zcav9gc65f8nxahgx416mlp2mq8"
     },
     "virt-column-nvim": {
       "type": "Git",
