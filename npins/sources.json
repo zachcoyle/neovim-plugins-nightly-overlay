@@ -812,9 +812,9 @@
         "repo": "codeium.vim"
       },
       "branch": "main",
-      "revision": "7a01ffb1e6538fe634f294908a50a7b680039284",
-      "url": "https://github.com/Exafunction/codeium.vim/archive/7a01ffb1e6538fe634f294908a50a7b680039284.tar.gz",
-      "hash": "196a66my0jy4166irhwg908dayqc2pv0yiwqgsisi8srzybacm6f"
+      "revision": "e0342fde9474fdd0a36ff9692fe0031b7611a19f",
+      "url": "https://github.com/Exafunction/codeium.vim/archive/e0342fde9474fdd0a36ff9692fe0031b7611a19f.tar.gz",
+      "hash": "1s2k680k274pkn6ikw5z924847s72f8r6lhfxf32q55mc5id709y"
     },
     "codesnap-nvim": {
       "type": "Git",
@@ -2239,9 +2239,9 @@
         "repo": "noice.nvim"
       },
       "branch": "main",
-      "revision": "04ff1defa257db569a687ec16051a27fbaeb0e2f",
-      "url": "https://github.com/folke/noice.nvim/archive/04ff1defa257db569a687ec16051a27fbaeb0e2f.tar.gz",
-      "hash": "0pixz2d4yrrsqyxlnsp6fybcwk01z12wfqn2phy92nsixns8nf9p"
+      "revision": "622d7e5b676605ce62569cf2bd15d06c825d0043",
+      "url": "https://github.com/folke/noice.nvim/archive/622d7e5b676605ce62569cf2bd15d06c825d0043.tar.gz",
+      "hash": "13n04vw7x7nxqd08jl92v64i0qs6k5j7z8jbbyjhnqgkpfnljslj"
     },
     "none-ls-nvim": {
       "type": "Git",
