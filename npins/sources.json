@@ -224,9 +224,9 @@
         "repo": "nvim"
       },
       "branch": "main",
-      "revision": "47bd419c0cb776cb0a67ebb525891eca44020b59",
-      "url": "https://github.com/catppuccin/nvim/archive/47bd419c0cb776cb0a67ebb525891eca44020b59.tar.gz",
-      "hash": "0cq9928lsgn6gkpzs0l9s9lcy7irxv7l37ivnkxwg1sb0ibpzsdi"
+      "revision": "7946d1a195c66fed38b3e34f9fa8e0c5a2da0700",
+      "url": "https://github.com/catppuccin/nvim/archive/7946d1a195c66fed38b3e34f9fa8e0c5a2da0700.tar.gz",
+      "hash": "15cpz3jy97lkpdq32ypbk6wa29vplx9y42ic35ygc15ikxp470s7"
     },
     "ccc-nvim": {
       "type": "Git",
@@ -1304,9 +1304,9 @@
         "repo": "gitsigns.nvim"
       },
       "branch": "main",
-      "revision": "375c44bdfdde25585466a966f00c2e291db74f2d",
-      "url": "https://github.com/lewis6991/gitsigns.nvim/archive/375c44bdfdde25585466a966f00c2e291db74f2d.tar.gz",
-      "hash": "18vi0ms8gz17vz6rq0pil7rybpjp6nx4jmf2ywhnh1xy08yn5zim"
+      "revision": "7178d1a430dcfff8a4c92d78b9e39e0297a779c0",
+      "url": "https://github.com/lewis6991/gitsigns.nvim/archive/7178d1a430dcfff8a4c92d78b9e39e0297a779c0.tar.gz",
+      "hash": "1azbza5mncf4hf1lprimwn8bvgg3ahcbiqhpl181ij3hg8d58mkq"
     },
     "glow-nvim": {
       "type": "Git",
