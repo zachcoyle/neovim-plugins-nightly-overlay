@@ -2575,9 +2575,9 @@
         "repo": "nvim-tree.lua"
       },
       "branch": "master",
-      "revision": "12a9a995a455d2c2466e47140663275365a5d2fc",
-      "url": "https://github.com/nvim-tree/nvim-tree.lua/archive/12a9a995a455d2c2466e47140663275365a5d2fc.tar.gz",
-      "hash": "0sj7b9x2rwc5b7rpkrylh2gbby2qwrqq33w6x7jh0bsa9w1lv5s2"
+      "revision": "2ede0de67b47e89e2b4cb488ea3f58b8f5a8c90a",
+      "url": "https://github.com/nvim-tree/nvim-tree.lua/archive/2ede0de67b47e89e2b4cb488ea3f58b8f5a8c90a.tar.gz",
+      "hash": "19zg02l0p1vs7ngb84if99vg69yk2skizrnsb2pq4yvqbqlwpalg"
     },
     "nvim-treesitter": {
       "type": "Git",
