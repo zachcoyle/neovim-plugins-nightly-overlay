@@ -44,9 +44,9 @@
         "repo": "SchemaStore.nvim"
       },
       "branch": "main",
-      "revision": "46b3b7e58d00eea2e7d9dac186ab5379264dee52",
-      "url": "https://github.com/b0o/SchemaStore.nvim/archive/46b3b7e58d00eea2e7d9dac186ab5379264dee52.tar.gz",
-      "hash": "19pk4jks7bg25vlhaxhqkqyi2r18x04pi0yqj53s3hsmbyyfp2jl"
+      "revision": "37274739232b6a888be7c6ca5f1a2d58510a9a84",
+      "url": "https://github.com/b0o/SchemaStore.nvim/archive/37274739232b6a888be7c6ca5f1a2d58510a9a84.tar.gz",
+      "hash": "0r0a854z0glxjqk5g8jx55j5363vm1ldp39gssd0svj2lgqcajnk"
     },
     "alpha-nvim": {
       "type": "Git",
@@ -2683,9 +2683,9 @@
         "repo": "obsidian.nvim"
       },
       "branch": "main",
-      "revision": "e170641143704068233ba1d301e75684b67fc07c",
-      "url": "https://github.com/epwalsh/obsidian.nvim/archive/e170641143704068233ba1d301e75684b67fc07c.tar.gz",
-      "hash": "06z445zphqz7icz65gajpj17c4g133kivnv59jw73d31rvja3jzj"
+      "revision": "7a9081a36d616b64479b5882b9ebcf6ba8ce6185",
+      "url": "https://github.com/epwalsh/obsidian.nvim/archive/7a9081a36d616b64479b5882b9ebcf6ba8ce6185.tar.gz",
+      "hash": "0fp0w7wrrlvl2ib5xmi81zkhrwc7h0ckqw7ymf7h89951gg5y4kr"
     },
     "octo-nvim": {
       "type": "Git",
