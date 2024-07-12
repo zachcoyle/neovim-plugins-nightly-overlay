@@ -980,9 +980,9 @@
         "repo": "cyberdream.nvim"
       },
       "branch": "main",
-      "revision": "cb68ab9fcc572f134f682e4e1ed65584baa4a279",
-      "url": "https://github.com/scottmckendry/cyberdream.nvim/archive/cb68ab9fcc572f134f682e4e1ed65584baa4a279.tar.gz",
-      "hash": "1x30k2cz9h3mbqwbrcc1b0sqi6nlx8krc5mfyjg5rk2da825r9nr"
+      "revision": "87fff1fc05d2ac451a67de592a928ad7056e6d14",
+      "url": "https://github.com/scottmckendry/cyberdream.nvim/archive/87fff1fc05d2ac451a67de592a928ad7056e6d14.tar.gz",
+      "hash": "0llcirsyyq8csbanyvld2alkbg8l10llqqszw410x8y0a457l26s"
     },
     "dashboard-nvim": {
       "type": "Git",
