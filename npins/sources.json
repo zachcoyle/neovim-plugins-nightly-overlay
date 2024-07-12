@@ -164,9 +164,9 @@
         "repo": "better-escape.nvim"
       },
       "branch": "master",
-      "revision": "7619e1e582d8ae43c8860dfc183455374a11aa85",
-      "url": "https://github.com/max397574/better-escape.nvim/archive/7619e1e582d8ae43c8860dfc183455374a11aa85.tar.gz",
-      "hash": "0ir732pis4f84n55hv29xddnylmxsfychf0jdd4my57yz4msl38g"
+      "revision": "62015330fc831306f5229f24b2db981d07f816c1",
+      "url": "https://github.com/max397574/better-escape.nvim/archive/62015330fc831306f5229f24b2db981d07f816c1.tar.gz",
+      "hash": "0m0bg2d8b95mq665zab30kqvy70q9x2brfyrj1jbhqsx8q6dflkl"
     },
     "blamer-nvim": {
       "type": "Git",
@@ -2407,9 +2407,9 @@
         "repo": "nvim-jdtls"
       },
       "branch": "master",
-      "revision": "40e8494e04c1bcd5dd6c0d0bc187d2d10965017d",
-      "url": "https://github.com/mfussenegger/nvim-jdtls/archive/40e8494e04c1bcd5dd6c0d0bc187d2d10965017d.tar.gz",
-      "hash": "1abrx6a3d2yd6dlykhbjwfvqw18w126qkr4y4va9xv26k78p17gw"
+      "revision": "6bfd1591583b02e742fc3a2f43393c4ea3b6d3c7",
+      "url": "https://github.com/mfussenegger/nvim-jdtls/archive/6bfd1591583b02e742fc3a2f43393c4ea3b6d3c7.tar.gz",
+      "hash": "10178jwv5mzq4lgxpspyfvjrylxix6gpm0pcy98h8gisxz8kv0yh"
     },
     "nvim-lastplace": {
       "type": "Git",
