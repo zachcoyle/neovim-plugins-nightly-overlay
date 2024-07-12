@@ -980,9 +980,9 @@
         "repo": "cyberdream.nvim"
       },
       "branch": "main",
-      "revision": "4d167d3de84bb4010d7501fc363838ce13b01ff6",
-      "url": "https://github.com/scottmckendry/cyberdream.nvim/archive/4d167d3de84bb4010d7501fc363838ce13b01ff6.tar.gz",
-      "hash": "0m1gw1qs101pn4c18y3pkq4grvh3x3qkqd0kcfh90nvkrihwvff2"
+      "revision": "1b3602669d187d365aea3972103b7e749e0a3857",
+      "url": "https://github.com/scottmckendry/cyberdream.nvim/archive/1b3602669d187d365aea3972103b7e749e0a3857.tar.gz",
+      "hash": "1l81fr132nr1cls0v78vk1prhmzx8jq7vagx7ihfy9m1h44yicnh"
     },
     "dashboard-nvim": {
       "type": "Git",
@@ -3835,9 +3835,9 @@
         "repo": "vimtex"
       },
       "branch": "master",
-      "revision": "fdb5618e05964e1cfcfd3bc1f2463ef3148ae8ff",
-      "url": "https://github.com/lervag/vimtex/archive/fdb5618e05964e1cfcfd3bc1f2463ef3148ae8ff.tar.gz",
-      "hash": "1l9fp35x06g5myr7gk0ddlmd6zcav9gc65f8nxahgx416mlp2mq8"
+      "revision": "80c9bc179784c30192d482741a43f176c859daa1",
+      "url": "https://github.com/lervag/vimtex/archive/80c9bc179784c30192d482741a43f176c859daa1.tar.gz",
+      "hash": "0kkmyh51x5rfi1yrdl7cw5b4g3y6066kb01kjqmq08wf22zlldk3"
     },
     "virt-column-nvim": {
       "type": "Git",
