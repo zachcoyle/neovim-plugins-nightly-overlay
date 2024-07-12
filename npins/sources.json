@@ -980,9 +980,9 @@
         "repo": "cyberdream.nvim"
       },
       "branch": "main",
-      "revision": "986d05bc6a8e06f02c3e7c3d7b54aa27ed1c67b0",
-      "url": "https://github.com/scottmckendry/cyberdream.nvim/archive/986d05bc6a8e06f02c3e7c3d7b54aa27ed1c67b0.tar.gz",
-      "hash": "04lp4h4hl50x7p8c0wwd0y4cj88dh3p3dnxim7ls04v061r33ql3"
+      "revision": "4d167d3de84bb4010d7501fc363838ce13b01ff6",
+      "url": "https://github.com/scottmckendry/cyberdream.nvim/archive/4d167d3de84bb4010d7501fc363838ce13b01ff6.tar.gz",
+      "hash": "0m1gw1qs101pn4c18y3pkq4grvh3x3qkqd0kcfh90nvkrihwvff2"
     },
     "dashboard-nvim": {
       "type": "Git",
@@ -1807,9 +1807,9 @@
         "repo": "molten-nvim"
       },
       "branch": "main",
-      "revision": "1a5360c59dc68230aac867fe262e4efc53f1b2d9",
-      "url": "https://github.com/benlubas/molten-nvim/archive/1a5360c59dc68230aac867fe262e4efc53f1b2d9.tar.gz",
-      "hash": "1ns9lq4bj8s2amwkj4kil3h3lkhgsf7wvyf3w9m6419svlxvzh7h"
+      "revision": "eb6d0fe33e14989b0f1fbe25d9732889ee57bd1a",
+      "url": "https://github.com/benlubas/molten-nvim/archive/eb6d0fe33e14989b0f1fbe25d9732889ee57bd1a.tar.gz",
+      "hash": "0prm7i4fl5lbfgdk9s9n9sn05a0hrbfdjgb5g393hjjkid8f4haf"
     },
     "multicursors-nvim": {
       "type": "Git",
@@ -3871,9 +3871,9 @@
         "repo": "which-key.nvim"
       },
       "branch": "main",
-      "revision": "761465c091a985a676f4d42a79ebc0c265b68592",
-      "url": "https://github.com/folke/which-key.nvim/archive/761465c091a985a676f4d42a79ebc0c265b68592.tar.gz",
-      "hash": "00hj0hmigdyvnf6wkm8hlfxlx9nxdjzwa2acsg244wgpnyrsc5j0"
+      "revision": "a86e9d3c0023f985344014bf2b7cb15e0be8fa2b",
+      "url": "https://github.com/folke/which-key.nvim/archive/a86e9d3c0023f985344014bf2b7cb15e0be8fa2b.tar.gz",
+      "hash": "0gn3m2lf13hi2q5hih45rj5xnrxa3g952xl2z6w0gnwpmgdnxw16"
     },
     "wilder-nvim": {
       "type": "Git",
