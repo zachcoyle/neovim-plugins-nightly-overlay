@@ -1771,9 +1771,9 @@
         "repo": "mini.nvim"
       },
       "branch": "main",
-      "revision": "6c873ff81c318119923a424e3aea39000d3a10cf",
-      "url": "https://github.com/echasnovski/mini.nvim/archive/6c873ff81c318119923a424e3aea39000d3a10cf.tar.gz",
-      "hash": "1dsp7arz0mmzjalrnng9cqpvv26ahlzig7g55069r712lrfqcm2y"
+      "revision": "27de3dd4485161470ea55004fc132f2b158d1d24",
+      "url": "https://github.com/echasnovski/mini.nvim/archive/27de3dd4485161470ea55004fc132f2b158d1d24.tar.gz",
+      "hash": "1760bm7li923a16a2nssqr3slv2n25lx49y6m3plwpxf7p0hndfs"
     },
     "mkdnflow-nvim": {
       "type": "Git",
@@ -3871,9 +3871,9 @@
         "repo": "which-key.nvim"
       },
       "branch": "main",
-      "revision": "af4ded85542d40e190014c732fa051bdbf88be3d",
-      "url": "https://github.com/folke/which-key.nvim/archive/af4ded85542d40e190014c732fa051bdbf88be3d.tar.gz",
-      "hash": "1n565dziqi9yrq9vzg1wrhi5izac4r22sma7xb6jll9jy57cirb2"
+      "revision": "ab6331f0d381f986f47efd2d016f5a3c354d4d16",
+      "url": "https://github.com/folke/which-key.nvim/archive/ab6331f0d381f986f47efd2d016f5a3c354d4d16.tar.gz",
+      "hash": "1ym2rylqja6jjnky6k09d0clyw3c7y4bgzv3qm58b7s4hqaxc3k6"
     },
     "wilder-nvim": {
       "type": "Git",
