@@ -980,9 +980,9 @@
         "repo": "cyberdream.nvim"
       },
       "branch": "main",
-      "revision": "2b52b8b91bcae2987faf3746ad4e1891cf84ced5",
-      "url": "https://github.com/scottmckendry/cyberdream.nvim/archive/2b52b8b91bcae2987faf3746ad4e1891cf84ced5.tar.gz",
-      "hash": "1isb20nx1l3igzz341c8jwf9grcffy3cj4vc8ys6b28mc54qgjn3"
+      "revision": "986d05bc6a8e06f02c3e7c3d7b54aa27ed1c67b0",
+      "url": "https://github.com/scottmckendry/cyberdream.nvim/archive/986d05bc6a8e06f02c3e7c3d7b54aa27ed1c67b0.tar.gz",
+      "hash": "04lp4h4hl50x7p8c0wwd0y4cj88dh3p3dnxim7ls04v061r33ql3"
     },
     "dashboard-nvim": {
       "type": "Git",
@@ -2239,9 +2239,9 @@
         "repo": "noice.nvim"
       },
       "branch": "main",
-      "revision": "622d7e5b676605ce62569cf2bd15d06c825d0043",
-      "url": "https://github.com/folke/noice.nvim/archive/622d7e5b676605ce62569cf2bd15d06c825d0043.tar.gz",
-      "hash": "13n04vw7x7nxqd08jl92v64i0qs6k5j7z8jbbyjhnqgkpfnljslj"
+      "revision": "1cbf3a4c81c7f519f177182f541e7b0514cde3c3",
+      "url": "https://github.com/folke/noice.nvim/archive/1cbf3a4c81c7f519f177182f541e7b0514cde3c3.tar.gz",
+      "hash": "0cky282gcsznxic5wbqi1yj47cpvrhnsb8rfzpnin5khb0gwgxhc"
     },
     "none-ls-nvim": {
       "type": "Git",
@@ -3871,9 +3871,9 @@
         "repo": "which-key.nvim"
       },
       "branch": "main",
-      "revision": "ab6331f0d381f986f47efd2d016f5a3c354d4d16",
-      "url": "https://github.com/folke/which-key.nvim/archive/ab6331f0d381f986f47efd2d016f5a3c354d4d16.tar.gz",
-      "hash": "1ym2rylqja6jjnky6k09d0clyw3c7y4bgzv3qm58b7s4hqaxc3k6"
+      "revision": "761465c091a985a676f4d42a79ebc0c265b68592",
+      "url": "https://github.com/folke/which-key.nvim/archive/761465c091a985a676f4d42a79ebc0c265b68592.tar.gz",
+      "hash": "00hj0hmigdyvnf6wkm8hlfxlx9nxdjzwa2acsg244wgpnyrsc5j0"
     },
     "wilder-nvim": {
       "type": "Git",
