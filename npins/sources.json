@@ -1544,9 +1544,9 @@
         "repo": "lazy.nvim"
       },
       "branch": "main",
-      "revision": "93499c5deb37641c6cf71528a93f101d186b409f",
-      "url": "https://github.com/folke/lazy.nvim/archive/93499c5deb37641c6cf71528a93f101d186b409f.tar.gz",
-      "hash": "0fhmqbipy5j8i5x087lqc6m207kl7z5mnzjmf9n6npnyg8nxkhmp"
+      "revision": "6e66f8e6550dd22467c11284e638dfccb5d514e4",
+      "url": "https://github.com/folke/lazy.nvim/archive/6e66f8e6550dd22467c11284e638dfccb5d514e4.tar.gz",
+      "hash": "1wa3bf37gygzji53nxxc5snba623p9whkvx6097kk3p8092r1mjg"
     },
     "lazygit-nvim": {
       "type": "Git",
@@ -3511,9 +3511,9 @@
         "repo": "vim-dadbod-ui"
       },
       "branch": "master",
-      "revision": "d2ffc1bdae3041105f3b57423e0e81a5d9429267",
-      "url": "https://github.com/kristijanhusak/vim-dadbod-ui/archive/d2ffc1bdae3041105f3b57423e0e81a5d9429267.tar.gz",
-      "hash": "1fxzzg9ijzvq0zzhbxdsh9vlmgw7nr0cmgsi3jv6ajbn8gac3qas"
+      "revision": "f74a31e8c6c5a9dccc63450a09d5cd64a9294330",
+      "url": "https://github.com/kristijanhusak/vim-dadbod-ui/archive/f74a31e8c6c5a9dccc63450a09d5cd64a9294330.tar.gz",
+      "hash": "1xb4p47hc9knx2lwhz4qdc6hb06ygjkp0fkccd45h2czmss55kwi"
     },
     "vim-devicons": {
       "type": "Git",
