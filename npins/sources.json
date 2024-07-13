@@ -1927,9 +1927,9 @@
         "repo": "neotest"
       },
       "branch": "master",
-      "revision": "0fe9186afac9b7874ba304fd28d6325d07e5e274",
-      "url": "https://github.com/nvim-neotest/neotest/archive/0fe9186afac9b7874ba304fd28d6325d07e5e274.tar.gz",
-      "hash": "18yfmi3dcifw93j72w1szkj2z16qmw20qb3az9hhy6gfhx2908cy"
+      "revision": "32ff2ac21135a372a42b38ae131e531e64833bd3",
+      "url": "https://github.com/nvim-neotest/neotest/archive/32ff2ac21135a372a42b38ae131e531e64833bd3.tar.gz",
+      "hash": "144wzzadhrg48fkihffk6jf9c0ij8dg9gng6mcxq5z8mdcvz0124"
     },
     "neotest-bash": {
       "type": "Git",
@@ -2587,9 +2587,9 @@
         "repo": "nvim-treesitter"
       },
       "branch": "master",
-      "revision": "972aa544efb56e2f2f53c5f3c2537e43467dd5cb",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/972aa544efb56e2f2f53c5f3c2537e43467dd5cb.tar.gz",
-      "hash": "1qpxdsvna55qvwgb7zrv403wrbc9jnkn20rgcb16h4apj83s8bj7"
+      "revision": "7f4ac678770175cdf0d42c015f4a5b6e18b6cb33",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/7f4ac678770175cdf0d42c015f4a5b6e18b6cb33.tar.gz",
+      "hash": "0bf5rsc2b017j5f027wi6ic8dydwfh3kj5ra3qm6m52dhdhy4scp"
     },
     "nvim-treesitter-context": {
       "type": "Git",
