@@ -1124,9 +1124,9 @@
         "repo": "fidget.nvim"
       },
       "branch": "main",
-      "revision": "c12f8a58ee472ce5983c3a3f3aad0ff6c49a6a83",
-      "url": "https://github.com/j-hui/fidget.nvim/archive/c12f8a58ee472ce5983c3a3f3aad0ff6c49a6a83.tar.gz",
-      "hash": "05y1wdglf6m8aa4g3a6j28hncm9cd59x59n7j2ncbklpj51rgskh"
+      "revision": "bc34563a50c4d05e2d35a0db246e611d0ac95161",
+      "url": "https://github.com/j-hui/fidget.nvim/archive/bc34563a50c4d05e2d35a0db246e611d0ac95161.tar.gz",
+      "hash": "1bcwkmg1plklydggnmadn3mq0hg1440y8309r02ajil502i28x6w"
     },
     "firenvim": {
       "type": "Git",
