@@ -44,9 +44,9 @@
         "repo": "SchemaStore.nvim"
       },
       "branch": "main",
-      "revision": "37274739232b6a888be7c6ca5f1a2d58510a9a84",
-      "url": "https://github.com/b0o/SchemaStore.nvim/archive/37274739232b6a888be7c6ca5f1a2d58510a9a84.tar.gz",
-      "hash": "0r0a854z0glxjqk5g8jx55j5363vm1ldp39gssd0svj2lgqcajnk"
+      "revision": "82db29c48789e6b61bd2ba78df8ffd7bf66470d9",
+      "url": "https://github.com/b0o/SchemaStore.nvim/archive/82db29c48789e6b61bd2ba78df8ffd7bf66470d9.tar.gz",
+      "hash": "1naxg45x14lry3j0jcrispbx0inww0di3iqbvgm396sj0mvj31yp"
     },
     "alpha-nvim": {
       "type": "Git",
@@ -3871,9 +3871,9 @@
         "repo": "which-key.nvim"
       },
       "branch": "main",
-      "revision": "d077a3f36d4b4d29eccc7feb1ba8e78a421df920",
-      "url": "https://github.com/folke/which-key.nvim/archive/d077a3f36d4b4d29eccc7feb1ba8e78a421df920.tar.gz",
-      "hash": "1yy500f9xwh293lmkb305h01fxj4n92y77kas8qhnqfgpah9wbw9"
+      "revision": "c77cda8cd2f54965e4316699f1d124a2b3bf9d49",
+      "url": "https://github.com/folke/which-key.nvim/archive/c77cda8cd2f54965e4316699f1d124a2b3bf9d49.tar.gz",
+      "hash": "08wnrfqx6jlvhcy3km4r0lavnjcnlxbgsr61dgdkqgq93pw3wzg0"
     },
     "wilder-nvim": {
       "type": "Git",
