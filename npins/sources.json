@@ -1867,9 +1867,9 @@
         "repo": "neogit"
       },
       "branch": "master",
-      "revision": "a20031fb5d7d12148764764059243135085e5c9b",
-      "url": "https://github.com/TimUntersberger/neogit/archive/a20031fb5d7d12148764764059243135085e5c9b.tar.gz",
-      "hash": "0wl0v9p6gwyrnpl74msdmfmkrrrqndn5pgczn998z0vnjm9vjic1"
+      "revision": "e33089bb430201a16e5d64e8adc37b99c37e1469",
+      "url": "https://github.com/TimUntersberger/neogit/archive/e33089bb430201a16e5d64e8adc37b99c37e1469.tar.gz",
+      "hash": "103dvsm5hrj02nzlwf1vqb17rmqpbjzc2b4wr91qrshv3afvz230"
     },
     "neon": {
       "type": "Git",
@@ -2635,9 +2635,9 @@
         "repo": "nvim-ts-autotag"
       },
       "branch": "main",
-      "revision": "323a3e16ed603e2e17b26b1c836d1e86c279f726",
-      "url": "https://github.com/windwp/nvim-ts-autotag/archive/323a3e16ed603e2e17b26b1c836d1e86c279f726.tar.gz",
-      "hash": "0n73hwgx5ybllb2446idrphj5w4sm6zidf0rlva0cpsxl9k4glfz"
+      "revision": "26c365cc7d58d0da17b13e747855d331eb26fcf0",
+      "url": "https://github.com/windwp/nvim-ts-autotag/archive/26c365cc7d58d0da17b13e747855d331eb26fcf0.tar.gz",
+      "hash": "0hcp9rb8scq53djj8cl7blkrg82hb9ymn0v79v2nyjsaa9145026"
     },
     "nvim-ts-context-commentstring": {
       "type": "Git",
@@ -3871,9 +3871,9 @@
         "repo": "which-key.nvim"
       },
       "branch": "main",
-      "revision": "c77cda8cd2f54965e4316699f1d124a2b3bf9d49",
-      "url": "https://github.com/folke/which-key.nvim/archive/c77cda8cd2f54965e4316699f1d124a2b3bf9d49.tar.gz",
-      "hash": "08wnrfqx6jlvhcy3km4r0lavnjcnlxbgsr61dgdkqgq93pw3wzg0"
+      "revision": "d36f722f114dfdafc8098496e9b5dcbd9f8fc3e8",
+      "url": "https://github.com/folke/which-key.nvim/archive/d36f722f114dfdafc8098496e9b5dcbd9f8fc3e8.tar.gz",
+      "hash": "02hwml7j4m3zld96y7dl940vn9m7i2p3d04fis6h96w3d5phsj3q"
     },
     "wilder-nvim": {
       "type": "Git",
