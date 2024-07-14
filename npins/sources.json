@@ -992,9 +992,9 @@
         "repo": "dashboard-nvim"
       },
       "branch": "master",
-      "revision": "40ac8bf942895aeb3c1a61e555c1ebc55b35b632",
-      "url": "https://github.com/nvimdev/dashboard-nvim/archive/40ac8bf942895aeb3c1a61e555c1ebc55b35b632.tar.gz",
-      "hash": "17v9d79y4dfjc6gl727zl2mjbxp6sbdj4p7vnfn4sg24wn5ic9vv"
+      "revision": "fabf5feec96185817c732d47d363f34034212685",
+      "url": "https://github.com/nvimdev/dashboard-nvim/archive/fabf5feec96185817c732d47d363f34034212685.tar.gz",
+      "hash": "0lf1sxj6fjb6m5z0pf32yg5z70rvkx7s2nljm1r00zkfgqwys9s4"
     },
     "debugprint-nvim": {
       "type": "Git",
