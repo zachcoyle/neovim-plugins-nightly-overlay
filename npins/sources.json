@@ -2599,9 +2599,9 @@
         "repo": "nvim-treesitter-context"
       },
       "branch": "master",
-      "revision": "f56a1430f21334868a86eb980b12e0af55690e98",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter-context/archive/f56a1430f21334868a86eb980b12e0af55690e98.tar.gz",
-      "hash": "1mnzvnfr6v420nw6ys6bw29mgxf4w3fg44l3n8lrzss35jyjj0df"
+      "revision": "2aba92ceb1479485953007f4d5adf34d0b66917e",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter-context/archive/2aba92ceb1479485953007f4d5adf34d0b66917e.tar.gz",
+      "hash": "06lrkpsqdy56i4m82q4jlz5nlbrcn77pm8fcbvks3vyzykpwid58"
     },
     "nvim-treesitter-refactor": {
       "type": "Git",
@@ -3403,9 +3403,9 @@
         "repo": "trouble.nvim"
       },
       "branch": "main",
-      "revision": "03c1fbf518bef683422a3be9643c3da190903488",
-      "url": "https://github.com/folke/trouble.nvim/archive/03c1fbf518bef683422a3be9643c3da190903488.tar.gz",
-      "hash": "0rr00chkqzj2cy3fb8xsj5nlppijiax2yrr3p4mwi78wzpcbalss"
+      "revision": "2946ce52869d3121637b962c31b1aab48d74a3c9",
+      "url": "https://github.com/folke/trouble.nvim/archive/2946ce52869d3121637b962c31b1aab48d74a3c9.tar.gz",
+      "hash": "1df8y9ghakc616nw8z0dl4pwffxqyk50bzsmi3kg0c49daxjb9ni"
     },
     "twilight-nvim": {
       "type": "Git",
