@@ -1208,9 +1208,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "3d214f8db4a4119723ab5148b7a333aab3fa9063",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/3d214f8db4a4119723ab5148b7a333aab3fa9063.tar.gz",
-      "hash": "14x6ncsgg8n3hica44wdywhjpvvp5z268y20f69s1vp9b8czayhp"
+      "revision": "eb63a4bbfd203942737f76d4cf5424f6fb016a9d",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/eb63a4bbfd203942737f76d4cf5424f6fb016a9d.tar.gz",
+      "hash": "1vw35h48xrqlqk9rbbbms25c6sw9fbd3czzwivmmgafhkllgq5zj"
     },
     "galaxyline-nvim": {
       "type": "Git",
@@ -2959,9 +2959,9 @@
         "repo": "smart-splits.nvim"
       },
       "branch": "master",
-      "revision": "95833675cd92538bf9cded1d2d58d1fc271c5428",
-      "url": "https://github.com/mrjones2014/smart-splits.nvim/archive/95833675cd92538bf9cded1d2d58d1fc271c5428.tar.gz",
-      "hash": "1gsh96czf2g1g84r4fmz41b9n0vlb9j6hx15a5yvlk2bm4fk7haf"
+      "revision": "44145a4b37217348293fe457992cc38cf3b19f33",
+      "url": "https://github.com/mrjones2014/smart-splits.nvim/archive/44145a4b37217348293fe457992cc38cf3b19f33.tar.gz",
+      "hash": "1xaycgpfq5l3bfks7fw1s5cci9raaama3jj3dfgym4qslff7iykn"
     },
     "snippets-nvim": {
       "type": "Git",
@@ -2983,9 +2983,9 @@
         "repo": "sniprun"
       },
       "branch": "master",
-      "revision": "30991d81ecfb947a2c54f879b194d4ed23225d91",
-      "url": "https://github.com/michaelb/sniprun/archive/30991d81ecfb947a2c54f879b194d4ed23225d91.tar.gz",
-      "hash": "1ip2z62pd3chngn0wf4zhjk2axwlkddz61ryds14djvc1ycjby7n"
+      "revision": "f2302d4081914c3312456c91dc6965dfeec266b1",
+      "url": "https://github.com/michaelb/sniprun/archive/f2302d4081914c3312456c91dc6965dfeec266b1.tar.gz",
+      "hash": "1fn0dmqyxf2hnniykfgjhjndfsklaxy7fjnzi6vsr4a4ljqq1s11"
     },
     "solarized-nvim": {
       "type": "Git",
@@ -3871,9 +3871,9 @@
         "repo": "which-key.nvim"
       },
       "branch": "main",
-      "revision": "33f1aae584e1b2f27b7f33d8aef9f9ab8902c99a",
-      "url": "https://github.com/folke/which-key.nvim/archive/33f1aae584e1b2f27b7f33d8aef9f9ab8902c99a.tar.gz",
-      "hash": "0gp9x4kyjj4zdvplfiwwcblv0llba4k6nbb57slqkhjcna6qdqp3"
+      "revision": "0f581764dc2c89c0ac3d8363369152735ae265ab",
+      "url": "https://github.com/folke/which-key.nvim/archive/0f581764dc2c89c0ac3d8363369152735ae265ab.tar.gz",
+      "hash": "159c3zs8ii4i6ssqfz2j5fdcyl99kncxbl7any40538xv3qnyg3p"
     },
     "wilder-nvim": {
       "type": "Git",
