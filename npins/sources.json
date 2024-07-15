@@ -1903,9 +1903,9 @@
         "repo": "neorg"
       },
       "branch": "main",
-      "revision": "1347eebc8a0116524f17a7c33240ae782efb974e",
-      "url": "https://github.com/vhyrro/neorg/archive/1347eebc8a0116524f17a7c33240ae782efb974e.tar.gz",
-      "hash": "1aaz56blqcngl8pwxhn060gp8mzsn2gvnsbi8mdlp85f9fsm9pbh"
+      "revision": "e6f2246a9a6509b2932c21430f245f2760a8fa3e",
+      "url": "https://github.com/vhyrro/neorg/archive/e6f2246a9a6509b2932c21430f245f2760a8fa3e.tar.gz",
+      "hash": "0yp9bn6qwxm4vrwbx5ypmj7byp5mki5xs4wnhwz4w2f7pabnf4qq"
     },
     "neoscroll-nvim": {
       "type": "Git",
@@ -3871,9 +3871,9 @@
         "repo": "which-key.nvim"
       },
       "branch": "main",
-      "revision": "7915964e73c30ba5657e9a762c6570925dad421b",
-      "url": "https://github.com/folke/which-key.nvim/archive/7915964e73c30ba5657e9a762c6570925dad421b.tar.gz",
-      "hash": "1mangq00p4n2ys2b8vjck6xbqa6p82nraa9qi8qq7mwga8dnghyr"
+      "revision": "b55a568ae69724e334aec3ef291ea4e1768ba47a",
+      "url": "https://github.com/folke/which-key.nvim/archive/b55a568ae69724e334aec3ef291ea4e1768ba47a.tar.gz",
+      "hash": "1158w67d4yrf1gvxip4l4pzkdangdbz2807dswd005yhvc2m7mlb"
     },
     "wilder-nvim": {
       "type": "Git",
