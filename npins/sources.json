@@ -3643,9 +3643,9 @@
         "repo": "vim-ledger"
       },
       "branch": "master",
-      "revision": "7b97c8765bf920e92fd950a7a5bc37cb2b13a494",
-      "url": "https://github.com/ledger/vim-ledger/archive/7b97c8765bf920e92fd950a7a5bc37cb2b13a494.tar.gz",
-      "hash": "0g66k9rrvdw0pkh7sqsdcms9viybqsibp1wpscync29ign7y12fa"
+      "revision": "dbc683e24bd5338b8c12540227a58b2d247e097a",
+      "url": "https://github.com/ledger/vim-ledger/archive/dbc683e24bd5338b8c12540227a58b2d247e097a.tar.gz",
+      "hash": "1c77vi92w1psai6h1a49raa50k7d8ybrr4l9iznyb2c08srz8ryb"
     },
     "vim-matchup": {
       "type": "Git",
@@ -3871,9 +3871,9 @@
         "repo": "which-key.nvim"
       },
       "branch": "main",
-      "revision": "d9c7b9b3c70692725736181a3331139b78eb2573",
-      "url": "https://github.com/folke/which-key.nvim/archive/d9c7b9b3c70692725736181a3331139b78eb2573.tar.gz",
-      "hash": "05146nqxv8yvcyxx0dzs3lnrryd6zdljr5mpmlyq5phkkh8227bv"
+      "revision": "4f589a1368e100a6e33aabd904f34716b75360f6",
+      "url": "https://github.com/folke/which-key.nvim/archive/4f589a1368e100a6e33aabd904f34716b75360f6.tar.gz",
+      "hash": "16f6vbdrbdy8nq5pz1nzi17nbkxsh3825d6sb4wmqbv6h676fm4p"
     },
     "wilder-nvim": {
       "type": "Git",
