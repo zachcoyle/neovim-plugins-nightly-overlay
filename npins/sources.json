@@ -92,9 +92,9 @@
         "repo": "auto-session"
       },
       "branch": "main",
-      "revision": "4b0728715e674ad9c18f1519127dcaed59f9981b",
-      "url": "https://github.com/rmagatti/auto-session/archive/4b0728715e674ad9c18f1519127dcaed59f9981b.tar.gz",
-      "hash": "07yk89s02nvr2r69rqbsjgl4rr8rr6ii33wpnha06x863f896kfj"
+      "revision": "08c279882d4117a3e6ade1a014f7cf4af7c34fec",
+      "url": "https://github.com/rmagatti/auto-session/archive/08c279882d4117a3e6ade1a014f7cf4af7c34fec.tar.gz",
+      "hash": "03pyg708b3ad7kqc2m0nnvavbind245c4yzi01c1fpl420cdccfj"
     },
     "autoclose-nvim": {
       "type": "Git",
@@ -2335,9 +2335,9 @@
         "repo": "nvim-cmp"
       },
       "branch": "main",
-      "revision": "7e348da6e5085ac447144a2ef4b637220ba27209",
-      "url": "https://github.com/hrsh7th/nvim-cmp/archive/7e348da6e5085ac447144a2ef4b637220ba27209.tar.gz",
-      "hash": "08zsm2bgi03vw18bkvv4yx0qp5fqmjn2dr52p5046s11b05dhjh4"
+      "revision": "e1757aea6145d14208f3035f6b56c99e36593799",
+      "url": "https://github.com/hrsh7th/nvim-cmp/archive/e1757aea6145d14208f3035f6b56c99e36593799.tar.gz",
+      "hash": "10lqs3nc8nrpjnm2k381iib6hgm77lvvd9w6g8l8kl0s64w68zxn"
     },
     "nvim-colorizer-lua": {
       "type": "Git",
