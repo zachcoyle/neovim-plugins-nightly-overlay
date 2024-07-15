@@ -1903,9 +1903,9 @@
         "repo": "neorg"
       },
       "branch": "main",
-      "revision": "721fd28f39ba2cb0978e410bd9a7668f8c74ccca",
-      "url": "https://github.com/vhyrro/neorg/archive/721fd28f39ba2cb0978e410bd9a7668f8c74ccca.tar.gz",
-      "hash": "03g1nc3dns0svcml5qfv374hqdmp02z2v3h89gg7l52zgj38f5zp"
+      "revision": "1347eebc8a0116524f17a7c33240ae782efb974e",
+      "url": "https://github.com/vhyrro/neorg/archive/1347eebc8a0116524f17a7c33240ae782efb974e.tar.gz",
+      "hash": "1aaz56blqcngl8pwxhn060gp8mzsn2gvnsbi8mdlp85f9fsm9pbh"
     },
     "neoscroll-nvim": {
       "type": "Git",
@@ -2239,9 +2239,9 @@
         "repo": "noice.nvim"
       },
       "branch": "main",
-      "revision": "3dc02f6709f889799ea4af560593b6e7d9d249df",
-      "url": "https://github.com/folke/noice.nvim/archive/3dc02f6709f889799ea4af560593b6e7d9d249df.tar.gz",
-      "hash": "1pyhqg0xhzdyfpglclsbj7z59348ykzz91kvgb2sx2lhpfad7943"
+      "revision": "3b5ea551448bd769976428458c11ae3f5849b7ba",
+      "url": "https://github.com/folke/noice.nvim/archive/3b5ea551448bd769976428458c11ae3f5849b7ba.tar.gz",
+      "hash": "0imvd1rvh66366njm5w86cqpjxwf9gsbawn046adkbrng12gkq17"
     },
     "none-ls-nvim": {
       "type": "Git",
@@ -2707,9 +2707,9 @@
         "repo": "oil.nvim"
       },
       "branch": "master",
-      "revision": "10fbfdd37b6904c0776c5db1a27ab47eecba335e",
-      "url": "https://github.com/stevearc/oil.nvim/archive/10fbfdd37b6904c0776c5db1a27ab47eecba335e.tar.gz",
-      "hash": "07dvl1n63gy3858brjz0j1d47psq93f63zhh3xhrk7j3nnapmk6j"
+      "revision": "9e5eb2fcd1dfee2ff30c89273ffff179e42034b9",
+      "url": "https://github.com/stevearc/oil.nvim/archive/9e5eb2fcd1dfee2ff30c89273ffff179e42034b9.tar.gz",
+      "hash": "0887k1sk74mgcsr5kdbn19bl8s3slyf918684mbsl0qrsnd1m1sm"
     },
     "ollama-nvim": {
       "type": "Git",
