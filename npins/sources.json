@@ -404,9 +404,9 @@
         "repo": "cmp-dictionary"
       },
       "branch": "main",
-      "revision": "e6e3ec979b586a75c53e72f2d6a035f28bb3979c",
-      "url": "https://github.com/uga-rosa/cmp-dictionary/archive/e6e3ec979b586a75c53e72f2d6a035f28bb3979c.tar.gz",
-      "hash": "1nz0ywakqvvscrvdzk86w8f29s8mrcyln2jqgh24kvic5zwb66xj"
+      "revision": "42866957964aa698d53f222395dbd1e334e77fdd",
+      "url": "https://github.com/uga-rosa/cmp-dictionary/archive/42866957964aa698d53f222395dbd1e334e77fdd.tar.gz",
+      "hash": "01p2xj1m6p18f40i8h88kcrmzzswrg1cr03p0wmsq9lmjnic6782"
     },
     "cmp-digraphs": {
       "type": "Git",
@@ -1304,9 +1304,9 @@
         "repo": "gitsigns.nvim"
       },
       "branch": "main",
-      "revision": "e9c4187c3774a46df2d086a66cf3a7e6bea4c432",
-      "url": "https://github.com/lewis6991/gitsigns.nvim/archive/e9c4187c3774a46df2d086a66cf3a7e6bea4c432.tar.gz",
-      "hash": "1v14z5qpl2bdxdim7sb6mywcqcs88mgdj1h0n7f7giy9r6l6p0q5"
+      "revision": "d9f997dba757be01434ed3538d202f88286df476",
+      "url": "https://github.com/lewis6991/gitsigns.nvim/archive/d9f997dba757be01434ed3538d202f88286df476.tar.gz",
+      "hash": "06p4mnxs0w6ba5wbks4716b5gp85whc8880ckibqg6ls7ppd4848"
     },
     "glow-nvim": {
       "type": "Git",
@@ -2935,9 +2935,9 @@
         "repo": "neovim"
       },
       "branch": "main",
-      "revision": "dded5c15e9d27ac95ad1e803b35a752d80f3f42b",
-      "url": "https://github.com/rose-pine/neovim/archive/dded5c15e9d27ac95ad1e803b35a752d80f3f42b.tar.gz",
-      "hash": "1xj8hmpbrw20508k4qqil7vqqm1a9rjm2hkspk814rjblnvbavn1"
+      "revision": "9e4320d0bab7f261921d6af7d1c1bbc1a1e3dc67",
+      "url": "https://github.com/rose-pine/neovim/archive/9e4320d0bab7f261921d6af7d1c1bbc1a1e3dc67.tar.gz",
+      "hash": "11ksc6k5fg8nxb3sk40d06lrk8ycsss76q2w4lba6b6bph7b6l21"
     },
     "scrollbar-nvim": {
       "type": "Git",
