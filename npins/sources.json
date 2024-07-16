@@ -1304,9 +1304,9 @@
         "repo": "gitsigns.nvim"
       },
       "branch": "main",
-      "revision": "d9f997dba757be01434ed3538d202f88286df476",
-      "url": "https://github.com/lewis6991/gitsigns.nvim/archive/d9f997dba757be01434ed3538d202f88286df476.tar.gz",
-      "hash": "06p4mnxs0w6ba5wbks4716b5gp85whc8880ckibqg6ls7ppd4848"
+      "revision": "2a7b39f4d282935f8b44cbe82879af69c7472f5c",
+      "url": "https://github.com/lewis6991/gitsigns.nvim/archive/2a7b39f4d282935f8b44cbe82879af69c7472f5c.tar.gz",
+      "hash": "0vyifliyvli74gmczlcpyfa6xcdvr0rj7b7jmslgwyswali13q32"
     },
     "glow-nvim": {
       "type": "Git",
@@ -1903,9 +1903,9 @@
         "repo": "neorg"
       },
       "branch": "main",
-      "revision": "e6f2246a9a6509b2932c21430f245f2760a8fa3e",
-      "url": "https://github.com/vhyrro/neorg/archive/e6f2246a9a6509b2932c21430f245f2760a8fa3e.tar.gz",
-      "hash": "0yp9bn6qwxm4vrwbx5ypmj7byp5mki5xs4wnhwz4w2f7pabnf4qq"
+      "revision": "582d7b616d9bdb5e2bbcba4ebd0e82f7fb9130e0",
+      "url": "https://github.com/vhyrro/neorg/archive/582d7b616d9bdb5e2bbcba4ebd0e82f7fb9130e0.tar.gz",
+      "hash": "1xbx026f4bxs0jn4xchxw0r7v1wym5h2cvwklxhv066h8xy3l3xz"
     },
     "neoscroll-nvim": {
       "type": "Git",
