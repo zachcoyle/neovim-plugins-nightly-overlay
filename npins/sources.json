@@ -1903,9 +1903,9 @@
         "repo": "neorg"
       },
       "branch": "main",
-      "revision": "582d7b616d9bdb5e2bbcba4ebd0e82f7fb9130e0",
-      "url": "https://github.com/vhyrro/neorg/archive/582d7b616d9bdb5e2bbcba4ebd0e82f7fb9130e0.tar.gz",
-      "hash": "1xbx026f4bxs0jn4xchxw0r7v1wym5h2cvwklxhv066h8xy3l3xz"
+      "revision": "572de724159fcf929f3feb125da72b25ccad7bd2",
+      "url": "https://github.com/vhyrro/neorg/archive/572de724159fcf929f3feb125da72b25ccad7bd2.tar.gz",
+      "hash": "0l9n16z1bkakakrdk7h0zg6nkhl73amzw9snc98qccvvc61bsrnj"
     },
     "neoscroll-nvim": {
       "type": "Git",
@@ -2455,9 +2455,9 @@
         "repo": "nvim-lspconfig"
       },
       "branch": "master",
-      "revision": "216deb2d1b5fbf24398919228208649bbf5cbadf",
-      "url": "https://github.com/neovim/nvim-lspconfig/archive/216deb2d1b5fbf24398919228208649bbf5cbadf.tar.gz",
-      "hash": "105a1k91gp7a73bpib3k2n07dnxx43vir6bprb18b9vdr8h6x2vr"
+      "revision": "01e08d4bf1c35e5126b2ad5209725e4c552289ab",
+      "url": "https://github.com/neovim/nvim-lspconfig/archive/01e08d4bf1c35e5126b2ad5209725e4c552289ab.tar.gz",
+      "hash": "1h7cri2jprb8y8hr5lrl4rqyjj02zzjhf64wfgn752dq3iwbrrwn"
     },
     "nvim-navbuddy": {
       "type": "Git",
