@@ -1304,9 +1304,9 @@
         "repo": "gitsigns.nvim"
       },
       "branch": "main",
-      "revision": "2a7b39f4d282935f8b44cbe82879af69c7472f5c",
-      "url": "https://github.com/lewis6991/gitsigns.nvim/archive/2a7b39f4d282935f8b44cbe82879af69c7472f5c.tar.gz",
-      "hash": "0vyifliyvli74gmczlcpyfa6xcdvr0rj7b7jmslgwyswali13q32"
+      "revision": "f4928ba14eb6c667786ac7d69927f6aee6719f1e",
+      "url": "https://github.com/lewis6991/gitsigns.nvim/archive/f4928ba14eb6c667786ac7d69927f6aee6719f1e.tar.gz",
+      "hash": "1pgj1dn4xdsf4rgv44n3j8rcg5rxp2f45sidzlmdrqnfp5vm6mc8"
     },
     "glow-nvim": {
       "type": "Git",
@@ -1544,9 +1544,9 @@
         "repo": "lazy.nvim"
       },
       "branch": "main",
-      "revision": "9d445ebbd89401544a538c6af080e4d2785abb49",
-      "url": "https://github.com/folke/lazy.nvim/archive/9d445ebbd89401544a538c6af080e4d2785abb49.tar.gz",
-      "hash": "17qnv44mdy4dy5cvmpayq305l5in3acig69xirdm3imv245md72k"
+      "revision": "d731a6b005fd239e85e555bd57362382f6c1e461",
+      "url": "https://github.com/folke/lazy.nvim/archive/d731a6b005fd239e85e555bd57362382f6c1e461.tar.gz",
+      "hash": "0v2sn6y8w68qn6zw25ac5qxk0dlwav98z788xkhfy89irah4zsbm"
     },
     "lazygit-nvim": {
       "type": "Git",
@@ -1903,9 +1903,9 @@
         "repo": "neorg"
       },
       "branch": "main",
-      "revision": "b47fd8b0545ef74600bfa8be0af309e63590ffa8",
-      "url": "https://github.com/vhyrro/neorg/archive/b47fd8b0545ef74600bfa8be0af309e63590ffa8.tar.gz",
-      "hash": "1zalq51zn1xsm9zf6gkq97hxgpssm0097gly7jx0kprlycb3x9ag"
+      "revision": "8ddc74ab476f2e33ee9faf5e94ff1e0cd7ff690f",
+      "url": "https://github.com/vhyrro/neorg/archive/8ddc74ab476f2e33ee9faf5e94ff1e0cd7ff690f.tar.gz",
+      "hash": "1xsszf6msvf9x8x8m65lqf9z8j02rmx04j0yhbifwcwlb444ra8r"
     },
     "neoscroll-nvim": {
       "type": "Git",
