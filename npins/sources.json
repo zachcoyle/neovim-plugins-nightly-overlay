@@ -884,9 +884,9 @@
         "repo": "conform.nvim"
       },
       "branch": "master",
-      "revision": "1d1362b0261d06a0b91872e916c172320bbb988a",
-      "url": "https://github.com/stevearc/conform.nvim/archive/1d1362b0261d06a0b91872e916c172320bbb988a.tar.gz",
-      "hash": "0lhi0vchxs2p6207610rfsb04cwvk7xv4k5cbiwcvqppl7771a8i"
+      "revision": "310e2e95a4f832163f3f7a9fedebb1a4afc0db69",
+      "url": "https://github.com/stevearc/conform.nvim/archive/310e2e95a4f832163f3f7a9fedebb1a4afc0db69.tar.gz",
+      "hash": "1zbyq9f07p3a4myk08fjn49pzc0fckp8a8rnbk3y35m0ddvirvwr"
     },
     "conjure": {
       "type": "Git",
@@ -1903,9 +1903,9 @@
         "repo": "neorg"
       },
       "branch": "main",
-      "revision": "572de724159fcf929f3feb125da72b25ccad7bd2",
-      "url": "https://github.com/vhyrro/neorg/archive/572de724159fcf929f3feb125da72b25ccad7bd2.tar.gz",
-      "hash": "0l9n16z1bkakakrdk7h0zg6nkhl73amzw9snc98qccvvc61bsrnj"
+      "revision": "b47fd8b0545ef74600bfa8be0af309e63590ffa8",
+      "url": "https://github.com/vhyrro/neorg/archive/b47fd8b0545ef74600bfa8be0af309e63590ffa8.tar.gz",
+      "hash": "1zalq51zn1xsm9zf6gkq97hxgpssm0097gly7jx0kprlycb3x9ag"
     },
     "neoscroll-nvim": {
       "type": "Git",
@@ -2587,9 +2587,9 @@
         "repo": "nvim-treesitter"
       },
       "branch": "master",
-      "revision": "a6b2f4ecc8a47011868632142a9b687d7e0f9aaf",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/a6b2f4ecc8a47011868632142a9b687d7e0f9aaf.tar.gz",
-      "hash": "0wad4m0bp6s33hgakz1grcyggyz9ij7bqaybcw8hak75b4r25x7z"
+      "revision": "a8c1f36d2c7246125da565642a4d015732b61458",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/a8c1f36d2c7246125da565642a4d015732b61458.tar.gz",
+      "hash": "0cgax9mmgsj2sdkgzrgx541m9m5l9q59r5myjds3gsg0nzc7fvkk"
     },
     "nvim-treesitter-context": {
       "type": "Git",
