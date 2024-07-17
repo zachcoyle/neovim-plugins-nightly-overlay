@@ -1903,9 +1903,9 @@
         "repo": "neorg"
       },
       "branch": "main",
-      "revision": "efd7bd9c584c206d7aed2c40b02c73a9e5d04e73",
-      "url": "https://github.com/vhyrro/neorg/archive/efd7bd9c584c206d7aed2c40b02c73a9e5d04e73.tar.gz",
-      "hash": "080krphmvwhzf8q6sca09sxikkki7gx9m4f52mavcf3l1g5hrr6c"
+      "revision": "7e7c668c31c3039a33cc4d6206dc8662c836fec8",
+      "url": "https://github.com/vhyrro/neorg/archive/7e7c668c31c3039a33cc4d6206dc8662c836fec8.tar.gz",
+      "hash": "08rfbm9ysy6rlxvcdgn1qvz6z9nbw9x7b9sn03y52s178cnd0361"
     },
     "neoscroll-nvim": {
       "type": "Git",
@@ -2251,9 +2251,9 @@
         "repo": "none-ls.nvim"
       },
       "branch": "main",
-      "revision": "6648b03c8e635022527ece3bb82dc9a8ae754d67",
-      "url": "https://github.com/nvimtools/none-ls.nvim/archive/6648b03c8e635022527ece3bb82dc9a8ae754d67.tar.gz",
-      "hash": "0fwvdx8521fvik3njs6psg25m69l10x5gplv21400dripnmdqq09"
+      "revision": "8b5d4170a602d7b257704eef77b0539ddfd02589",
+      "url": "https://github.com/nvimtools/none-ls.nvim/archive/8b5d4170a602d7b257704eef77b0539ddfd02589.tar.gz",
+      "hash": "0n99bi5pvc4jlij21nf2mlq4bv87mmfs2lyygpifxfplsikdhswl"
     },
     "nord-nvim": {
       "type": "Git",
@@ -2383,9 +2383,9 @@
         "repo": "nvim-dap"
       },
       "branch": "master",
-      "revision": "6f79b822997f2e8a789c6034e147d42bc6706770",
-      "url": "https://github.com/mfussenegger/nvim-dap/archive/6f79b822997f2e8a789c6034e147d42bc6706770.tar.gz",
-      "hash": "009aal7bljwrryb74c02jgmfzvhg7v2hcr5xy19r000whnjgh89i"
+      "revision": "0a54fc956edd45bfea7282ac14e316d752cbc9e5",
+      "url": "https://github.com/mfussenegger/nvim-dap/archive/0a54fc956edd45bfea7282ac14e316d752cbc9e5.tar.gz",
+      "hash": "01s6810j6cb0c917rdblqhpz3kq3c9wlyjqfi26jk5q7y934fwxf"
     },
     "nvim-dap-virtual-text": {
       "type": "Git",
@@ -2683,9 +2683,9 @@
         "repo": "obsidian.nvim"
       },
       "branch": "main",
-      "revision": "ae1f76a75c7ce36866e1d9342a8f6f5b9c2caf9b",
-      "url": "https://github.com/epwalsh/obsidian.nvim/archive/ae1f76a75c7ce36866e1d9342a8f6f5b9c2caf9b.tar.gz",
-      "hash": "0af1l5dqxgq91nvbz3jx7z360c8hkhj5hhc3maixw8yh9llw97sq"
+      "revision": "ee298fd2136612a4ca6a745a4aec3f49ce6f94b0",
+      "url": "https://github.com/epwalsh/obsidian.nvim/archive/ee298fd2136612a4ca6a745a4aec3f49ce6f94b0.tar.gz",
+      "hash": "12r068x6llcf3nwwn7kwab61ihlxbc7746bw1455za2lrmbhj47g"
     },
     "octo-nvim": {
       "type": "Git",
@@ -3871,9 +3871,9 @@
         "repo": "which-key.nvim"
       },
       "branch": "main",
-      "revision": "f29387d82055b091564b33a805fec8f1b52b39f9",
-      "url": "https://github.com/folke/which-key.nvim/archive/f29387d82055b091564b33a805fec8f1b52b39f9.tar.gz",
-      "hash": "1vz35arh03ymhx5kg9kzb74d2s3w8n31cswq34sq2c37wpna1bjr"
+      "revision": "e8b454fb03e3cab398c894e5d462c84595ee57ca",
+      "url": "https://github.com/folke/which-key.nvim/archive/e8b454fb03e3cab398c894e5d462c84595ee57ca.tar.gz",
+      "hash": "172802kn9qgxp9fzp7klf1v282g343q91lfa9bxwbhc4cjw4s0rf"
     },
     "wilder-nvim": {
       "type": "Git",
