@@ -476,9 +476,9 @@
         "repo": "cmp-git"
       },
       "branch": "main",
-      "revision": "22116bdffbe68bfc6ca05d52e9f217587cbfea8b",
-      "url": "https://github.com/petertriho/cmp-git/archive/22116bdffbe68bfc6ca05d52e9f217587cbfea8b.tar.gz",
-      "hash": "1zmw0mxfzh6gy5lqc3zi7q1mk8m7mip1fq62j2jrxqll26nj7d6d"
+      "revision": "3d83031c4b63f9b10703e32e070cda0700a81992",
+      "url": "https://github.com/petertriho/cmp-git/archive/3d83031c4b63f9b10703e32e070cda0700a81992.tar.gz",
+      "hash": "1vnd05v6ni7kn3qkrmm75ns2p29liyl1b1xl56whijp0r0v26s89"
     },
     "cmp-greek": {
       "type": "Git",
