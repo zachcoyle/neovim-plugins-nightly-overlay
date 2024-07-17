@@ -128,9 +128,9 @@
         "repo": "barbar.nvim"
       },
       "branch": "master",
-      "revision": "d181f2cfd4b828f9c6f1e10e69c68241de59f54f",
-      "url": "https://github.com/romgrk/barbar.nvim/archive/d181f2cfd4b828f9c6f1e10e69c68241de59f54f.tar.gz",
-      "hash": "1qxhi60h5vy3ygm66i18122ib1xr01l8m6jn43bfav6x74jdr3si"
+      "revision": "53b5a2f34b68875898f0531032fbf090e3952ad7",
+      "url": "https://github.com/romgrk/barbar.nvim/archive/53b5a2f34b68875898f0531032fbf090e3952ad7.tar.gz",
+      "hash": "0vzjgk5w55wbhf26dsk9m0ffdvwmkmsb3rgpwf989vbxcqmw8haw"
     },
     "barbecue-nvim": {
       "type": "Git",
