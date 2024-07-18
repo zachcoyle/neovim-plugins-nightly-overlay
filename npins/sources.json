@@ -956,9 +956,9 @@
         "repo": "coq_nvim"
       },
       "branch": "coq",
-      "revision": "6b35465a58052f06b5ee0ca63606439ea7c862e8",
-      "url": "https://github.com/ms-jpq/coq_nvim/archive/6b35465a58052f06b5ee0ca63606439ea7c862e8.tar.gz",
-      "hash": "162xqsrdv9zpqhr723z5b4m1154ryvddbj5kyxsrwccgxj6q5irv"
+      "revision": "e098fd142ac559bce314649a1ef81ab9a580fde9",
+      "url": "https://github.com/ms-jpq/coq_nvim/archive/e098fd142ac559bce314649a1ef81ab9a580fde9.tar.gz",
+      "hash": "0qmppba0ja4wpl5wjjxn9pv26zndc7bvq4mmi8nvnrm0pvsl7dgg"
     },
     "crates-nvim": {
       "type": "Git",
@@ -1580,9 +1580,9 @@
         "repo": "leap.nvim"
       },
       "branch": "main",
-      "revision": "c099aecaf858574909bd38cbadb8543c4dd16611",
-      "url": "https://github.com/ggandor/leap.nvim/archive/c099aecaf858574909bd38cbadb8543c4dd16611.tar.gz",
-      "hash": "14yxi5axkgylrwkxfhfjcfvr3zy1vwa16pxafwa6mrampjqj6s68"
+      "revision": "a9a9faee45066f2796c9a0e0ef52bf571d144492",
+      "url": "https://github.com/ggandor/leap.nvim/archive/a9a9faee45066f2796c9a0e0ef52bf571d144492.tar.gz",
+      "hash": "1h11m46awlf7vbhkz125jq13h0nmza90k5xyf4dwvk47n3v7wqka"
     },
     "lightline-vim": {
       "type": "Git",
@@ -3871,9 +3871,9 @@
         "repo": "which-key.nvim"
       },
       "branch": "main",
-      "revision": "ae4ec030489d7ecda908e473aea096a7594f84e8",
-      "url": "https://github.com/folke/which-key.nvim/archive/ae4ec030489d7ecda908e473aea096a7594f84e8.tar.gz",
-      "hash": "1q3p1xr643q5s3rsa1vb1wyn6d12ri22fhkl24l8qigi9bd21k3n"
+      "revision": "b870152597f4a564148c989c2777325eb6a6ddab",
+      "url": "https://github.com/folke/which-key.nvim/archive/b870152597f4a564148c989c2777325eb6a6ddab.tar.gz",
+      "hash": "1zzayg156dsncs2j5zl6wd06calz7s8dsa4qbyxxj4s3k84lq9ii"
     },
     "wilder-nvim": {
       "type": "Git",
