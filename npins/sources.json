@@ -200,9 +200,9 @@
         "repo": "bufferline.nvim"
       },
       "branch": "main",
-      "revision": "2e3c8cc5a57ddd32f1edd2ffd2ccb10c09421f6c",
-      "url": "https://github.com/akinsho/bufferline.nvim/archive/2e3c8cc5a57ddd32f1edd2ffd2ccb10c09421f6c.tar.gz",
-      "hash": "14n1pv8svb22hvcan8yyzqn8pgmf50yn47xmp98m05ap5zf42rj1"
+      "revision": "28e347dbc6d0e8367ea56fb045fb9d135579ff79",
+      "url": "https://github.com/akinsho/bufferline.nvim/archive/28e347dbc6d0e8367ea56fb045fb9d135579ff79.tar.gz",
+      "hash": "1m137cd38ws1wjq26d9gldrbnc7m7kdbq1xhq5b35frfjx54pyfq"
     },
     "calvera-dark-nvim": {
       "type": "Git",
