@@ -1544,8 +1544,8 @@
         "repo": "lazy.nvim"
       },
       "branch": "main",
-      "revision": "8f6225751138329da339eb6554d40158768d23ff",
-      "url": "https://github.com/folke/lazy.nvim/archive/8f6225751138329da339eb6554d40158768d23ff.tar.gz",
+      "revision": "c92c6b5fd2b3a13c8999ab8379e43a79c9406e59",
+      "url": "https://github.com/folke/lazy.nvim/archive/c92c6b5fd2b3a13c8999ab8379e43a79c9406e59.tar.gz",
       "hash": "1a7xh1bxa50sscn1w1kb609kz5sli3la0wfhsk47av2l9k2wsrwd"
     },
     "lazygit-nvim": {
@@ -3871,9 +3871,9 @@
         "repo": "which-key.nvim"
       },
       "branch": "main",
-      "revision": "439d1247cbfed8ee46d6c9a5edbfad6b4c968e06",
-      "url": "https://github.com/folke/which-key.nvim/archive/439d1247cbfed8ee46d6c9a5edbfad6b4c968e06.tar.gz",
-      "hash": "1xl7biaa4cb35irqqy1smh9ccqnlf197xk9qh9zy6yh64v1b8s7k"
+      "revision": "ae4ec030489d7ecda908e473aea096a7594f84e8",
+      "url": "https://github.com/folke/which-key.nvim/archive/ae4ec030489d7ecda908e473aea096a7594f84e8.tar.gz",
+      "hash": "1q3p1xr643q5s3rsa1vb1wyn6d12ri22fhkl24l8qigi9bd21k3n"
     },
     "wilder-nvim": {
       "type": "Git",
