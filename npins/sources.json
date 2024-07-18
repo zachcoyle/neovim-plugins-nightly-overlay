@@ -2455,9 +2455,9 @@
         "repo": "nvim-lspconfig"
       },
       "branch": "master",
-      "revision": "01e08d4bf1c35e5126b2ad5209725e4c552289ab",
-      "url": "https://github.com/neovim/nvim-lspconfig/archive/01e08d4bf1c35e5126b2ad5209725e4c552289ab.tar.gz",
-      "hash": "1h7cri2jprb8y8hr5lrl4rqyjj02zzjhf64wfgn752dq3iwbrrwn"
+      "revision": "df9c116cbcf0aa7e58f2b36b0296fa687e87f36f",
+      "url": "https://github.com/neovim/nvim-lspconfig/archive/df9c116cbcf0aa7e58f2b36b0296fa687e87f36f.tar.gz",
+      "hash": "1fd2p7zw1rwk0b8zi6y0mbfkrhq36l843p0x575y1vgir9cz3dc9"
     },
     "nvim-navbuddy": {
       "type": "Git",
@@ -3427,9 +3427,9 @@
         "repo": "typescript-tools.nvim"
       },
       "branch": "master",
-      "revision": "3ecf6b29435dc7979eb5cdf1a9ff11bd65f5ea90",
-      "url": "https://github.com/pmizio/typescript-tools.nvim/archive/3ecf6b29435dc7979eb5cdf1a9ff11bd65f5ea90.tar.gz",
-      "hash": "1fj3x8zma06y1jyy45dvjz0niwa6gmslkzj210waa1y90aby1a93"
+      "revision": "f8c2e0b36b651c85f52ad5c5373ff8b07adc15a7",
+      "url": "https://github.com/pmizio/typescript-tools.nvim/archive/f8c2e0b36b651c85f52ad5c5373ff8b07adc15a7.tar.gz",
+      "hash": "1ha0mmzqhmhrs2y0llrqfnsq46p9xrdn9cx7an1mimnz4xwgyqgi"
     },
     "typst-vim": {
       "type": "Git",
