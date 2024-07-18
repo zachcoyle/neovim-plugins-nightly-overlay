@@ -956,9 +956,9 @@
         "repo": "coq_nvim"
       },
       "branch": "coq",
-      "revision": "e098fd142ac559bce314649a1ef81ab9a580fde9",
-      "url": "https://github.com/ms-jpq/coq_nvim/archive/e098fd142ac559bce314649a1ef81ab9a580fde9.tar.gz",
-      "hash": "0qmppba0ja4wpl5wjjxn9pv26zndc7bvq4mmi8nvnrm0pvsl7dgg"
+      "revision": "032f33ac9d938248a9999b6c69e160ec8046efb6",
+      "url": "https://github.com/ms-jpq/coq_nvim/archive/032f33ac9d938248a9999b6c69e160ec8046efb6.tar.gz",
+      "hash": "0swks76iy47mixc2kmjs9jknawp07dnyxmyqmz6s8qa82xmr1nyp"
     },
     "crates-nvim": {
       "type": "Git",
@@ -1208,9 +1208,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "023b95078f9cc28ce67d7a7a6b4ea1bc7cfa488d",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/023b95078f9cc28ce67d7a7a6b4ea1bc7cfa488d.tar.gz",
-      "hash": "159xkgrvgp34446nyq5k8ngymk36mxdgrk0xy5yybbdxy90akmld"
+      "revision": "6b5c48fe40695c0b1df61c1bbf7fdcfca04c7e16",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/6b5c48fe40695c0b1df61c1bbf7fdcfca04c7e16.tar.gz",
+      "hash": "1l3nv0dpfphh1ndcdzynkihcvs65lhig18sbc5k808090g9sg5ay"
     },
     "galaxyline-nvim": {
       "type": "Git",
@@ -2239,9 +2239,9 @@
         "repo": "noice.nvim"
       },
       "branch": "main",
-      "revision": "daa5f6908e97c89ca3e9861e03bdf356ea48cc72",
-      "url": "https://github.com/folke/noice.nvim/archive/daa5f6908e97c89ca3e9861e03bdf356ea48cc72.tar.gz",
-      "hash": "0qfzkpwxlzb87h4nnl5i90039dip576pz3j4wb127f30f3dh8yfg"
+      "revision": "1df01e495b3ac0e2f5f111eba759691a9c21bb72",
+      "url": "https://github.com/folke/noice.nvim/archive/1df01e495b3ac0e2f5f111eba759691a9c21bb72.tar.gz",
+      "hash": "1nzs7gqpk6a8gz1bql639rhsa5v3lrq3gfdqgrnj3rc0n61x1f6p"
     },
     "none-ls-nvim": {
       "type": "Git",
@@ -2911,9 +2911,9 @@
         "repo": "refactoring.nvim"
       },
       "branch": "master",
-      "revision": "d07218748c48e756c27aa6859bfa6e62a3d271af",
-      "url": "https://github.com/ThePrimeagen/refactoring.nvim/archive/d07218748c48e756c27aa6859bfa6e62a3d271af.tar.gz",
-      "hash": "14ckyn81czdiymsk8gvjjpaz10ny9232qb118fdl311q1ln794fk"
+      "revision": "7533948b65860ef20292c617bb4faebfb6518363",
+      "url": "https://github.com/ThePrimeagen/refactoring.nvim/archive/7533948b65860ef20292c617bb4faebfb6518363.tar.gz",
+      "hash": "0vgiws47asnh8h5j2p0p72mr4dyrf4blvjf4v3qvpyh0yd4ndq1z"
     },
     "rest-nvim": {
       "type": "Git",
