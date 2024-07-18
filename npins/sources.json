@@ -44,9 +44,9 @@
         "repo": "SchemaStore.nvim"
       },
       "branch": "main",
-      "revision": "57116dd9fd9ee4d73c1e9a1335d92b4c71851cf7",
-      "url": "https://github.com/b0o/SchemaStore.nvim/archive/57116dd9fd9ee4d73c1e9a1335d92b4c71851cf7.tar.gz",
-      "hash": "1sms1wgxmsidrb5isxkn9wig0a9aa3ipl7zl9babs1adnbgkf8l8"
+      "revision": "58a965eedbfe7c358938b0e535ed2d98a4520987",
+      "url": "https://github.com/b0o/SchemaStore.nvim/archive/58a965eedbfe7c358938b0e535ed2d98a4520987.tar.gz",
+      "hash": "1dcgzsnr68rn1722q6xss4i9p7gmbkic85836vc2i215fdspfbcd"
     },
     "alpha-nvim": {
       "type": "Git",
@@ -1568,9 +1568,9 @@
         "repo": "lean.nvim"
       },
       "branch": "main",
-      "revision": "182703184edb866d7bfe878be358295e189c8223",
-      "url": "https://github.com/Julian/lean.nvim/archive/182703184edb866d7bfe878be358295e189c8223.tar.gz",
-      "hash": "0ymkhg3hdk26i0if61l6vdmb3fy6xa7q635x8lnxi4a59f52bin8"
+      "revision": "a49087036b236461a340a9e26fbf3b46a4704c2f",
+      "url": "https://github.com/Julian/lean.nvim/archive/a49087036b236461a340a9e26fbf3b46a4704c2f.tar.gz",
+      "hash": "1zm0s2rc1y6qxvxy6wg8aw8ybzamacji19rhvha2f0gfq4x2akf2"
     },
     "leap-nvim": {
       "type": "Git",
@@ -2587,9 +2587,9 @@
         "repo": "nvim-treesitter"
       },
       "branch": "master",
-      "revision": "d78ab90f8e40d91bab98f58582d6dd5119e6088f",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/d78ab90f8e40d91bab98f58582d6dd5119e6088f.tar.gz",
-      "hash": "0n6pqk4yfij99dvfsz10nir04pjv4n60simwxnwz17jd0zjm8nfq"
+      "revision": "de8d91d0efb9016004f04279aae115edb4ef5bf2",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/de8d91d0efb9016004f04279aae115edb4ef5bf2.tar.gz",
+      "hash": "01l73y0x95y7zgjsh485scv1km40l0il5lmbp8gzpb7f4hzjpsxd"
     },
     "nvim-treesitter-context": {
       "type": "Git",
@@ -3871,9 +3871,9 @@
         "repo": "which-key.nvim"
       },
       "branch": "main",
-      "revision": "c512d135531be81e17c85e254994cc755d3016c5",
-      "url": "https://github.com/folke/which-key.nvim/archive/c512d135531be81e17c85e254994cc755d3016c5.tar.gz",
-      "hash": "18nn3fj1nv33yyap91bkgcj07l6ddnvrsdmzp2pdk7pd5b5mmrjg"
+      "revision": "6fe065716e08550328c471689e6f8c1e42a0effc",
+      "url": "https://github.com/folke/which-key.nvim/archive/6fe065716e08550328c471689e6f8c1e42a0effc.tar.gz",
+      "hash": "1cnzdz9867cgzl54rzzzvdw2kjwdy9a90hxdli7fx214q6khja3s"
     },
     "wilder-nvim": {
       "type": "Git",
