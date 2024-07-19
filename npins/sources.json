@@ -980,9 +980,9 @@
         "repo": "cyberdream.nvim"
       },
       "branch": "main",
-      "revision": "7d658e768199b235e14363fa8e122754a78747c5",
-      "url": "https://github.com/scottmckendry/cyberdream.nvim/archive/7d658e768199b235e14363fa8e122754a78747c5.tar.gz",
-      "hash": "07ijy7h71i8ajxy44qc5ncq3i6j3h6wwq90s6q8sv306flcksi3m"
+      "revision": "ba25d43d68dd34d31bee88286fb6179df2763c31",
+      "url": "https://github.com/scottmckendry/cyberdream.nvim/archive/ba25d43d68dd34d31bee88286fb6179df2763c31.tar.gz",
+      "hash": "0vik1lagw6sjj3pkhn35ni099q0ip468k383hpaccsdjqgns24h2"
     },
     "dashboard-nvim": {
       "type": "Git",
@@ -2911,9 +2911,9 @@
         "repo": "refactoring.nvim"
       },
       "branch": "master",
-      "revision": "ff08fecf77f4af56fcc3a6ce7366091da9569cf2",
-      "url": "https://github.com/ThePrimeagen/refactoring.nvim/archive/ff08fecf77f4af56fcc3a6ce7366091da9569cf2.tar.gz",
-      "hash": "1mir8qplj4yx1zvdq0ha9570k6qhdfv51gw762khd0rzi9c0dzyz"
+      "revision": "8ef9cfb8199bed4be4d609cc4b5dbfb5416b3ca6",
+      "url": "https://github.com/ThePrimeagen/refactoring.nvim/archive/8ef9cfb8199bed4be4d609cc4b5dbfb5416b3ca6.tar.gz",
+      "hash": "03l9sr6a399g0dwijym3csgj9bw77mqd7zdy2vasbcm11nklcvc2"
     },
     "rest-nvim": {
       "type": "Git",
