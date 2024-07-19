@@ -3811,9 +3811,9 @@
         "repo": "vim-wakatime"
       },
       "branch": "master",
-      "revision": "20498ef280ec3ed4282f8eed1667968b8b26f089",
-      "url": "https://github.com/wakatime/vim-wakatime/archive/20498ef280ec3ed4282f8eed1667968b8b26f089.tar.gz",
-      "hash": "01k06lqsw5bfi100dx1gqdia1yc7al1873lgsc79b6v115886c3y"
+      "revision": "d72aac70fcee172413f89621b65b5383bd845e4b",
+      "url": "https://github.com/wakatime/vim-wakatime/archive/d72aac70fcee172413f89621b65b5383bd845e4b.tar.gz",
+      "hash": "0zyz21nj0pk86ip7cpi2yam2a0hhwh8gbk95gix5pqdvhrdm244k"
     },
     "vim-which-key": {
       "type": "Git",
