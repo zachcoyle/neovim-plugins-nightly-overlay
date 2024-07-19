@@ -1208,9 +1208,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "efa3215f5b78e38d880fa3ee0a1a48a86a349871",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/efa3215f5b78e38d880fa3ee0a1a48a86a349871.tar.gz",
-      "hash": "0c4ffrn9jn5zcy6y48ivn82nq4v0wk89f2gq7cvwg8390cklnx9f"
+      "revision": "eede89ae559500ebb4e8a5c56eb8a15ca0d380b6",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/eede89ae559500ebb4e8a5c56eb8a15ca0d380b6.tar.gz",
+      "hash": "0jvj0qrlfs361y7k6b5vpdp9g97m4hyjd8l66gsiqj22nfvrwgky"
     },
     "galaxyline-nvim": {
       "type": "Git",
@@ -1903,9 +1903,9 @@
         "repo": "neorg"
       },
       "branch": "main",
-      "revision": "87e55f3727ad84ecc261f7236892f4dbec82efc1",
-      "url": "https://github.com/vhyrro/neorg/archive/87e55f3727ad84ecc261f7236892f4dbec82efc1.tar.gz",
-      "hash": "1p43z156624fvzhck9mbdxvn4jrayh3ky9745z8y1p94m8sgbv1v"
+      "revision": "32803baa367bfb4d3bef49e6ea58f8256ebc59cf",
+      "url": "https://github.com/vhyrro/neorg/archive/32803baa367bfb4d3bef49e6ea58f8256ebc59cf.tar.gz",
+      "hash": "1cjgc1i7d3bvc1dm36sxqls73g5bnbip4pg359zp41v74pdhq1gp"
     },
     "neoscroll-nvim": {
       "type": "Git",
