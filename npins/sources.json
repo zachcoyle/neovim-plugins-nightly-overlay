@@ -404,9 +404,9 @@
         "repo": "cmp-dictionary"
       },
       "branch": "main",
-      "revision": "42866957964aa698d53f222395dbd1e334e77fdd",
-      "url": "https://github.com/uga-rosa/cmp-dictionary/archive/42866957964aa698d53f222395dbd1e334e77fdd.tar.gz",
-      "hash": "01p2xj1m6p18f40i8h88kcrmzzswrg1cr03p0wmsq9lmjnic6782"
+      "revision": "7144ce4bb2abc61a474cfdb3bb652a9ae82079e4",
+      "url": "https://github.com/uga-rosa/cmp-dictionary/archive/7144ce4bb2abc61a474cfdb3bb652a9ae82079e4.tar.gz",
+      "hash": "193c66ia72sc2l3rirqjw1m78hzx1wjbm642pnhw9zyfzcaq1f0q"
     },
     "cmp-digraphs": {
       "type": "Git",
@@ -956,9 +956,9 @@
         "repo": "coq_nvim"
       },
       "branch": "coq",
-      "revision": "032f33ac9d938248a9999b6c69e160ec8046efb6",
-      "url": "https://github.com/ms-jpq/coq_nvim/archive/032f33ac9d938248a9999b6c69e160ec8046efb6.tar.gz",
-      "hash": "0swks76iy47mixc2kmjs9jknawp07dnyxmyqmz6s8qa82xmr1nyp"
+      "revision": "2ef4bae6bb586e38d6a54e522000a8ee8c0450c6",
+      "url": "https://github.com/ms-jpq/coq_nvim/archive/2ef4bae6bb586e38d6a54e522000a8ee8c0450c6.tar.gz",
+      "hash": "1iaqsyhfr1dmkj17d4v4sgz9l418za2819plfvdp38s1b2b6yvll"
     },
     "crates-nvim": {
       "type": "Git",
@@ -980,9 +980,9 @@
         "repo": "cyberdream.nvim"
       },
       "branch": "main",
-      "revision": "bf0dfaa5f744e9f35251d4d12386937c8a96f87d",
-      "url": "https://github.com/scottmckendry/cyberdream.nvim/archive/bf0dfaa5f744e9f35251d4d12386937c8a96f87d.tar.gz",
-      "hash": "0aygb63hlcsfci36xa8nmw6i63zd4nflr9f4b3wsmyz8rw0nf1i4"
+      "revision": "7d658e768199b235e14363fa8e122754a78747c5",
+      "url": "https://github.com/scottmckendry/cyberdream.nvim/archive/7d658e768199b235e14363fa8e122754a78747c5.tar.gz",
+      "hash": "07ijy7h71i8ajxy44qc5ncq3i6j3h6wwq90s6q8sv306flcksi3m"
     },
     "dashboard-nvim": {
       "type": "Git",
@@ -2911,9 +2911,9 @@
         "repo": "refactoring.nvim"
       },
       "branch": "master",
-      "revision": "7533948b65860ef20292c617bb4faebfb6518363",
-      "url": "https://github.com/ThePrimeagen/refactoring.nvim/archive/7533948b65860ef20292c617bb4faebfb6518363.tar.gz",
-      "hash": "0vgiws47asnh8h5j2p0p72mr4dyrf4blvjf4v3qvpyh0yd4ndq1z"
+      "revision": "ff08fecf77f4af56fcc3a6ce7366091da9569cf2",
+      "url": "https://github.com/ThePrimeagen/refactoring.nvim/archive/ff08fecf77f4af56fcc3a6ce7366091da9569cf2.tar.gz",
+      "hash": "1mir8qplj4yx1zvdq0ha9570k6qhdfv51gw762khd0rzi9c0dzyz"
     },
     "rest-nvim": {
       "type": "Git",
@@ -3571,9 +3571,9 @@
         "repo": "vim-fugitive"
       },
       "branch": "master",
-      "revision": "8c8cdf4405cb8bdb70dd9812a33bb52363a87dbc",
-      "url": "https://github.com/tpope/vim-fugitive/archive/8c8cdf4405cb8bdb70dd9812a33bb52363a87dbc.tar.gz",
-      "hash": "1njc46mdvpipci7l2gcljsi0nxxjzwjr7s8pfkvr2l25bi3irz09"
+      "revision": "0444df68cd1cdabc7453d6bd84099458327e5513",
+      "url": "https://github.com/tpope/vim-fugitive/archive/0444df68cd1cdabc7453d6bd84099458327e5513.tar.gz",
+      "hash": "0sx67lwz1f6kd2751qbbzpgq0hjik1g8x4svp788yvzbjdgdmc9l"
     },
     "vim-godot": {
       "type": "Git",
