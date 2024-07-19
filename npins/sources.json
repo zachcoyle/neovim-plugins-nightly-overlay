@@ -1568,9 +1568,9 @@
         "repo": "lean.nvim"
       },
       "branch": "main",
-      "revision": "a49087036b236461a340a9e26fbf3b46a4704c2f",
-      "url": "https://github.com/Julian/lean.nvim/archive/a49087036b236461a340a9e26fbf3b46a4704c2f.tar.gz",
-      "hash": "1zm0s2rc1y6qxvxy6wg8aw8ybzamacji19rhvha2f0gfq4x2akf2"
+      "revision": "0a90b97169482935c6d9c8c4fb6c0c7b37043559",
+      "url": "https://github.com/Julian/lean.nvim/archive/0a90b97169482935c6d9c8c4fb6c0c7b37043559.tar.gz",
+      "hash": "1faziqwk9yklvvlps0wazarpmk8mywngm11w34q3w3666f7db6nv"
     },
     "leap-nvim": {
       "type": "Git",
@@ -1903,9 +1903,9 @@
         "repo": "neorg"
       },
       "branch": "main",
-      "revision": "b04570a1bbbe80d226e459ed5f27f30fa1e2cd11",
-      "url": "https://github.com/vhyrro/neorg/archive/b04570a1bbbe80d226e459ed5f27f30fa1e2cd11.tar.gz",
-      "hash": "1j3p371fcp4xvq91akwdmncmyrjwyjxp7ljnhg9p5yvcg15x9nwp"
+      "revision": "87e55f3727ad84ecc261f7236892f4dbec82efc1",
+      "url": "https://github.com/vhyrro/neorg/archive/87e55f3727ad84ecc261f7236892f4dbec82efc1.tar.gz",
+      "hash": "1p43z156624fvzhck9mbdxvn4jrayh3ky9745z8y1p94m8sgbv1v"
     },
     "neoscroll-nvim": {
       "type": "Git",
