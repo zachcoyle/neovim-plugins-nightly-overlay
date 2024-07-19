@@ -896,9 +896,9 @@
         "repo": "conjure"
       },
       "branch": "master",
-      "revision": "a81977726f726b21d4bd75cea5bbbb7022005507",
-      "url": "https://github.com/Olical/conjure/archive/a81977726f726b21d4bd75cea5bbbb7022005507.tar.gz",
-      "hash": "154bkh2cxar7ajyi8y4ym6ckp48b333cml73a52g6qfiggql5r33"
+      "revision": "1157614e1c757cdbe062b08d617d162fb34ed3a3",
+      "url": "https://github.com/Olical/conjure/archive/1157614e1c757cdbe062b08d617d162fb34ed3a3.tar.gz",
+      "hash": "03rrfba6z47sy4x1a7wrmnlfysz20zn8z1wxinbf60dkaiyjsfgp"
     },
     "copilot-cmp": {
       "type": "Git",
@@ -3871,9 +3871,9 @@
         "repo": "which-key.nvim"
       },
       "branch": "main",
-      "revision": "a72d2482914d0ae3c5d24505c7bb91b834cf67d8",
-      "url": "https://github.com/folke/which-key.nvim/archive/a72d2482914d0ae3c5d24505c7bb91b834cf67d8.tar.gz",
-      "hash": "1xgaipf9ys82ylajqzzn4824jj8prswnmi1fq92cncsj9lry6n4y"
+      "revision": "6e61b0904e9c038b6c511c43591ae2d811b4975e",
+      "url": "https://github.com/folke/which-key.nvim/archive/6e61b0904e9c038b6c511c43591ae2d811b4975e.tar.gz",
+      "hash": "1xgs9iwarxcjncsl5n9kyjqqja4c7ryr3amcwnsyfhpv6k7wx3bh"
     },
     "wilder-nvim": {
       "type": "Git",
