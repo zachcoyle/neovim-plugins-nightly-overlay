@@ -3871,9 +3871,9 @@
         "repo": "which-key.nvim"
       },
       "branch": "main",
-      "revision": "6e61b0904e9c038b6c511c43591ae2d811b4975e",
-      "url": "https://github.com/folke/which-key.nvim/archive/6e61b0904e9c038b6c511c43591ae2d811b4975e.tar.gz",
-      "hash": "1xgs9iwarxcjncsl5n9kyjqqja4c7ryr3amcwnsyfhpv6k7wx3bh"
+      "revision": "858532c2504f5dcafff96188800a8ec9c4f8f7c4",
+      "url": "https://github.com/folke/which-key.nvim/archive/858532c2504f5dcafff96188800a8ec9c4f8f7c4.tar.gz",
+      "hash": "1h2fydisqvxqxplp62fspx14iyy10ikyplpsxmv9cbrqkzah2gaz"
     },
     "wilder-nvim": {
       "type": "Git",
