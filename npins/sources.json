@@ -1064,9 +1064,9 @@
         "repo": "dropbar.nvim"
       },
       "branch": "master",
-      "revision": "cab5e0226bc4f90a28cadcb0dc7341d550f1bdf0",
-      "url": "https://github.com/Bekaboo/dropbar.nvim/archive/cab5e0226bc4f90a28cadcb0dc7341d550f1bdf0.tar.gz",
-      "hash": "14548km67rn8rgpy529iihry8sh03wrl1j8pricqy94a1fjlmghh"
+      "revision": "6567d50fd792056e2001663f5cd4d8bfb6840604",
+      "url": "https://github.com/Bekaboo/dropbar.nvim/archive/6567d50fd792056e2001663f5cd4d8bfb6840604.tar.gz",
+      "hash": "1p7ldzhlicvj0hxw6dz311pmvfy4a8hxrkn0js704lclbqmqf0xa"
     },
     "edgy-nvim": {
       "type": "Git",
@@ -3403,9 +3403,9 @@
         "repo": "trouble.nvim"
       },
       "branch": "main",
-      "revision": "ad8ef38666834e9e438f84bd446657445bc2a71e",
-      "url": "https://github.com/folke/trouble.nvim/archive/ad8ef38666834e9e438f84bd446657445bc2a71e.tar.gz",
-      "hash": "1kdph6da719hi6vndyfz7fsv6wxjzx5fr9mwlhn84nrirmf2dg7m"
+      "revision": "1f71d71232173c1670ad4b9164d7f060586e2236",
+      "url": "https://github.com/folke/trouble.nvim/archive/1f71d71232173c1670ad4b9164d7f060586e2236.tar.gz",
+      "hash": "1ha1nhb8942j58haxr6gmin1lcfm1vybpssis8x9bfbvnw5qfjjc"
     },
     "twilight-nvim": {
       "type": "Git",
