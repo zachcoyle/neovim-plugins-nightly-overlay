@@ -3211,9 +3211,9 @@
         "repo": "telescope.nvim"
       },
       "branch": "master",
-      "revision": "bfcc7d5c6f12209139f175e6123a7b7de6d9c18a",
-      "url": "https://github.com/nvim-telescope/telescope.nvim/archive/bfcc7d5c6f12209139f175e6123a7b7de6d9c18a.tar.gz",
-      "hash": "1ysbn67rlf2p63pp8155198a5v0hv5cn2bbhdjz9r5255y5f19sk"
+      "revision": "79552ef8488cb492e0f9d2bf3b4e808f57515e35",
+      "url": "https://github.com/nvim-telescope/telescope.nvim/archive/79552ef8488cb492e0f9d2bf3b4e808f57515e35.tar.gz",
+      "hash": "0fnybm86rncm2ppvzapg6da850falvpqid4sz2fgic77xgyr638z"
     },
     "telescope-packer-nvim": {
       "type": "Git",
@@ -3871,9 +3871,9 @@
         "repo": "which-key.nvim"
       },
       "branch": "main",
-      "revision": "858532c2504f5dcafff96188800a8ec9c4f8f7c4",
-      "url": "https://github.com/folke/which-key.nvim/archive/858532c2504f5dcafff96188800a8ec9c4f8f7c4.tar.gz",
-      "hash": "1h2fydisqvxqxplp62fspx14iyy10ikyplpsxmv9cbrqkzah2gaz"
+      "revision": "83476a1206b48c9d331084b9fbdb267be050fcc1",
+      "url": "https://github.com/folke/which-key.nvim/archive/83476a1206b48c9d331084b9fbdb267be050fcc1.tar.gz",
+      "hash": "1kn35frf5xv3fi2qlljsmhc8wrzldv2jj9mq5g1dh8k5llxmhshl"
     },
     "wilder-nvim": {
       "type": "Git",
