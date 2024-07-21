@@ -104,9 +104,9 @@
         "repo": "autoclose.nvim"
       },
       "branch": "main",
-      "revision": "dc42806540dcf448ecb2bad6b67204410cfbe629",
-      "url": "https://github.com/m4xshen/autoclose.nvim/archive/dc42806540dcf448ecb2bad6b67204410cfbe629.tar.gz",
-      "hash": "03l4az5xccx941sbw2qx7s8aziydiad2pc75jki1mlbgs7sdbhwi"
+      "revision": "b2077aa2c83df7ebc19b2a20a3a0654b24ae9c8f",
+      "url": "https://github.com/m4xshen/autoclose.nvim/archive/b2077aa2c83df7ebc19b2a20a3a0654b24ae9c8f.tar.gz",
+      "hash": "0qsaiwn3fznzzda9xw0v4ss6cyhladiwikslbnh0w29qz732g0lq"
     },
     "baleia-nvim": {
       "type": "Git",
