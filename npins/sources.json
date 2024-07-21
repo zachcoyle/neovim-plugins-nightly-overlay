@@ -2935,9 +2935,9 @@
         "repo": "neovim"
       },
       "branch": "main",
-      "revision": "9e4320d0bab7f261921d6af7d1c1bbc1a1e3dc67",
-      "url": "https://github.com/rose-pine/neovim/archive/9e4320d0bab7f261921d6af7d1c1bbc1a1e3dc67.tar.gz",
-      "hash": "11ksc6k5fg8nxb3sk40d06lrk8ycsss76q2w4lba6b6bph7b6l21"
+      "revision": "15dea443220d4254321c963e0c64ecb85b30db54",
+      "url": "https://github.com/rose-pine/neovim/archive/15dea443220d4254321c963e0c64ecb85b30db54.tar.gz",
+      "hash": "1dzhnwg08yhkkakd2fggi06cy9zrjy8s4zmdvclagjx2jzy6j1f1"
     },
     "scrollbar-nvim": {
       "type": "Git",
@@ -3103,9 +3103,9 @@
         "repo": "telescope-file-browser.nvim"
       },
       "branch": "master",
-      "revision": "a7ab9a957b17199183388c6f357d614fcaa508e5",
-      "url": "https://github.com/nvim-telescope/telescope-file-browser.nvim/archive/a7ab9a957b17199183388c6f357d614fcaa508e5.tar.gz",
-      "hash": "0g3wh4bspjwmzrd0gl5wwkm6lscbaih8jqzhxzlnbbxk8aky75fr"
+      "revision": "8574946bf6d0d820d7f600f3db808f5900a2ae23",
+      "url": "https://github.com/nvim-telescope/telescope-file-browser.nvim/archive/8574946bf6d0d820d7f600f3db808f5900a2ae23.tar.gz",
+      "hash": "145jssc1agd8cw49p3l781lsphym74gn3kjlfl35c6j7bhkhmyvc"
     },
     "telescope-frecency-nvim": {
       "type": "Git",
