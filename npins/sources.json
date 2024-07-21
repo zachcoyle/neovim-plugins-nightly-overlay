@@ -2239,9 +2239,9 @@
         "repo": "noice.nvim"
       },
       "branch": "main",
-      "revision": "1df01e495b3ac0e2f5f111eba759691a9c21bb72",
-      "url": "https://github.com/folke/noice.nvim/archive/1df01e495b3ac0e2f5f111eba759691a9c21bb72.tar.gz",
-      "hash": "1nzs7gqpk6a8gz1bql639rhsa5v3lrq3gfdqgrnj3rc0n61x1f6p"
+      "revision": "9c73b8b340eba743da33b99056ae640328c426d4",
+      "url": "https://github.com/folke/noice.nvim/archive/9c73b8b340eba743da33b99056ae640328c426d4.tar.gz",
+      "hash": "0lg81rppdn9zysn4cr42933nr61z6s5pgshd10llj09lwm2hrwnf"
     },
     "none-ls-nvim": {
       "type": "Git",
@@ -3403,9 +3403,9 @@
         "repo": "trouble.nvim"
       },
       "branch": "main",
-      "revision": "1f71d71232173c1670ad4b9164d7f060586e2236",
-      "url": "https://github.com/folke/trouble.nvim/archive/1f71d71232173c1670ad4b9164d7f060586e2236.tar.gz",
-      "hash": "1ha1nhb8942j58haxr6gmin1lcfm1vybpssis8x9bfbvnw5qfjjc"
+      "revision": "079de7b82b6de37ddf2df427e460b02b54f25b95",
+      "url": "https://github.com/folke/trouble.nvim/archive/079de7b82b6de37ddf2df427e460b02b54f25b95.tar.gz",
+      "hash": "1q6mjgglih1kf9mlrcwl4mvfqkgspz1gzzimbzqmvk813jfnw6ya"
     },
     "twilight-nvim": {
       "type": "Git",
