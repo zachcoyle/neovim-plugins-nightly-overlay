@@ -980,9 +980,9 @@
         "repo": "cyberdream.nvim"
       },
       "branch": "main",
-      "revision": "ba25d43d68dd34d31bee88286fb6179df2763c31",
-      "url": "https://github.com/scottmckendry/cyberdream.nvim/archive/ba25d43d68dd34d31bee88286fb6179df2763c31.tar.gz",
-      "hash": "0vik1lagw6sjj3pkhn35ni099q0ip468k383hpaccsdjqgns24h2"
+      "revision": "916102a282ae99a8e7a1fc52ded19754b4452d99",
+      "url": "https://github.com/scottmckendry/cyberdream.nvim/archive/916102a282ae99a8e7a1fc52ded19754b4452d99.tar.gz",
+      "hash": "16mjyjzwmx2bahz6b1bfpziy3bc8cbv87kks0sjhabfqriwxkka6"
     },
     "dashboard-nvim": {
       "type": "Git",
@@ -2047,9 +2047,9 @@
         "repo": "neotest-haskell"
       },
       "branch": "master",
-      "revision": "980cbdc36855318253dc8a255f0cd619cf45185a",
-      "url": "https://github.com/mrcjkb/neotest-haskell/archive/980cbdc36855318253dc8a255f0cd619cf45185a.tar.gz",
-      "hash": "1bk781k7zz8krdp2272hwmpzwcv7sah8qdhl8sh2s84cwjhzfw28"
+      "revision": "2ba3ed5f053694e5c831922b58abec412b22539a",
+      "url": "https://github.com/mrcjkb/neotest-haskell/archive/2ba3ed5f053694e5c831922b58abec412b22539a.tar.gz",
+      "hash": "1czk8m62ww8vw397dk6cz18426ibbgv56qybh34vnl9s5pqkxddd"
     },
     "neotest-java": {
       "type": "Git",
