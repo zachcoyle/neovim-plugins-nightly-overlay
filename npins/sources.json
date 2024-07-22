@@ -1867,9 +1867,9 @@
         "repo": "neogit"
       },
       "branch": "master",
-      "revision": "a606b75667b57fc9ebb27af826af5086b8961016",
-      "url": "https://github.com/TimUntersberger/neogit/archive/a606b75667b57fc9ebb27af826af5086b8961016.tar.gz",
-      "hash": "054g3cz6wznkk81wis6qpqnnsiyxc4zh724zzq0pvv3a2j206y97"
+      "revision": "a232e38512a09107b10ae3ac11a5803897fbdfef",
+      "url": "https://github.com/TimUntersberger/neogit/archive/a232e38512a09107b10ae3ac11a5803897fbdfef.tar.gz",
+      "hash": "06x23i49fqs7j8wnl094jnnh22dz6jdb4lslvj1mbw8l2ngvjz1c"
     },
     "neon": {
       "type": "Git",
@@ -2587,9 +2587,9 @@
         "repo": "nvim-treesitter"
       },
       "branch": "master",
-      "revision": "debf5816eee21b7d51025ef17ba0647386226cb5",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/debf5816eee21b7d51025ef17ba0647386226cb5.tar.gz",
-      "hash": "1hvqr6infpm6b03wv6lfn6ijfbqh67fbm78vjlx3jk572452cj7d"
+      "revision": "5f5077f8f7fa545065a0846406011cd3cc49093b",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/5f5077f8f7fa545065a0846406011cd3cc49093b.tar.gz",
+      "hash": "0flfwirfdbdxkv5vwlmbvbr19ayxkcjwqqywxgi3h40z38ykdkps"
     },
     "nvim-treesitter-context": {
       "type": "Git",
@@ -2935,9 +2935,9 @@
         "repo": "neovim"
       },
       "branch": "main",
-      "revision": "f6848961638fca614a7843b14f6705bf5c47b9f6",
-      "url": "https://github.com/rose-pine/neovim/archive/f6848961638fca614a7843b14f6705bf5c47b9f6.tar.gz",
-      "hash": "0jwh6biy3gc1c3jkh0jaw12kjmi6bjq7s0qdpla55ymb1gg6640j"
+      "revision": "7ee8b25867967dc784574390984f09e9061c190c",
+      "url": "https://github.com/rose-pine/neovim/archive/7ee8b25867967dc784574390984f09e9061c190c.tar.gz",
+      "hash": "0ns9f0ln90lim4mwf8s3v47iq2fmqj1ks4g6zb8wvyy9fi4xmx18"
     },
     "scrollbar-nvim": {
       "type": "Git",
