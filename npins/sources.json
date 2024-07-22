@@ -2911,9 +2911,9 @@
         "repo": "refactoring.nvim"
       },
       "branch": "master",
-      "revision": "00e5f20f65efb49343445cc99f3cf0015f086991",
-      "url": "https://github.com/ThePrimeagen/refactoring.nvim/archive/00e5f20f65efb49343445cc99f3cf0015f086991.tar.gz",
-      "hash": "0lvrlripkxrnpb8x0d72jclzk6yp91gqis6n9zl2yqh44njpwncc"
+      "revision": "1c2b889fd494d7f0f4fcc1b0dacd7e8d4b3d9fbe",
+      "url": "https://github.com/ThePrimeagen/refactoring.nvim/archive/1c2b889fd494d7f0f4fcc1b0dacd7e8d4b3d9fbe.tar.gz",
+      "hash": "1ima287kbiyjv99mhhmi3jj7q8vrm6silk43in2jkl4pkaqcbdqv"
     },
     "rest-nvim": {
       "type": "Git",
@@ -2935,9 +2935,9 @@
         "repo": "neovim"
       },
       "branch": "main",
-      "revision": "f77b8f445215382b47470b57f4acf80db7b1d5f3",
-      "url": "https://github.com/rose-pine/neovim/archive/f77b8f445215382b47470b57f4acf80db7b1d5f3.tar.gz",
-      "hash": "0vvq7kn4dz8k6qlv7gp3j62cvg7d79zay76jw9v33cwjbxk9ydys"
+      "revision": "8e442a7f542d7d9912fefa43408dedcb272ec825",
+      "url": "https://github.com/rose-pine/neovim/archive/8e442a7f542d7d9912fefa43408dedcb272ec825.tar.gz",
+      "hash": "00rgwmm2080ff9dklqxidkbrs2qmpghvbnj6plq6k70rvknbf2h7"
     },
     "scrollbar-nvim": {
       "type": "Git",
