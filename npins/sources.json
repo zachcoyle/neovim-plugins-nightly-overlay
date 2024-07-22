@@ -2935,9 +2935,9 @@
         "repo": "neovim"
       },
       "branch": "main",
-      "revision": "fe716930eda6f4dcd126a6c947850454f68a07ed",
-      "url": "https://github.com/rose-pine/neovim/archive/fe716930eda6f4dcd126a6c947850454f68a07ed.tar.gz",
-      "hash": "0c0srkkvp8qfsm4wddipvnlzg8lhz7q9610dld5r96iawl02cw25"
+      "revision": "f6848961638fca614a7843b14f6705bf5c47b9f6",
+      "url": "https://github.com/rose-pine/neovim/archive/f6848961638fca614a7843b14f6705bf5c47b9f6.tar.gz",
+      "hash": "0jwh6biy3gc1c3jkh0jaw12kjmi6bjq7s0qdpla55ymb1gg6640j"
     },
     "scrollbar-nvim": {
       "type": "Git",
@@ -3511,9 +3511,9 @@
         "repo": "vim-dadbod-ui"
       },
       "branch": "master",
-      "revision": "954877c3396ad4bf5624fcbe7b5673ac43cd0928",
-      "url": "https://github.com/kristijanhusak/vim-dadbod-ui/archive/954877c3396ad4bf5624fcbe7b5673ac43cd0928.tar.gz",
-      "hash": "1hd0ckq5rq28i1fi0wl0vf1an8am6wvv538bbp86bwi4a9qrcflc"
+      "revision": "0f51d8de368c8c6220973e8acd156d17da746f4c",
+      "url": "https://github.com/kristijanhusak/vim-dadbod-ui/archive/0f51d8de368c8c6220973e8acd156d17da746f4c.tar.gz",
+      "hash": "1pb61wwm7vma4dilxryyf1bzq05yh35chlnqfng0wxr9b9hj8r7r"
     },
     "vim-devicons": {
       "type": "Git",
