@@ -2215,9 +2215,9 @@
         "repo": "nightfox.nvim"
       },
       "branch": "main",
-      "revision": "932e417b032bac90baacccb32ebfc08207b018f7",
-      "url": "https://github.com/EdenEast/nightfox.nvim/archive/932e417b032bac90baacccb32ebfc08207b018f7.tar.gz",
-      "hash": "0wn3rilvr2lapwvkn4r2vg08aky9sqcq3rvy0dk465bxfc6vqsy3"
+      "revision": "d3e8b1acc095baf57af81bb5e89fe7c4359eb619",
+      "url": "https://github.com/EdenEast/nightfox.nvim/archive/d3e8b1acc095baf57af81bb5e89fe7c4359eb619.tar.gz",
+      "hash": "0z81af970w1rllh2abdvlyx63z4xkcf5jw3wy4xv99gvqa1fxryr"
     },
     "nix-develop-nvim": {
       "type": "Git",
@@ -2935,9 +2935,9 @@
         "repo": "neovim"
       },
       "branch": "main",
-      "revision": "375ddbeb60f41c5fd54daec5960a6ae3e8b03ee5",
-      "url": "https://github.com/rose-pine/neovim/archive/375ddbeb60f41c5fd54daec5960a6ae3e8b03ee5.tar.gz",
-      "hash": "1293h4mhcz9xm5l9wp9a0sybpz54q7hqnnfbij94dd8vj4qs5wgh"
+      "revision": "fe716930eda6f4dcd126a6c947850454f68a07ed",
+      "url": "https://github.com/rose-pine/neovim/archive/fe716930eda6f4dcd126a6c947850454f68a07ed.tar.gz",
+      "hash": "0c0srkkvp8qfsm4wddipvnlzg8lhz7q9610dld5r96iawl02cw25"
     },
     "scrollbar-nvim": {
       "type": "Git",
