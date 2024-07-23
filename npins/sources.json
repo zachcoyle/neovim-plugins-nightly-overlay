@@ -884,9 +884,9 @@
         "repo": "conform.nvim"
       },
       "branch": "master",
-      "revision": "acc7337cfd24ddfa3109bfc8c258c09c88c5c450",
-      "url": "https://github.com/stevearc/conform.nvim/archive/acc7337cfd24ddfa3109bfc8c258c09c88c5c450.tar.gz",
-      "hash": "0ma5zfx1b4szxlw8p6q1n45r7zcxnzv39h43ljjv57q1mfk6y06j"
+      "revision": "25d48271e3d4404ba017cb92a37d3a681c1ad149",
+      "url": "https://github.com/stevearc/conform.nvim/archive/25d48271e3d4404ba017cb92a37d3a681c1ad149.tar.gz",
+      "hash": "0dbw1b25g83iy6yvc725k7il0l7yli4qd9s4wylcbqgacss2nz3h"
     },
     "conjure": {
       "type": "Git",
@@ -1855,9 +1855,9 @@
         "repo": "neogen"
       },
       "branch": "main",
-      "revision": "519e819ca148f1c820ef6dea3063b0f0ac48fe00",
-      "url": "https://github.com/danymat/neogen/archive/519e819ca148f1c820ef6dea3063b0f0ac48fe00.tar.gz",
-      "hash": "0pjjw80yz4r94ggd3idxy2vyg0zwkmndc1gdlh99qpblckd0552h"
+      "revision": "4a2f68d3eae0018b04132f1d4590e51484043354",
+      "url": "https://github.com/danymat/neogen/archive/4a2f68d3eae0018b04132f1d4590e51484043354.tar.gz",
+      "hash": "0bd6dy1fv2b18ckdvp6drlxgsdg6v5a1jwvcjwwi412ivj2jnc08"
     },
     "neogit": {
       "type": "Git",
