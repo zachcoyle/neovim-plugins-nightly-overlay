@@ -1867,9 +1867,9 @@
         "repo": "neogit"
       },
       "branch": "master",
-      "revision": "a86e673da36f8631385b36de42240bb37568b510",
-      "url": "https://github.com/TimUntersberger/neogit/archive/a86e673da36f8631385b36de42240bb37568b510.tar.gz",
-      "hash": "1l3k5pp89n9bffy0ca5lw9lqczl4k1zja9cnfa4cq0sng6b95hab"
+      "revision": "25673635b619f8cdb0ba5321a080ea5ad1d526d8",
+      "url": "https://github.com/TimUntersberger/neogit/archive/25673635b619f8cdb0ba5321a080ea5ad1d526d8.tar.gz",
+      "hash": "0dvgli6iqq5wbmn07adlriicgm7ps027n76cwplrz2gzcvn6dgkw"
     },
     "neon": {
       "type": "Git",
@@ -2899,9 +2899,9 @@
         "repo": "rainbow-delimiters.nvim"
       },
       "branch": "master",
-      "revision": "b29da4a6061a88270e875b38367d82c04c856128",
-      "url": "https://github.com/HiPhish/rainbow-delimiters.nvim/archive/b29da4a6061a88270e875b38367d82c04c856128.tar.gz",
-      "hash": "1fvwhkmnsbs6bb1xp5l7b36h49mk7bss2p8mzxgxifb4v9bi5qzb"
+      "revision": "f15c67214bc7a4ffbbb9281684cc5b5508af0a67",
+      "url": "https://github.com/HiPhish/rainbow-delimiters.nvim/archive/f15c67214bc7a4ffbbb9281684cc5b5508af0a67.tar.gz",
+      "hash": "1niffrjhmrcl2cnih8ihr32x6r4cqbsz0ygpbw65c3b9a99l112p"
     },
     "refactoring-nvim": {
       "type": "Git",
