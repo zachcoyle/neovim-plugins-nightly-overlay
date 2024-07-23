@@ -1352,9 +1352,9 @@
         "repo": "hardtime.nvim"
       },
       "branch": "main",
-      "revision": "9a4e24fb40482dc85a93bf6cf344a030b9bf9a39",
-      "url": "https://github.com/m4xshen/hardtime.nvim/archive/9a4e24fb40482dc85a93bf6cf344a030b9bf9a39.tar.gz",
-      "hash": "01b34bmyw236xr8bcwwn40s6360ybmrd9lpbw0hnvkn4nsml6hi6"
+      "revision": "0c8bc63f612e0b58660e3e9226d605e21b40048e",
+      "url": "https://github.com/m4xshen/hardtime.nvim/archive/0c8bc63f612e0b58660e3e9226d605e21b40048e.tar.gz",
+      "hash": "1g976y5a303wcplzr3lykgva84bmcf4szilrd38hvajr0s7520rx"
     },
     "harpoon": {
       "type": "Git",
@@ -2587,9 +2587,9 @@
         "repo": "nvim-treesitter"
       },
       "branch": "master",
-      "revision": "5f5077f8f7fa545065a0846406011cd3cc49093b",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/5f5077f8f7fa545065a0846406011cd3cc49093b.tar.gz",
-      "hash": "0flfwirfdbdxkv5vwlmbvbr19ayxkcjwqqywxgi3h40z38ykdkps"
+      "revision": "820b14a34c3c5a53aa99213bdac2ee19cb107ad5",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/820b14a34c3c5a53aa99213bdac2ee19cb107ad5.tar.gz",
+      "hash": "0xi6xgnb21m1f7w6577kdxyi669hi61kp7bp6yk7ah2nw8fqvxg9"
     },
     "nvim-treesitter-context": {
       "type": "Git",
@@ -3367,9 +3367,9 @@
         "repo": "tokyonight.nvim"
       },
       "branch": "main",
-      "revision": "1ac7a41bc0133504ff2e1ff26e6c689aaaf1cf55",
-      "url": "https://github.com/folke/tokyonight.nvim/archive/1ac7a41bc0133504ff2e1ff26e6c689aaaf1cf55.tar.gz",
-      "hash": "0vg4vksv4a2xg3czjkq1z51311sc6bm8ha3wsc35ksw243x6gvqh"
+      "revision": "6c30395146c246055ac3cea32d39d6b9876a1dcc",
+      "url": "https://github.com/folke/tokyonight.nvim/archive/6c30395146c246055ac3cea32d39d6b9876a1dcc.tar.gz",
+      "hash": "12adv1l257vysgjvxrdf9rr69cxh6cgyk622h0zzlyy0vmdzpcl1"
     },
     "transparent-nvim": {
       "type": "Git",
