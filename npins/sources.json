@@ -884,9 +884,9 @@
         "repo": "conform.nvim"
       },
       "branch": "master",
-      "revision": "797de8f79055334104cf77893cd93fe3fc2ac154",
-      "url": "https://github.com/stevearc/conform.nvim/archive/797de8f79055334104cf77893cd93fe3fc2ac154.tar.gz",
-      "hash": "15jw0gd092knh0zsy15jx60dbnvx12grwb2smlzc39vp2vxf6rik"
+      "revision": "acc7337cfd24ddfa3109bfc8c258c09c88c5c450",
+      "url": "https://github.com/stevearc/conform.nvim/archive/acc7337cfd24ddfa3109bfc8c258c09c88c5c450.tar.gz",
+      "hash": "0ma5zfx1b4szxlw8p6q1n45r7zcxnzv39h43ljjv57q1mfk6y06j"
     },
     "conjure": {
       "type": "Git",
@@ -1544,9 +1544,9 @@
         "repo": "lazy.nvim"
       },
       "branch": "main",
-      "revision": "d5686efbd00942b3e38de7c08b8df69d961b02f0",
-      "url": "https://github.com/folke/lazy.nvim/archive/d5686efbd00942b3e38de7c08b8df69d961b02f0.tar.gz",
-      "hash": "0y1li57765qmrb94vck5c48f9rxdb6605xq7z8i1myv3hz2ngwlz"
+      "revision": "c02268ac6e6aab92249d020d75efc588bd9d24fa",
+      "url": "https://github.com/folke/lazy.nvim/archive/c02268ac6e6aab92249d020d75efc588bd9d24fa.tar.gz",
+      "hash": "1vjg1zg2xhkqsifkhpspdhw25zkyw7rz88gn7333ksz427bkjlsc"
     },
     "lazygit-nvim": {
       "type": "Git",
@@ -1855,9 +1855,9 @@
         "repo": "neogen"
       },
       "branch": "main",
-      "revision": "6de0add4805165317ab7d3d36b5cef48b1b865f3",
-      "url": "https://github.com/danymat/neogen/archive/6de0add4805165317ab7d3d36b5cef48b1b865f3.tar.gz",
-      "hash": "080pwb0bwnd12ypwaa5hsy7sf8ha791gic5wnq8nm8pzyxz2nbiv"
+      "revision": "519e819ca148f1c820ef6dea3063b0f0ac48fe00",
+      "url": "https://github.com/danymat/neogen/archive/519e819ca148f1c820ef6dea3063b0f0ac48fe00.tar.gz",
+      "hash": "0pjjw80yz4r94ggd3idxy2vyg0zwkmndc1gdlh99qpblckd0552h"
     },
     "neogit": {
       "type": "Git",
@@ -1903,9 +1903,9 @@
         "repo": "neorg"
       },
       "branch": "main",
-      "revision": "19e4beabdcd6080ececbd5ffcb7ecb50b1590461",
-      "url": "https://github.com/vhyrro/neorg/archive/19e4beabdcd6080ececbd5ffcb7ecb50b1590461.tar.gz",
-      "hash": "09m0pmdpyha35w3cjylrn8p9pkdavzi8lp9vd6dsli6wa5kv0yad"
+      "revision": "8ed8b8f62a8adcbe0674cd2c26db3db63089545d",
+      "url": "https://github.com/vhyrro/neorg/archive/8ed8b8f62a8adcbe0674cd2c26db3db63089545d.tar.gz",
+      "hash": "19w3qbjr3v40g172zkgqzqzx7g8my8kp0mmy1acm6ia94p6pfxam"
     },
     "neoscroll-nvim": {
       "type": "Git",
