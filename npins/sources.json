@@ -1867,9 +1867,9 @@
         "repo": "neogit"
       },
       "branch": "master",
-      "revision": "25673635b619f8cdb0ba5321a080ea5ad1d526d8",
-      "url": "https://github.com/TimUntersberger/neogit/archive/25673635b619f8cdb0ba5321a080ea5ad1d526d8.tar.gz",
-      "hash": "0dvgli6iqq5wbmn07adlriicgm7ps027n76cwplrz2gzcvn6dgkw"
+      "revision": "2b74a777b963dfdeeabfabf84d5ba611666adab4",
+      "url": "https://github.com/TimUntersberger/neogit/archive/2b74a777b963dfdeeabfabf84d5ba611666adab4.tar.gz",
+      "hash": "1kbzw9z83rh210r7kgx9r6q0phji539zvrdj963g4gf438nrplib"
     },
     "neon": {
       "type": "Git",
@@ -2935,9 +2935,9 @@
         "repo": "neovim"
       },
       "branch": "main",
-      "revision": "7ee8b25867967dc784574390984f09e9061c190c",
-      "url": "https://github.com/rose-pine/neovim/archive/7ee8b25867967dc784574390984f09e9061c190c.tar.gz",
-      "hash": "0ns9f0ln90lim4mwf8s3v47iq2fmqj1ks4g6zb8wvyy9fi4xmx18"
+      "revision": "0f5635ca8cfe94c23ae05148c205eeb24b1c05f6",
+      "url": "https://github.com/rose-pine/neovim/archive/0f5635ca8cfe94c23ae05148c205eeb24b1c05f6.tar.gz",
+      "hash": "0ph0s6445rp9f6575sgnsxwr66yx9n3p7nx39rwawb2dkr2lih7r"
     },
     "scrollbar-nvim": {
       "type": "Git",
