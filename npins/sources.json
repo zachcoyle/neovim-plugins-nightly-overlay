@@ -1771,9 +1771,9 @@
         "repo": "mini.nvim"
       },
       "branch": "main",
-      "revision": "23669ab7abc2cd10f9a5166de07400bb34eaecda",
-      "url": "https://github.com/echasnovski/mini.nvim/archive/23669ab7abc2cd10f9a5166de07400bb34eaecda.tar.gz",
-      "hash": "0ihii94kq0csmarzzafkcw6mppg99vqsi0azkksv7z4qb5q2gil5"
+      "revision": "657ef75b52a548090fb7906735517b7ddbf39e88",
+      "url": "https://github.com/echasnovski/mini.nvim/archive/657ef75b52a548090fb7906735517b7ddbf39e88.tar.gz",
+      "hash": "11y3ga65pgn90fplx7nbyyp007s15ihpzknvla3sbbk96p2b0mq7"
     },
     "mkdnflow-nvim": {
       "type": "Git",
@@ -1903,9 +1903,9 @@
         "repo": "neorg"
       },
       "branch": "main",
-      "revision": "1af103b6aa3a87b24fdf55bac51612907302a1da",
-      "url": "https://github.com/vhyrro/neorg/archive/1af103b6aa3a87b24fdf55bac51612907302a1da.tar.gz",
-      "hash": "16xxw551rbgd7q1mlm6n196jrjiyg17nv5xl95ik65bafcbj7r3j"
+      "revision": "19e4beabdcd6080ececbd5ffcb7ecb50b1590461",
+      "url": "https://github.com/vhyrro/neorg/archive/19e4beabdcd6080ececbd5ffcb7ecb50b1590461.tar.gz",
+      "hash": "09m0pmdpyha35w3cjylrn8p9pkdavzi8lp9vd6dsli6wa5kv0yad"
     },
     "neoscroll-nvim": {
       "type": "Git",
