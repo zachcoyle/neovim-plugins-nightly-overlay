@@ -1580,9 +1580,9 @@
         "repo": "leap.nvim"
       },
       "branch": "main",
-      "revision": "ef0a48f436b5376290864499188c75552c0ba86f",
-      "url": "https://github.com/ggandor/leap.nvim/archive/ef0a48f436b5376290864499188c75552c0ba86f.tar.gz",
-      "hash": "1i26f8djd5w2pw7nhjra9nwqh58xl693nimwk0lz67rmvxw78bmy"
+      "revision": "437bccd18c933e97c69f2f7d300f1b9d56678bfd",
+      "url": "https://github.com/ggandor/leap.nvim/archive/437bccd18c933e97c69f2f7d300f1b9d56678bfd.tar.gz",
+      "hash": "0f3jajpggsgxhqg5rx77l6iyqj3xq1c2kc0dflhxiaw7qqmq2hqg"
     },
     "lightline-vim": {
       "type": "Git",
@@ -2635,9 +2635,9 @@
         "repo": "nvim-ts-autotag"
       },
       "branch": "main",
-      "revision": "1624866a1379fc1861797f0ed05899a9c1d2ff61",
-      "url": "https://github.com/windwp/nvim-ts-autotag/archive/1624866a1379fc1861797f0ed05899a9c1d2ff61.tar.gz",
-      "hash": "1fi5df9qml6kxkv8hx2i88b9365m4r3zj7vbnml3p7qdry99yb9a"
+      "revision": "dc5e1687ab76ee02e0f11c5ce137f530b36e98b3",
+      "url": "https://github.com/windwp/nvim-ts-autotag/archive/dc5e1687ab76ee02e0f11c5ce137f530b36e98b3.tar.gz",
+      "hash": "0x39c86cf84ap4zmk5lb1bflcrq2zqr2p3pcfd2mjbslzcdqkasp"
     },
     "nvim-ts-context-commentstring": {
       "type": "Git",
