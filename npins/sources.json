@@ -3463,9 +3463,9 @@
         "repo": "vim-airline"
       },
       "branch": "master",
-      "revision": "02894b6ef4752afd8579fc837aec5fb4f62409f7",
-      "url": "https://github.com/vim-airline/vim-airline/archive/02894b6ef4752afd8579fc837aec5fb4f62409f7.tar.gz",
-      "hash": "07jxqibg8zdir3w5lq2ibjvf6zw9b9386y9pwybgzg91c9pvd9xk"
+      "revision": "d25c049e617775eb2eb26c580e5dec591c94d480",
+      "url": "https://github.com/vim-airline/vim-airline/archive/d25c049e617775eb2eb26c580e5dec591c94d480.tar.gz",
+      "hash": "0pq63f30cqsbq4q669h6ps64hxz05a2b7z3i09lfj0fpa1a27p0h"
     },
     "vim-bbye": {
       "type": "Git",
@@ -3967,9 +3967,9 @@
         "repo": "zk-nvim"
       },
       "branch": "main",
-      "revision": "15e24e96cb90889ebd12b5dbe800a958c716f520",
-      "url": "https://github.com/zk-org/zk-nvim/archive/15e24e96cb90889ebd12b5dbe800a958c716f520.tar.gz",
-      "hash": "1sjnwjv4spa2cn54mv2cndirypkzhm81zxjz0v7kb5pf39rlq03c"
+      "revision": "dbf4eeab55b08856c9d6b6722dbff39630bb35eb",
+      "url": "https://github.com/zk-org/zk-nvim/archive/dbf4eeab55b08856c9d6b6722dbff39630bb35eb.tar.gz",
+      "hash": "1d6qz2yi4d0ccpibjh3c366qh32hd9r646m1b99vy16r27ydffcs"
     }
   },
   "version": 3
