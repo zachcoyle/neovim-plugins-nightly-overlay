@@ -1544,9 +1544,9 @@
         "repo": "lazy.nvim"
       },
       "branch": "main",
-      "revision": "839f9e78e78dc935b1188fb16583365991739c51",
-      "url": "https://github.com/folke/lazy.nvim/archive/839f9e78e78dc935b1188fb16583365991739c51.tar.gz",
-      "hash": "0whj5q07v04y4b6rgfx0kjajzldzg29izx6z1zhm47kk6gw407d2"
+      "revision": "d5686efbd00942b3e38de7c08b8df69d961b02f0",
+      "url": "https://github.com/folke/lazy.nvim/archive/d5686efbd00942b3e38de7c08b8df69d961b02f0.tar.gz",
+      "hash": "0y1li57765qmrb94vck5c48f9rxdb6605xq7z8i1myv3hz2ngwlz"
     },
     "lazygit-nvim": {
       "type": "Git",
@@ -2287,9 +2287,9 @@
         "repo": "nvim-autopairs"
       },
       "branch": "master",
-      "revision": "78a4507bb9ffc9b00f11ae0ac48243d00cb9194d",
-      "url": "https://github.com/windwp/nvim-autopairs/archive/78a4507bb9ffc9b00f11ae0ac48243d00cb9194d.tar.gz",
-      "hash": "1fdk1l449hsshj9g02kqw30rv4ab664prnhcc9gnr6zsad65cprg"
+      "revision": "e38c5d837e755ce186ae51d2c48e1b387c4425c6",
+      "url": "https://github.com/windwp/nvim-autopairs/archive/e38c5d837e755ce186ae51d2c48e1b387c4425c6.tar.gz",
+      "hash": "16wm535ihr8gxngx6a5xj4phz6qjshxi4nrcx2ks4bmd815gdsnv"
     },
     "nvim-bacon": {
       "type": "Git",
