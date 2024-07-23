@@ -2911,9 +2911,9 @@
         "repo": "refactoring.nvim"
       },
       "branch": "master",
-      "revision": "23af7cf5d39a48c24db146bd567e5cbac14def3e",
-      "url": "https://github.com/ThePrimeagen/refactoring.nvim/archive/23af7cf5d39a48c24db146bd567e5cbac14def3e.tar.gz",
-      "hash": "01y3mw4hgx59rh0g0bk5sywpz9a9q6znv0wmpsarc6kdbnnvzaz7"
+      "revision": "87178ab1ace3f81afca47305fcc5c9247f6010d3",
+      "url": "https://github.com/ThePrimeagen/refactoring.nvim/archive/87178ab1ace3f81afca47305fcc5c9247f6010d3.tar.gz",
+      "hash": "1zs2si5drskj798r1dzkzp6knb3pbdkx84mx0y8p4d29v9126g01"
     },
     "rest-nvim": {
       "type": "Git",
@@ -3367,9 +3367,9 @@
         "repo": "tokyonight.nvim"
       },
       "branch": "main",
-      "revision": "a487cac3113adb1853e3a81060f51d7a391cdea9",
-      "url": "https://github.com/folke/tokyonight.nvim/archive/a487cac3113adb1853e3a81060f51d7a391cdea9.tar.gz",
-      "hash": "0j6ysx7wac7dfl2y47vbwcls5vkg62xqi3nvzwbicvvwx9mlsc26"
+      "revision": "eb7c10979ba78b556ce7bbd9066e67ebd3401400",
+      "url": "https://github.com/folke/tokyonight.nvim/archive/eb7c10979ba78b556ce7bbd9066e67ebd3401400.tar.gz",
+      "hash": "1k2bg02y9q23j401bs22g9qamzyssffkl6arrxdahcb322b5jnqv"
     },
     "transparent-nvim": {
       "type": "Git",
