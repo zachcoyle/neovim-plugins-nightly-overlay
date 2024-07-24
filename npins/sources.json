@@ -1304,9 +1304,9 @@
         "repo": "gitsigns.nvim"
       },
       "branch": "main",
-      "revision": "f4928ba14eb6c667786ac7d69927f6aee6719f1e",
-      "url": "https://github.com/lewis6991/gitsigns.nvim/archive/f4928ba14eb6c667786ac7d69927f6aee6719f1e.tar.gz",
-      "hash": "1pgj1dn4xdsf4rgv44n3j8rcg5rxp2f45sidzlmdrqnfp5vm6mc8"
+      "revision": "b29cb58126663569f6f34401fab513c2375e95d3",
+      "url": "https://github.com/lewis6991/gitsigns.nvim/archive/b29cb58126663569f6f34401fab513c2375e95d3.tar.gz",
+      "hash": "13w4537kps2dx1zb8a4vxcijjmx00rr4fnq0kkg2mmixhswi8ibv"
     },
     "glow-nvim": {
       "type": "Git",
@@ -1975,9 +1975,9 @@
         "repo": "neotest-dotnet"
       },
       "branch": "main",
-      "revision": "caeb52b602fa8a5855c5839c338fb65b50a40ab3",
-      "url": "https://github.com/Issafalcon/neotest-dotnet/archive/caeb52b602fa8a5855c5839c338fb65b50a40ab3.tar.gz",
-      "hash": "1w73kzljwkxdanvdqig96jmkfd2v2hjwbqn2h095dkwf71pygnbb"
+      "revision": "03509791912eaeac9f993f7cf49e170eca06a8bc",
+      "url": "https://github.com/Issafalcon/neotest-dotnet/archive/03509791912eaeac9f993f7cf49e170eca06a8bc.tar.gz",
+      "hash": "0kz7k26047mzyzsldm8ai1i4wyr7wx0rwpfqj3zh3nncns40b4nl"
     },
     "neotest-elixir": {
       "type": "Git",
@@ -2587,9 +2587,9 @@
         "repo": "nvim-treesitter"
       },
       "branch": "master",
-      "revision": "a0732ca9f0b2549d795aafadd42b357dffb231d0",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/a0732ca9f0b2549d795aafadd42b357dffb231d0.tar.gz",
-      "hash": "1a2mq506dfpjp7q30mj6f8d7rf1bxlsgsgjxkgxgsx17l4k1cp7r"
+      "revision": "c760e4037cc02336ddd00737f95ee26e128fa745",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/c760e4037cc02336ddd00737f95ee26e128fa745.tar.gz",
+      "hash": "0z0w3j3kknp5msy7nwv9wr06jmxdn1xr01zl6qhmw819drr7fbx8"
     },
     "nvim-treesitter-context": {
       "type": "Git",
