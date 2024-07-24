@@ -404,9 +404,9 @@
         "repo": "cmp-dictionary"
       },
       "branch": "main",
-      "revision": "bce6d294861d9c94e1077e824b121a6a88f26d18",
-      "url": "https://github.com/uga-rosa/cmp-dictionary/archive/bce6d294861d9c94e1077e824b121a6a88f26d18.tar.gz",
-      "hash": "1lyfbsxhxczx8sch011xrr4k5kbks0ys4hja971azg3mj10jllnq"
+      "revision": "c5ffc6afb7f3a68da981ed9c56f3d9d8f3d907b7",
+      "url": "https://github.com/uga-rosa/cmp-dictionary/archive/c5ffc6afb7f3a68da981ed9c56f3d9d8f3d907b7.tar.gz",
+      "hash": "1shxx5h0y7rjh6bam1cckrrrqjhb2mwr85pja39p9s4zpvj0r0am"
     },
     "cmp-digraphs": {
       "type": "Git",
@@ -2239,9 +2239,9 @@
         "repo": "noice.nvim"
       },
       "branch": "main",
-      "revision": "aaaef369f6060a5ba137f672c958bcc3b79404da",
-      "url": "https://github.com/folke/noice.nvim/archive/aaaef369f6060a5ba137f672c958bcc3b79404da.tar.gz",
-      "hash": "1fy3gyh6w8s7wq523b5343nqi4sw9klkj7b883c3z7higc9jdjyb"
+      "revision": "c2ba96e09c7544e0ebba2120765fb2a081983d7f",
+      "url": "https://github.com/folke/noice.nvim/archive/c2ba96e09c7544e0ebba2120765fb2a081983d7f.tar.gz",
+      "hash": "0l450z4wyvrgnqx0cnyidhyp24njq1p3ar27971hnzaabb1n19zc"
     },
     "none-ls-nvim": {
       "type": "Git",
@@ -3055,9 +3055,9 @@
         "repo": "tagbar"
       },
       "branch": "master",
-      "revision": "0815b5455c792a610d28ff3e7981642c9cf05d62",
-      "url": "https://github.com/preservim/tagbar/archive/0815b5455c792a610d28ff3e7981642c9cf05d62.tar.gz",
-      "hash": "1vdj7ardgbmpj9qjfb5r2yp5avscny6v14p6552jphbyqkczd9pb"
+      "revision": "1690b19ea62a8c9fef68a2c35896910338a1dfe5",
+      "url": "https://github.com/preservim/tagbar/archive/1690b19ea62a8c9fef68a2c35896910338a1dfe5.tar.gz",
+      "hash": "0w0z2wxcskxqkikml7667qx8pqnm3ggrvf3r1gwkg7rkvwnacm3j"
     },
     "telescope-cheat-nvim": {
       "type": "Git",
@@ -3871,9 +3871,9 @@
         "repo": "which-key.nvim"
       },
       "branch": "main",
-      "revision": "c5e799388989fe1b87072d6188719b529d7421c5",
-      "url": "https://github.com/folke/which-key.nvim/archive/c5e799388989fe1b87072d6188719b529d7421c5.tar.gz",
-      "hash": "1xslspg0x2ggcbm3hk1lhx1v2bp58r85yc43w3rjc19ncrr56x03"
+      "revision": "388bd3f83de06d1a1758ea6a342cf3ae614401f1",
+      "url": "https://github.com/folke/which-key.nvim/archive/388bd3f83de06d1a1758ea6a342cf3ae614401f1.tar.gz",
+      "hash": "17zpx6nxdvcqbfb47p6kwvnwjjp35v90i6k4bvx1a96jx0sawanv"
     },
     "wilder-nvim": {
       "type": "Git",
