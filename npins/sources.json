@@ -288,6 +288,18 @@
       "url": "https://github.com/laytan/cloak.nvim/archive/648aca6d33ec011dc3166e7af3b38820d01a71e4.tar.gz",
       "hash": "1jfjc65iimzy2phm8w1x6m0f6hrmiy3kc0mq9bm02168xqi0vfjp"
     },
+    "cmake-tools-nvim": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "Civitasv",
+        "repo": "cmake-tools.nvim"
+      },
+      "branch": "master",
+      "revision": "4be3c229fe932043fd83ad52fdf0ba9af7297789",
+      "url": "https://github.com/Civitasv/cmake-tools.nvim/archive/4be3c229fe932043fd83ad52fdf0ba9af7297789.tar.gz",
+      "hash": "12cyls7vsz852b2x8vhs7qwi20kcml4z7zc5b6zaamw2h74an6sm"
+    },
     "cmp-async-path": {
       "type": "Git",
       "repository": {
