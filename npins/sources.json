@@ -404,9 +404,9 @@
         "repo": "cmp-dictionary"
       },
       "branch": "main",
-      "revision": "7144ce4bb2abc61a474cfdb3bb652a9ae82079e4",
-      "url": "https://github.com/uga-rosa/cmp-dictionary/archive/7144ce4bb2abc61a474cfdb3bb652a9ae82079e4.tar.gz",
-      "hash": "193c66ia72sc2l3rirqjw1m78hzx1wjbm642pnhw9zyfzcaq1f0q"
+      "revision": "bce6d294861d9c94e1077e824b121a6a88f26d18",
+      "url": "https://github.com/uga-rosa/cmp-dictionary/archive/bce6d294861d9c94e1077e824b121a6a88f26d18.tar.gz",
+      "hash": "1lyfbsxhxczx8sch011xrr4k5kbks0ys4hja971azg3mj10jllnq"
     },
     "cmp-digraphs": {
       "type": "Git",
@@ -1352,9 +1352,9 @@
         "repo": "hardtime.nvim"
       },
       "branch": "main",
-      "revision": "424af61fbc93282e3b5220da3982452cfebcecf0",
-      "url": "https://github.com/m4xshen/hardtime.nvim/archive/424af61fbc93282e3b5220da3982452cfebcecf0.tar.gz",
-      "hash": "1hv3s06svxlzccz7cwvmqmqxnp9dq1pv04scsfx90gixrvbapxhs"
+      "revision": "18bd2ce689f9fea030db57177d75bb740aa93686",
+      "url": "https://github.com/m4xshen/hardtime.nvim/archive/18bd2ce689f9fea030db57177d75bb740aa93686.tar.gz",
+      "hash": "02kw7mj650dis423jrxm9ns46xxmkwf9a4ch5rcgmfx2cak31140"
     },
     "harpoon": {
       "type": "Git",
