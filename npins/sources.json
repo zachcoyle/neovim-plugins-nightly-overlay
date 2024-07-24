@@ -2239,9 +2239,9 @@
         "repo": "noice.nvim"
       },
       "branch": "main",
-      "revision": "c2ba96e09c7544e0ebba2120765fb2a081983d7f",
-      "url": "https://github.com/folke/noice.nvim/archive/c2ba96e09c7544e0ebba2120765fb2a081983d7f.tar.gz",
-      "hash": "0l450z4wyvrgnqx0cnyidhyp24njq1p3ar27971hnzaabb1n19zc"
+      "revision": "d9328ef903168b6f52385a751eb384ae7e906c6f",
+      "url": "https://github.com/folke/noice.nvim/archive/d9328ef903168b6f52385a751eb384ae7e906c6f.tar.gz",
+      "hash": "0plqf1c3j3br330lwqsb6h1wmzym8dy6v3vkb402ic9ppnyi41aj"
     },
     "none-ls-nvim": {
       "type": "Git",
@@ -3871,9 +3871,9 @@
         "repo": "which-key.nvim"
       },
       "branch": "main",
-      "revision": "388bd3f83de06d1a1758ea6a342cf3ae614401f1",
-      "url": "https://github.com/folke/which-key.nvim/archive/388bd3f83de06d1a1758ea6a342cf3ae614401f1.tar.gz",
-      "hash": "17zpx6nxdvcqbfb47p6kwvnwjjp35v90i6k4bvx1a96jx0sawanv"
+      "revision": "058486e5b001f11ef48f180dd57ae3088f5bb6dc",
+      "url": "https://github.com/folke/which-key.nvim/archive/058486e5b001f11ef48f180dd57ae3088f5bb6dc.tar.gz",
+      "hash": "1pilbn7rqgq32ycms70nrhj1nfhsgkw8rinqnb9vrcbbdrh7wz75"
     },
     "wilder-nvim": {
       "type": "Git",
