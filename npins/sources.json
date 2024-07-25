@@ -956,9 +956,9 @@
         "repo": "coq.thirdparty"
       },
       "branch": "3p",
-      "revision": "5f45777bcb0c14266a7e07ed474cb70c4e8b6397",
-      "url": "https://github.com/ms-jpq/coq.thirdparty/archive/5f45777bcb0c14266a7e07ed474cb70c4e8b6397.tar.gz",
-      "hash": "0h2rq7aqxrf58cgwh6iwm2gs2fghkipyz20gdwqcy5hqmy2l0mi1"
+      "revision": "6a53363555bd483818ef2a3103db8ddc8d98a41d",
+      "url": "https://github.com/ms-jpq/coq.thirdparty/archive/6a53363555bd483818ef2a3103db8ddc8d98a41d.tar.gz",
+      "hash": "0c5l8zwrcyab36l3diwb6zpncisl0nn0d993vwrzf2430nak59cy"
     },
     "coq_nvim": {
       "type": "Git",
@@ -968,9 +968,9 @@
         "repo": "coq_nvim"
       },
       "branch": "coq",
-      "revision": "9566f158505f7ab41b8b40d40d185c1c0c3a3311",
-      "url": "https://github.com/ms-jpq/coq_nvim/archive/9566f158505f7ab41b8b40d40d185c1c0c3a3311.tar.gz",
-      "hash": "0wpi13z0yx3x2nxpjhcm4bhwzrwzycy7lvdaiwhgkcp8w1n4p9g8"
+      "revision": "3febed8f4a6dfa1c2c8616dffe2a6a9dfcaca2ab",
+      "url": "https://github.com/ms-jpq/coq_nvim/archive/3febed8f4a6dfa1c2c8616dffe2a6a9dfcaca2ab.tar.gz",
+      "hash": "08clxamw1kjl8l4svn615rhszr7jxxdz1xxdf8kszsr8ffvg63kb"
     },
     "crates-nvim": {
       "type": "Git",
