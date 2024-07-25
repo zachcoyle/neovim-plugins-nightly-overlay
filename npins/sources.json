@@ -2815,9 +2815,9 @@
         "repo": "plantuml-syntax"
       },
       "branch": "master",
-      "revision": "1592944444513c208ab5a087397ba987932af750",
-      "url": "https://github.com/aklt/plantuml-syntax/archive/1592944444513c208ab5a087397ba987932af750.tar.gz",
-      "hash": "0j45p1f8kxgmbw8kmcvvyby082vk8dgyb2q7vscsy8zvmqszcm24"
+      "revision": "8fb95a3ae4354ca2322ef24803d8960fce519eb0",
+      "url": "https://github.com/aklt/plantuml-syntax/archive/8fb95a3ae4354ca2322ef24803d8960fce519eb0.tar.gz",
+      "hash": "1wgr7847fhhq5m062cprdxpnbq3ldsywysa3hbsrvs36r63cxvm5"
     },
     "plenary-nvim": {
       "type": "Git",
