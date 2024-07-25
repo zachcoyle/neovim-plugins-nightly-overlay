@@ -248,9 +248,9 @@
         "repo": "chadtree"
       },
       "branch": "chad",
-      "revision": "2416f72fb17834a0dd0fe4ab8ccb0a1c1b6aaf0b",
-      "url": "https://github.com/ms-jpq/chadtree/archive/2416f72fb17834a0dd0fe4ab8ccb0a1c1b6aaf0b.tar.gz",
-      "hash": "0p8r5g77qd1riml9w4dwzk6lq9xx6w9yp8yp43221avj7imi35dn"
+      "revision": "3b8da693af9d58ee88bd18dbe67d2b703a6eeccf",
+      "url": "https://github.com/ms-jpq/chadtree/archive/3b8da693af9d58ee88bd18dbe67d2b703a6eeccf.tar.gz",
+      "hash": "108gff4myml7r91lcj45rzki0ww8jh85saig3jwcjn7d0ncbgwik"
     },
     "clangd_extensions-nvim": {
       "type": "Git",
@@ -2263,9 +2263,9 @@
         "repo": "none-ls.nvim"
       },
       "branch": "main",
-      "revision": "3f917e6008b82343552cf9d92ea4c73e04861180",
-      "url": "https://github.com/nvimtools/none-ls.nvim/archive/3f917e6008b82343552cf9d92ea4c73e04861180.tar.gz",
-      "hash": "0mqy8z07fns8hnj4c3df0jjzrvl4sqcfc8kgl51a9328wc9bghaw"
+      "revision": "a0fe586525eac4247d40076cdb2f1c2f55912171",
+      "url": "https://github.com/nvimtools/none-ls.nvim/archive/a0fe586525eac4247d40076cdb2f1c2f55912171.tar.gz",
+      "hash": "0y66agcl5l0vsz1iimhym31b7a1sh7yzbw14ivpcd2miaklxcdxb"
     },
     "nord-nvim": {
       "type": "Git",
@@ -2359,9 +2359,9 @@
         "repo": "nvim-colorizer.lua"
       },
       "branch": "master",
-      "revision": "08bd34bf0ed79723f62764c7f9ca70516d461d0d",
-      "url": "https://github.com/NvChad/nvim-colorizer.lua/archive/08bd34bf0ed79723f62764c7f9ca70516d461d0d.tar.gz",
-      "hash": "11shpnmnlsawmqwszbdqravp9yg20hd6yid9mjnf8njdh78rzk6x"
+      "revision": "194ec600488f7c7229668d0e80bd197f3a2b84ff",
+      "url": "https://github.com/NvChad/nvim-colorizer.lua/archive/194ec600488f7c7229668d0e80bd197f3a2b84ff.tar.gz",
+      "hash": "19142fnhvmdaasmxjgh9bksg6c5kq71w816zjzkfwdrpydqwh3j3"
     },
     "nvim-coverage": {
       "type": "Git",
