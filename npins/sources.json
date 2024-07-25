@@ -248,9 +248,9 @@
         "repo": "chadtree"
       },
       "branch": "chad",
-      "revision": "3b8da693af9d58ee88bd18dbe67d2b703a6eeccf",
-      "url": "https://github.com/ms-jpq/chadtree/archive/3b8da693af9d58ee88bd18dbe67d2b703a6eeccf.tar.gz",
-      "hash": "108gff4myml7r91lcj45rzki0ww8jh85saig3jwcjn7d0ncbgwik"
+      "revision": "13e8110bb10bdd4baebe9b98d652860cd028d4fe",
+      "url": "https://github.com/ms-jpq/chadtree/archive/13e8110bb10bdd4baebe9b98d652860cd028d4fe.tar.gz",
+      "hash": "050i2fg27w1nsdscdn7z25sh4pxd6i8lnx4zn116jdkjp03l77l7"
     },
     "clangd_extensions-nvim": {
       "type": "Git",
@@ -3223,9 +3223,9 @@
         "repo": "telescope.nvim"
       },
       "branch": "master",
-      "revision": "bc4e7e450397970ab741d0f489e370ec4ce4d57c",
-      "url": "https://github.com/nvim-telescope/telescope.nvim/archive/bc4e7e450397970ab741d0f489e370ec4ce4d57c.tar.gz",
-      "hash": "0irjbm1h1nzjpgpyxpwqpgvwxazj2svj7y7pk5i8x9hviv80av38"
+      "revision": "d39ad2acded812f4dcd84612b6c69e834fc01924",
+      "url": "https://github.com/nvim-telescope/telescope.nvim/archive/d39ad2acded812f4dcd84612b6c69e834fc01924.tar.gz",
+      "hash": "05x136c6j70aqr4axihig06b5jfr2bg9ah4k59sxyydfmv318qpi"
     },
     "telescope-packer-nvim": {
       "type": "Git",
