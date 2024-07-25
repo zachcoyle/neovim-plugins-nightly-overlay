@@ -1316,9 +1316,9 @@
         "repo": "gitsigns.nvim"
       },
       "branch": "main",
-      "revision": "6f8dbdbd41725fa11178e78d6e4c987038a8ece9",
-      "url": "https://github.com/lewis6991/gitsigns.nvim/archive/6f8dbdbd41725fa11178e78d6e4c987038a8ece9.tar.gz",
-      "hash": "13r1gkircr7w1r3jwhxc3zqqvakmrqd7wx166llyqpxs8i2gp8li"
+      "revision": "f074844b60f9e151970fbcdbeb8a2cd52b6ef25a",
+      "url": "https://github.com/lewis6991/gitsigns.nvim/archive/f074844b60f9e151970fbcdbeb8a2cd52b6ef25a.tar.gz",
+      "hash": "07q5mh82p9y6h047xifj0fpan6ny6cb56y4ghymrvq1ziahi0xcw"
     },
     "glow-nvim": {
       "type": "Git",
@@ -1592,9 +1592,9 @@
         "repo": "leap.nvim"
       },
       "branch": "main",
-      "revision": "437bccd18c933e97c69f2f7d300f1b9d56678bfd",
-      "url": "https://github.com/ggandor/leap.nvim/archive/437bccd18c933e97c69f2f7d300f1b9d56678bfd.tar.gz",
-      "hash": "0f3jajpggsgxhqg5rx77l6iyqj3xq1c2kc0dflhxiaw7qqmq2hqg"
+      "revision": "3b1d76ee9cd5a12a8f7a42f0e91124332860205c",
+      "url": "https://github.com/ggandor/leap.nvim/archive/3b1d76ee9cd5a12a8f7a42f0e91124332860205c.tar.gz",
+      "hash": "081ihmjqvc862hw8z2rgbj22hvm26fpigvm99f7f90si6swp1w29"
     },
     "lightline-vim": {
       "type": "Git",
@@ -1663,9 +1663,9 @@
         "repo": "lspkind-nvim"
       },
       "branch": "master",
-      "revision": "1735dd5a5054c1fb7feaf8e8658dbab925f4f0cf",
-      "url": "https://github.com/onsails/lspkind-nvim/archive/1735dd5a5054c1fb7feaf8e8658dbab925f4f0cf.tar.gz",
-      "hash": "0sjd244122q7hs3xaxzxhfcfpnzjz082rbnishq6khnr9w2xs0px"
+      "revision": "cff4ae321a91ee3473a92ea1a8c637e3a9510aec",
+      "url": "https://github.com/onsails/lspkind-nvim/archive/cff4ae321a91ee3473a92ea1a8c637e3a9510aec.tar.gz",
+      "hash": "0l66zyawfjy0r7rhi80skk6x156ybr72jlh4qxk0xd0l2hkbm8nl"
     },
     "lspsaga-nvim": {
       "type": "Git",
@@ -2923,9 +2923,9 @@
         "repo": "refactoring.nvim"
       },
       "branch": "master",
-      "revision": "87178ab1ace3f81afca47305fcc5c9247f6010d3",
-      "url": "https://github.com/ThePrimeagen/refactoring.nvim/archive/87178ab1ace3f81afca47305fcc5c9247f6010d3.tar.gz",
-      "hash": "1zs2si5drskj798r1dzkzp6knb3pbdkx84mx0y8p4d29v9126g01"
+      "revision": "d0f1971ec2f139e495c1ad2312b7b2a8e8a16421",
+      "url": "https://github.com/ThePrimeagen/refactoring.nvim/archive/d0f1971ec2f139e495c1ad2312b7b2a8e8a16421.tar.gz",
+      "hash": "011006jnhccf4w5i7kqasfplww8f75lvkixlv94niwzn9jx58d7v"
     },
     "rest-nvim": {
       "type": "Git",
