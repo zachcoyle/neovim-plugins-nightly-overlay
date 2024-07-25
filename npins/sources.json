@@ -224,9 +224,9 @@
         "repo": "nvim"
       },
       "branch": "main",
-      "revision": "07f1ee861394c163d1f1d3e1926eb309e0c81027",
-      "url": "https://github.com/catppuccin/nvim/archive/07f1ee861394c163d1f1d3e1926eb309e0c81027.tar.gz",
-      "hash": "1jlpc2zrrkswnzpn5jd5l54inh7vgpvwm03bcpckmab35q092i1q"
+      "revision": "4374588df4e99d403a359cda2ddececcf645d8a9",
+      "url": "https://github.com/catppuccin/nvim/archive/4374588df4e99d403a359cda2ddececcf645d8a9.tar.gz",
+      "hash": "0lw0kzjs4vk8l2i8cmks2flj86q776pji2p3abrkgq7a78705iqv"
     },
     "ccc-nvim": {
       "type": "Git",
@@ -1556,9 +1556,9 @@
         "repo": "lazy.nvim"
       },
       "branch": "main",
-      "revision": "7108809ab18dc1b1e6f402b29e2e1d35a5d311d5",
-      "url": "https://github.com/folke/lazy.nvim/archive/7108809ab18dc1b1e6f402b29e2e1d35a5d311d5.tar.gz",
-      "hash": "0jzy65ynjzpxl433qidn7g81lh2isa1mw75g20yqsiv7305104gq"
+      "revision": "077102c5bfc578693f12377846d427f49bc50076",
+      "url": "https://github.com/folke/lazy.nvim/archive/077102c5bfc578693f12377846d427f49bc50076.tar.gz",
+      "hash": "0yj0z62cr5ddzdl4ba2ppj1j102qfx1qfbwbh1z84p8x0zn6ppj5"
     },
     "lazygit-nvim": {
       "type": "Git",
