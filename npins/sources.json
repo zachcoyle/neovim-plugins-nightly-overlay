@@ -44,9 +44,9 @@
         "repo": "SchemaStore.nvim"
       },
       "branch": "main",
-      "revision": "bb370d8ea2055ec3807205367a91d12b9c13dae9",
-      "url": "https://github.com/b0o/SchemaStore.nvim/archive/bb370d8ea2055ec3807205367a91d12b9c13dae9.tar.gz",
-      "hash": "1j63d0azhq0cp8hw4ipjpfiz6wbs3adafqgwjdbkj8xibl99yvxd"
+      "revision": "6eb8cee613518fb065d23a81d01eeb42365d59c1",
+      "url": "https://github.com/b0o/SchemaStore.nvim/archive/6eb8cee613518fb065d23a81d01eeb42365d59c1.tar.gz",
+      "hash": "1cnd2wp67r71wkxf90hwiw0x9i27ap57wxihngasvnqn2swslm31"
     },
     "alpha-nvim": {
       "type": "Git",
@@ -2947,9 +2947,9 @@
         "repo": "neovim"
       },
       "branch": "main",
-      "revision": "e72f6ea4a994ee5f9f3f444cc33c5702920e3d0f",
-      "url": "https://github.com/rose-pine/neovim/archive/e72f6ea4a994ee5f9f3f444cc33c5702920e3d0f.tar.gz",
-      "hash": "0rm2wn5s96qs4b563w7f2zgnl5gy5q1arkq0i40hbdldi77xmyb0"
+      "revision": "e4b08d74b7272cb21e4e9c71b8b9e0830fd722fe",
+      "url": "https://github.com/rose-pine/neovim/archive/e4b08d74b7272cb21e4e9c71b8b9e0830fd722fe.tar.gz",
+      "hash": "1wlr2hm8818f5cdy757kir6vwnh777vrji4hsnzhbbdj3zk9w115"
     },
     "scrollbar-nvim": {
       "type": "Git",
