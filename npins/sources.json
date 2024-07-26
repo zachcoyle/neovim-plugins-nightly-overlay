@@ -1220,9 +1220,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "cc8b1ee2868e10fb4f4c00ca827a5b2af7a9b88a",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/cc8b1ee2868e10fb4f4c00ca827a5b2af7a9b88a.tar.gz",
-      "hash": "0lrg44ak9vmvy2xpfk83bjfr8q2gggk9cng8f6msy9yphb68nfm5"
+      "revision": "769b6636af07ea4587e6c06067d8fe9fb0629390",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/769b6636af07ea4587e6c06067d8fe9fb0629390.tar.gz",
+      "hash": "1q64s38vjsifc99vaa8la48wr9wd4w1gsmb2zgskpygha8fsgr1q"
     },
     "galaxyline-nvim": {
       "type": "Git",
@@ -2935,9 +2935,9 @@
         "repo": "refactoring.nvim"
       },
       "branch": "master",
-      "revision": "d0f1971ec2f139e495c1ad2312b7b2a8e8a16421",
-      "url": "https://github.com/ThePrimeagen/refactoring.nvim/archive/d0f1971ec2f139e495c1ad2312b7b2a8e8a16421.tar.gz",
-      "hash": "011006jnhccf4w5i7kqasfplww8f75lvkixlv94niwzn9jx58d7v"
+      "revision": "ac70bb714f30886e79461869871174a1c1d52058",
+      "url": "https://github.com/ThePrimeagen/refactoring.nvim/archive/ac70bb714f30886e79461869871174a1c1d52058.tar.gz",
+      "hash": "0i1x98h2v38ln3fwv7yrfmn6zk2fyabppvcj8fjzp7njmnszfvmk"
     },
     "rest-nvim": {
       "type": "Git",
