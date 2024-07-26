@@ -1220,9 +1220,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "5565f4bfe304df30c35962a982f14d8de1043336",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/5565f4bfe304df30c35962a982f14d8de1043336.tar.gz",
-      "hash": "1migzks9mihv6w7xhxlv56jmqk7kdyn8ydvp76n4db06ymjpbx7w"
+      "revision": "61c33a2a1d9a1be32834680ca071c71bd14f64f7",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/61c33a2a1d9a1be32834680ca071c71bd14f64f7.tar.gz",
+      "hash": "035iljqn87h4brcx4k4y9iak0qy5kvacjcxbr6gbarn4w4m22qy5"
     },
     "galaxyline-nvim": {
       "type": "Git",
@@ -3235,9 +3235,9 @@
         "repo": "telescope.nvim"
       },
       "branch": "master",
-      "revision": "47ab113de540d1d1d9cdf7dba76dc60ddd808bb8",
-      "url": "https://github.com/nvim-telescope/telescope.nvim/archive/47ab113de540d1d1d9cdf7dba76dc60ddd808bb8.tar.gz",
-      "hash": "06ywmd3473l4qb8kzk33y05ix9v7li9lm87zxn5ybyc5xd53rk8k"
+      "revision": "10b8a82b042caf50b78e619d92caf0910211973d",
+      "url": "https://github.com/nvim-telescope/telescope.nvim/archive/10b8a82b042caf50b78e619d92caf0910211973d.tar.gz",
+      "hash": "0i6znzbcv5m87nakhqdqn5cfkghdhbfww5avd0x8m25a2lkgl77g"
     },
     "telescope-packer-nvim": {
       "type": "Git",
