@@ -1220,9 +1220,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "57ed2503ce35d7a697d99810797bc12893cd16a6",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/57ed2503ce35d7a697d99810797bc12893cd16a6.tar.gz",
-      "hash": "0qg7dbsl4pa8jhgxpglwxm5y7rl9rvhkzc7gbbvvzcxvswdvsa88"
+      "revision": "cc8b1ee2868e10fb4f4c00ca827a5b2af7a9b88a",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/cc8b1ee2868e10fb4f4c00ca827a5b2af7a9b88a.tar.gz",
+      "hash": "0lrg44ak9vmvy2xpfk83bjfr8q2gggk9cng8f6msy9yphb68nfm5"
     },
     "galaxyline-nvim": {
       "type": "Git",
@@ -2611,9 +2611,9 @@
         "repo": "nvim-treesitter"
       },
       "branch": "master",
-      "revision": "63be47f203d3e9174fdac3872fb9766e5bcc5a11",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/63be47f203d3e9174fdac3872fb9766e5bcc5a11.tar.gz",
-      "hash": "0sfcmci0braphr96l5p5l4r5ripj4nslynrjs1bmzxv8c1lkcq39"
+      "revision": "e0faad4a9e2804d0d9fd5c509289bd630253dfc3",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/e0faad4a9e2804d0d9fd5c509289bd630253dfc3.tar.gz",
+      "hash": "1y13hvpxdsrng09bkbrpcz9inzyfgrnk2ispqmlkc11cgwp96m2r"
     },
     "nvim-treesitter-context": {
       "type": "Git",
