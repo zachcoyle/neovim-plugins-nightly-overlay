@@ -164,9 +164,9 @@
         "repo": "better-escape.nvim"
       },
       "branch": "master",
-      "revision": "92b3d7d06ac3405178def49853f81118a12ea051",
-      "url": "https://github.com/max397574/better-escape.nvim/archive/92b3d7d06ac3405178def49853f81118a12ea051.tar.gz",
-      "hash": "1k9pnszcpxnqp32mll671dms0196xs3rgslc919h3ayyrsxwl5db"
+      "revision": "b4d49fff133a24e47ce59548348f770b93d0b4f0",
+      "url": "https://github.com/max397574/better-escape.nvim/archive/b4d49fff133a24e47ce59548348f770b93d0b4f0.tar.gz",
+      "hash": "1mfl26camw791csslj19hfb713xlw5rpai5vd9pfk712q0hl71s1"
     },
     "blamer-nvim": {
       "type": "Git",
@@ -2707,9 +2707,9 @@
         "repo": "obsidian.nvim"
       },
       "branch": "main",
-      "revision": "ee298fd2136612a4ca6a745a4aec3f49ce6f94b0",
-      "url": "https://github.com/epwalsh/obsidian.nvim/archive/ee298fd2136612a4ca6a745a4aec3f49ce6f94b0.tar.gz",
-      "hash": "12r068x6llcf3nwwn7kwab61ihlxbc7746bw1455za2lrmbhj47g"
+      "revision": "fce967dd409cb189d070715a35e8e2aa8c5d02b7",
+      "url": "https://github.com/epwalsh/obsidian.nvim/archive/fce967dd409cb189d070715a35e8e2aa8c5d02b7.tar.gz",
+      "hash": "1d35h49sixmi5mfvhr886zhf8xnss23326nas59h3707cjvqzczj"
     },
     "octo-nvim": {
       "type": "Git",
