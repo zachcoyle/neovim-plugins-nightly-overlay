@@ -1376,9 +1376,9 @@
         "repo": "hardtime.nvim"
       },
       "branch": "main",
-      "revision": "18bd2ce689f9fea030db57177d75bb740aa93686",
-      "url": "https://github.com/m4xshen/hardtime.nvim/archive/18bd2ce689f9fea030db57177d75bb740aa93686.tar.gz",
-      "hash": "02kw7mj650dis423jrxm9ns46xxmkwf9a4ch5rcgmfx2cak31140"
+      "revision": "91c6be1a54fa057002e21ae209a49436bd215355",
+      "url": "https://github.com/m4xshen/hardtime.nvim/archive/91c6be1a54fa057002e21ae209a49436bd215355.tar.gz",
+      "hash": "0i3ih3i162v6lkm9l3406j5322vyjilvhl1qvpc9d67ajs355cm4"
     },
     "harpoon": {
       "type": "Git",
@@ -2479,9 +2479,9 @@
         "repo": "nvim-lspconfig"
       },
       "branch": "master",
-      "revision": "0e301015632c59d15422ee82729e70506ffe54c3",
-      "url": "https://github.com/neovim/nvim-lspconfig/archive/0e301015632c59d15422ee82729e70506ffe54c3.tar.gz",
-      "hash": "0pk4rzbk3ngaiqjvlx42dyrybz9hbz2qpscdal5lzm9p2wsyhd99"
+      "revision": "f95d371c1a274f60392edfd8ea5121b42dca736e",
+      "url": "https://github.com/neovim/nvim-lspconfig/archive/f95d371c1a274f60392edfd8ea5121b42dca736e.tar.gz",
+      "hash": "0h93s14vqrwg7gkqji1pc3p3h72niy1hdjd387mz5j62h7k6h74h"
     },
     "nvim-navbuddy": {
       "type": "Git",
