@@ -992,9 +992,9 @@
         "repo": "cyberdream.nvim"
       },
       "branch": "main",
-      "revision": "d3ffeadf2515a974e9025eae135cde60fc74019d",
-      "url": "https://github.com/scottmckendry/cyberdream.nvim/archive/d3ffeadf2515a974e9025eae135cde60fc74019d.tar.gz",
-      "hash": "11j1g7ml7lw0ih60cmj8k0dxapwm810kgdizkk32ky118kyvz9pq"
+      "revision": "f4551361685342cddea419c96eaa04fecb36ac57",
+      "url": "https://github.com/scottmckendry/cyberdream.nvim/archive/f4551361685342cddea419c96eaa04fecb36ac57.tar.gz",
+      "hash": "00qz8b1cjn20fnfjb3i9302s7sb9558v43xmjyvh2r8aw5xyj32j"
     },
     "dashboard-nvim": {
       "type": "Git",
@@ -2599,9 +2599,9 @@
         "repo": "nvim-tree.lua"
       },
       "branch": "master",
-      "revision": "4e396b26244444c911b73e9f2f40ae0115351fd1",
-      "url": "https://github.com/nvim-tree/nvim-tree.lua/archive/4e396b26244444c911b73e9f2f40ae0115351fd1.tar.gz",
-      "hash": "0ay6lrh3bvfs80nqwja9mjsmjm5r4iap31aqawd1rpl720swbz4z"
+      "revision": "1aa9852cad8a90cfe1dac549b0e550041e1268cf",
+      "url": "https://github.com/nvim-tree/nvim-tree.lua/archive/1aa9852cad8a90cfe1dac549b0e550041e1268cf.tar.gz",
+      "hash": "1zxg900brf1m29z4djjlppdc182xsdqb1w5wn6dy7nnrm6sik5w5"
     },
     "nvim-treesitter": {
       "type": "Git",
@@ -2695,9 +2695,9 @@
         "repo": "nvim-web-devicons"
       },
       "branch": "master",
-      "revision": "e612de3d3a41a6b7be47f51e956dddabcbf419d9",
-      "url": "https://github.com/kyazdani42/nvim-web-devicons/archive/e612de3d3a41a6b7be47f51e956dddabcbf419d9.tar.gz",
-      "hash": "1kq5lx4ccpzhw8w9ckcd0y5fyqrfmbkm8df2vrn5r7r67nb0kbmi"
+      "revision": "a2af6aa13a2ad3ad361d562a319a91bcd68c43a4",
+      "url": "https://github.com/kyazdani42/nvim-web-devicons/archive/a2af6aa13a2ad3ad361d562a319a91bcd68c43a4.tar.gz",
+      "hash": "12q6cinxavsspc3xpir5dd6nxl7r3pqw7krpnv4i79ji1imsfq26"
     },
     "obsidian-nvim": {
       "type": "Git",
