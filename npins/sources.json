@@ -2611,9 +2611,9 @@
         "repo": "nvim-treesitter"
       },
       "branch": "master",
-      "revision": "7cec6219c4ac5ce01ef2f29df23f8b3cebca8b09",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/7cec6219c4ac5ce01ef2f29df23f8b3cebca8b09.tar.gz",
-      "hash": "1sd4hw9lcbi0fy1nnk8swhn6rlab4j72lfpwahcjl25azgp1c56r"
+      "revision": "f97e0de0053df1cb3b9f74b9b1239acced1b7d9a",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/f97e0de0053df1cb3b9f74b9b1239acced1b7d9a.tar.gz",
+      "hash": "1knkpbda65bv1n63nk0773gbxk9hwadcap6yaidfz3lwm1ad9ig4"
     },
     "nvim-treesitter-context": {
       "type": "Git",
@@ -3007,9 +3007,9 @@
         "repo": "sniprun"
       },
       "branch": "master",
-      "revision": "f2302d4081914c3312456c91dc6965dfeec266b1",
-      "url": "https://github.com/michaelb/sniprun/archive/f2302d4081914c3312456c91dc6965dfeec266b1.tar.gz",
-      "hash": "1fn0dmqyxf2hnniykfgjhjndfsklaxy7fjnzi6vsr4a4ljqq1s11"
+      "revision": "a29d7b1c313b00980015ad79fa0ab512a0729940",
+      "url": "https://github.com/michaelb/sniprun/archive/a29d7b1c313b00980015ad79fa0ab512a0729940.tar.gz",
+      "hash": "0i24h2skxlsa8v7qvzv3kv410cr5dw5gf9kgn0x15s8hmi8qmpzh"
     },
     "solarized-nvim": {
       "type": "Git",
