@@ -1927,9 +1927,9 @@
         "repo": "neorg"
       },
       "branch": "main",
-      "revision": "1985f2d6f152622b0066f48ba8e39d157635dd38",
-      "url": "https://github.com/vhyrro/neorg/archive/1985f2d6f152622b0066f48ba8e39d157635dd38.tar.gz",
-      "hash": "0r9v7djqhafnb638j5q49c9ff0b9ynsrijsxhk4zx6xrizl91jil"
+      "revision": "e5e797e6eddcb6efb1d2c3fc2612b31ad9a76cef",
+      "url": "https://github.com/vhyrro/neorg/archive/e5e797e6eddcb6efb1d2c3fc2612b31ad9a76cef.tar.gz",
+      "hash": "0439h307zphrz67s3mvcjwk2ixn1vrxas62lrcp2v07w8gln59m1"
     },
     "neoscroll-nvim": {
       "type": "Git",
@@ -2707,9 +2707,9 @@
         "repo": "obsidian.nvim"
       },
       "branch": "main",
-      "revision": "c87db615d1bcf298848a25571a659283595c62c1",
-      "url": "https://github.com/epwalsh/obsidian.nvim/archive/c87db615d1bcf298848a25571a659283595c62c1.tar.gz",
-      "hash": "0sapas3br40vx5xbfxsps2acfhyi3w1njpi22bfjrgwg079bsdaq"
+      "revision": "d1ca121353681e8f7dc8a69c760b950e12bcde22",
+      "url": "https://github.com/epwalsh/obsidian.nvim/archive/d1ca121353681e8f7dc8a69c760b950e12bcde22.tar.gz",
+      "hash": "1mgh07y96vyhg8g9ilpkw6zimc69c1n8cyhw96cfr9iqdivx9vvc"
     },
     "octo-nvim": {
       "type": "Git",
