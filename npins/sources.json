@@ -1220,9 +1220,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "02379a936c28949ffc53f5d971193d3a2277921c",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/02379a936c28949ffc53f5d971193d3a2277921c.tar.gz",
-      "hash": "0kqmin3ali3x72bzi3q3pjycq3ayvnisxxmg9dqn0wfx1cbbg1hi"
+      "revision": "9215e798d3582042757fe5bb44958144e9c86423",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/9215e798d3582042757fe5bb44958144e9c86423.tar.gz",
+      "hash": "1hng99x1pddikpk6blslaxydx81wncc5xn5989gyrbq9m492jc91"
     },
     "galaxyline-nvim": {
       "type": "Git",
@@ -1879,9 +1879,9 @@
         "repo": "neogen"
       },
       "branch": "main",
-      "revision": "e52d88ec379bb88690b76d4f4c0333ccc87fed5e",
-      "url": "https://github.com/danymat/neogen/archive/e52d88ec379bb88690b76d4f4c0333ccc87fed5e.tar.gz",
-      "hash": "1vgn41iwsgg6p6wzw09z19cdhfblrhyn219c3760xkbnjlfgij0l"
+      "revision": "b2942f546c28fb27525dbdad8656549b9a28c846",
+      "url": "https://github.com/danymat/neogen/archive/b2942f546c28fb27525dbdad8656549b9a28c846.tar.gz",
+      "hash": "003kbrk54ifhr9c212cl8flm4wqkqwj26n0nhfy02a42h9i5bp3k"
     },
     "neogit": {
       "type": "Git",
