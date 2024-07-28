@@ -2695,9 +2695,9 @@
         "repo": "nvim-web-devicons"
       },
       "branch": "master",
-      "revision": "a2af6aa13a2ad3ad361d562a319a91bcd68c43a4",
-      "url": "https://github.com/kyazdani42/nvim-web-devicons/archive/a2af6aa13a2ad3ad361d562a319a91bcd68c43a4.tar.gz",
-      "hash": "12q6cinxavsspc3xpir5dd6nxl7r3pqw7krpnv4i79ji1imsfq26"
+      "revision": "5be6c4e685618b99c3210a69375b38a1202369b4",
+      "url": "https://github.com/kyazdani42/nvim-web-devicons/archive/5be6c4e685618b99c3210a69375b38a1202369b4.tar.gz",
+      "hash": "0dz5ay92n60r7k3zir7jqznjs9jgl34d03xmn7cbzvhbad3n2m8q"
     },
     "obsidian-nvim": {
       "type": "Git",
@@ -3883,9 +3883,9 @@
         "repo": "vscode.nvim"
       },
       "branch": "main",
-      "revision": "3ba16d763097cecc75eb93761f4a981467acfc23",
-      "url": "https://github.com/Mofiqul/vscode.nvim/archive/3ba16d763097cecc75eb93761f4a981467acfc23.tar.gz",
-      "hash": "0fnp6gsrs9zxgxkjnknkppx8zjrkw1gqrnjs2p3lmg8783hndjyn"
+      "revision": "f6c88cdf9d37d5c0bb1e492a13a3b4b4cc4dd13e",
+      "url": "https://github.com/Mofiqul/vscode.nvim/archive/f6c88cdf9d37d5c0bb1e492a13a3b4b4cc4dd13e.tar.gz",
+      "hash": "0v4izydhq4jc6jaw7a38d0w2mlw93jdijaql7y2hk8fp44sn51q1"
     },
     "which-key-nvim": {
       "type": "Git",
