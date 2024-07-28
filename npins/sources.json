@@ -1879,9 +1879,9 @@
         "repo": "neogen"
       },
       "branch": "main",
-      "revision": "4a2f68d3eae0018b04132f1d4590e51484043354",
-      "url": "https://github.com/danymat/neogen/archive/4a2f68d3eae0018b04132f1d4590e51484043354.tar.gz",
-      "hash": "0bd6dy1fv2b18ckdvp6drlxgsdg6v5a1jwvcjwwi412ivj2jnc08"
+      "revision": "e52d88ec379bb88690b76d4f4c0333ccc87fed5e",
+      "url": "https://github.com/danymat/neogen/archive/e52d88ec379bb88690b76d4f4c0333ccc87fed5e.tar.gz",
+      "hash": "1vgn41iwsgg6p6wzw09z19cdhfblrhyn219c3760xkbnjlfgij0l"
     },
     "neogit": {
       "type": "Git",
@@ -2275,9 +2275,9 @@
         "repo": "none-ls.nvim"
       },
       "branch": "main",
-      "revision": "a8594ef3dabb484adabc0ebbf5800be1b807c9e7",
-      "url": "https://github.com/nvimtools/none-ls.nvim/archive/a8594ef3dabb484adabc0ebbf5800be1b807c9e7.tar.gz",
-      "hash": "0gvay7gq5579iwsqd30lh38l4vyzxn5wmsprg10dpq9j3ghs4rma"
+      "revision": "cfa65d86e21eeb60544d5e823f6db43941322a53",
+      "url": "https://github.com/nvimtools/none-ls.nvim/archive/cfa65d86e21eeb60544d5e823f6db43941322a53.tar.gz",
+      "hash": "1hdlrgvllsqhmdd2wnmr529pz1vq1cd6jayp7zfxk8hik154q3v4"
     },
     "nord-nvim": {
       "type": "Git",
