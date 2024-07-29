@@ -992,9 +992,9 @@
         "repo": "cyberdream.nvim"
       },
       "branch": "main",
-      "revision": "0669430226434521095c17c989212862ccc0a26e",
-      "url": "https://github.com/scottmckendry/cyberdream.nvim/archive/0669430226434521095c17c989212862ccc0a26e.tar.gz",
-      "hash": "1ivqyjzw7x4pwcipg3rsh8xb8ziinz147zy1flp5hyaddi2gxd2h"
+      "revision": "68d7298210a555fb5b3ed7bcb72dfd638b0569f3",
+      "url": "https://github.com/scottmckendry/cyberdream.nvim/archive/68d7298210a555fb5b3ed7bcb72dfd638b0569f3.tar.gz",
+      "hash": "13yw29gd1xyl2p4f2sfaazsv0xjdvqdwb5sp01av315ii61j9hn9"
     },
     "dashboard-nvim": {
       "type": "Git",
@@ -2611,9 +2611,9 @@
         "repo": "nvim-treesitter"
       },
       "branch": "master",
-      "revision": "2d5133f67429f82547ea5fad33a0b1e7d4f78a1c",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/2d5133f67429f82547ea5fad33a0b1e7d4f78a1c.tar.gz",
-      "hash": "0ij32nkljw7a2k0kadx077nxwlfxymjdk984ngna9fzjg21m9wwq"
+      "revision": "8dbab597735fe65250c3607964c54253193c04f5",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/8dbab597735fe65250c3607964c54253193c04f5.tar.gz",
+      "hash": "14jgv2jw7m4hi47avjxf7cxfynag3a06c1d5pn3ypmb2rf789ikj"
     },
     "nvim-treesitter-context": {
       "type": "Git",
