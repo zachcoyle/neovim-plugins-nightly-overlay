@@ -1604,9 +1604,9 @@
         "repo": "leap.nvim"
       },
       "branch": "main",
-      "revision": "3b1d76ee9cd5a12a8f7a42f0e91124332860205c",
-      "url": "https://github.com/ggandor/leap.nvim/archive/3b1d76ee9cd5a12a8f7a42f0e91124332860205c.tar.gz",
-      "hash": "081ihmjqvc862hw8z2rgbj22hvm26fpigvm99f7f90si6swp1w29"
+      "revision": "c6bfb191f1161fbabace1f36f578a20ac6c7642c",
+      "url": "https://github.com/ggandor/leap.nvim/archive/c6bfb191f1161fbabace1f36f578a20ac6c7642c.tar.gz",
+      "hash": "1dmy45czi3irjd5qb74yamjam4d1lvqsgfxgh4vaj740b19gyl1w"
     },
     "lightline-vim": {
       "type": "Git",
