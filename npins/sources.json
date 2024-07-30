@@ -836,9 +836,9 @@
         "repo": "codesnap.nvim"
       },
       "branch": "main",
-      "revision": "06d8e345e7be43a5b2bd67a86a3993da91c59781",
-      "url": "https://github.com/mistricky/codesnap.nvim/archive/06d8e345e7be43a5b2bd67a86a3993da91c59781.tar.gz",
-      "hash": "1r3z9q3a6jfz08dz9brnizn68izl8p3b5xmbj7cima1l7xik0i4j"
+      "revision": "a8bba8a5f11a412ecc50c7dbbc0bee28da67462a",
+      "url": "https://github.com/mistricky/codesnap.nvim/archive/a8bba8a5f11a412ecc50c7dbbc0bee28da67462a.tar.gz",
+      "hash": "1a67dqmqx5qjn18kds3v9q0h0f7zp4q8245iaxx8mh53si0vqj86"
     },
     "comment-nvim": {
       "type": "Git",
@@ -1148,9 +1148,9 @@
         "repo": "firenvim"
       },
       "branch": "master",
-      "revision": "c5ea28ffaa02e3c6829896f24b80e01440875b03",
-      "url": "https://github.com/glacambre/firenvim/archive/c5ea28ffaa02e3c6829896f24b80e01440875b03.tar.gz",
-      "hash": "18isl4yvqa0kyhm210y0mr5iz7jvwlyal5lxgkd9k1d6xlsivx4g"
+      "revision": "4d2eef5fd2a7af0e91b76f1a9715228548316125",
+      "url": "https://github.com/glacambre/firenvim/archive/4d2eef5fd2a7af0e91b76f1a9715228548316125.tar.gz",
+      "hash": "1w2szvwac942s5i0alybc1i252gn0s9r7fa9jk3vbg4f70p536mf"
     },
     "flash-nvim": {
       "type": "Git",
