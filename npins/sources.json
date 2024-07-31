@@ -2707,9 +2707,9 @@
         "repo": "obsidian.nvim"
       },
       "branch": "main",
-      "revision": "7466e3f70ffde1d3d8daf2d724da4ea9b4fa3642",
-      "url": "https://github.com/epwalsh/obsidian.nvim/archive/7466e3f70ffde1d3d8daf2d724da4ea9b4fa3642.tar.gz",
-      "hash": "03wrw0rm4ycbpxs8q001is7lrd6zrg5mn3v4f6nlhadd8ibckx7a"
+      "revision": "b92e75b7e711161467ca4805260b787e652358bf",
+      "url": "https://github.com/epwalsh/obsidian.nvim/archive/b92e75b7e711161467ca4805260b787e652358bf.tar.gz",
+      "hash": "0a7406g0v80mdrahap44hzc0yrxphzv24ga1lkcdv9wm284cd8gg"
     },
     "octo-nvim": {
       "type": "Git",
