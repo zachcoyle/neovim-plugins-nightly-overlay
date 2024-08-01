@@ -3127,9 +3127,9 @@
         "repo": "telescope-file-browser.nvim"
       },
       "branch": "master",
-      "revision": "8574946bf6d0d820d7f600f3db808f5900a2ae23",
-      "url": "https://github.com/nvim-telescope/telescope-file-browser.nvim/archive/8574946bf6d0d820d7f600f3db808f5900a2ae23.tar.gz",
-      "hash": "145jssc1agd8cw49p3l781lsphym74gn3kjlfl35c6j7bhkhmyvc"
+      "revision": "ed5f89c30d64471274b81af7f6eafddff7807be9",
+      "url": "https://github.com/nvim-telescope/telescope-file-browser.nvim/archive/ed5f89c30d64471274b81af7f6eafddff7807be9.tar.gz",
+      "hash": "0ldv8zb6czbsqlh5dyiawxgvjc54j849snslmsq6hfmc7zx85fzw"
     },
     "telescope-frecency-nvim": {
       "type": "Git",
