@@ -1939,9 +1939,9 @@
         "repo": "neoscroll.nvim"
       },
       "branch": "master",
-      "revision": "a7f5953dbfbe7069568f2d0ed23a9709a56725ab",
-      "url": "https://github.com/karb94/neoscroll.nvim/archive/a7f5953dbfbe7069568f2d0ed23a9709a56725ab.tar.gz",
-      "hash": "012jvfkmi2x28h1bpx83mbn836h576fl09zv8a25xnran78m8qwq"
+      "revision": "532dcc8cea4287c4cad6bb77532989a8217cfc7b",
+      "url": "https://github.com/karb94/neoscroll.nvim/archive/532dcc8cea4287c4cad6bb77532989a8217cfc7b.tar.gz",
+      "hash": "1kcy17jccbhc4ha81fcxcch60hdlwzywd88ghx8r0j18m2wngb95"
     },
     "neotest": {
       "type": "Git",
@@ -2707,9 +2707,9 @@
         "repo": "obsidian.nvim"
       },
       "branch": "main",
-      "revision": "50242f385835ac8761f3a2006b8464c2f462e9c1",
-      "url": "https://github.com/epwalsh/obsidian.nvim/archive/50242f385835ac8761f3a2006b8464c2f462e9c1.tar.gz",
-      "hash": "1lmwqqvhqnwsxhapkkcidiwfdzls0ns81x35n7dncw9f10p0iysy"
+      "revision": "14e0427bef6c55da0d63f9a313fd9941be3a2479",
+      "url": "https://github.com/epwalsh/obsidian.nvim/archive/14e0427bef6c55da0d63f9a313fd9941be3a2479.tar.gz",
+      "hash": "15ycmhn48ryaqzch6w3w6llq2qgmjx8xwkb9dn0075z60dybpflr"
     },
     "octo-nvim": {
       "type": "Git",
