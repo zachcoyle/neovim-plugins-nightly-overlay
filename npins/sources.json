@@ -1795,9 +1795,9 @@
         "repo": "mini.nvim"
       },
       "branch": "main",
-      "revision": "80005ea137ac8f47af4fc4b2dd60f9536a3056f9",
-      "url": "https://github.com/echasnovski/mini.nvim/archive/80005ea137ac8f47af4fc4b2dd60f9536a3056f9.tar.gz",
-      "hash": "10nass38fdjlgmcy5smal8kvq8g84z1lv0l0n34yjkkikn6b7ifl"
+      "revision": "74e6b722c91113bc70d4bf67249ed8de0642b20e",
+      "url": "https://github.com/echasnovski/mini.nvim/archive/74e6b722c91113bc70d4bf67249ed8de0642b20e.tar.gz",
+      "hash": "014m62fxciq03wn4crymlrmvmzay6db581983w3xzihmcbqfg7fm"
     },
     "mkdnflow-nvim": {
       "type": "Git",
@@ -2407,9 +2407,9 @@
         "repo": "nvim-dap"
       },
       "branch": "master",
-      "revision": "bc03b83c94d0375145ff5ac6a6dcf28c1241e06f",
-      "url": "https://github.com/mfussenegger/nvim-dap/archive/bc03b83c94d0375145ff5ac6a6dcf28c1241e06f.tar.gz",
-      "hash": "144npibr7gi5vxlmzpzmwj9x3x10698c6x121j7lcbrz56a0g380"
+      "revision": "f8b0b11b0a9a43451f3c03b62727f6f8e98d0006",
+      "url": "https://github.com/mfussenegger/nvim-dap/archive/f8b0b11b0a9a43451f3c03b62727f6f8e98d0006.tar.gz",
+      "hash": "1dmm0m4l2h4dlsr4jabp7h0qr29l64888rha8isi6s8m7vxpsfzn"
     },
     "nvim-dap-virtual-text": {
       "type": "Git",
@@ -2431,9 +2431,9 @@
         "repo": "nvim-jdtls"
       },
       "branch": "master",
-      "revision": "6bfd1591583b02e742fc3a2f43393c4ea3b6d3c7",
-      "url": "https://github.com/mfussenegger/nvim-jdtls/archive/6bfd1591583b02e742fc3a2f43393c4ea3b6d3c7.tar.gz",
-      "hash": "10178jwv5mzq4lgxpspyfvjrylxix6gpm0pcy98h8gisxz8kv0yh"
+      "revision": "6e99fc8076d186cf1ebb1a34b4f521a66fd9a87f",
+      "url": "https://github.com/mfussenegger/nvim-jdtls/archive/6e99fc8076d186cf1ebb1a34b4f521a66fd9a87f.tar.gz",
+      "hash": "16vaabh94rs55bcl1qj2q2dlwld9wp75kpgbnwjzqyj7frs7b2ad"
     },
     "nvim-lastplace": {
       "type": "Git",
@@ -2683,9 +2683,9 @@
         "repo": "nvim-ufo"
       },
       "branch": "main",
-      "revision": "42be3ce3903c26bb753586958e403877ad36b9f6",
-      "url": "https://github.com/kevinhwang91/nvim-ufo/archive/42be3ce3903c26bb753586958e403877ad36b9f6.tar.gz",
-      "hash": "09czakvjcl5258cimq67bh03wbsly3ylhnikijvxphizzfpa51pk"
+      "revision": "4cc3ba9303c0708b81fd681786a4835fd31518ac",
+      "url": "https://github.com/kevinhwang91/nvim-ufo/archive/4cc3ba9303c0708b81fd681786a4835fd31518ac.tar.gz",
+      "hash": "00v2rxfrj8xjgrk41hz6kan66358byxccyyz6nxyjxa4f0bd77c4"
     },
     "nvim-web-devicons": {
       "type": "Git",
@@ -2983,9 +2983,9 @@
         "repo": "smart-splits.nvim"
       },
       "branch": "master",
-      "revision": "209c136a5bee236094245196986ce94920dd3fdf",
-      "url": "https://github.com/mrjones2014/smart-splits.nvim/archive/209c136a5bee236094245196986ce94920dd3fdf.tar.gz",
-      "hash": "1iwmadjdp0h8j32dh16qz95mhphs095h5q2jbr7r88i5gdhhfn3r"
+      "revision": "1a2b268a7ec7aeef879cdd15973339010ec134f7",
+      "url": "https://github.com/mrjones2014/smart-splits.nvim/archive/1a2b268a7ec7aeef879cdd15973339010ec134f7.tar.gz",
+      "hash": "0n4n6qqifwfq840qayqz8yr45gcgrhjb2fw9fla9kn6x4rzv6y9j"
     },
     "snippets-nvim": {
       "type": "Git",
