@@ -1879,9 +1879,9 @@
         "repo": "neogen"
       },
       "branch": "main",
-      "revision": "b2942f546c28fb27525dbdad8656549b9a28c846",
-      "url": "https://github.com/danymat/neogen/archive/b2942f546c28fb27525dbdad8656549b9a28c846.tar.gz",
-      "hash": "003kbrk54ifhr9c212cl8flm4wqkqwj26n0nhfy02a42h9i5bp3k"
+      "revision": "4b22542b96712a5a901fa909b7dc749251ae1625",
+      "url": "https://github.com/danymat/neogen/archive/4b22542b96712a5a901fa909b7dc749251ae1625.tar.gz",
+      "hash": "1258d2qqnf0qc07fj18601wfanwccpb8jmvz8nv3vw5fn6pj0l76"
     },
     "neogit": {
       "type": "Git",
