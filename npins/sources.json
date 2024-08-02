@@ -1220,9 +1220,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "19c52910dce1a95f01fc2dc3c7c7458ad425b887",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/19c52910dce1a95f01fc2dc3c7c7458ad425b887.tar.gz",
-      "hash": "0fcbpg8w7622hgi0p54k1hn424xdhsxsi9v4aqgiklppzmsp3cwr"
+      "revision": "c59e076dddae6fa85f8a97da8ff5304014ba5768",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/c59e076dddae6fa85f8a97da8ff5304014ba5768.tar.gz",
+      "hash": "1vwjhicn5p1c9ydr9hzgpm8nwgvzq0pvz8i9waig02dqb3flm3pr"
     },
     "galaxyline-nvim": {
       "type": "Git",
@@ -2983,9 +2983,9 @@
         "repo": "smart-splits.nvim"
       },
       "branch": "master",
-      "revision": "1a2b268a7ec7aeef879cdd15973339010ec134f7",
-      "url": "https://github.com/mrjones2014/smart-splits.nvim/archive/1a2b268a7ec7aeef879cdd15973339010ec134f7.tar.gz",
-      "hash": "0n4n6qqifwfq840qayqz8yr45gcgrhjb2fw9fla9kn6x4rzv6y9j"
+      "revision": "dbd4d7212d6e9d180ab4197a52cee2ba31b2b749",
+      "url": "https://github.com/mrjones2014/smart-splits.nvim/archive/dbd4d7212d6e9d180ab4197a52cee2ba31b2b749.tar.gz",
+      "hash": "124f84x62aa49jj1bkwadgqzakc2mllc7vpmcixb8dzsmhqwhdkh"
     },
     "snippets-nvim": {
       "type": "Git",
