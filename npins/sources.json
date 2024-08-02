@@ -596,9 +596,9 @@
         "repo": "cmp-nvim-ultisnips"
       },
       "branch": "main",
-      "revision": "404401792ec62d51ca2e8c279a81996082c2f937",
-      "url": "https://github.com/quangnguyen30192/cmp-nvim-ultisnips/archive/404401792ec62d51ca2e8c279a81996082c2f937.tar.gz",
-      "hash": "004f53rj8037zgxf9jkkyszhsykmgdvy4mc003k7cpxsypv2gz3a"
+      "revision": "2be0eda0f7fbf47ebd9fbdace369cc45d57acf49",
+      "url": "https://github.com/quangnguyen30192/cmp-nvim-ultisnips/archive/2be0eda0f7fbf47ebd9fbdace369cc45d57acf49.tar.gz",
+      "hash": "0p9jm8p1pcymahlak40bazvi6m32njn286d768pyqr342l0cw2bk"
     },
     "cmp-omni": {
       "type": "Git",
