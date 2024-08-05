@@ -1628,9 +1628,9 @@
         "repo": "lsp-format.nvim"
       },
       "branch": "master",
-      "revision": "3612642b0e2eb85015838df5dcfbacb61f15db98",
-      "url": "https://github.com/lukas-reineke/lsp-format.nvim/archive/3612642b0e2eb85015838df5dcfbacb61f15db98.tar.gz",
-      "hash": "1pizkn16ma7yfsy19g06f6l6zkqwsjkmzybqhhhp18xbbyj7m8cc"
+      "revision": "0d1b6e3317ff64719e8e6a4f534eebeddae70582",
+      "url": "https://github.com/lukas-reineke/lsp-format.nvim/archive/0d1b6e3317ff64719e8e6a4f534eebeddae70582.tar.gz",
+      "hash": "01g3xqn981k20a9qa2jz89vkj55hagzd75avq5zs8c0jzdlm1g2f"
     },
     "lsp-status-nvim": {
       "type": "Git",
