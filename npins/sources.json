@@ -1496,9 +1496,9 @@
         "repo": "indent-blankline.nvim"
       },
       "branch": "master",
-      "revision": "65e20ab94a26d0e14acac5049b8641336819dfc7",
-      "url": "https://github.com/lukas-reineke/indent-blankline.nvim/archive/65e20ab94a26d0e14acac5049b8641336819dfc7.tar.gz",
-      "hash": "14v9mglm2zykylga0lzh9w1vcmxixya7xg2k4z4m6f4a3l21farx"
+      "revision": "3fe94b8034dd5241cb882bb73847303b58857ecf",
+      "url": "https://github.com/lukas-reineke/indent-blankline.nvim/archive/3fe94b8034dd5241cb882bb73847303b58857ecf.tar.gz",
+      "hash": "0vy8ysdd5d1n4v7bsnpf88wfvdxw8b5csqipfyddw5apfmyyjqzz"
     },
     "indent-o-matic": {
       "type": "Git",
@@ -2683,9 +2683,9 @@
         "repo": "nvim-ufo"
       },
       "branch": "main",
-      "revision": "4cc3ba9303c0708b81fd681786a4835fd31518ac",
-      "url": "https://github.com/kevinhwang91/nvim-ufo/archive/4cc3ba9303c0708b81fd681786a4835fd31518ac.tar.gz",
-      "hash": "00v2rxfrj8xjgrk41hz6kan66358byxccyyz6nxyjxa4f0bd77c4"
+      "revision": "76f6b1d7c3f254567dc583124318e52305e3b111",
+      "url": "https://github.com/kevinhwang91/nvim-ufo/archive/76f6b1d7c3f254567dc583124318e52305e3b111.tar.gz",
+      "hash": "09wjgqg8scqzxkcl7sskq9mav527dijpndrja72wpw3cx0qzn683"
     },
     "nvim-web-devicons": {
       "type": "Git",
