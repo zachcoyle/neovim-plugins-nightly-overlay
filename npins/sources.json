@@ -3607,9 +3607,9 @@
         "repo": "vim-godot"
       },
       "branch": "master",
-      "revision": "f9c0b36b299efcc4aa4cb119a2be36a83fe10388",
-      "url": "https://github.com/habamax/vim-godot/archive/f9c0b36b299efcc4aa4cb119a2be36a83fe10388.tar.gz",
-      "hash": "0j0csgl7hy86j0fb1cyjklqwfwhhfrk8s35z9jxwyfh01h4pgahw"
+      "revision": "d21e110ee09b5030e55adda660a4ff58db40a329",
+      "url": "https://github.com/habamax/vim-godot/archive/d21e110ee09b5030e55adda660a4ff58db40a329.tar.gz",
+      "hash": "0fx6j7q9cyspghpnv9iy4ba99pcyjkq23rbyrd95i5dxlhzgj5q3"
     },
     "vim-helm": {
       "type": "Git",
