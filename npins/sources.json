@@ -1628,9 +1628,9 @@
         "repo": "lsp-format.nvim"
       },
       "branch": "master",
-      "revision": "0d1b6e3317ff64719e8e6a4f534eebeddae70582",
-      "url": "https://github.com/lukas-reineke/lsp-format.nvim/archive/0d1b6e3317ff64719e8e6a4f534eebeddae70582.tar.gz",
-      "hash": "01g3xqn981k20a9qa2jz89vkj55hagzd75avq5zs8c0jzdlm1g2f"
+      "revision": "1985dab455eb404aed6983ccf7c718824c5f6a3f",
+      "url": "https://github.com/lukas-reineke/lsp-format.nvim/archive/1985dab455eb404aed6983ccf7c718824c5f6a3f.tar.gz",
+      "hash": "0y0180wnpprwpyhvblc27wr19dqradc0bqszqcx0ii4vggsyzvah"
     },
     "lsp-status-nvim": {
       "type": "Git",
@@ -2071,9 +2071,9 @@
         "repo": "neotest-haskell"
       },
       "branch": "master",
-      "revision": "dc8884ba9ed12433f4d2f13a6cc127a6339b4825",
-      "url": "https://github.com/mrcjkb/neotest-haskell/archive/dc8884ba9ed12433f4d2f13a6cc127a6339b4825.tar.gz",
-      "hash": "1mkw66jwlqiyzf971ygxks0r9zlddqfjfw5v5vyr1qvbfs049mm2"
+      "revision": "7b107c1f40bf8774be3f8de28e7645b4afc3768d",
+      "url": "https://github.com/mrcjkb/neotest-haskell/archive/7b107c1f40bf8774be3f8de28e7645b4afc3768d.tar.gz",
+      "hash": "0sb96zscpfsbc13jpfmx4vr252bvmhpaw6v4i1fnp2rf6ys54p1y"
     },
     "neotest-java": {
       "type": "Git",
