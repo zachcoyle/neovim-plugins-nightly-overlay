@@ -2179,9 +2179,9 @@
         "repo": "neotest-rspec"
       },
       "branch": "main",
-      "revision": "48573d5882cbe8d8bcd3b735d9ee7705168b1b87",
-      "url": "https://github.com/olimorris/neotest-rspec/archive/48573d5882cbe8d8bcd3b735d9ee7705168b1b87.tar.gz",
-      "hash": "00l3v77d3zgq47gbsgjl916yp735kyr9s0jizi1sr5yg7wypx2cx"
+      "revision": "53fc108a06ae43d7f873d42ee5189c2301e33623",
+      "url": "https://github.com/olimorris/neotest-rspec/archive/53fc108a06ae43d7f873d42ee5189c2301e33623.tar.gz",
+      "hash": "0z8vh5miw3ysn4y45i4ckyc7s1k104l4m4yrpf7rx2wbd5gmkshw"
     },
     "neotest-rust": {
       "type": "Git",
@@ -2479,9 +2479,9 @@
         "repo": "nvim-lspconfig"
       },
       "branch": "master",
-      "revision": "e6528f4613c8db2e04be908eb2b5886d63f62a98",
-      "url": "https://github.com/neovim/nvim-lspconfig/archive/e6528f4613c8db2e04be908eb2b5886d63f62a98.tar.gz",
-      "hash": "0b4p41kv6m0hi1rh2z0711s8mklrnjsdddx9fgvmjm2ajh3qcfh3"
+      "revision": "81a19de18990208b678be084597613e2dbe66912",
+      "url": "https://github.com/neovim/nvim-lspconfig/archive/81a19de18990208b678be084597613e2dbe66912.tar.gz",
+      "hash": "0x9zq3pf18xczb9knvqz8jxla1qlcbxcc8l3jh28r9164vm3g7w3"
     },
     "nvim-navbuddy": {
       "type": "Git",
