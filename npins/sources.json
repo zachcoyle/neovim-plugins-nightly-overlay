@@ -92,9 +92,9 @@
         "repo": "auto-session"
       },
       "branch": "main",
-      "revision": "a6e692fadbe385b28ba8e98b67747a7e2f381f91",
-      "url": "https://github.com/rmagatti/auto-session/archive/a6e692fadbe385b28ba8e98b67747a7e2f381f91.tar.gz",
-      "hash": "1nlnh4ikr8mnk87694hyblrpmisc06bx1yiqrp6mv409vcafbw1j"
+      "revision": "b75f8c65758ff5236c6d7ed96456a6ff7a9141cf",
+      "url": "https://github.com/rmagatti/auto-session/archive/b75f8c65758ff5236c6d7ed96456a6ff7a9141cf.tar.gz",
+      "hash": "0i8vagynwq2ybzbjpds97nj5cngjgxnrrncabmjzvxznns7jfp71"
     },
     "autoclose-nvim": {
       "type": "Git",
@@ -3079,9 +3079,9 @@
         "repo": "tagbar"
       },
       "branch": "master",
-      "revision": "bc087d88defc0a63df3cd9284c2ecf4fcae42ce9",
-      "url": "https://github.com/preservim/tagbar/archive/bc087d88defc0a63df3cd9284c2ecf4fcae42ce9.tar.gz",
-      "hash": "0hr777yshkvkyj4bvlpz8iz3zv53lh6v84bfdkvkfz8dnsn6vhk7"
+      "revision": "d55d454bd3d5b027ebf0e8c75b8f88e4eddad8d8",
+      "url": "https://github.com/preservim/tagbar/archive/d55d454bd3d5b027ebf0e8c75b8f88e4eddad8d8.tar.gz",
+      "hash": "0yyscdzdh1mrgcr3w0727byqvvavd9r5a7728j717wvg139r0h9r"
     },
     "telescope-cheat-nvim": {
       "type": "Git",
