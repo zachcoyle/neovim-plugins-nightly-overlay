@@ -2683,9 +2683,9 @@
         "repo": "nvim-ufo"
       },
       "branch": "main",
-      "revision": "76f6b1d7c3f254567dc583124318e52305e3b111",
-      "url": "https://github.com/kevinhwang91/nvim-ufo/archive/76f6b1d7c3f254567dc583124318e52305e3b111.tar.gz",
-      "hash": "09wjgqg8scqzxkcl7sskq9mav527dijpndrja72wpw3cx0qzn683"
+      "revision": "7dcb8fea3e7b3ccdb50f2c3ae7c248cdf6fe1ae1",
+      "url": "https://github.com/kevinhwang91/nvim-ufo/archive/7dcb8fea3e7b3ccdb50f2c3ae7c248cdf6fe1ae1.tar.gz",
+      "hash": "1dp9i6pgkkvwzpqj52jyfi185vl7rc2sycx57qvzrpdspp13dxc0"
     },
     "nvim-web-devicons": {
       "type": "Git",
