@@ -2107,9 +2107,9 @@
         "repo": "neotest-minitest"
       },
       "branch": "main",
-      "revision": "0543bf4e997b2c970707cb297e2f74c438eb0653",
-      "url": "https://github.com/zidhuss/neotest-minitest/archive/0543bf4e997b2c970707cb297e2f74c438eb0653.tar.gz",
-      "hash": "053j4xm84i5z2a2qpka7vgq462928mg81gwkwvr2jbxjm4h4sk2r"
+      "revision": "bec6bb22e2f74ae56669b0c16ba38237dcd2febf",
+      "url": "https://github.com/zidhuss/neotest-minitest/archive/bec6bb22e2f74ae56669b0c16ba38237dcd2febf.tar.gz",
+      "hash": "1435ffq3zm1gqxx08yxgqg37cd9c2rlc8xjs6j4jw8v873xw06z3"
     },
     "neotest-pest": {
       "type": "Git",
@@ -2431,9 +2431,9 @@
         "repo": "nvim-jdtls"
       },
       "branch": "master",
-      "revision": "be5c8d49e0f5c01978aed2314ec47fa8eae759ca",
-      "url": "https://github.com/mfussenegger/nvim-jdtls/archive/be5c8d49e0f5c01978aed2314ec47fa8eae759ca.tar.gz",
-      "hash": "11lb2ayr0l5mdhg69vmx3ks7yixljyhw81fd3dij9z2drw344z5h"
+      "revision": "99e4b2081de1d9162666cc7b563cbeb01c26b66b",
+      "url": "https://github.com/mfussenegger/nvim-jdtls/archive/99e4b2081de1d9162666cc7b563cbeb01c26b66b.tar.gz",
+      "hash": "0gz37cf5rnmwkh9826dwr2jzqgz4fin2j1xd9r8n6xs7a3g2rzvk"
     },
     "nvim-lastplace": {
       "type": "Git",
