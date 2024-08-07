@@ -224,9 +224,9 @@
         "repo": "nvim"
       },
       "branch": "main",
-      "revision": "03a2f354456373c199eb7829fd14120cc2099108",
-      "url": "https://github.com/catppuccin/nvim/archive/03a2f354456373c199eb7829fd14120cc2099108.tar.gz",
-      "hash": "07nxxi36gqrgpp1l7yq0r0vi6g7nllmd1vn2pz41nhbja6lysl8i"
+      "revision": "05206bbb6d500a339cd55a9486532c3871a4455e",
+      "url": "https://github.com/catppuccin/nvim/archive/05206bbb6d500a339cd55a9486532c3871a4455e.tar.gz",
+      "hash": "1pszcs112p30mk2ahl85y38gpri13hics653iqimckmg0rfgj21k"
     },
     "ccc-nvim": {
       "type": "Git",
@@ -896,9 +896,9 @@
         "repo": "conform.nvim"
       },
       "branch": "master",
-      "revision": "25d48271e3d4404ba017cb92a37d3a681c1ad149",
-      "url": "https://github.com/stevearc/conform.nvim/archive/25d48271e3d4404ba017cb92a37d3a681c1ad149.tar.gz",
-      "hash": "0dbw1b25g83iy6yvc725k7il0l7yli4qd9s4wylcbqgacss2nz3h"
+      "revision": "eff40c4f5fdf7ae8f269b258047d1bd7cee50f02",
+      "url": "https://github.com/stevearc/conform.nvim/archive/eff40c4f5fdf7ae8f269b258047d1bd7cee50f02.tar.gz",
+      "hash": "0jwiyn6pi4pcpjp1wlqvl4aiijs94sra70cl6rnhr0m8v53mikk0"
     },
     "conjure": {
       "type": "Git",
