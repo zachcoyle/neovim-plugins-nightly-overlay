@@ -824,9 +824,9 @@
         "repo": "codeium.vim"
       },
       "branch": "main",
-      "revision": "e0342fde9474fdd0a36ff9692fe0031b7611a19f",
-      "url": "https://github.com/Exafunction/codeium.vim/archive/e0342fde9474fdd0a36ff9692fe0031b7611a19f.tar.gz",
-      "hash": "1s2k680k274pkn6ikw5z924847s72f8r6lhfxf32q55mc5id709y"
+      "revision": "b10269d6d4fc1214b80f1888d0871ee702393268",
+      "url": "https://github.com/Exafunction/codeium.vim/archive/b10269d6d4fc1214b80f1888d0871ee702393268.tar.gz",
+      "hash": "053jw7y51izk13qfm8x33pzmqpm0gh5b8kvxzaw8javvjglxkhfr"
     },
     "codesnap-nvim": {
       "type": "Git",
@@ -1220,9 +1220,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "e9413dc2b6e8ab7f62385c972df1dceba483492d",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/e9413dc2b6e8ab7f62385c972df1dceba483492d.tar.gz",
-      "hash": "09bh0rjx9g96vz0zfnpi4ych64qawrj1rgrpznkjn1cph8qayj35"
+      "revision": "bb52eebe56c5248b80899748b2dbdefdd513cade",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/bb52eebe56c5248b80899748b2dbdefdd513cade.tar.gz",
+      "hash": "0dw3c9i91anrwiy3r5gznidvb1gpr3jsddilng0ybm5g14zvhwsv"
     },
     "galaxyline-nvim": {
       "type": "Git",
