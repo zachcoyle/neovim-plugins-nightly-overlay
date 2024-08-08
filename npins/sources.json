@@ -3883,9 +3883,9 @@
         "repo": "vscode.nvim"
       },
       "branch": "main",
-      "revision": "f6c88cdf9d37d5c0bb1e492a13a3b4b4cc4dd13e",
-      "url": "https://github.com/Mofiqul/vscode.nvim/archive/f6c88cdf9d37d5c0bb1e492a13a3b4b4cc4dd13e.tar.gz",
-      "hash": "0v4izydhq4jc6jaw7a38d0w2mlw93jdijaql7y2hk8fp44sn51q1"
+      "revision": "7de58b7a6d55fe48475d0ba2fddbcec871717761",
+      "url": "https://github.com/Mofiqul/vscode.nvim/archive/7de58b7a6d55fe48475d0ba2fddbcec871717761.tar.gz",
+      "hash": "0daq565dmy027qlzfqx08gr9zwjcp4n1cppjpz2ri4gxbjhvgak4"
     },
     "which-key-nvim": {
       "type": "Git",
