@@ -968,9 +968,9 @@
         "repo": "coq_nvim"
       },
       "branch": "coq",
-      "revision": "d5e0bacf6b9f3f4d66898c986d845a91f854cb4a",
-      "url": "https://github.com/ms-jpq/coq_nvim/archive/d5e0bacf6b9f3f4d66898c986d845a91f854cb4a.tar.gz",
-      "hash": "1g7hl54r25k81gkgkbbcsc0cycbx5pvnn54kyrz5mrm0mp5mgbq0"
+      "revision": "fea8a309fe08c57bbf5c3ca10e5785a0e3b0d5cc",
+      "url": "https://github.com/ms-jpq/coq_nvim/archive/fea8a309fe08c57bbf5c3ca10e5785a0e3b0d5cc.tar.gz",
+      "hash": "1vss3hbzq05g7m7ly42b1divms86xjwv4qwxdmndyjwly164ajl3"
     },
     "crates-nvim": {
       "type": "Git",
@@ -3055,9 +3055,9 @@
         "repo": "startup.nvim"
       },
       "branch": "master",
-      "revision": "c6ba324f9eba0c23b675b53af431346aab893268",
-      "url": "https://github.com/startup-nvim/startup.nvim/archive/c6ba324f9eba0c23b675b53af431346aab893268.tar.gz",
-      "hash": "0vp4vfrlb39z4s4617v1xkzjkx6l5sxfravfj2wkkwzpjrqfs2bl"
+      "revision": "c00a24e8777232a68296067847040a749cb94b56",
+      "url": "https://github.com/startup-nvim/startup.nvim/archive/c00a24e8777232a68296067847040a749cb94b56.tar.gz",
+      "hash": "1xwjhp1pwps2s1nw5asr56589w20zpa0map7n20qc0yyh56wi9g4"
     },
     "statuscol-nvim": {
       "type": "Git",
