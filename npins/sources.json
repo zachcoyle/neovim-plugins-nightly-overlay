@@ -824,9 +824,9 @@
         "repo": "codeium.vim"
       },
       "branch": "main",
-      "revision": "b10269d6d4fc1214b80f1888d0871ee702393268",
-      "url": "https://github.com/Exafunction/codeium.vim/archive/b10269d6d4fc1214b80f1888d0871ee702393268.tar.gz",
-      "hash": "053jw7y51izk13qfm8x33pzmqpm0gh5b8kvxzaw8javvjglxkhfr"
+      "revision": "8dea01eaaa7d6f5ab545a2f8f8962d3ae5411fa4",
+      "url": "https://github.com/Exafunction/codeium.vim/archive/8dea01eaaa7d6f5ab545a2f8f8962d3ae5411fa4.tar.gz",
+      "hash": "1qvx8k7zbrj2ln9yf4mvkm17qivrsjkkgn4v0fhl36dbgg2s4mrc"
     },
     "codesnap-nvim": {
       "type": "Git",
@@ -1783,9 +1783,9 @@
         "repo": "melange-nvim"
       },
       "branch": "master",
-      "revision": "f626d41b9110e6ab853538d8b939979a0f1adfeb",
-      "url": "https://github.com/savq/melange-nvim/archive/f626d41b9110e6ab853538d8b939979a0f1adfeb.tar.gz",
-      "hash": "19xak308004015avjarqdrmwwwfkyam72kjav7g7v8pg27rqckzr"
+      "revision": "11c4e19dbca58229adcdd13db3c73730a78d0e38",
+      "url": "https://github.com/savq/melange-nvim/archive/11c4e19dbca58229adcdd13db3c73730a78d0e38.tar.gz",
+      "hash": "1scz4709b830ydqwmgrjzm3bh3fihlzimal9446p0s2knkaxavnk"
     },
     "mini-nvim": {
       "type": "Git",
