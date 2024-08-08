@@ -968,9 +968,9 @@
         "repo": "coq_nvim"
       },
       "branch": "coq",
-      "revision": "c1f6aec13122add5e9bd92bd1c5e9ee7967cf8a1",
-      "url": "https://github.com/ms-jpq/coq_nvim/archive/c1f6aec13122add5e9bd92bd1c5e9ee7967cf8a1.tar.gz",
-      "hash": "03nxlz424xfbap0dxq3wj2c3mgbs3a9sp48qm1v95c2xx68sg5y3"
+      "revision": "d5e0bacf6b9f3f4d66898c986d845a91f854cb4a",
+      "url": "https://github.com/ms-jpq/coq_nvim/archive/d5e0bacf6b9f3f4d66898c986d845a91f854cb4a.tar.gz",
+      "hash": "1g7hl54r25k81gkgkbbcsc0cycbx5pvnn54kyrz5mrm0mp5mgbq0"
     },
     "crates-nvim": {
       "type": "Git",
@@ -1927,9 +1927,9 @@
         "repo": "neorg"
       },
       "branch": "main",
-      "revision": "f0990beaae604452cb433953f85e3919d9135de6",
-      "url": "https://github.com/vhyrro/neorg/archive/f0990beaae604452cb433953f85e3919d9135de6.tar.gz",
-      "hash": "01c9m96ij00zf9y2srhw30wb68kiswj9jb463z18h20mnhzpk47r"
+      "revision": "88dbab5325ce07092ab7a38b160bc8e988830524",
+      "url": "https://github.com/vhyrro/neorg/archive/88dbab5325ce07092ab7a38b160bc8e988830524.tar.gz",
+      "hash": "18qpjiz90vkhfqqfzkvwk47ljh7fcadqb1xjsqv8920d5qvy5vmn"
     },
     "neoscroll-nvim": {
       "type": "Git",
