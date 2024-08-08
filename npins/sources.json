@@ -3379,9 +3379,9 @@
         "repo": "toggleterm.nvim"
       },
       "branch": "main",
-      "revision": "8ed0f52006d3207ec6c94de7db62da840937ef2a",
-      "url": "https://github.com/akinsho/toggleterm.nvim/archive/8ed0f52006d3207ec6c94de7db62da840937ef2a.tar.gz",
-      "hash": "0w57bwci2fjm1a2z65d9dd3pj4fq90a7qj1pcf209j24xzni9sqv"
+      "revision": "137d06fb103952a0fb567882bb8527e2f92d327d",
+      "url": "https://github.com/akinsho/toggleterm.nvim/archive/137d06fb103952a0fb567882bb8527e2f92d327d.tar.gz",
+      "hash": "1bmmz7ypzs4yfsky0z8d9pda8r3imlxf2f0k8n3fw327f7kc8lan"
     },
     "tokyonight-nvim": {
       "type": "Git",
