@@ -1496,9 +1496,9 @@
         "repo": "indent-blankline.nvim"
       },
       "branch": "master",
-      "revision": "3fe94b8034dd5241cb882bb73847303b58857ecf",
-      "url": "https://github.com/lukas-reineke/indent-blankline.nvim/archive/3fe94b8034dd5241cb882bb73847303b58857ecf.tar.gz",
-      "hash": "0vy8ysdd5d1n4v7bsnpf88wfvdxw8b5csqipfyddw5apfmyyjqzz"
+      "revision": "dddb5d21811c319eb6e51a993d8fb44b193aae3f",
+      "url": "https://github.com/lukas-reineke/indent-blankline.nvim/archive/dddb5d21811c319eb6e51a993d8fb44b193aae3f.tar.gz",
+      "hash": "0cnidyh7nsppz4yxylry5444gj0is6iv5rhah72hl8g271pkrgfg"
     },
     "indent-o-matic": {
       "type": "Git",
@@ -1927,9 +1927,9 @@
         "repo": "neorg"
       },
       "branch": "main",
-      "revision": "e5e797e6eddcb6efb1d2c3fc2612b31ad9a76cef",
-      "url": "https://github.com/vhyrro/neorg/archive/e5e797e6eddcb6efb1d2c3fc2612b31ad9a76cef.tar.gz",
-      "hash": "0439h307zphrz67s3mvcjwk2ixn1vrxas62lrcp2v07w8gln59m1"
+      "revision": "af71c11eff3a78b284efa5ee06c854046b1f50c4",
+      "url": "https://github.com/vhyrro/neorg/archive/af71c11eff3a78b284efa5ee06c854046b1f50c4.tar.gz",
+      "hash": "0p2dpbdw3k23kqia6vv3gynb8lfrb20bnw8j9cn6djfinmnd0090"
     },
     "neoscroll-nvim": {
       "type": "Git",
@@ -2467,9 +2467,9 @@
         "repo": "nvim-lint"
       },
       "branch": "master",
-      "revision": "efc6fc83f0772283e064c53a8f9fb5645bde0bc0",
-      "url": "https://github.com/mfussenegger/nvim-lint/archive/efc6fc83f0772283e064c53a8f9fb5645bde0bc0.tar.gz",
-      "hash": "1garyyavgg2xfdkw8s9jjq4p5mv5i6m54m8dszdhvkad5ni1zlvb"
+      "revision": "9f0ce1dbdcc30ad4f39bee65e435ec752018ac2d",
+      "url": "https://github.com/mfussenegger/nvim-lint/archive/9f0ce1dbdcc30ad4f39bee65e435ec752018ac2d.tar.gz",
+      "hash": "058510gp2zik9kpa8jq6524kj1gj53p5jjbi4n8difj8wd0ixc2s"
     },
     "nvim-lspconfig": {
       "type": "Git",
