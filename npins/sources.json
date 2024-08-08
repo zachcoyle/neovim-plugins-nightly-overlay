@@ -824,9 +824,9 @@
         "repo": "codeium.vim"
       },
       "branch": "main",
-      "revision": "8dea01eaaa7d6f5ab545a2f8f8962d3ae5411fa4",
-      "url": "https://github.com/Exafunction/codeium.vim/archive/8dea01eaaa7d6f5ab545a2f8f8962d3ae5411fa4.tar.gz",
-      "hash": "1qvx8k7zbrj2ln9yf4mvkm17qivrsjkkgn4v0fhl36dbgg2s4mrc"
+      "revision": "0b74f274b82c00eaad4b5b5cd8b2e76f872d19f1",
+      "url": "https://github.com/Exafunction/codeium.vim/archive/0b74f274b82c00eaad4b5b5cd8b2e76f872d19f1.tar.gz",
+      "hash": "1i3jpavh5zaak6gfjgv93scp9kqqx6328h74ci4cvs46cmiaw7ja"
     },
     "codesnap-nvim": {
       "type": "Git",
@@ -1927,9 +1927,9 @@
         "repo": "neorg"
       },
       "branch": "main",
-      "revision": "88dbab5325ce07092ab7a38b160bc8e988830524",
-      "url": "https://github.com/vhyrro/neorg/archive/88dbab5325ce07092ab7a38b160bc8e988830524.tar.gz",
-      "hash": "18qpjiz90vkhfqqfzkvwk47ljh7fcadqb1xjsqv8920d5qvy5vmn"
+      "revision": "09deca2ba5adcf1a729d1e3abf64438d7ce4d7ee",
+      "url": "https://github.com/vhyrro/neorg/archive/09deca2ba5adcf1a729d1e3abf64438d7ce4d7ee.tar.gz",
+      "hash": "00llvsnhd77zncgc0xnh18g874w8y73a7wlff42ib6nc4vq6qkqi"
     },
     "neoscroll-nvim": {
       "type": "Git",
