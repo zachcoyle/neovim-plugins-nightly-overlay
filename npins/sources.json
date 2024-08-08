@@ -968,9 +968,9 @@
         "repo": "coq_nvim"
       },
       "branch": "coq",
-      "revision": "ff2a51e72fd74da70a9c8b8395d387698f24d779",
-      "url": "https://github.com/ms-jpq/coq_nvim/archive/ff2a51e72fd74da70a9c8b8395d387698f24d779.tar.gz",
-      "hash": "0ll3v1ilb0rnigxzm62scbcnpc34c4r42pi7xcgyzr6gcckqvilz"
+      "revision": "b9524bce806fa2e2e042396c34e02e2041b672d5",
+      "url": "https://github.com/ms-jpq/coq_nvim/archive/b9524bce806fa2e2e042396c34e02e2041b672d5.tar.gz",
+      "hash": "0ny7w957rjkri0b9s513b6svmynrgk0vyfj0x739r7ap1nvj27g4"
     },
     "crates-nvim": {
       "type": "Git",
@@ -980,9 +980,9 @@
         "repo": "crates.nvim"
       },
       "branch": "main",
-      "revision": "69b22bc993232e5085e00c36b37cc68af931be70",
-      "url": "https://github.com/Saecki/crates.nvim/archive/69b22bc993232e5085e00c36b37cc68af931be70.tar.gz",
-      "hash": "1xwc4b41f5a3ij3gki7p0mbdxmqbc2hvgpkld9q0jy48im81g69z"
+      "revision": "cd670ecc862469557b12d12e7116d7afd2fd9c0f",
+      "url": "https://github.com/Saecki/crates.nvim/archive/cd670ecc862469557b12d12e7116d7afd2fd9c0f.tar.gz",
+      "hash": "0cvvnwvx65ivqqqpbc5hirff6zz4k3x67ax4z8q0lv317x3fl1nz"
     },
     "cyberdream-nvim": {
       "type": "Git",
