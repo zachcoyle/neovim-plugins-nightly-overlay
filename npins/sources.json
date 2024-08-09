@@ -44,9 +44,9 @@
         "repo": "SchemaStore.nvim"
       },
       "branch": "main",
-      "revision": "218a9887085b81b3eb0ee8f1e2d20c4a7fd7b1c9",
-      "url": "https://github.com/b0o/SchemaStore.nvim/archive/218a9887085b81b3eb0ee8f1e2d20c4a7fd7b1c9.tar.gz",
-      "hash": "05hppp6rp112vd2j029jzdb5wkfxgqr98kvbnhb081y9cphvdp3m"
+      "revision": "6ba091a30616aadeda531c7f27dfad263303f55d",
+      "url": "https://github.com/b0o/SchemaStore.nvim/archive/6ba091a30616aadeda531c7f27dfad263303f55d.tar.gz",
+      "hash": "11930wzy7kq6ngy30kl5bkpwvzdl2l2if8mp9p4gxifihk4n1d3f"
     },
     "alpha-nvim": {
       "type": "Git",
@@ -2407,9 +2407,9 @@
         "repo": "nvim-dap"
       },
       "branch": "master",
-      "revision": "dcc85d12d6e2c18c5fa0f9a304d9f5e767e1401a",
-      "url": "https://github.com/mfussenegger/nvim-dap/archive/dcc85d12d6e2c18c5fa0f9a304d9f5e767e1401a.tar.gz",
-      "hash": "12bxs0dh6h1rkb45xb0cb7fccgm1an96yy28rcf2jddsfhgfzw32"
+      "revision": "6a12fe51edd45d6f16988403513e0faacf618a19",
+      "url": "https://github.com/mfussenegger/nvim-dap/archive/6a12fe51edd45d6f16988403513e0faacf618a19.tar.gz",
+      "hash": "1nsck5dl64ybxd2sz8hv7xc1k0kpkg0mlcv2b8wmh22slrrgl5ns"
     },
     "nvim-dap-virtual-text": {
       "type": "Git",
