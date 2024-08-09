@@ -908,9 +908,9 @@
         "repo": "conjure"
       },
       "branch": "master",
-      "revision": "08604ac2f286d228835b182e3b8497fed17d0c18",
-      "url": "https://github.com/Olical/conjure/archive/08604ac2f286d228835b182e3b8497fed17d0c18.tar.gz",
-      "hash": "1haj2pwc56cjfcskjbhhx97bq4s0j8plmhm418ajpbgqkraqz26v"
+      "revision": "6d2bc7f7b24c2c43d54f263bee7b9b08aef5d1a1",
+      "url": "https://github.com/Olical/conjure/archive/6d2bc7f7b24c2c43d54f263bee7b9b08aef5d1a1.tar.gz",
+      "hash": "0gfk2b4cz8wisp5lpjlncf79may4c0sykgn7n9ibrmd8729ks43k"
     },
     "copilot-cmp": {
       "type": "Git",
@@ -1592,9 +1592,9 @@
         "repo": "lean.nvim"
       },
       "branch": "main",
-      "revision": "e4988888806a1f7c7e5057ab3c45e021badc6d6d",
-      "url": "https://github.com/Julian/lean.nvim/archive/e4988888806a1f7c7e5057ab3c45e021badc6d6d.tar.gz",
-      "hash": "11bdi3zmx421ypdab8220m11sw2kyycv2lpk1bmz50gj14g49xpf"
+      "revision": "04024effd84d632841230725e82b51b660db68f8",
+      "url": "https://github.com/Julian/lean.nvim/archive/04024effd84d632841230725e82b51b660db68f8.tar.gz",
+      "hash": "0cfsnnjdj8lc6s3507ipd8za14ifxk2vp38n6cz71mi06aj59n5b"
     },
     "leap-nvim": {
       "type": "Git",
@@ -3403,9 +3403,9 @@
         "repo": "transparent.nvim"
       },
       "branch": "main",
-      "revision": "fd35a46f4b7c1b244249266bdcb2da3814f01724",
-      "url": "https://github.com/xiyaowong/transparent.nvim/archive/fd35a46f4b7c1b244249266bdcb2da3814f01724.tar.gz",
-      "hash": "0a9rckkz95a0szgykwxb6qanriszr4c34zkac0bvvwkldapbngy1"
+      "revision": "d96b424632179968383ffd425eade2da43498e7d",
+      "url": "https://github.com/xiyaowong/transparent.nvim/archive/d96b424632179968383ffd425eade2da43498e7d.tar.gz",
+      "hash": "1bcc7f9nsb33cy95p6dhn9fxyk5xz9r6l8xqpwpvpp2d3j00cs8a"
     },
     "trim-nvim": {
       "type": "Git",
