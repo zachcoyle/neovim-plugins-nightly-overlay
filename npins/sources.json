@@ -908,9 +908,9 @@
         "repo": "conjure"
       },
       "branch": "master",
-      "revision": "1157614e1c757cdbe062b08d617d162fb34ed3a3",
-      "url": "https://github.com/Olical/conjure/archive/1157614e1c757cdbe062b08d617d162fb34ed3a3.tar.gz",
-      "hash": "03rrfba6z47sy4x1a7wrmnlfysz20zn8z1wxinbf60dkaiyjsfgp"
+      "revision": "08604ac2f286d228835b182e3b8497fed17d0c18",
+      "url": "https://github.com/Olical/conjure/archive/08604ac2f286d228835b182e3b8497fed17d0c18.tar.gz",
+      "hash": "1haj2pwc56cjfcskjbhhx97bq4s0j8plmhm418ajpbgqkraqz26v"
     },
     "copilot-cmp": {
       "type": "Git",
@@ -968,9 +968,9 @@
         "repo": "coq_nvim"
       },
       "branch": "coq",
-      "revision": "aff10c5e1a1d669f967eda96dc8a11e6ea634d03",
-      "url": "https://github.com/ms-jpq/coq_nvim/archive/aff10c5e1a1d669f967eda96dc8a11e6ea634d03.tar.gz",
-      "hash": "1qmc6rkx5fnmdl2lldv61qvh78v1i3j36yvwf7d7hhwin0789rx2"
+      "revision": "427a3ff9d467e564bfda98c5b56575450dfe3da8",
+      "url": "https://github.com/ms-jpq/coq_nvim/archive/427a3ff9d467e564bfda98c5b56575450dfe3da8.tar.gz",
+      "hash": "0z0662n6fdi6ncgx0038mpffz3d9m1dsfqzzk0gaknfmgr9fnm3b"
     },
     "crates-nvim": {
       "type": "Git",
