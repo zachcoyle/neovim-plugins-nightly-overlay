@@ -1220,9 +1220,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "c2a0044c09e42cf43e7aa77994cce36fe846b80c",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/c2a0044c09e42cf43e7aa77994cce36fe846b80c.tar.gz",
-      "hash": "0m9nb6kn4cd1bi6g7mrspdiyk4knwqng83q5w9pdp97ksximamjk"
+      "revision": "f3e630cdbd5da1a8252d970f90aa85626593affd",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/f3e630cdbd5da1a8252d970f90aa85626593affd.tar.gz",
+      "hash": "0w7559na6sk4kw558820mnki6vvzl3vchj1p5i1l28h5xn7zi75q"
     },
     "galaxyline-nvim": {
       "type": "Git",
@@ -1592,9 +1592,9 @@
         "repo": "lean.nvim"
       },
       "branch": "main",
-      "revision": "04024effd84d632841230725e82b51b660db68f8",
-      "url": "https://github.com/Julian/lean.nvim/archive/04024effd84d632841230725e82b51b660db68f8.tar.gz",
-      "hash": "0cfsnnjdj8lc6s3507ipd8za14ifxk2vp38n6cz71mi06aj59n5b"
+      "revision": "bf59f4c373aa62afb479806a7193b6601aafde90",
+      "url": "https://github.com/Julian/lean.nvim/archive/bf59f4c373aa62afb479806a7193b6601aafde90.tar.gz",
+      "hash": "0cpn3mz4f5wsl0y1ps4sx2vc7dj0i1kw0gqy4pii5ai29bi3np3k"
     },
     "leap-nvim": {
       "type": "Git",
@@ -1831,9 +1831,9 @@
         "repo": "molten-nvim"
       },
       "branch": "main",
-      "revision": "eb6d0fe33e14989b0f1fbe25d9732889ee57bd1a",
-      "url": "https://github.com/benlubas/molten-nvim/archive/eb6d0fe33e14989b0f1fbe25d9732889ee57bd1a.tar.gz",
-      "hash": "0prm7i4fl5lbfgdk9s9n9sn05a0hrbfdjgb5g393hjjkid8f4haf"
+      "revision": "81aad335d46bd3fcd144ee6c798b026335921ed4",
+      "url": "https://github.com/benlubas/molten-nvim/archive/81aad335d46bd3fcd144ee6c798b026335921ed4.tar.gz",
+      "hash": "088rdswb501h7n6rzc1hnxgw950qa4w7jb3y5668966pbcdxa951"
     },
     "multicursors-nvim": {
       "type": "Git",
