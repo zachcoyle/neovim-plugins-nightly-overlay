@@ -956,9 +956,9 @@
         "repo": "coq.thirdparty"
       },
       "branch": "3p",
-      "revision": "6a53363555bd483818ef2a3103db8ddc8d98a41d",
-      "url": "https://github.com/ms-jpq/coq.thirdparty/archive/6a53363555bd483818ef2a3103db8ddc8d98a41d.tar.gz",
-      "hash": "0c5l8zwrcyab36l3diwb6zpncisl0nn0d993vwrzf2430nak59cy"
+      "revision": "e811b831607f2c8bdc4699e0bb9b9eeabf11acad",
+      "url": "https://github.com/ms-jpq/coq.thirdparty/archive/e811b831607f2c8bdc4699e0bb9b9eeabf11acad.tar.gz",
+      "hash": "1clrjrgwv9sfcc6gwn1wppr4kfsp2kc5709s8p16lf1hgw2hqsah"
     },
     "coq_nvim": {
       "type": "Git",
