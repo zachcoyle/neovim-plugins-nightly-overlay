@@ -2611,9 +2611,9 @@
         "repo": "nvim-treesitter"
       },
       "branch": "master",
-      "revision": "a8535b2329a082c7f4e0b11b91b1792770425eaa",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/a8535b2329a082c7f4e0b11b91b1792770425eaa.tar.gz",
-      "hash": "0lsh03qj7l00an70wxiyvyi62lsn2jb3jsgd5swz240wqzw7k8i4"
+      "revision": "3d1f5e7df8d9981ec0bcf4aa635c0cc0a7ee89d9",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/3d1f5e7df8d9981ec0bcf4aa635c0cc0a7ee89d9.tar.gz",
+      "hash": "18fwmh6v4fm38akvxmvijhc2jfglbzf69hsy330kf8ijlnn6wks4"
     },
     "nvim-treesitter-context": {
       "type": "Git",
@@ -3859,9 +3859,9 @@
         "repo": "vimtex"
       },
       "branch": "master",
-      "revision": "5ac62e0315c6f54f53a7d6da7c485cf8e9cf7240",
-      "url": "https://github.com/lervag/vimtex/archive/5ac62e0315c6f54f53a7d6da7c485cf8e9cf7240.tar.gz",
-      "hash": "0kj1nc86qib6n58ds18aiszbnfgqbjk92d5lcpypf1fcfjvyvv84"
+      "revision": "7f6817c0dca7793907785dd5edb01761df13572c",
+      "url": "https://github.com/lervag/vimtex/archive/7f6817c0dca7793907785dd5edb01761df13572c.tar.gz",
+      "hash": "1a8v3k2p35ygj5l4757ikpqd98kgpxgmidcbv6vnqysjs1qyvw2n"
     },
     "virt-column-nvim": {
       "type": "Git",
