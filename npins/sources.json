@@ -224,9 +224,9 @@
         "repo": "nvim"
       },
       "branch": "main",
-      "revision": "f8564054831b45bac52f91bb8d12c68631b13e1a",
-      "url": "https://github.com/catppuccin/nvim/archive/f8564054831b45bac52f91bb8d12c68631b13e1a.tar.gz",
-      "hash": "0yk92csf0vr2mvd4j70pz4m1w5aicnrr7sj4q08352wwiqgsd3ck"
+      "revision": "c9e205fe035d622b3c2d66ee42edf368c0c31fd5",
+      "url": "https://github.com/catppuccin/nvim/archive/c9e205fe035d622b3c2d66ee42edf368c0c31fd5.tar.gz",
+      "hash": "1y5f1fj672q8drr06q6w8yhwrqzp0265jb2gmr0ql8m3hd1v0sj0"
     },
     "ccc-nvim": {
       "type": "Git",
@@ -1580,9 +1580,9 @@
         "repo": "lazygit.nvim"
       },
       "branch": "main",
-      "revision": "dc56df433bfbf107fee0139e187eb9750878fa84",
-      "url": "https://github.com/kdheepak/lazygit.nvim/archive/dc56df433bfbf107fee0139e187eb9750878fa84.tar.gz",
-      "hash": "0wvbr14yv4bgb91zns60rcb6r4fl97jdhqsx8flwq3naqj5qayq6"
+      "revision": "2432b447483f42ff2e18b2d392cb2bb27e495c08",
+      "url": "https://github.com/kdheepak/lazygit.nvim/archive/2432b447483f42ff2e18b2d392cb2bb27e495c08.tar.gz",
+      "hash": "0mwx0vdsid6crzwv30wayhw2qszynr6xyrmkbpxik26ghgwcpzb0"
     },
     "lean-nvim": {
       "type": "Git",
