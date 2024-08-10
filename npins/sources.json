@@ -2599,9 +2599,9 @@
         "repo": "nvim-tree.lua"
       },
       "branch": "master",
-      "revision": "48d0e82f9434691cc50d970898142a8c084a49d6",
-      "url": "https://github.com/nvim-tree/nvim-tree.lua/archive/48d0e82f9434691cc50d970898142a8c084a49d6.tar.gz",
-      "hash": "1j59d696dn87bqllawn2l0n0092f20ih99a69sgjaqw31fz4cq3h"
+      "revision": "e25eb7fa83f7614bb23d762e91d2de44fcd7103b",
+      "url": "https://github.com/nvim-tree/nvim-tree.lua/archive/e25eb7fa83f7614bb23d762e91d2de44fcd7103b.tar.gz",
+      "hash": "0vk8s2c6balycxz03axs7aa4b9z6nn25pm4x7hnakpb02rj7h66a"
     },
     "nvim-treesitter": {
       "type": "Git",
@@ -3403,9 +3403,9 @@
         "repo": "transparent.nvim"
       },
       "branch": "main",
-      "revision": "d96b424632179968383ffd425eade2da43498e7d",
-      "url": "https://github.com/xiyaowong/transparent.nvim/archive/d96b424632179968383ffd425eade2da43498e7d.tar.gz",
-      "hash": "1bcc7f9nsb33cy95p6dhn9fxyk5xz9r6l8xqpwpvpp2d3j00cs8a"
+      "revision": "2c78d94448b534c35ca1d88a3bae90b1cd1a3d4d",
+      "url": "https://github.com/xiyaowong/transparent.nvim/archive/2c78d94448b534c35ca1d88a3bae90b1cd1a3d4d.tar.gz",
+      "hash": "1kpm2bmqhs8k0nmvwaa19p0zvk7jcq9f50vakhgwlch615646w86"
     },
     "trim-nvim": {
       "type": "Git",
