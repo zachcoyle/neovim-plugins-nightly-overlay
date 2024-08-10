@@ -1112,9 +1112,9 @@
         "repo": "emmet-vim"
       },
       "branch": "master",
-      "revision": "3fb2f63799e1922f7647ed9ff3b32154031a76ee",
-      "url": "https://github.com/mattn/emmet-vim/archive/3fb2f63799e1922f7647ed9ff3b32154031a76ee.tar.gz",
-      "hash": "1svrwc9nk0892g9nhypxp0c5v92b1khwv3211an2f60vywc5j7ra"
+      "revision": "6c511a8d7d2863066f32e25543e2bb99d505172c",
+      "url": "https://github.com/mattn/emmet-vim/archive/6c511a8d7d2863066f32e25543e2bb99d505172c.tar.gz",
+      "hash": "0ykhq9qxgpb9mhallpc5m0arl81rnv8xfqw7kcs205gpxiqs3abw"
     },
     "feline-nvim": {
       "type": "Git",
@@ -2599,9 +2599,9 @@
         "repo": "nvim-tree.lua"
       },
       "branch": "master",
-      "revision": "e25eb7fa83f7614bb23d762e91d2de44fcd7103b",
-      "url": "https://github.com/nvim-tree/nvim-tree.lua/archive/e25eb7fa83f7614bb23d762e91d2de44fcd7103b.tar.gz",
-      "hash": "0vk8s2c6balycxz03axs7aa4b9z6nn25pm4x7hnakpb02rj7h66a"
+      "revision": "ad0b95dee55955817af635fa121f6e2486b10583",
+      "url": "https://github.com/nvim-tree/nvim-tree.lua/archive/ad0b95dee55955817af635fa121f6e2486b10583.tar.gz",
+      "hash": "005rkw0p4gk0aav0llzmpfg2sq7ddxgdqzljmh0xqhacqn26jmky"
     },
     "nvim-treesitter": {
       "type": "Git",
@@ -2983,9 +2983,9 @@
         "repo": "smart-splits.nvim"
       },
       "branch": "master",
-      "revision": "dbd4d7212d6e9d180ab4197a52cee2ba31b2b749",
-      "url": "https://github.com/mrjones2014/smart-splits.nvim/archive/dbd4d7212d6e9d180ab4197a52cee2ba31b2b749.tar.gz",
-      "hash": "124f84x62aa49jj1bkwadgqzakc2mllc7vpmcixb8dzsmhqwhdkh"
+      "revision": "b518cfb5283a2da43fa9935e850ba9d77873453d",
+      "url": "https://github.com/mrjones2014/smart-splits.nvim/archive/b518cfb5283a2da43fa9935e850ba9d77873453d.tar.gz",
+      "hash": "0yy7d7y2213gh0z7z8zbnm7r6jm8hzmb0z4y3s9l28ziy5i0dz1s"
     },
     "snippets-nvim": {
       "type": "Git",
