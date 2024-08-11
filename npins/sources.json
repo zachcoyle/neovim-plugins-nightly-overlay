@@ -56,9 +56,9 @@
         "repo": "alpha-nvim"
       },
       "branch": "main",
-      "revision": "36e4baca9533ec87afa948fe20a0a1c4897a6a6e",
-      "url": "https://github.com/goolord/alpha-nvim/archive/36e4baca9533ec87afa948fe20a0a1c4897a6a6e.tar.gz",
-      "hash": "1zkrqn6ip15g5ql83jvvqpdy2vaky43lpvdl1k9126q03d4ab52h"
+      "revision": "355fbb81a59637a8963cf5847074f8c44dbef11f",
+      "url": "https://github.com/goolord/alpha-nvim/archive/355fbb81a59637a8963cf5847074f8c44dbef11f.tar.gz",
+      "hash": "1qkcfcv2l9726c9h6nvabjjcl02mv7yd8pbz0lbr5dp0s8d1ghg2"
     },
     "arrow-nvim": {
       "type": "Git",
@@ -1592,9 +1592,9 @@
         "repo": "lean.nvim"
       },
       "branch": "main",
-      "revision": "b8f8962fa879c21e6ae373a0f2d65125cd4c5989",
-      "url": "https://github.com/Julian/lean.nvim/archive/b8f8962fa879c21e6ae373a0f2d65125cd4c5989.tar.gz",
-      "hash": "1n5c3gimfwqb40j6c3rbbzgn1c16iciqj30d8rdz1nz15kc8asj5"
+      "revision": "0ea6af3491e97b02f01279c78d22f427b02d0691",
+      "url": "https://github.com/Julian/lean.nvim/archive/0ea6af3491e97b02f01279c78d22f427b02d0691.tar.gz",
+      "hash": "0ai4a65z75www5an15q79swsyd2iidk73zxgkyw7q89kw3pvnxdd"
     },
     "leap-nvim": {
       "type": "Git",
@@ -2083,9 +2083,9 @@
         "repo": "neotest-java"
       },
       "branch": "main",
-      "revision": "32b7a85416738e1ca7d250ce98ed0e0c9c530295",
-      "url": "https://github.com/rcasia/neotest-java/archive/32b7a85416738e1ca7d250ce98ed0e0c9c530295.tar.gz",
-      "hash": "1h0qwnsd7d6bnwvjnixh9fwdnvnqj0vm8622l702myf40pra0kww"
+      "revision": "d4d9830ab9e25ca677cf81ba6940e1fa61aa6a63",
+      "url": "https://github.com/rcasia/neotest-java/archive/d4d9830ab9e25ca677cf81ba6940e1fa61aa6a63.tar.gz",
+      "hash": "0dymrlrni2gkq088jylwlq5awzs4x1g6s6kfxllwc19wr8fvvqm8"
     },
     "neotest-jest": {
       "type": "Git",
@@ -2923,9 +2923,9 @@
         "repo": "rainbow-delimiters.nvim"
       },
       "branch": "master",
-      "revision": "a2072fef01645c5b06045f126437ff8e2057ef3c",
-      "url": "https://github.com/HiPhish/rainbow-delimiters.nvim/archive/a2072fef01645c5b06045f126437ff8e2057ef3c.tar.gz",
-      "hash": "1aavasjsh8lhifaczy7lnyjd7kcwyqdlhs45cayfdjk7i04drggs"
+      "revision": "79f7d771626eaa2b92f6f32f399b841bb638049e",
+      "url": "https://github.com/HiPhish/rainbow-delimiters.nvim/archive/79f7d771626eaa2b92f6f32f399b841bb638049e.tar.gz",
+      "hash": "179l52r5i5d7h4ya4p7z55326bydd7r6md223kdmhsbw02bs4yqs"
     },
     "refactoring-nvim": {
       "type": "Git",
@@ -3859,9 +3859,9 @@
         "repo": "vimtex"
       },
       "branch": "master",
-      "revision": "7f6817c0dca7793907785dd5edb01761df13572c",
-      "url": "https://github.com/lervag/vimtex/archive/7f6817c0dca7793907785dd5edb01761df13572c.tar.gz",
-      "hash": "1a8v3k2p35ygj5l4757ikpqd98kgpxgmidcbv6vnqysjs1qyvw2n"
+      "revision": "9b3e5c8dbf77b8da705f12c4069df592552fe829",
+      "url": "https://github.com/lervag/vimtex/archive/9b3e5c8dbf77b8da705f12c4069df592552fe829.tar.gz",
+      "hash": "1c9mwgk3pagzfnzss46khnxhy21qkdhl5q87p95i49lcxv5a98kd"
     },
     "virt-column-nvim": {
       "type": "Git",
