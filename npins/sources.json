@@ -44,9 +44,9 @@
         "repo": "SchemaStore.nvim"
       },
       "branch": "main",
-      "revision": "088105704cb799e130e2427c815a04eed71a6925",
-      "url": "https://github.com/b0o/SchemaStore.nvim/archive/088105704cb799e130e2427c815a04eed71a6925.tar.gz",
-      "hash": "13z4xzfbv88q04g4bdfp8fm1n3fazcp6bx2dkynqgd33sh11vbgl"
+      "revision": "72319094cceac6eeaa9f77ec2090196448d52274",
+      "url": "https://github.com/b0o/SchemaStore.nvim/archive/72319094cceac6eeaa9f77ec2090196448d52274.tar.gz",
+      "hash": "1kdmzjzm3hjybkzqsd8h8118qc6njb8imx2kbdajya470gavgqgg"
     },
     "alpha-nvim": {
       "type": "Git",
@@ -1879,9 +1879,9 @@
         "repo": "neogen"
       },
       "branch": "main",
-      "revision": "4b22542b96712a5a901fa909b7dc749251ae1625",
-      "url": "https://github.com/danymat/neogen/archive/4b22542b96712a5a901fa909b7dc749251ae1625.tar.gz",
-      "hash": "1258d2qqnf0qc07fj18601wfanwccpb8jmvz8nv3vw5fn6pj0l76"
+      "revision": "2cad4d6fe9fb7d359ef60f169cf4dad8eb17d6c5",
+      "url": "https://github.com/danymat/neogen/archive/2cad4d6fe9fb7d359ef60f169cf4dad8eb17d6c5.tar.gz",
+      "hash": "0prrfvdjhc5s956lzyfx3bail2i3h97y018rh9npyikvnbv1bh2k"
     },
     "neogit": {
       "type": "Git",
@@ -3859,9 +3859,9 @@
         "repo": "vimtex"
       },
       "branch": "master",
-      "revision": "93448dd2617c1407f66b08610db520ecb8a28073",
-      "url": "https://github.com/lervag/vimtex/archive/93448dd2617c1407f66b08610db520ecb8a28073.tar.gz",
-      "hash": "0a6fp1zgl825621d5jh8m1vfzda432qwkdq263cxng26czvizad1"
+      "revision": "5776ca45aeda2e12abf0e439801485681b3317d1",
+      "url": "https://github.com/lervag/vimtex/archive/5776ca45aeda2e12abf0e439801485681b3317d1.tar.gz",
+      "hash": "1dbbrafm260ii8czf5qkrd78247kmky5vpl7pmaisx94ha2vq745"
     },
     "virt-column-nvim": {
       "type": "Git",
