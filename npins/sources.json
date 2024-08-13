@@ -1795,9 +1795,9 @@
         "repo": "mini.nvim"
       },
       "branch": "main",
-      "revision": "974ebc04dff3b59899a5eee29157a9bbfd85dce3",
-      "url": "https://github.com/echasnovski/mini.nvim/archive/974ebc04dff3b59899a5eee29157a9bbfd85dce3.tar.gz",
-      "hash": "0dkbk14sgcxsi3g6njk4jlgspx0xdkaa24ry2ygvswcym5lq4ljr"
+      "revision": "cf81e70e8f1fdc36a3c684efc45c4ee561285137",
+      "url": "https://github.com/echasnovski/mini.nvim/archive/cf81e70e8f1fdc36a3c684efc45c4ee561285137.tar.gz",
+      "hash": "1f2wh1hzvckss7hh2zvy25568hssfswrnsisyy72raqdrlfr3v8g"
     },
     "mkdnflow-nvim": {
       "type": "Git",
@@ -2923,9 +2923,9 @@
         "repo": "rainbow-delimiters.nvim"
       },
       "branch": "master",
-      "revision": "ea4a2da7d14c948b909bead6e41f77d26cf8e3da",
-      "url": "https://github.com/HiPhish/rainbow-delimiters.nvim/archive/ea4a2da7d14c948b909bead6e41f77d26cf8e3da.tar.gz",
-      "hash": "0px5mjpjrszb5i5sxgcvrl6bzwvajkl9b110hqhs8gn8piwxcb3b"
+      "revision": "8d88eaf2464aed82110a3fd8a9da0b65d044598a",
+      "url": "https://github.com/HiPhish/rainbow-delimiters.nvim/archive/8d88eaf2464aed82110a3fd8a9da0b65d044598a.tar.gz",
+      "hash": "1mw4bml1yn2bl0ixhk56ir8s2ylw3dp9hg4g8y8apwz1awa1vixr"
     },
     "refactoring-nvim": {
       "type": "Git",
