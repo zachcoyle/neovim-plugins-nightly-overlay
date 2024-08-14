@@ -2923,9 +2923,9 @@
         "repo": "rainbow-delimiters.nvim"
       },
       "branch": "master",
-      "revision": "308cbc10a7125417bd10c5afd77f888f160a1135",
-      "url": "https://github.com/HiPhish/rainbow-delimiters.nvim/archive/308cbc10a7125417bd10c5afd77f888f160a1135.tar.gz",
-      "hash": "0fn6jgqamd3nahyrf1w28qfvq5lnz91nkk6jfgv6acmjr8chd80r"
+      "revision": "c097f728a409d9923a3c70c1507e8389978a9b85",
+      "url": "https://github.com/HiPhish/rainbow-delimiters.nvim/archive/c097f728a409d9923a3c70c1507e8389978a9b85.tar.gz",
+      "hash": "1lzl39q5s1s07g4sgf8fghm9rcsgba7mj37prqf48c8sg2j2dklv"
     },
     "refactoring-nvim": {
       "type": "Git",
