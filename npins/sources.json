@@ -2923,9 +2923,9 @@
         "repo": "rainbow-delimiters.nvim"
       },
       "branch": "master",
-      "revision": "b598aef62bfc31b2115bdcfe93908f58badee3bd",
-      "url": "https://github.com/HiPhish/rainbow-delimiters.nvim/archive/b598aef62bfc31b2115bdcfe93908f58badee3bd.tar.gz",
-      "hash": "0yfr7m0i7qvhxf8g8xhvf6f3n8123sg02apcvyh806q2vvh7v035"
+      "revision": "98e93a75fc416448c5be37299771ad39a1ce1603",
+      "url": "https://github.com/HiPhish/rainbow-delimiters.nvim/archive/98e93a75fc416448c5be37299771ad39a1ce1603.tar.gz",
+      "hash": "19b4682b1hbq68qi1clhw08rpklscg5p0xzbbaz5v466gcs5cpzz"
     },
     "refactoring-nvim": {
       "type": "Git",
@@ -2959,9 +2959,9 @@
         "repo": "neovim"
       },
       "branch": "main",
-      "revision": "cf8de969c49b1d879091ae9048715f4aacd4f9fb",
-      "url": "https://github.com/rose-pine/neovim/archive/cf8de969c49b1d879091ae9048715f4aacd4f9fb.tar.gz",
-      "hash": "1x3glnw729lzk8ym2r7nqlmsz1zrrwq5krjza716a3yk0kanzc6y"
+      "revision": "256d086c218a282ae5de79d2c091b1e592a65367",
+      "url": "https://github.com/rose-pine/neovim/archive/256d086c218a282ae5de79d2c091b1e592a65367.tar.gz",
+      "hash": "18ac802ma7yviyca2i61vw41r3fcmzf1sgrqab0i38hmq9lnaa6k"
     },
     "scrollbar-nvim": {
       "type": "Git",
