@@ -1807,9 +1807,9 @@
         "repo": "mkdnflow.nvim"
       },
       "branch": "main",
-      "revision": "faf013f7ee254f52b88f57b088f650150409cb24",
-      "url": "https://github.com/jakewvincent/mkdnflow.nvim/archive/faf013f7ee254f52b88f57b088f650150409cb24.tar.gz",
-      "hash": "0s5yxgr2xsr7n25fh588g6hr83ps5b53blg88156lxg5rjkj460i"
+      "revision": "789bed42ffc28f638a81d2def7ca8b34657c8f8a",
+      "url": "https://github.com/jakewvincent/mkdnflow.nvim/archive/789bed42ffc28f638a81d2def7ca8b34657c8f8a.tar.gz",
+      "hash": "1072x8m49ln9zij9wvs9qizi2lmnk5v23skiy5nrs9nlp349310r"
     },
     "modus-themes-nvim": {
       "type": "Git",
