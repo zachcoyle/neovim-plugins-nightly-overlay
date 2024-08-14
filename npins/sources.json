@@ -1100,9 +1100,9 @@
         "repo": "efmls-configs-nvim"
       },
       "branch": "main",
-      "revision": "fe560e3c6c878a682f437d8adff34f5f8a53876d",
-      "url": "https://github.com/creativenull/efmls-configs-nvim/archive/fe560e3c6c878a682f437d8adff34f5f8a53876d.tar.gz",
-      "hash": "1zmsw26jn1q9a5bbpzhg3di483qsy2dj2gvwcmwgaks5dp6p3p60"
+      "revision": "b23178bef394eac491788f525747acebaf259c05",
+      "url": "https://github.com/creativenull/efmls-configs-nvim/archive/b23178bef394eac491788f525747acebaf259c05.tar.gz",
+      "hash": "1p0s4gsbl7f82ismqclz3k5l8v5ybby9rafnfa3cyvw21pc7h6z7"
     },
     "emmet-vim": {
       "type": "Git",
