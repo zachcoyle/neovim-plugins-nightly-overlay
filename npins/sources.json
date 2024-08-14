@@ -1016,9 +1016,9 @@
         "repo": "debugprint.nvim"
       },
       "branch": "main",
-      "revision": "669ff6362e055bc93a9fa644df622562e925cdf6",
-      "url": "https://github.com/andrewferrier/debugprint.nvim/archive/669ff6362e055bc93a9fa644df622562e925cdf6.tar.gz",
-      "hash": "18qsg7pykcqq6n736xn47lw00miva8jrjvyd1j3p0pxad6fb7q39"
+      "revision": "036ac1dbec2310a1cc3ec4ae1c313b37f0c1e146",
+      "url": "https://github.com/andrewferrier/debugprint.nvim/archive/036ac1dbec2310a1cc3ec4ae1c313b37f0c1e146.tar.gz",
+      "hash": "1z91m9h5gflnpykjy2l9bvn8dv8kinp3vv8li1j8h327pdc088w2"
     },
     "diffview-nvim": {
       "type": "Git",
@@ -2167,9 +2167,9 @@
         "repo": "neotest-python"
       },
       "branch": "master",
-      "revision": "0ab9ad357075b8a7b516bf736b40854751b75845",
-      "url": "https://github.com/nvim-neotest/neotest-python/archive/0ab9ad357075b8a7b516bf736b40854751b75845.tar.gz",
-      "hash": "0bg6l4fpki1q0mak3g65lmp888j8jrh8gclsmbfhvavgnpp8baig"
+      "revision": "e5bff6dcf3cb33e6dfb97722e142961099c6021e",
+      "url": "https://github.com/nvim-neotest/neotest-python/archive/e5bff6dcf3cb33e6dfb97722e142961099c6021e.tar.gz",
+      "hash": "1543qypzvap1836i0ghbyw9i8krmlykvasr37i03i8qf4jh3mfcg"
     },
     "neotest-rspec": {
       "type": "Git",
