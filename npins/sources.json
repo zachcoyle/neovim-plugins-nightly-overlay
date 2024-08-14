@@ -1416,6 +1416,18 @@
       "url": "https://github.com/lukas-reineke/headlines.nvim/archive/618ef1b2502c565c82254ef7d5b04402194d9ce3.tar.gz",
       "hash": "1fq7f4i8pskj592lr0620j5chgczhlag6zph49zpm9zziqyak5ak"
     },
+    "heirline-nvim": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "rebelot",
+        "repo": "heirline.nvim"
+      },
+      "branch": "master",
+      "revision": "0d797435e54645a5f98bad7ad6046aac1ef95c1e",
+      "url": "https://github.com/rebelot/heirline.nvim/archive/0d797435e54645a5f98bad7ad6046aac1ef95c1e.tar.gz",
+      "hash": "0payyx0j0s4wgk5xvczdnjqkj5nymlhw4f7hcw3sl9m334vnxshb"
+    },
     "hmts-nvim": {
       "type": "Git",
       "repository": {
