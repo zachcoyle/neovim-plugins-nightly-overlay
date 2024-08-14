@@ -1076,9 +1076,9 @@
         "repo": "dropbar.nvim"
       },
       "branch": "master",
-      "revision": "aa4c0ab1ade45ff9a3c5d4c06365c9b119f32d36",
-      "url": "https://github.com/Bekaboo/dropbar.nvim/archive/aa4c0ab1ade45ff9a3c5d4c06365c9b119f32d36.tar.gz",
-      "hash": "0awd7qjnx6gnvisjagsm25fg5wl5kfzcxiqf2jvfs8i550rd54rk"
+      "revision": "c53d1d312407927903f0ce4bb504e25113641989",
+      "url": "https://github.com/Bekaboo/dropbar.nvim/archive/c53d1d312407927903f0ce4bb504e25113641989.tar.gz",
+      "hash": "011b3qv0ji3qb1596iszw35ggx113403xhvc50l25vxqd2gxazda"
     },
     "edgy-nvim": {
       "type": "Git",
@@ -2923,9 +2923,9 @@
         "repo": "rainbow-delimiters.nvim"
       },
       "branch": "master",
-      "revision": "98e93a75fc416448c5be37299771ad39a1ce1603",
-      "url": "https://github.com/HiPhish/rainbow-delimiters.nvim/archive/98e93a75fc416448c5be37299771ad39a1ce1603.tar.gz",
-      "hash": "19b4682b1hbq68qi1clhw08rpklscg5p0xzbbaz5v466gcs5cpzz"
+      "revision": "308cbc10a7125417bd10c5afd77f888f160a1135",
+      "url": "https://github.com/HiPhish/rainbow-delimiters.nvim/archive/308cbc10a7125417bd10c5afd77f888f160a1135.tar.gz",
+      "hash": "0fn6jgqamd3nahyrf1w28qfvq5lnz91nkk6jfgv6acmjr8chd80r"
     },
     "refactoring-nvim": {
       "type": "Git",
