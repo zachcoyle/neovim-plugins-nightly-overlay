@@ -1699,9 +1699,9 @@
         "repo": "lspsaga.nvim"
       },
       "branch": "main",
-      "revision": "a751b92b5d765a99fe3a42b9e51c046f81385e15",
-      "url": "https://github.com/nvimdev/lspsaga.nvim/archive/a751b92b5d765a99fe3a42b9e51c046f81385e15.tar.gz",
-      "hash": "0k112zrw3zjxx9m8pcpmv644vl25sv0mpa4hjx75q76i53yyhz54"
+      "revision": "4ce44df854f447cf0a8972e5387b3aeb5efc798b",
+      "url": "https://github.com/nvimdev/lspsaga.nvim/archive/4ce44df854f447cf0a8972e5387b3aeb5efc798b.tar.gz",
+      "hash": "095a6c7w6xh8ifl11l4bqg9mnx43igzkhbjprhz69q8kmc5vcnl1"
     },
     "ltex_extra-nvim": {
       "type": "Git",
