@@ -1819,9 +1819,9 @@
         "repo": "mkdnflow.nvim"
       },
       "branch": "main",
-      "revision": "789bed42ffc28f638a81d2def7ca8b34657c8f8a",
-      "url": "https://github.com/jakewvincent/mkdnflow.nvim/archive/789bed42ffc28f638a81d2def7ca8b34657c8f8a.tar.gz",
-      "hash": "1072x8m49ln9zij9wvs9qizi2lmnk5v23skiy5nrs9nlp349310r"
+      "revision": "4b8df635b0386d76544af2cbb0848d3d8a9cca8a",
+      "url": "https://github.com/jakewvincent/mkdnflow.nvim/archive/4b8df635b0386d76544af2cbb0848d3d8a9cca8a.tar.gz",
+      "hash": "00fiq561vy7jk41zmq6fk5jgj5crlmgb00h9khfcss1cnajq76jd"
     },
     "modus-themes-nvim": {
       "type": "Git",
@@ -2671,9 +2671,9 @@
         "repo": "nvim-ts-autotag"
       },
       "branch": "main",
-      "revision": "dc5e1687ab76ee02e0f11c5ce137f530b36e98b3",
-      "url": "https://github.com/windwp/nvim-ts-autotag/archive/dc5e1687ab76ee02e0f11c5ce137f530b36e98b3.tar.gz",
-      "hash": "0x39c86cf84ap4zmk5lb1bflcrq2zqr2p3pcfd2mjbslzcdqkasp"
+      "revision": "0cb76eea80e9c73b88880f0ca78fbd04c5bdcac7",
+      "url": "https://github.com/windwp/nvim-ts-autotag/archive/0cb76eea80e9c73b88880f0ca78fbd04c5bdcac7.tar.gz",
+      "hash": "14a86zgy7vpm9g44yf2r8kk8vq3xa2vm4r6866n4a38z76p5cp52"
     },
     "nvim-ts-context-commentstring": {
       "type": "Git",
