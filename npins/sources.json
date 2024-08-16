@@ -944,9 +944,9 @@
         "repo": "copilot.vim"
       },
       "branch": "release",
-      "revision": "25f73977033c597d530c7ab0e211d99b60927d2d",
-      "url": "https://github.com/github/copilot.vim/archive/25f73977033c597d530c7ab0e211d99b60927d2d.tar.gz",
-      "hash": "1s1jf98kvv7rfiyxyhj3ba091rissc7n953dshpikbj2n85inlma"
+      "revision": "a9fa7946d7307ceb138bfe2706ba75febf6450da",
+      "url": "https://github.com/github/copilot.vim/archive/a9fa7946d7307ceb138bfe2706ba75febf6450da.tar.gz",
+      "hash": "0xv99jb5iywm7525amq14ynbd3kdvgnc4lhkc4v8z0pgnzjsxjq9"
     },
     "coq-thirdparty": {
       "type": "Git",
