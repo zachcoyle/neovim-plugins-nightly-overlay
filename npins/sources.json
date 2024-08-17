@@ -1939,9 +1939,9 @@
         "repo": "neorg"
       },
       "branch": "main",
-      "revision": "09deca2ba5adcf1a729d1e3abf64438d7ce4d7ee",
-      "url": "https://github.com/vhyrro/neorg/archive/09deca2ba5adcf1a729d1e3abf64438d7ce4d7ee.tar.gz",
-      "hash": "00llvsnhd77zncgc0xnh18g874w8y73a7wlff42ib6nc4vq6qkqi"
+      "revision": "38f904213f576649d835d4678366eed1400e5dd2",
+      "url": "https://github.com/vhyrro/neorg/archive/38f904213f576649d835d4678366eed1400e5dd2.tar.gz",
+      "hash": "1bz05qx3kab0yyzxjdlyalgc97cawldv966clkg08p5pyskbkks9"
     },
     "neoscroll-nvim": {
       "type": "Git",
