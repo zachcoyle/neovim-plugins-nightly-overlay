@@ -3151,9 +3151,9 @@
         "repo": "telescope-frecency.nvim"
       },
       "branch": "master",
-      "revision": "a7ebbb485d48f05edbca32f80ad5cfb0a7203fb1",
-      "url": "https://github.com/nvim-telescope/telescope-frecency.nvim/archive/a7ebbb485d48f05edbca32f80ad5cfb0a7203fb1.tar.gz",
-      "hash": "0mbkf11jasklclr9i52gwdqfdbd8cshindkg8ci28rwk9z1h96fy"
+      "revision": "ee2af42d5f13d72d877c1c4bcb97918f7428f694",
+      "url": "https://github.com/nvim-telescope/telescope-frecency.nvim/archive/ee2af42d5f13d72d877c1c4bcb97918f7428f694.tar.gz",
+      "hash": "12r3m8b16gspcrqg1a676r52lfqk8w7jklilm0acr76ksyz23mv9"
     },
     "telescope-fzf-native-nvim": {
       "type": "Git",
@@ -3931,9 +3931,9 @@
         "repo": "wtf.nvim"
       },
       "branch": "main",
-      "revision": "7aefcc970ea56dc0a89dafdf9f5eb0de7b1ee58c",
-      "url": "https://github.com/piersolenski/wtf.nvim/archive/7aefcc970ea56dc0a89dafdf9f5eb0de7b1ee58c.tar.gz",
-      "hash": "157vdbbrqqal1jhh68bzwvgv3wn12yfmhkjkvwp3jb4h40m974zs"
+      "revision": "79079a9d25645a1216be3085c4f81b7f5b6ad104",
+      "url": "https://github.com/piersolenski/wtf.nvim/archive/79079a9d25645a1216be3085c4f81b7f5b6ad104.tar.gz",
+      "hash": "1amwzyd8rssfb4454l2yl1wjm731r7h96bgvf1cq6alyjqc4hddz"
     },
     "yanky-nvim": {
       "type": "Git",
