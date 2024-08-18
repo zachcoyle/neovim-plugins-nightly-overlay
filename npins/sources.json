@@ -1939,9 +1939,9 @@
         "repo": "neorg"
       },
       "branch": "main",
-      "revision": "38f904213f576649d835d4678366eed1400e5dd2",
-      "url": "https://github.com/vhyrro/neorg/archive/38f904213f576649d835d4678366eed1400e5dd2.tar.gz",
-      "hash": "1bz05qx3kab0yyzxjdlyalgc97cawldv966clkg08p5pyskbkks9"
+      "revision": "85f15f033d8c56366ac1e6ae93c940db8ad067ca",
+      "url": "https://github.com/vhyrro/neorg/archive/85f15f033d8c56366ac1e6ae93c940db8ad067ca.tar.gz",
+      "hash": "0m2fsrwh39a0bkpfkh1qa9pzn30c8gp13wyyy7k6s23c7g810qks"
     },
     "neoscroll-nvim": {
       "type": "Git",
@@ -2083,9 +2083,9 @@
         "repo": "neotest-haskell"
       },
       "branch": "master",
-      "revision": "7b107c1f40bf8774be3f8de28e7645b4afc3768d",
-      "url": "https://github.com/mrcjkb/neotest-haskell/archive/7b107c1f40bf8774be3f8de28e7645b4afc3768d.tar.gz",
-      "hash": "0sb96zscpfsbc13jpfmx4vr252bvmhpaw6v4i1fnp2rf6ys54p1y"
+      "revision": "310d5bb6a9f1ee5b3b25f0dfd314117dbbba84ec",
+      "url": "https://github.com/mrcjkb/neotest-haskell/archive/310d5bb6a9f1ee5b3b25f0dfd314117dbbba84ec.tar.gz",
+      "hash": "11807l1nsljsxkrjh0lqwkbfgfknc4wik3vay06p22zs8bakcp93"
     },
     "neotest-java": {
       "type": "Git",
