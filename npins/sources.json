@@ -980,9 +980,9 @@
         "repo": "crates.nvim"
       },
       "branch": "main",
-      "revision": "cf61a0a6eecfe1773a932cf3ea139748caa387f3",
-      "url": "https://github.com/Saecki/crates.nvim/archive/cf61a0a6eecfe1773a932cf3ea139748caa387f3.tar.gz",
-      "hash": "1la94wpc7fhwr05vk9hwjf5jgy5q44nnyj8vqxwsf6iglc5a6igk"
+      "revision": "891063a2dc8471501b9742406a514be62a20c138",
+      "url": "https://github.com/Saecki/crates.nvim/archive/891063a2dc8471501b9742406a514be62a20c138.tar.gz",
+      "hash": "1vk44bdyyr8p6mcq406x1rz5y8i5f3r5v9zbic09pyccfcpabjpx"
     },
     "cyberdream-nvim": {
       "type": "Git",
@@ -1807,9 +1807,9 @@
         "repo": "mini.nvim"
       },
       "branch": "main",
-      "revision": "04649417dd63f470f74f5ce23f9b39a827de0058",
-      "url": "https://github.com/echasnovski/mini.nvim/archive/04649417dd63f470f74f5ce23f9b39a827de0058.tar.gz",
-      "hash": "1vkn1w377qcawd9dk53g6iwgvhavzsprdhnl7j5hv8yx7ra90rbn"
+      "revision": "d6e6a6fb010cc452b491704aa9ecc96a8aa2cde1",
+      "url": "https://github.com/echasnovski/mini.nvim/archive/d6e6a6fb010cc452b491704aa9ecc96a8aa2cde1.tar.gz",
+      "hash": "1kxav8z9c40avjqv6npddbvvmjbhn4h291x0qhls9v6ai145spgn"
     },
     "mkdnflow-nvim": {
       "type": "Git",
@@ -2983,9 +2983,9 @@
         "repo": "scrollbar.nvim"
       },
       "branch": "master",
-      "revision": "bc97c132e8367efecb2ecb937d385e7dc04eb5a1",
-      "url": "https://github.com/Xuyuanp/scrollbar.nvim/archive/bc97c132e8367efecb2ecb937d385e7dc04eb5a1.tar.gz",
-      "hash": "14g2q9nzdh9ffp2b8z3sdicrn4xq3ksq8mjxdi7cm44rlfyzfs04"
+      "revision": "d7e6966c258cb30c29f50012543d687aec707b9e",
+      "url": "https://github.com/Xuyuanp/scrollbar.nvim/archive/d7e6966c258cb30c29f50012543d687aec707b9e.tar.gz",
+      "hash": "1va53c2l86qwy1cmv77hc8iki4734f760lm4m36hj71m0bdlwkwx"
     },
     "smart-splits-nvim": {
       "type": "Git",
