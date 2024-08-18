@@ -1076,9 +1076,9 @@
         "repo": "dropbar.nvim"
       },
       "branch": "master",
-      "revision": "c53d1d312407927903f0ce4bb504e25113641989",
-      "url": "https://github.com/Bekaboo/dropbar.nvim/archive/c53d1d312407927903f0ce4bb504e25113641989.tar.gz",
-      "hash": "011b3qv0ji3qb1596iszw35ggx113403xhvc50l25vxqd2gxazda"
+      "revision": "d26bf92161cd70e049dc138b44ffa0246dbf7178",
+      "url": "https://github.com/Bekaboo/dropbar.nvim/archive/d26bf92161cd70e049dc138b44ffa0246dbf7178.tar.gz",
+      "hash": "1n7fbvq4z7cp44d0wnpdqcnibdbjiwd7bxnzxrigss0fd6ijvp01"
     },
     "edgy-nvim": {
       "type": "Git",
