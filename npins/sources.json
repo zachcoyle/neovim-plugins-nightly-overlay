@@ -2179,9 +2179,9 @@
         "repo": "neotest-python"
       },
       "branch": "master",
-      "revision": "e5bff6dcf3cb33e6dfb97722e142961099c6021e",
-      "url": "https://github.com/nvim-neotest/neotest-python/archive/e5bff6dcf3cb33e6dfb97722e142961099c6021e.tar.gz",
-      "hash": "1543qypzvap1836i0ghbyw9i8krmlykvasr37i03i8qf4jh3mfcg"
+      "revision": "72603dfdbaad5695160268cb10531a14cc37236e",
+      "url": "https://github.com/nvim-neotest/neotest-python/archive/72603dfdbaad5695160268cb10531a14cc37236e.tar.gz",
+      "hash": "1d8rcpvgr4x2p3bg37kzsnfydibhb7rpyqb10sgxsjz0ylgmv7jr"
     },
     "neotest-rspec": {
       "type": "Git",
