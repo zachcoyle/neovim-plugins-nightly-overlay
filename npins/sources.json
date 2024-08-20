@@ -896,9 +896,9 @@
         "repo": "conform.nvim"
       },
       "branch": "master",
-      "revision": "6047101486f6c0ae44b444424c0e45ed8053c840",
-      "url": "https://github.com/stevearc/conform.nvim/archive/6047101486f6c0ae44b444424c0e45ed8053c840.tar.gz",
-      "hash": "06i95fm5k14xmlcq9442jzql868wqxiry6895j76l1am9g1hlhgk"
+      "revision": "62eba813b7501b39612146cbf29cd07f1d4ac29c",
+      "url": "https://github.com/stevearc/conform.nvim/archive/62eba813b7501b39612146cbf29cd07f1d4ac29c.tar.gz",
+      "hash": "0q05kknsdw2hrpsvchpvd8c9p91yk8xl939py20k9sq7d2pninaa"
     },
     "conjure": {
       "type": "Git",
@@ -1220,9 +1220,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "16e191c4c619f69374128378629e12ded693c540",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/16e191c4c619f69374128378629e12ded693c540.tar.gz",
-      "hash": "1pfpfwgq3mg7wq4xcvhqfc5gss7imj0j4wq73ywwgny7fvc711mv"
+      "revision": "264f5d870d603d4f90ef7ec0f61fcb5987efc1d5",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/264f5d870d603d4f90ef7ec0f61fcb5987efc1d5.tar.gz",
+      "hash": "0xv4csygkms0sxm1m633lsc4l8w0nlrg79ar4v8nqfbr3qy2hw0x"
     },
     "galaxyline-nvim": {
       "type": "Git",
