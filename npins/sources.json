@@ -1799,6 +1799,18 @@
       "url": "https://github.com/chentoast/marks.nvim/archive/74e8d01b2a2131b6e46354cffc553aa7f81bcf5b.tar.gz",
       "hash": "0hi4sp39gxj62swm325a5s25qv310wxj9amkdghdqmrg6nlcwyz2"
     },
+    "markview-nvim": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "OXY2DEV",
+        "repo": "markview.nvim"
+      },
+      "branch": "main",
+      "revision": "169faa8b99f06b5145a4114864210029fa2e84e0",
+      "url": "https://github.com/OXY2DEV/markview.nvim/archive/169faa8b99f06b5145a4114864210029fa2e84e0.tar.gz",
+      "hash": "0ispdg8xshiw2pyirdgfcw1pqx8yschy6y5b972l49r5ca86gm9h"
+    },
     "melange": {
       "type": "Git",
       "repository": {
