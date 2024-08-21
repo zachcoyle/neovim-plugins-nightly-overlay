@@ -3971,6 +3971,18 @@
       "url": "https://github.com/gbprod/yanky.nvim/archive/73215b77d22ebb179cef98e7e1235825431d10e4.tar.gz",
       "hash": "03qdr72nssiwm12fmvmi3x579d4rxkfhscphsr107l3widc5a7j0"
     },
+    "yazi-nvim": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "mikavilpas",
+        "repo": "yazi.nvim"
+      },
+      "branch": "main",
+      "revision": "6b12cdae55f10f8f8663a05b711c507cff599a58",
+      "url": "https://github.com/mikavilpas/yazi.nvim/archive/6b12cdae55f10f8f8663a05b711c507cff599a58.tar.gz",
+      "hash": "00c21jcp4r14ivb7brzxlfychm44h5g6sx8va54v7070n3g9sfrz"
+    },
     "yuck-vim": {
       "type": "Git",
       "repository": {
