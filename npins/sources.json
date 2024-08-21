@@ -1220,9 +1220,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "2b03b2f1efef06cf88b879b1894f155385b6772c",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/2b03b2f1efef06cf88b879b1894f155385b6772c.tar.gz",
-      "hash": "17yjymjdfn5p1938rk0iw5kxyk9s8iyssky1amhz0vyyblviywgg"
+      "revision": "c831736cc8dcb1d2559714d7825eae023d50fea3",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/c831736cc8dcb1d2559714d7825eae023d50fea3.tar.gz",
+      "hash": "1v07k0xqyyxm96gd29id35d0wdv84hghwsnr33bvc1nahb2af2ir"
     },
     "galaxyline-nvim": {
       "type": "Git",
@@ -1747,9 +1747,9 @@
         "repo": "lz.n"
       },
       "branch": "master",
-      "revision": "7f1527cf38d65345984ed1d1c46e1fc0c27f6119",
-      "url": "https://github.com/nvim-neorocks/lz.n/archive/7f1527cf38d65345984ed1d1c46e1fc0c27f6119.tar.gz",
-      "hash": "0fijzllzsq2rc2x9y5n4di1xxmi47kg9dgi1xfdykcaikyjswn8g"
+      "revision": "92c4199b4439ea840f9ec942cb503dd253592ae6",
+      "url": "https://github.com/nvim-neorocks/lz.n/archive/92c4199b4439ea840f9ec942cb503dd253592ae6.tar.gz",
+      "hash": "1r06p7bmlckjaphspy2cn2hcw059q0n2zchj802j942j1xkyjqv1"
     },
     "magma-nvim-goose": {
       "type": "Git",
