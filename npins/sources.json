@@ -2567,6 +2567,18 @@
       "url": "https://github.com/dstein64/nvim-scrollview/archive/401c0498689dcaa54b2e7483d823e33cdc051e72.tar.gz",
       "hash": "1j6y0mv56ykip6cf9n4pragqxbcb73p3zmj6n7h3ppsncs5993ma"
     },
+    "nvim-snippets": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "garymjr",
+        "repo": "nvim-snippets"
+      },
+      "branch": "main",
+      "revision": "56b4052f71220144689caaa2e5b66222ba5661eb",
+      "url": "https://github.com/garymjr/nvim-snippets/archive/56b4052f71220144689caaa2e5b66222ba5661eb.tar.gz",
+      "hash": "0a7s5rz3w8mm5gsq42g418rdhlas5ga3q5w81jix81xwkalllg6l"
+    },
     "nvim-solarized-lua": {
       "type": "Git",
       "repository": {
