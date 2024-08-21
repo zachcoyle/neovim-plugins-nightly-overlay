@@ -1739,6 +1739,18 @@
       "url": "https://github.com/L3MON4D3/LuaSnip/archive/7ad2eaeaca56d6ed63acacbfc114b99f1f67b982.tar.gz",
       "hash": "1kgpf84a55yz9552yv5nijn8p4hx74nngg82fv6adqrqydrs1z6c"
     },
+    "lz-n": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "nvim-neorocks",
+        "repo": "lz.n"
+      },
+      "branch": "master",
+      "revision": "9cce20fc8f414c89b1c4d567ac1f7482fbc2eed1",
+      "url": "https://github.com/nvim-neorocks/lz.n/archive/9cce20fc8f414c89b1c4d567ac1f7482fbc2eed1.tar.gz",
+      "hash": "1yqv9wfp41z38qlsgp12i71pl7732732x0b2brvq8gqzm7v9ir46"
+    },
     "magma-nvim-goose": {
       "type": "Git",
       "repository": {
