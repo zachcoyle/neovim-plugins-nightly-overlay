@@ -824,9 +824,9 @@
         "repo": "codeium.vim"
       },
       "branch": "main",
-      "revision": "0b74f274b82c00eaad4b5b5cd8b2e76f872d19f1",
-      "url": "https://github.com/Exafunction/codeium.vim/archive/0b74f274b82c00eaad4b5b5cd8b2e76f872d19f1.tar.gz",
-      "hash": "1i3jpavh5zaak6gfjgv93scp9kqqx6328h74ci4cvs46cmiaw7ja"
+      "revision": "72f89c80a5e7f9717b438097931933a070a22a24",
+      "url": "https://github.com/Exafunction/codeium.vim/archive/72f89c80a5e7f9717b438097931933a070a22a24.tar.gz",
+      "hash": "1zpzwps2f3c0djlmsm0l4vriqphdl97f2k2zfh6zm7b318zvclnz"
     },
     "codesnap-nvim": {
       "type": "Git",
@@ -1927,9 +1927,9 @@
         "repo": "neogit"
       },
       "branch": "master",
-      "revision": "2b74a777b963dfdeeabfabf84d5ba611666adab4",
-      "url": "https://github.com/TimUntersberger/neogit/archive/2b74a777b963dfdeeabfabf84d5ba611666adab4.tar.gz",
-      "hash": "1kbzw9z83rh210r7kgx9r6q0phji539zvrdj963g4gf438nrplib"
+      "revision": "6af8fc6b03210d0ac99398f8eff27c5be7b2ba8a",
+      "url": "https://github.com/TimUntersberger/neogit/archive/6af8fc6b03210d0ac99398f8eff27c5be7b2ba8a.tar.gz",
+      "hash": "1ji6pi0g6981zn1fj11bkrdqyxdlxndjangnj493m7188hxq61ij"
     },
     "neon": {
       "type": "Git",
