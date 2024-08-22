@@ -1268,9 +1268,9 @@
         "repo": "git-messenger.vim"
       },
       "branch": "master",
-      "revision": "8a61bdfa351d4df9a9118ee1d3f45edbed617072",
-      "url": "https://github.com/rhysd/git-messenger.vim/archive/8a61bdfa351d4df9a9118ee1d3f45edbed617072.tar.gz",
-      "hash": "0p4pj11sxl3bb2dqsnxwrpn0pf76df1r98wwj9lhjvy7514wc2a8"
+      "revision": "1ec2daa0722982a329887708f52a40497ceb86be",
+      "url": "https://github.com/rhysd/git-messenger.vim/archive/1ec2daa0722982a329887708f52a40497ceb86be.tar.gz",
+      "hash": "1b0jw37ishwa0fcasyc20cgck270sny1zdiwa54sgw7rkf82rggx"
     },
     "git-worktree-nvim": {
       "type": "Git",
@@ -2659,9 +2659,9 @@
         "repo": "nvim-treesitter"
       },
       "branch": "master",
-      "revision": "6ed65c3a1d0ebc1813a0fcec3d930c149dcf00aa",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/6ed65c3a1d0ebc1813a0fcec3d930c149dcf00aa.tar.gz",
-      "hash": "101vnfp88ndzaz2vza9981y0manv7xyiblvk8c0vr82lqxn6hlcv"
+      "revision": "8724e7d028ba11604dde94dc4be63f70cccf16e0",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/8724e7d028ba11604dde94dc4be63f70cccf16e0.tar.gz",
+      "hash": "1fs1gg3bcdpwkz0nsc1nagsnkn7l71fpxyx2h538a4fv7lmi5m8f"
     },
     "nvim-treesitter-context": {
       "type": "Git",
