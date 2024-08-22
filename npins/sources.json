@@ -992,9 +992,9 @@
         "repo": "cyberdream.nvim"
       },
       "branch": "main",
-      "revision": "fadfa8ee6fa4c566958d450a552ecc092e60d8ae",
-      "url": "https://github.com/scottmckendry/cyberdream.nvim/archive/fadfa8ee6fa4c566958d450a552ecc092e60d8ae.tar.gz",
-      "hash": "1yypfkhjzy4s1m2nqmx7cqlhng7zv715dpacc1amsqb3syw4gzwy"
+      "revision": "e8d203e8f67cd11717e3805c29c2d6ca73aec637",
+      "url": "https://github.com/scottmckendry/cyberdream.nvim/archive/e8d203e8f67cd11717e3805c29c2d6ca73aec637.tar.gz",
+      "hash": "1p7z5vsm3p2n882zqp41ag7z83y1srj22mi8nnk77yf4n54309fl"
     },
     "dashboard-nvim": {
       "type": "Git",
@@ -2311,9 +2311,9 @@
         "repo": "none-ls.nvim"
       },
       "branch": "main",
-      "revision": "cfa65d86e21eeb60544d5e823f6db43941322a53",
-      "url": "https://github.com/nvimtools/none-ls.nvim/archive/cfa65d86e21eeb60544d5e823f6db43941322a53.tar.gz",
-      "hash": "1hdlrgvllsqhmdd2wnmr529pz1vq1cd6jayp7zfxk8hik154q3v4"
+      "revision": "cb5bd2ffd81b7a3d264deebfe894388010381dc5",
+      "url": "https://github.com/nvimtools/none-ls.nvim/archive/cb5bd2ffd81b7a3d264deebfe894388010381dc5.tar.gz",
+      "hash": "1d12kfixszl82bxxcar3mx7f8jydvkk1r9ry91aqijz03fabc0v2"
     },
     "nord-nvim": {
       "type": "Git",
