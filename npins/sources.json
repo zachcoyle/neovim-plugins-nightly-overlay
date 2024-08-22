@@ -92,9 +92,9 @@
         "repo": "auto-session"
       },
       "branch": "main",
-      "revision": "ec97ece81371fd5e142e92dafddc658b4fd34adf",
-      "url": "https://github.com/rmagatti/auto-session/archive/ec97ece81371fd5e142e92dafddc658b4fd34adf.tar.gz",
-      "hash": "11cjzbw1fa32493s5qklhd0085qq2ss00lbhhlynqd0xl5hjkl6j"
+      "revision": "a5750c62b33dc4daf641345004398847ff84d7e9",
+      "url": "https://github.com/rmagatti/auto-session/archive/a5750c62b33dc4daf641345004398847ff84d7e9.tar.gz",
+      "hash": "16sj34pdhk71c0zfy7c1jrf7qhpbcgrd3wqax32fi78m4rvnrr6c"
     },
     "autoclose-nvim": {
       "type": "Git",
@@ -2659,9 +2659,9 @@
         "repo": "nvim-treesitter"
       },
       "branch": "master",
-      "revision": "0b8b78f9d08dc338a146eb4cd4bcbed8dd36a783",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/0b8b78f9d08dc338a146eb4cd4bcbed8dd36a783.tar.gz",
-      "hash": "1py16lv8flg9in63hz5gdw2cs4acp3zyc0ii7h6y70ah3yxrp6d9"
+      "revision": "6ed65c3a1d0ebc1813a0fcec3d930c149dcf00aa",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/6ed65c3a1d0ebc1813a0fcec3d930c149dcf00aa.tar.gz",
+      "hash": "101vnfp88ndzaz2vza9981y0manv7xyiblvk8c0vr82lqxn6hlcv"
     },
     "nvim-treesitter-context": {
       "type": "Git",
@@ -2995,9 +2995,9 @@
         "repo": "rest.nvim"
       },
       "branch": "main",
-      "revision": "0d99019e87488d1b0a1a82e57115e18d130ef8be",
-      "url": "https://github.com/rest-nvim/rest.nvim/archive/0d99019e87488d1b0a1a82e57115e18d130ef8be.tar.gz",
-      "hash": "0hd6d4wd7l4psgj6c7dbymp8jih0nz1dw8gmr6g2ji1g4hnbx28w"
+      "revision": "b430b8b4e0566ae68a59093f53039e38df89b87f",
+      "url": "https://github.com/rest-nvim/rest.nvim/archive/b430b8b4e0566ae68a59093f53039e38df89b87f.tar.gz",
+      "hash": "1zin3x389m9qv2ljqgsmifb55z2dh1k6g3gxkhb9rfah9xbz2gz0"
     },
     "rose-pine": {
       "type": "Git",
