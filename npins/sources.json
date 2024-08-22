@@ -2515,9 +2515,9 @@
         "repo": "nvim-lspconfig"
       },
       "branch": "master",
-      "revision": "b21c166bbf337734f2a39734a905c1c3e298205c",
-      "url": "https://github.com/neovim/nvim-lspconfig/archive/b21c166bbf337734f2a39734a905c1c3e298205c.tar.gz",
-      "hash": "1gigaan9n204m9slkxa8v4j97q239h7926cjwr6qwqa8p8c7nlh2"
+      "revision": "a92235d24a4cddf95f32f1775f0773fbb30ef192",
+      "url": "https://github.com/neovim/nvim-lspconfig/archive/a92235d24a4cddf95f32f1775f0773fbb30ef192.tar.gz",
+      "hash": "0z71wyhd1wsdjr02j4n86l0yq6paj0rw5xng849f8xj9qighym9m"
     },
     "nvim-navbuddy": {
       "type": "Git",
@@ -3811,9 +3811,9 @@
         "repo": "vim-slime"
       },
       "branch": "main",
-      "revision": "ca59df2570e1a12f9ddfa90b6118df4d87453fcd",
-      "url": "https://github.com/jpalardy/vim-slime/archive/ca59df2570e1a12f9ddfa90b6118df4d87453fcd.tar.gz",
-      "hash": "06c2j7a97al2pyj2immjba3h7bv0ldlw7dly3halikxn01qdznr9"
+      "revision": "1680fb684391585524cdd34cd001f8357ea6c20e",
+      "url": "https://github.com/jpalardy/vim-slime/archive/1680fb684391585524cdd34cd001f8357ea6c20e.tar.gz",
+      "hash": "1fixw6d7jdrpiqbsqf180pi70krpx9lhhqrrvyy6fwjm7fd5av8m"
     },
     "vim-startify": {
       "type": "Git",
