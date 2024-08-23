@@ -2731,9 +2731,9 @@
         "repo": "nvim-ufo"
       },
       "branch": "main",
-      "revision": "7dcb8fea3e7b3ccdb50f2c3ae7c248cdf6fe1ae1",
-      "url": "https://github.com/kevinhwang91/nvim-ufo/archive/7dcb8fea3e7b3ccdb50f2c3ae7c248cdf6fe1ae1.tar.gz",
-      "hash": "1dp9i6pgkkvwzpqj52jyfi185vl7rc2sycx57qvzrpdspp13dxc0"
+      "revision": "b23a46aa06f5f653d107efbc67fd2aa3877ac344",
+      "url": "https://github.com/kevinhwang91/nvim-ufo/archive/b23a46aa06f5f653d107efbc67fd2aa3877ac344.tar.gz",
+      "hash": "1mkxz9y8l2riny7s1x33agn0pi3dbxinb2yx7n6m0kwpxnyhw84q"
     },
     "nvim-web-devicons": {
       "type": "Git",
@@ -3991,9 +3991,9 @@
         "repo": "yazi.nvim"
       },
       "branch": "main",
-      "revision": "82af950bbb0da7da145c985501ad035a3b664673",
-      "url": "https://github.com/mikavilpas/yazi.nvim/archive/82af950bbb0da7da145c985501ad035a3b664673.tar.gz",
-      "hash": "09wkr3yw7hz3hsr1j56pcjcjh661sxcj5wqn8i39n9mqbwvjpkrb"
+      "revision": "df7c476ee9a844603773f662de7c17e7994c378e",
+      "url": "https://github.com/mikavilpas/yazi.nvim/archive/df7c476ee9a844603773f662de7c17e7994c378e.tar.gz",
+      "hash": "0z6lf8y9w71xymhbn8za7hg7dcd12h3gim4r9iprc3pzy2ajn1q5"
     },
     "yuck-vim": {
       "type": "Git",
