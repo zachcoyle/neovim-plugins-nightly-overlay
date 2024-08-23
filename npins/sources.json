@@ -2515,9 +2515,9 @@
         "repo": "nvim-lspconfig"
       },
       "branch": "master",
-      "revision": "a7f0f9c18baa70a3970ea18f9984e03b6f6c2e8a",
-      "url": "https://github.com/neovim/nvim-lspconfig/archive/a7f0f9c18baa70a3970ea18f9984e03b6f6c2e8a.tar.gz",
-      "hash": "09r1v4lpfy3zabi00z7vbapz3v5w7y4pjcwyxd51v8cs9457ywa2"
+      "revision": "911167921d49cd5c1c9b2436031d0da3945e787f",
+      "url": "https://github.com/neovim/nvim-lspconfig/archive/911167921d49cd5c1c9b2436031d0da3945e787f.tar.gz",
+      "hash": "0vsa9ic842fiiqkh9ifzn8jbxja4x4iyq4ywbyz0rzzq2wrwr98y"
     },
     "nvim-navbuddy": {
       "type": "Git",
@@ -2659,9 +2659,9 @@
         "repo": "nvim-treesitter"
       },
       "branch": "master",
-      "revision": "8724e7d028ba11604dde94dc4be63f70cccf16e0",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/8724e7d028ba11604dde94dc4be63f70cccf16e0.tar.gz",
-      "hash": "1fs1gg3bcdpwkz0nsc1nagsnkn7l71fpxyx2h538a4fv7lmi5m8f"
+      "revision": "04401b5dd17c3419dae5141677bd256f52d54733",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/04401b5dd17c3419dae5141677bd256f52d54733.tar.gz",
+      "hash": "13ydkfqmbdrvqpj5r5bmjpiakhlyk3j2cxvkaacsv7vacm1rygsm"
     },
     "nvim-treesitter-context": {
       "type": "Git",
