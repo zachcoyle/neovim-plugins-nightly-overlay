@@ -1076,9 +1076,9 @@
         "repo": "dropbar.nvim"
       },
       "branch": "master",
-      "revision": "d26bf92161cd70e049dc138b44ffa0246dbf7178",
-      "url": "https://github.com/Bekaboo/dropbar.nvim/archive/d26bf92161cd70e049dc138b44ffa0246dbf7178.tar.gz",
-      "hash": "1n7fbvq4z7cp44d0wnpdqcnibdbjiwd7bxnzxrigss0fd6ijvp01"
+      "revision": "489b08a5d50d805b3a2c19c0b4c512f4623b5954",
+      "url": "https://github.com/Bekaboo/dropbar.nvim/archive/489b08a5d50d805b3a2c19c0b4c512f4623b5954.tar.gz",
+      "hash": "0j52gl5fr7k9kc4mksdy30474qby9mkq6vk5n1fkr3c2vw1kbpwm"
     },
     "edgy-nvim": {
       "type": "Git",
@@ -3811,9 +3811,9 @@
         "repo": "vim-slime"
       },
       "branch": "main",
-      "revision": "1680fb684391585524cdd34cd001f8357ea6c20e",
-      "url": "https://github.com/jpalardy/vim-slime/archive/1680fb684391585524cdd34cd001f8357ea6c20e.tar.gz",
-      "hash": "1fixw6d7jdrpiqbsqf180pi70krpx9lhhqrrvyy6fwjm7fd5av8m"
+      "revision": "f6bbbeb8f18393f2177cdcef764f3e0e1d7e9328",
+      "url": "https://github.com/jpalardy/vim-slime/archive/f6bbbeb8f18393f2177cdcef764f3e0e1d7e9328.tar.gz",
+      "hash": "186j2f4il5ayz3ff9d5ay94ff0kjmj03dzwsp3rj4v6wgacc1q46"
     },
     "vim-startify": {
       "type": "Git",
