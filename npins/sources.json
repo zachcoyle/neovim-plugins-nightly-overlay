@@ -1807,9 +1807,9 @@
         "repo": "markview.nvim"
       },
       "branch": "main",
-      "revision": "7be18716eb37e5b3debc408f5416179a7f33d9af",
-      "url": "https://github.com/OXY2DEV/markview.nvim/archive/7be18716eb37e5b3debc408f5416179a7f33d9af.tar.gz",
-      "hash": "1i83wj6jc9pplynh41lybka9l1vji1acv4y8lldp0an0f0aydjnw"
+      "revision": "823a3a2f13c6e28e8497641882034901b97ea513",
+      "url": "https://github.com/OXY2DEV/markview.nvim/archive/823a3a2f13c6e28e8497641882034901b97ea513.tar.gz",
+      "hash": "08wawra0r9hk499cs787d4s7jd0lzx12x784qcyq9chfi5k06acr"
     },
     "melange": {
       "type": "Git",
@@ -2995,9 +2995,9 @@
         "repo": "rest.nvim"
       },
       "branch": "main",
-      "revision": "1ceb380a40bac3262c07c51b4b8ffc2f39d154dd",
-      "url": "https://github.com/rest-nvim/rest.nvim/archive/1ceb380a40bac3262c07c51b4b8ffc2f39d154dd.tar.gz",
-      "hash": "1f5bwpzgq50pswqyvxrlnjs7i4616bmfiij5nbm8ahlhymkmf1v9"
+      "revision": "595f33fa8387aecb4a1b8a908029aa52ca94da2e",
+      "url": "https://github.com/rest-nvim/rest.nvim/archive/595f33fa8387aecb4a1b8a908029aa52ca94da2e.tar.gz",
+      "hash": "0gbkbi2y939xkn8lah1g6m9mz7mrr6jibfrxdx13hjg8arlphjs3"
     },
     "rose-pine": {
       "type": "Git",
