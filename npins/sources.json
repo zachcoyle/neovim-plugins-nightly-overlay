@@ -968,9 +968,9 @@
         "repo": "coq_nvim"
       },
       "branch": "coq",
-      "revision": "427a3ff9d467e564bfda98c5b56575450dfe3da8",
-      "url": "https://github.com/ms-jpq/coq_nvim/archive/427a3ff9d467e564bfda98c5b56575450dfe3da8.tar.gz",
-      "hash": "0z0662n6fdi6ncgx0038mpffz3d9m1dsfqzzk0gaknfmgr9fnm3b"
+      "revision": "cb4c9831d2b7c0d85cce98492ec46545abc93fc9",
+      "url": "https://github.com/ms-jpq/coq_nvim/archive/cb4c9831d2b7c0d85cce98492ec46545abc93fc9.tar.gz",
+      "hash": "0jxs4jxwbq18knx5mcj0zj7g75xj16l4jway8syjh0hi64kmvqc0"
     },
     "crates-nvim": {
       "type": "Git",
@@ -1807,9 +1807,9 @@
         "repo": "markview.nvim"
       },
       "branch": "main",
-      "revision": "1e79753588bf4fc4554ab4a25d45b8dbfd10f69d",
-      "url": "https://github.com/OXY2DEV/markview.nvim/archive/1e79753588bf4fc4554ab4a25d45b8dbfd10f69d.tar.gz",
-      "hash": "062051db1k62x4j9278nar6fp771qli1h2l4h1ybfgns1hmf92vz"
+      "revision": "119328617657e90e775934dd53ffd6b31aae988f",
+      "url": "https://github.com/OXY2DEV/markview.nvim/archive/119328617657e90e775934dd53ffd6b31aae988f.tar.gz",
+      "hash": "05c6dh1yx973ilbrjl15w571yfi6010rd5ihzvwsiirw7xy5ibgw"
     },
     "melange": {
       "type": "Git",
@@ -2647,9 +2647,9 @@
         "repo": "nvim-tree.lua"
       },
       "branch": "master",
-      "revision": "6fbcb5a8929bc8296e2234e385f0af322826f04a",
-      "url": "https://github.com/nvim-tree/nvim-tree.lua/archive/6fbcb5a8929bc8296e2234e385f0af322826f04a.tar.gz",
-      "hash": "05xf191nkizb2s0sazs1idcw9010wz2z7azvb09vsq8rqqik8a9v"
+      "revision": "d43ab67d0eb4317961c5e9d15fffe908519debe0",
+      "url": "https://github.com/nvim-tree/nvim-tree.lua/archive/d43ab67d0eb4317961c5e9d15fffe908519debe0.tar.gz",
+      "hash": "1b7415pmgqcpvwl26wmdcykrhx3l4j2j9x1rzdj2dznxpz8a6npz"
     },
     "nvim-treesitter": {
       "type": "Git",
