@@ -968,9 +968,9 @@
         "repo": "coq_nvim"
       },
       "branch": "coq",
-      "revision": "73e553a06d57e250384f82210caad7b43c11675e",
-      "url": "https://github.com/ms-jpq/coq_nvim/archive/73e553a06d57e250384f82210caad7b43c11675e.tar.gz",
-      "hash": "1rxihkmj48j7qzlvzbrn8j39zm42lql59xkbskhpsh6b062q9112"
+      "revision": "7627daf22a5396c9e1eb7110bfd17a782b534758",
+      "url": "https://github.com/ms-jpq/coq_nvim/archive/7627daf22a5396c9e1eb7110bfd17a782b534758.tar.gz",
+      "hash": "0s7wzgs6468vb44nq9s7qk4a312iwrs04kh6gshjq9d7ijidc6ks"
     },
     "crates-nvim": {
       "type": "Git",
@@ -3187,9 +3187,9 @@
         "repo": "telescope-frecency.nvim"
       },
       "branch": "master",
-      "revision": "c140e6ff9c416817dd2267ee9bad699898c53deb",
-      "url": "https://github.com/nvim-telescope/telescope-frecency.nvim/archive/c140e6ff9c416817dd2267ee9bad699898c53deb.tar.gz",
-      "hash": "1la8bl4062kphxnwgj13xvz07cb1fcgwdik2z1pwq68v7i2dmj6b"
+      "revision": "db32047232a2959146345b0c7e675a815bd78bd1",
+      "url": "https://github.com/nvim-telescope/telescope-frecency.nvim/archive/db32047232a2959146345b0c7e675a815bd78bd1.tar.gz",
+      "hash": "0r5higjfa5glk2v801dq9z0ijf0b61ldm183bw1qiyvzh4h0mp2p"
     },
     "telescope-fzf-native-nvim": {
       "type": "Git",
