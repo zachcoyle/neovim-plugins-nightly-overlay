@@ -1220,9 +1220,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "1ac27d5734ccd057ef2b46a8644022913f37b89e",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/1ac27d5734ccd057ef2b46a8644022913f37b89e.tar.gz",
-      "hash": "0q1g3d70jc8h4rk1xpq9gqidqikbk25514m0iv5jialliih8c4ph"
+      "revision": "9226c5a2291ef623ef157e0e1ffea034ffc8b8de",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/9226c5a2291ef623ef157e0e1ffea034ffc8b8de.tar.gz",
+      "hash": "02323jb3rb1nvbbcn2qpq2x58rgn53gwlpm0n1mhcgrijkiifnd7"
     },
     "galaxyline-nvim": {
       "type": "Git",
@@ -1807,9 +1807,9 @@
         "repo": "markview.nvim"
       },
       "branch": "main",
-      "revision": "ba7995464bd116c40f2722c5946df65a5eb6a2df",
-      "url": "https://github.com/OXY2DEV/markview.nvim/archive/ba7995464bd116c40f2722c5946df65a5eb6a2df.tar.gz",
-      "hash": "1d2pl7xb6j5mh7g6agk7jwm5kw1biy3bkqnmmyyas4dc84d5bb8v"
+      "revision": "6507e5f3d4d960e91a4245b810392d4ca6769073",
+      "url": "https://github.com/OXY2DEV/markview.nvim/archive/6507e5f3d4d960e91a4245b810392d4ca6769073.tar.gz",
+      "hash": "0512wjmgsbcmmzynhkis4vc0s1l95aa2mpr21nrzb99cxzg7bxhm"
     },
     "melange": {
       "type": "Git",
