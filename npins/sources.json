@@ -260,9 +260,9 @@
         "repo": "clangd_extensions.nvim"
       },
       "branch": "main",
-      "revision": "a8500531c4ed3a207e744a374ea038744a0f93eb",
-      "url": "https://github.com/p00f/clangd_extensions.nvim/archive/a8500531c4ed3a207e744a374ea038744a0f93eb.tar.gz",
-      "hash": "1y42abwy5ax64ccr90pk31gycja1yv3c6qgi0wmkfi6smmn25g0g"
+      "revision": "385a44f133f4145e3a3da1a2a557225dccc3e1f8",
+      "url": "https://github.com/p00f/clangd_extensions.nvim/archive/385a44f133f4145e3a3da1a2a557225dccc3e1f8.tar.gz",
+      "hash": "1fsc5ggzzf3gcgn87pv70wrlakl32dh5kz492m1djgr6c7gzpnnn"
     },
     "clipboard-image-nvim": {
       "type": "Git",
@@ -2647,9 +2647,9 @@
         "repo": "nvim-tree.lua"
       },
       "branch": "master",
-      "revision": "e962e97cab7c5638c7c36f7c532cd51cbc71054a",
-      "url": "https://github.com/nvim-tree/nvim-tree.lua/archive/e962e97cab7c5638c7c36f7c532cd51cbc71054a.tar.gz",
-      "hash": "0qd1zrvhn59111cpyw0kkiwz3n8dyik5vx7qghsnz4a1ahpzvjvf"
+      "revision": "6fbcb5a8929bc8296e2234e385f0af322826f04a",
+      "url": "https://github.com/nvim-tree/nvim-tree.lua/archive/6fbcb5a8929bc8296e2234e385f0af322826f04a.tar.gz",
+      "hash": "05xf191nkizb2s0sazs1idcw9010wz2z7azvb09vsq8rqqik8a9v"
     },
     "nvim-treesitter": {
       "type": "Git",
