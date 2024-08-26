@@ -92,9 +92,9 @@
         "repo": "auto-session"
       },
       "branch": "main",
-      "revision": "a5750c62b33dc4daf641345004398847ff84d7e9",
-      "url": "https://github.com/rmagatti/auto-session/archive/a5750c62b33dc4daf641345004398847ff84d7e9.tar.gz",
-      "hash": "16sj34pdhk71c0zfy7c1jrf7qhpbcgrd3wqax32fi78m4rvnrr6c"
+      "revision": "8c282a5faccfd2f8c9ed8a81e280ef405555bc62",
+      "url": "https://github.com/rmagatti/auto-session/archive/8c282a5faccfd2f8c9ed8a81e280ef405555bc62.tar.gz",
+      "hash": "1k0bd35y3ikivrxds5iz5n7j7n5p77y5irsabiv8mq4ksqp0xa3h"
     },
     "autoclose-nvim": {
       "type": "Git",
@@ -1604,9 +1604,9 @@
         "repo": "lean.nvim"
       },
       "branch": "main",
-      "revision": "7de14969d8ee03436d78485fb8b2e1ac2f059c93",
-      "url": "https://github.com/Julian/lean.nvim/archive/7de14969d8ee03436d78485fb8b2e1ac2f059c93.tar.gz",
-      "hash": "18wz8y22agwpxksn5nmxcd0hn697dz7xh1fgbfsgyr1i3smhkqpn"
+      "revision": "a9b5a9069608d1c40ec6ffb297992d436cc06e72",
+      "url": "https://github.com/Julian/lean.nvim/archive/a9b5a9069608d1c40ec6ffb297992d436cc06e72.tar.gz",
+      "hash": "0wns70kwq33bmn0qjpwczk5a2zdpzvy4ff7mpq5hg99xh66yhll4"
     },
     "leap-nvim": {
       "type": "Git",
@@ -1831,9 +1831,9 @@
         "repo": "mini.nvim"
       },
       "branch": "main",
-      "revision": "2c55015a518e11ea9d49bb96078f5ede51f5d2af",
-      "url": "https://github.com/echasnovski/mini.nvim/archive/2c55015a518e11ea9d49bb96078f5ede51f5d2af.tar.gz",
-      "hash": "1197vwrc79l5r62l2ygal0bjjxy16n9d5ci159174652cl8j47jr"
+      "revision": "42744fd81136fdd7e01ce81fb99fc6b5e9a17f0f",
+      "url": "https://github.com/echasnovski/mini.nvim/archive/42744fd81136fdd7e01ce81fb99fc6b5e9a17f0f.tar.gz",
+      "hash": "0yb7vzscjqqc5397i8358z075llj61sb96zwss8i622p24p0ckyi"
     },
     "mkdnflow-nvim": {
       "type": "Git",
@@ -3031,9 +3031,9 @@
         "repo": "smart-splits.nvim"
       },
       "branch": "master",
-      "revision": "d39e1f1920c5c6772b716d6ee05fd3ffa82a0d2f",
-      "url": "https://github.com/mrjones2014/smart-splits.nvim/archive/d39e1f1920c5c6772b716d6ee05fd3ffa82a0d2f.tar.gz",
-      "hash": "1f80z170lsz0i3vv3s9x55dldin5dm06sgwgx4las55ly11zzlp5"
+      "revision": "e5209df1aa04ee2d4910a25a289efe5a978dba2f",
+      "url": "https://github.com/mrjones2014/smart-splits.nvim/archive/e5209df1aa04ee2d4910a25a289efe5a978dba2f.tar.gz",
+      "hash": "1fnyflp5a9in2f72f0ybadbykkdv46kqifnfb8kjych9klbdz6zf"
     },
     "snippets-nvim": {
       "type": "Git",
