@@ -8,9 +8,9 @@
         "repo": "ChatGPT.nvim"
       },
       "branch": "main",
-      "revision": "f081338f07216a46d3915ce46c1fcb083bcb5016",
-      "url": "https://github.com/jackMort/ChatGPT.nvim/archive/f081338f07216a46d3915ce46c1fcb083bcb5016.tar.gz",
-      "hash": "1hgwdahp5h2nfzwfgjjgdbki5jnyg5gmapvz1kd1zmcycslb85di"
+      "revision": "4d9d297c2409c8ebc715da7f1d7705a221564555",
+      "url": "https://github.com/jackMort/ChatGPT.nvim/archive/4d9d297c2409c8ebc715da7f1d7705a221564555.tar.gz",
+      "hash": "0i4ras7n66i4h64bb0v70v85b70d0rw33hy16kgyr20b6qkm53vm"
     },
     "CopilotChat-nvim": {
       "type": "Git",
@@ -2515,9 +2515,9 @@
         "repo": "nvim-lspconfig"
       },
       "branch": "master",
-      "revision": "911167921d49cd5c1c9b2436031d0da3945e787f",
-      "url": "https://github.com/neovim/nvim-lspconfig/archive/911167921d49cd5c1c9b2436031d0da3945e787f.tar.gz",
-      "hash": "0vsa9ic842fiiqkh9ifzn8jbxja4x4iyq4ywbyz0rzzq2wrwr98y"
+      "revision": "8a3610d29df83d8632f8ee7c3afc779c12725531",
+      "url": "https://github.com/neovim/nvim-lspconfig/archive/8a3610d29df83d8632f8ee7c3afc779c12725531.tar.gz",
+      "hash": "1ih1cz0swlijlcg599kwzjb6b2hxvsjkpgq367291x5cb7n1yxs3"
     },
     "nvim-navbuddy": {
       "type": "Git",
