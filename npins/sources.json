@@ -1747,9 +1747,9 @@
         "repo": "lz.n"
       },
       "branch": "master",
-      "revision": "afcaf87c83a555c908f3983eee9a489ad5d54ae6",
-      "url": "https://github.com/nvim-neorocks/lz.n/archive/afcaf87c83a555c908f3983eee9a489ad5d54ae6.tar.gz",
-      "hash": "1w5yxhr3cy9hhi534y86nga28vby3jgj6qh575s52igm5i2hcdan"
+      "revision": "bc1f4aa65f23bc488fdc916f4c3256604642159f",
+      "url": "https://github.com/nvim-neorocks/lz.n/archive/bc1f4aa65f23bc488fdc916f4c3256604642159f.tar.gz",
+      "hash": "1lpav7acgvhapgjvj0hnd8rdyl6plsb6p3v0bv2q4dzv27xk07di"
     },
     "magma-nvim-goose": {
       "type": "Git",
@@ -1987,9 +1987,9 @@
         "repo": "neotest"
       },
       "branch": "master",
-      "revision": "32ff2ac21135a372a42b38ae131e531e64833bd3",
-      "url": "https://github.com/nvim-neotest/neotest/archive/32ff2ac21135a372a42b38ae131e531e64833bd3.tar.gz",
-      "hash": "144wzzadhrg48fkihffk6jf9c0ij8dg9gng6mcxq5z8mdcvz0124"
+      "revision": "6d6ad113f56edc7c3f2a77a0836ea8c1b955ebea",
+      "url": "https://github.com/nvim-neotest/neotest/archive/6d6ad113f56edc7c3f2a77a0836ea8c1b955ebea.tar.gz",
+      "hash": "1v8y7jpwb0a6w5gcr6r17zcgrvdqs7y396c67xxpz5f2bibxzbxr"
     },
     "neotest-bash": {
       "type": "Git",
