@@ -968,9 +968,9 @@
         "repo": "coq_nvim"
       },
       "branch": "coq",
-      "revision": "7627daf22a5396c9e1eb7110bfd17a782b534758",
-      "url": "https://github.com/ms-jpq/coq_nvim/archive/7627daf22a5396c9e1eb7110bfd17a782b534758.tar.gz",
-      "hash": "0s7wzgs6468vb44nq9s7qk4a312iwrs04kh6gshjq9d7ijidc6ks"
+      "revision": "f1d2f27a322f41cb80802bacaa9377babead4662",
+      "url": "https://github.com/ms-jpq/coq_nvim/archive/f1d2f27a322f41cb80802bacaa9377babead4662.tar.gz",
+      "hash": "188z8y6i0cypiz4469blyjh7g57m1h2lcfn99jpq2wzby0bi1dcl"
     },
     "crates-nvim": {
       "type": "Git",
@@ -1807,9 +1807,9 @@
         "repo": "markview.nvim"
       },
       "branch": "main",
-      "revision": "e7e91ad3320c8a3feabba27f5ac79953f99c2632",
-      "url": "https://github.com/OXY2DEV/markview.nvim/archive/e7e91ad3320c8a3feabba27f5ac79953f99c2632.tar.gz",
-      "hash": "1hbfbcpr47jjzwjpdf1iy90sf1g8bxfpaydbil43f4mb46ss42kr"
+      "revision": "1fd113802e008f09c6bb91d352f770e8b0bd4da4",
+      "url": "https://github.com/OXY2DEV/markview.nvim/archive/1fd113802e008f09c6bb91d352f770e8b0bd4da4.tar.gz",
+      "hash": "1g2xcxrm3l7rqiim5z3w91vhrrh5r6j3f7wgddm4v7a3gqr1zm2c"
     },
     "melange": {
       "type": "Git",
@@ -2779,9 +2779,9 @@
         "repo": "oil.nvim"
       },
       "branch": "master",
-      "revision": "a632c898fbe0e363ef89b9577f1a7714ab67d682",
-      "url": "https://github.com/stevearc/oil.nvim/archive/a632c898fbe0e363ef89b9577f1a7714ab67d682.tar.gz",
-      "hash": "0dixqxbs8j96mq0rjdgzgi712i13mfkhfshngwilh5hsidl0d6np"
+      "revision": "4f3c6780ff272d8facab69a658cf8693582b7a54",
+      "url": "https://github.com/stevearc/oil.nvim/archive/4f3c6780ff272d8facab69a658cf8693582b7a54.tar.gz",
+      "hash": "05mlldkb7yjrlczykwkh5zr8wdyay6hkcjvvk4zaxnszivy1kzfc"
     },
     "ollama-nvim": {
       "type": "Git",
