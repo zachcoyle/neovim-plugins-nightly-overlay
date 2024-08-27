@@ -92,9 +92,9 @@
         "repo": "auto-session"
       },
       "branch": "main",
-      "revision": "65de1af6b69b149fcf17d85b528280c377a8fee0",
-      "url": "https://github.com/rmagatti/auto-session/archive/65de1af6b69b149fcf17d85b528280c377a8fee0.tar.gz",
-      "hash": "1fdp07r79p8mwc25rbfyaqlz5rmfhwfx5lxyxr0qcsy47i0wdrkr"
+      "revision": "889326a4737149c3763061a6ce49ed1e906f95a9",
+      "url": "https://github.com/rmagatti/auto-session/archive/889326a4737149c3763061a6ce49ed1e906f95a9.tar.gz",
+      "hash": "1xwprdp372d1lz46n3ir8vwvza6g7f8l46gqzb58in572ahlx75r"
     },
     "autoclose-nvim": {
       "type": "Git",
@@ -1819,9 +1819,9 @@
         "repo": "melange-nvim"
       },
       "branch": "master",
-      "revision": "e84f8bc2abc5d6edaa7bd48a16c3078504ecb713",
-      "url": "https://github.com/savq/melange-nvim/archive/e84f8bc2abc5d6edaa7bd48a16c3078504ecb713.tar.gz",
-      "hash": "0r5sx0iia4jddzxwrdwswykzhpvwf3idzifw2cxgkgq07cm60bpy"
+      "revision": "36d02139979f840a170de8c19a72beaae2ef1741",
+      "url": "https://github.com/savq/melange-nvim/archive/36d02139979f840a170de8c19a72beaae2ef1741.tar.gz",
+      "hash": "0dmn5cy5p967kj5vkqc7cxflz5dfhw35hirs3pil04wqns43khh5"
     },
     "mini-nvim": {
       "type": "Git",
@@ -3067,9 +3067,9 @@
         "repo": "solarized.nvim"
       },
       "branch": "main",
-      "revision": "3a197875c76803e4a64d4b1491c6dd0d22b161cd",
-      "url": "https://github.com/maxmx03/solarized.nvim/archive/3a197875c76803e4a64d4b1491c6dd0d22b161cd.tar.gz",
-      "hash": "1j8xv3nsl6bsrcm0i6kw4d0vcml05bm568ajric0vhqv3yq53dwx"
+      "revision": "533a6069fb8919f4c941482b6028fdd92ac9037c",
+      "url": "https://github.com/maxmx03/solarized.nvim/archive/533a6069fb8919f4c941482b6028fdd92ac9037c.tar.gz",
+      "hash": "1i1rq6zimn1k88i0gkp07n305h79sjkq8pbqk5hasmij6sp0g5rr"
     },
     "specs-nvim": {
       "type": "Git",
