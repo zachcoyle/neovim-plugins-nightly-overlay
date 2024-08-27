@@ -2707,9 +2707,9 @@
         "repo": "nvim-ts-autotag"
       },
       "branch": "main",
-      "revision": "0cb76eea80e9c73b88880f0ca78fbd04c5bdcac7",
-      "url": "https://github.com/windwp/nvim-ts-autotag/archive/0cb76eea80e9c73b88880f0ca78fbd04c5bdcac7.tar.gz",
-      "hash": "14a86zgy7vpm9g44yf2r8kk8vq3xa2vm4r6866n4a38z76p5cp52"
+      "revision": "e239a560f338be31337e7abc3ee42515daf23f5e",
+      "url": "https://github.com/windwp/nvim-ts-autotag/archive/e239a560f338be31337e7abc3ee42515daf23f5e.tar.gz",
+      "hash": "1qk3pij5m9hxksyyj9bk8a7x5vn3rc6wwy6idc91c2pyyhmd8k20"
     },
     "nvim-ts-context-commentstring": {
       "type": "Git",
