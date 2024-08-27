@@ -1568,9 +1568,9 @@
         "repo": "kanagawa.nvim"
       },
       "branch": "master",
-      "revision": "e5f7b8a804360f0a48e40d0083a97193ee4fcc87",
-      "url": "https://github.com/rebelot/kanagawa.nvim/archive/e5f7b8a804360f0a48e40d0083a97193ee4fcc87.tar.gz",
-      "hash": "1066495w73a11kdpm8iah3k0pjf766ylf21jk8gjid73byl2lz0n"
+      "revision": "f491b0fe68fffbece7030181073dfe51f45cda81",
+      "url": "https://github.com/rebelot/kanagawa.nvim/archive/f491b0fe68fffbece7030181073dfe51f45cda81.tar.gz",
+      "hash": "0zfgynkk2jpdkdh30zjazb2i32d2h3iz7xg3v2aviqfg4dcazqjj"
     },
     "lazy-nvim": {
       "type": "Git",
