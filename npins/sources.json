@@ -92,9 +92,9 @@
         "repo": "auto-session"
       },
       "branch": "main",
-      "revision": "5588169b3236a06bdb169993b486d245070ea426",
-      "url": "https://github.com/rmagatti/auto-session/archive/5588169b3236a06bdb169993b486d245070ea426.tar.gz",
-      "hash": "1gglyahy3rkaf0vgk2yw4shm449v9crnvgiqs0krmyh4aas5z7sx"
+      "revision": "f8ccc1bb98357a43ba95181b34709b8f7102a4fc",
+      "url": "https://github.com/rmagatti/auto-session/archive/f8ccc1bb98357a43ba95181b34709b8f7102a4fc.tar.gz",
+      "hash": "0fp06mzc1l9iv32vhmx7fwqa0mkyk3rcslycjb52xlpdq7jcfidd"
     },
     "autoclose-nvim": {
       "type": "Git",
@@ -824,9 +824,9 @@
         "repo": "codeium.vim"
       },
       "branch": "main",
-      "revision": "8bed5fb5708c94cd69f418d1381d6fbf07cb0313",
-      "url": "https://github.com/Exafunction/codeium.vim/archive/8bed5fb5708c94cd69f418d1381d6fbf07cb0313.tar.gz",
-      "hash": "180l02qlvz4d1cg52zl49p90apyl0iy6kjai646wsrhchin349r5"
+      "revision": "1513aef682a9b3363c0bf60292e6ddc781c716ce",
+      "url": "https://github.com/Exafunction/codeium.vim/archive/1513aef682a9b3363c0bf60292e6ddc781c716ce.tar.gz",
+      "hash": "0gsg20fcqdjvn5k64mff0sns87hhyrqg0z6jaagj32rfsq58m00s"
     },
     "codesnap-nvim": {
       "type": "Git",
