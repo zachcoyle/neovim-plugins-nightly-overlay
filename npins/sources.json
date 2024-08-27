@@ -2995,9 +2995,9 @@
         "repo": "rest.nvim"
       },
       "branch": "main",
-      "revision": "0ca046d0e52ab0a152a40e0e160d12e4c18f405f",
-      "url": "https://github.com/rest-nvim/rest.nvim/archive/0ca046d0e52ab0a152a40e0e160d12e4c18f405f.tar.gz",
-      "hash": "1sl7xlch6v419rhm8bqh3bzi9mr978mpc78svjhllzdgpdzijd5b"
+      "revision": "86e26748240c279193f0fa9545f7a1db7a5ec13e",
+      "url": "https://github.com/rest-nvim/rest.nvim/archive/86e26748240c279193f0fa9545f7a1db7a5ec13e.tar.gz",
+      "hash": "1shp66b82fjq7gykpcz4vqh5y5xyfjbjmfdbdqkbfh4wnj8cj6q4"
     },
     "rose-pine": {
       "type": "Git",
@@ -3991,9 +3991,9 @@
         "repo": "yazi.nvim"
       },
       "branch": "main",
-      "revision": "df7c476ee9a844603773f662de7c17e7994c378e",
-      "url": "https://github.com/mikavilpas/yazi.nvim/archive/df7c476ee9a844603773f662de7c17e7994c378e.tar.gz",
-      "hash": "0z6lf8y9w71xymhbn8za7hg7dcd12h3gim4r9iprc3pzy2ajn1q5"
+      "revision": "39e5ea70ca18ffaacccc81b506a2541be6542ef4",
+      "url": "https://github.com/mikavilpas/yazi.nvim/archive/39e5ea70ca18ffaacccc81b506a2541be6542ef4.tar.gz",
+      "hash": "03i5zcxygyb2c8n4smzzsdp0nks0hysabpfv2rgfdvvhn0lmbi51"
     },
     "yuck-vim": {
       "type": "Git",
