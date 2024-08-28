@@ -1268,9 +1268,9 @@
         "repo": "git-messenger.vim"
       },
       "branch": "master",
-      "revision": "1ec2daa0722982a329887708f52a40497ceb86be",
-      "url": "https://github.com/rhysd/git-messenger.vim/archive/1ec2daa0722982a329887708f52a40497ceb86be.tar.gz",
-      "hash": "1b0jw37ishwa0fcasyc20cgck270sny1zdiwa54sgw7rkf82rggx"
+      "revision": "188da083d5adfeac1d8dd70d1841b242942fae82",
+      "url": "https://github.com/rhysd/git-messenger.vim/archive/188da083d5adfeac1d8dd70d1841b242942fae82.tar.gz",
+      "hash": "0y42krwgjgb6lxq4jm12zc26fxhii34my3j3nj20nrp7avfx7kq6"
     },
     "git-worktree-nvim": {
       "type": "Git",
@@ -3067,9 +3067,9 @@
         "repo": "solarized.nvim"
       },
       "branch": "main",
-      "revision": "cba648cd87b9f26e97e6fe4f1f888724bc1bb1d6",
-      "url": "https://github.com/maxmx03/solarized.nvim/archive/cba648cd87b9f26e97e6fe4f1f888724bc1bb1d6.tar.gz",
-      "hash": "1hi9b48qjvy7bk2sz00my85y5x73s93zw2vwpznd497dv1clr5qs"
+      "revision": "e41b3cf6431918dcffcc2d9fac96a4e1cf4d5471",
+      "url": "https://github.com/maxmx03/solarized.nvim/archive/e41b3cf6431918dcffcc2d9fac96a4e1cf4d5471.tar.gz",
+      "hash": "0vzx17fai3wmvcbc8j37jc3pqfpimkb5b4fl9ds29svcaja4pnpj"
     },
     "specs-nvim": {
       "type": "Git",
