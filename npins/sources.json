@@ -1807,9 +1807,9 @@
         "repo": "markview.nvim"
       },
       "branch": "main",
-      "revision": "1fd113802e008f09c6bb91d352f770e8b0bd4da4",
-      "url": "https://github.com/OXY2DEV/markview.nvim/archive/1fd113802e008f09c6bb91d352f770e8b0bd4da4.tar.gz",
-      "hash": "1g2xcxrm3l7rqiim5z3w91vhrrh5r6j3f7wgddm4v7a3gqr1zm2c"
+      "revision": "4695a699ebd87889c815de07e1408331e5c1df61",
+      "url": "https://github.com/OXY2DEV/markview.nvim/archive/4695a699ebd87889c815de07e1408331e5c1df61.tar.gz",
+      "hash": "0fh3bmm947ncr9kz7x637pni1m2w4v2c2zfx1wmqgg28mfyjql27"
     },
     "melange": {
       "type": "Git",
@@ -3067,9 +3067,9 @@
         "repo": "solarized.nvim"
       },
       "branch": "main",
-      "revision": "e41b3cf6431918dcffcc2d9fac96a4e1cf4d5471",
-      "url": "https://github.com/maxmx03/solarized.nvim/archive/e41b3cf6431918dcffcc2d9fac96a4e1cf4d5471.tar.gz",
-      "hash": "0vzx17fai3wmvcbc8j37jc3pqfpimkb5b4fl9ds29svcaja4pnpj"
+      "revision": "138bb8aff8686428b668cec7c78cd67ab83b69e0",
+      "url": "https://github.com/maxmx03/solarized.nvim/archive/138bb8aff8686428b668cec7c78cd67ab83b69e0.tar.gz",
+      "hash": "19crwsw3dpjsrz7jbnl59iv7lwizwv2rmq719746jcnc09kqswhf"
     },
     "specs-nvim": {
       "type": "Git",
