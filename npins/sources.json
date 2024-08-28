@@ -1747,9 +1747,9 @@
         "repo": "lz.n"
       },
       "branch": "master",
-      "revision": "129c796f7224164859296cb3355eb3cfab1ba2f9",
-      "url": "https://github.com/nvim-neorocks/lz.n/archive/129c796f7224164859296cb3355eb3cfab1ba2f9.tar.gz",
-      "hash": "0hg4cifs7fgzfb49c3hcyd9713v0hs297ysvyglqfriz11prdb8n"
+      "revision": "38befb0fc8c42d4fdb9006e66113a39379bc3d7c",
+      "url": "https://github.com/nvim-neorocks/lz.n/archive/38befb0fc8c42d4fdb9006e66113a39379bc3d7c.tar.gz",
+      "hash": "1ckvlrlap4miah8ppfyxk64rr52mgx6rrblphv8iw3k0c1r5bjw4"
     },
     "magma-nvim-goose": {
       "type": "Git",
@@ -2827,9 +2827,9 @@
         "repo": "oxocarbon.nvim"
       },
       "branch": "main",
-      "revision": "c5846d10cbe4131cc5e32c6d00beaf59cb60f6a2",
-      "url": "https://github.com/nyoom-engineering/oxocarbon.nvim/archive/c5846d10cbe4131cc5e32c6d00beaf59cb60f6a2.tar.gz",
-      "hash": "1789b010h8yz0yg60xjssl6fz02dbpkq90ldalyqk5p4ncn41qpv"
+      "revision": "004777819ba294423b638a35a75c9f0c7be758ed",
+      "url": "https://github.com/nyoom-engineering/oxocarbon.nvim/archive/004777819ba294423b638a35a75c9f0c7be758ed.tar.gz",
+      "hash": "1qllk870nqc9nhkdgmqm8km2rar6dsmyhfhpcfx8crrg640yfbqy"
     },
     "packer-nvim": {
       "type": "Git",
@@ -2995,9 +2995,9 @@
         "repo": "rest.nvim"
       },
       "branch": "main",
-      "revision": "86e26748240c279193f0fa9545f7a1db7a5ec13e",
-      "url": "https://github.com/rest-nvim/rest.nvim/archive/86e26748240c279193f0fa9545f7a1db7a5ec13e.tar.gz",
-      "hash": "1shp66b82fjq7gykpcz4vqh5y5xyfjbjmfdbdqkbfh4wnj8cj6q4"
+      "revision": "a8f232fe7cc65233819566068a0e40d6a01bb9e8",
+      "url": "https://github.com/rest-nvim/rest.nvim/archive/a8f232fe7cc65233819566068a0e40d6a01bb9e8.tar.gz",
+      "hash": "1h9mz6v2jsa2qiq12yr2jbj7ibl9y9k8qn39i45j9z3xp0dbz7cf"
     },
     "rose-pine": {
       "type": "Git",
