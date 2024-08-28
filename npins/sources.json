@@ -4039,9 +4039,9 @@
         "repo": "zig.vim"
       },
       "branch": "master",
-      "revision": "ad75bb5752f3556d8bde5b0e69cb69a98058030e",
-      "url": "https://github.com/ziglang/zig.vim/archive/ad75bb5752f3556d8bde5b0e69cb69a98058030e.tar.gz",
-      "hash": "0wgjasakkcdzr5zv553gc2x2kzg0778y6qi7rswqbfxxadlkl5xj"
+      "revision": "15d6510b77a4efbb6ffcb151ed7e2ce4de4d06f6",
+      "url": "https://github.com/ziglang/zig.vim/archive/15d6510b77a4efbb6ffcb151ed7e2ce4de4d06f6.tar.gz",
+      "hash": "1f45d75df822djcsyxmg3v4ddh78nc1ii8mcwrjcwjqxlh6vm16y"
     },
     "zk-nvim": {
       "type": "Git",
