@@ -1747,9 +1747,9 @@
         "repo": "lz.n"
       },
       "branch": "master",
-      "revision": "38befb0fc8c42d4fdb9006e66113a39379bc3d7c",
-      "url": "https://github.com/nvim-neorocks/lz.n/archive/38befb0fc8c42d4fdb9006e66113a39379bc3d7c.tar.gz",
-      "hash": "1ckvlrlap4miah8ppfyxk64rr52mgx6rrblphv8iw3k0c1r5bjw4"
+      "revision": "c8e2547c77e3087e1d6683fed55f44836acbcd1e",
+      "url": "https://github.com/nvim-neorocks/lz.n/archive/c8e2547c77e3087e1d6683fed55f44836acbcd1e.tar.gz",
+      "hash": "1qbgg9pv83q86zkh97lsn7kln46zy67yr983j614mi39rfry2pn2"
     },
     "magma-nvim-goose": {
       "type": "Git",
@@ -3991,9 +3991,9 @@
         "repo": "yazi.nvim"
       },
       "branch": "main",
-      "revision": "dd8ceaeeb1b6cf65ab17058babb4eca971335c1e",
-      "url": "https://github.com/mikavilpas/yazi.nvim/archive/dd8ceaeeb1b6cf65ab17058babb4eca971335c1e.tar.gz",
-      "hash": "1gd4lywnkqga7rh7l850s0ad7v2r4zf6y5fjyb9icqav55gjri4k"
+      "revision": "a82ccb33ffe139415285946a5154907c3f1db1dd",
+      "url": "https://github.com/mikavilpas/yazi.nvim/archive/a82ccb33ffe139415285946a5154907c3f1db1dd.tar.gz",
+      "hash": "18r453zdrp8gxxhjm9r0gzmab4mp07dh0cka61bb0k7dflzi0px6"
     },
     "yuck-vim": {
       "type": "Git",
