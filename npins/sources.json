@@ -44,9 +44,9 @@
         "repo": "SchemaStore.nvim"
       },
       "branch": "main",
-      "revision": "6c521f7a8aee8728bff0782d368418bd8d24bf22",
-      "url": "https://github.com/b0o/SchemaStore.nvim/archive/6c521f7a8aee8728bff0782d368418bd8d24bf22.tar.gz",
-      "hash": "0hshcy79jgjh7lmk0dwvhiqqbj8lv43nfw54lba5sybgznc8pr2j"
+      "revision": "ae75241aed204d829fe15595bbf05e6fbf3d49dd",
+      "url": "https://github.com/b0o/SchemaStore.nvim/archive/ae75241aed204d829fe15595bbf05e6fbf3d49dd.tar.gz",
+      "hash": "1xkyka0y4iqgfp4dipizbnsnzi681gxvsnakwj5mcrmf07l22mfd"
     },
     "alpha-nvim": {
       "type": "Git",
@@ -1735,9 +1735,9 @@
         "repo": "LuaSnip"
       },
       "branch": "master",
-      "revision": "7ad2eaeaca56d6ed63acacbfc114b99f1f67b982",
-      "url": "https://github.com/L3MON4D3/LuaSnip/archive/7ad2eaeaca56d6ed63acacbfc114b99f1f67b982.tar.gz",
-      "hash": "1kgpf84a55yz9552yv5nijn8p4hx74nngg82fv6adqrqydrs1z6c"
+      "revision": "45db5addf8d0a201e1cf247cae4cdce605ad3768",
+      "url": "https://github.com/L3MON4D3/LuaSnip/archive/45db5addf8d0a201e1cf247cae4cdce605ad3768.tar.gz",
+      "hash": "120iq5y7prppphsq1ilc7gd214rqh5v5h8wmskvq2lmhmx7n3gym"
     },
     "lz-n": {
       "type": "Git",
@@ -1747,9 +1747,9 @@
         "repo": "lz.n"
       },
       "branch": "master",
-      "revision": "c8e2547c77e3087e1d6683fed55f44836acbcd1e",
-      "url": "https://github.com/nvim-neorocks/lz.n/archive/c8e2547c77e3087e1d6683fed55f44836acbcd1e.tar.gz",
-      "hash": "1qbgg9pv83q86zkh97lsn7kln46zy67yr983j614mi39rfry2pn2"
+      "revision": "9cee362e8914987a55635621fbd16d39cc8020b3",
+      "url": "https://github.com/nvim-neorocks/lz.n/archive/9cee362e8914987a55635621fbd16d39cc8020b3.tar.gz",
+      "hash": "0nnaj19s8cq465h1vld5ck7p3zl5aymwsa692kzfmr6jp1337ixb"
     },
     "magma-nvim-goose": {
       "type": "Git",
@@ -2995,9 +2995,9 @@
         "repo": "rest.nvim"
       },
       "branch": "main",
-      "revision": "a8f232fe7cc65233819566068a0e40d6a01bb9e8",
-      "url": "https://github.com/rest-nvim/rest.nvim/archive/a8f232fe7cc65233819566068a0e40d6a01bb9e8.tar.gz",
-      "hash": "1h9mz6v2jsa2qiq12yr2jbj7ibl9y9k8qn39i45j9z3xp0dbz7cf"
+      "revision": "ba0861870b7807974420bd7b21f3aa96951e5d83",
+      "url": "https://github.com/rest-nvim/rest.nvim/archive/ba0861870b7807974420bd7b21f3aa96951e5d83.tar.gz",
+      "hash": "0kbq9s3ajiq5rip05w8c74524p7ccr9dla1ii3svch3s5wxy41ij"
     },
     "rose-pine": {
       "type": "Git",
@@ -3067,9 +3067,9 @@
         "repo": "solarized.nvim"
       },
       "branch": "main",
-      "revision": "8759a70227b3cfd00d9ece28804c56b296c8ff9d",
-      "url": "https://github.com/maxmx03/solarized.nvim/archive/8759a70227b3cfd00d9ece28804c56b296c8ff9d.tar.gz",
-      "hash": "0zhyhbdvmrlhiq9rimbvrkj0j7cbrrslbz2qx0r6gvw4h4ix263m"
+      "revision": "1f40ffb0b7ddc0f735ce3c553e8b939687114ba4",
+      "url": "https://github.com/maxmx03/solarized.nvim/archive/1f40ffb0b7ddc0f735ce3c553e8b939687114ba4.tar.gz",
+      "hash": "0w6lj2y7x4vnbjy3gy2048qm4w6jhb3q4nymk42mzcfpbyg79q0b"
     },
     "specs-nvim": {
       "type": "Git",
