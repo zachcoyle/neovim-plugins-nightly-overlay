@@ -44,9 +44,9 @@
         "repo": "SchemaStore.nvim"
       },
       "branch": "main",
-      "revision": "ae75241aed204d829fe15595bbf05e6fbf3d49dd",
-      "url": "https://github.com/b0o/SchemaStore.nvim/archive/ae75241aed204d829fe15595bbf05e6fbf3d49dd.tar.gz",
-      "hash": "1xkyka0y4iqgfp4dipizbnsnzi681gxvsnakwj5mcrmf07l22mfd"
+      "revision": "6d3ba6ad250538446b2727e352e15a425d6692ef",
+      "url": "https://github.com/b0o/SchemaStore.nvim/archive/6d3ba6ad250538446b2727e352e15a425d6692ef.tar.gz",
+      "hash": "1fvgqasmszqh5ljbjwmyi53j6d9v48dbfhb6x25bfz86w7zh6hga"
     },
     "alpha-nvim": {
       "type": "Git",
@@ -1604,9 +1604,9 @@
         "repo": "lean.nvim"
       },
       "branch": "main",
-      "revision": "8dc3838f16c52a6e35d1fb65fd5eb29eb2aa39a8",
-      "url": "https://github.com/Julian/lean.nvim/archive/8dc3838f16c52a6e35d1fb65fd5eb29eb2aa39a8.tar.gz",
-      "hash": "1ykda1xryl537i5jm6pzbjf8xrp850afnhbzzs76bmn27pk78k7i"
+      "revision": "881eeefb75edbbc3ac656c235a5ef7da50eed541",
+      "url": "https://github.com/Julian/lean.nvim/archive/881eeefb75edbbc3ac656c235a5ef7da50eed541.tar.gz",
+      "hash": "0ah3dnwzk0j514avji6mfjv2yfx0502qkv1f7ys2qw4v7r4ainwm"
     },
     "leap-nvim": {
       "type": "Git",
@@ -3067,9 +3067,9 @@
         "repo": "solarized.nvim"
       },
       "branch": "main",
-      "revision": "1f40ffb0b7ddc0f735ce3c553e8b939687114ba4",
-      "url": "https://github.com/maxmx03/solarized.nvim/archive/1f40ffb0b7ddc0f735ce3c553e8b939687114ba4.tar.gz",
-      "hash": "0w6lj2y7x4vnbjy3gy2048qm4w6jhb3q4nymk42mzcfpbyg79q0b"
+      "revision": "7c2e83d57797219797e9ee418882f77857887ceb",
+      "url": "https://github.com/maxmx03/solarized.nvim/archive/7c2e83d57797219797e9ee418882f77857887ceb.tar.gz",
+      "hash": "10vvk1ks9rmk1wbla285835fr6nwzvfxzsy27crzw2qivj57bsvb"
     },
     "specs-nvim": {
       "type": "Git",
