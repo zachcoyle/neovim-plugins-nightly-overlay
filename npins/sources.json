@@ -704,9 +704,9 @@
         "repo": "cmp-tabnine"
       },
       "branch": "main",
-      "revision": "d52aae40ee86b62960c31a003352ddfc9e31c8d2",
-      "url": "https://github.com/tzachar/cmp-tabnine/archive/d52aae40ee86b62960c31a003352ddfc9e31c8d2.tar.gz",
-      "hash": "155v6pqwdvqnivbm23wx3a554sy5sryb14dd8v01kp3pjydbkqqz"
+      "revision": "0f4bf271a8f1eb2c5add4dab712c67aa1f9ca7bd",
+      "url": "https://github.com/tzachar/cmp-tabnine/archive/0f4bf271a8f1eb2c5add4dab712c67aa1f9ca7bd.tar.gz",
+      "hash": "0x1i6zw7qdjj2g164l8899iir519fw5j46nrc97jdfayax3crs4h"
     },
     "cmp-tmux": {
       "type": "Git",
@@ -992,9 +992,9 @@
         "repo": "cyberdream.nvim"
       },
       "branch": "main",
-      "revision": "f86f4ac5c5662caee632681b6fbcbe4ba8006feb",
-      "url": "https://github.com/scottmckendry/cyberdream.nvim/archive/f86f4ac5c5662caee632681b6fbcbe4ba8006feb.tar.gz",
-      "hash": "0w6565raqbgkc5s8wg3nlcsbr2z65mknfkfrjcs6k66ikcivflkr"
+      "revision": "10d79f367abd585626aca5099907df67e4dfd7a6",
+      "url": "https://github.com/scottmckendry/cyberdream.nvim/archive/10d79f367abd585626aca5099907df67e4dfd7a6.tar.gz",
+      "hash": "1whnza3f63z7yj2n35ywdbx9pa70hp9v0qwx5p08iracqs1gga4q"
     },
     "dashboard-nvim": {
       "type": "Git",
