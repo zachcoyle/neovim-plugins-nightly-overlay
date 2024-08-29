@@ -1388,9 +1388,9 @@
         "repo": "harpoon"
       },
       "branch": "master",
-      "revision": "ccae1b9bec717ae284906b0bf83d720e59d12b91",
-      "url": "https://github.com/ThePrimeagen/harpoon/archive/ccae1b9bec717ae284906b0bf83d720e59d12b91.tar.gz",
-      "hash": "10ldyz368j3kh7h7r877wbsa2y88v191415ic4slr7ldzfrar2j8"
+      "revision": "1bc17e3e42ea3c46b33c0bbad6a880792692a1b3",
+      "url": "https://github.com/ThePrimeagen/harpoon/archive/1bc17e3e42ea3c46b33c0bbad6a880792692a1b3.tar.gz",
+      "hash": "0q7lcww2y1x8s6r5g6wbdlnv3dvc8pj1g7wq6yxvl5fsi40wvhwj"
     },
     "haskell-scope-highlighting-nvim": {
       "type": "Git",
@@ -2779,9 +2779,9 @@
         "repo": "oil.nvim"
       },
       "branch": "master",
-      "revision": "30e0438ff08f197d7ce4a417445ab97ee72efe2d",
-      "url": "https://github.com/stevearc/oil.nvim/archive/30e0438ff08f197d7ce4a417445ab97ee72efe2d.tar.gz",
-      "hash": "0lrvxvqd5ypybr3mczff8dag1lvl0f1rbwcl3wjj077isv2a33v1"
+      "revision": "0dc98d36b5450575e3af97fdfc6dcb72ba1fc80e",
+      "url": "https://github.com/stevearc/oil.nvim/archive/0dc98d36b5450575e3af97fdfc6dcb72ba1fc80e.tar.gz",
+      "hash": "0g0g1plc9f14b4rccqzmpp6jg5za6s7kx23dhvlzywhz3l8pw0bs"
     },
     "ollama-nvim": {
       "type": "Git",
