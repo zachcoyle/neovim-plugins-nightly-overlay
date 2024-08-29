@@ -3067,9 +3067,9 @@
         "repo": "solarized.nvim"
       },
       "branch": "main",
-      "revision": "7c2e83d57797219797e9ee418882f77857887ceb",
-      "url": "https://github.com/maxmx03/solarized.nvim/archive/7c2e83d57797219797e9ee418882f77857887ceb.tar.gz",
-      "hash": "10vvk1ks9rmk1wbla285835fr6nwzvfxzsy27crzw2qivj57bsvb"
+      "revision": "2b428efc47d2fa999ed551fe99260e60d5f60b16",
+      "url": "https://github.com/maxmx03/solarized.nvim/archive/2b428efc47d2fa999ed551fe99260e60d5f60b16.tar.gz",
+      "hash": "1i97am64wx5iqs9pdcd8yjw71dwn7460hcsahs3dgq85278k7p92"
     },
     "specs-nvim": {
       "type": "Git",
