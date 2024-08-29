@@ -1220,9 +1220,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "290a442f7c4ca100417459ff439a445d49e66869",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/290a442f7c4ca100417459ff439a445d49e66869.tar.gz",
-      "hash": "16nbqyprd9daxy1qsripbafk7gc0ya29jcn630f422cy9ha75b5v"
+      "revision": "1572a89acf8c468a230f0f5ee7092a15496213ee",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/1572a89acf8c468a230f0f5ee7092a15496213ee.tar.gz",
+      "hash": "12pk9lwry1yyb6d9hl42xrzmajk6nihfgdfwp95glaxks1c9chm1"
     },
     "galaxyline-nvim": {
       "type": "Git",
@@ -1640,9 +1640,9 @@
         "repo": "lsp-format.nvim"
       },
       "branch": "master",
-      "revision": "1985dab455eb404aed6983ccf7c718824c5f6a3f",
-      "url": "https://github.com/lukas-reineke/lsp-format.nvim/archive/1985dab455eb404aed6983ccf7c718824c5f6a3f.tar.gz",
-      "hash": "0y0180wnpprwpyhvblc27wr19dqradc0bqszqcx0ii4vggsyzvah"
+      "revision": "47de35b54ec95bb049f52016632394b914d4d9e9",
+      "url": "https://github.com/lukas-reineke/lsp-format.nvim/archive/47de35b54ec95bb049f52016632394b914d4d9e9.tar.gz",
+      "hash": "1mvdgsbx1qls0iks87k9d7xrz2p06sc1vz8rz8q64s0gvfpc5n67"
     },
     "lsp-status-nvim": {
       "type": "Git",
