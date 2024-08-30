@@ -1016,9 +1016,9 @@
         "repo": "debugprint.nvim"
       },
       "branch": "main",
-      "revision": "3c9a95a56ebb3b784b9c5e823f3b0bd76e91b753",
-      "url": "https://github.com/andrewferrier/debugprint.nvim/archive/3c9a95a56ebb3b784b9c5e823f3b0bd76e91b753.tar.gz",
-      "hash": "1z4a5k1b1gl2s49ls6kxg462dcg0x8rimswii6jj4afbs8l1zh94"
+      "revision": "4b9a976ab989fd4fe342e140870fc711c19091d6",
+      "url": "https://github.com/andrewferrier/debugprint.nvim/archive/4b9a976ab989fd4fe342e140870fc711c19091d6.tar.gz",
+      "hash": "0gqfvv47ni04bmxrzv6wsxyqkhmwnjhig6qiy8q6yh74r5fd8pvb"
     },
     "diffview-nvim": {
       "type": "Git",
@@ -3067,9 +3067,9 @@
         "repo": "solarized.nvim"
       },
       "branch": "main",
-      "revision": "ec057bcca564416bb5da579e7ce9dda3dd8cd4f1",
-      "url": "https://github.com/maxmx03/solarized.nvim/archive/ec057bcca564416bb5da579e7ce9dda3dd8cd4f1.tar.gz",
-      "hash": "1l1b59kd9vfm8lbaz9awz3idcqacnlppr2h7qzqwzp965sh5srh8"
+      "revision": "151aabdeb72b3b405005c10d625a172d8a655934",
+      "url": "https://github.com/maxmx03/solarized.nvim/archive/151aabdeb72b3b405005c10d625a172d8a655934.tar.gz",
+      "hash": "0xff9bh6c0mbbc20alz08kagacdyzfs2p3b2albgj77cy3i7la8m"
     },
     "specs-nvim": {
       "type": "Git",
