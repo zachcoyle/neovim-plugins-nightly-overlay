@@ -1016,9 +1016,9 @@
         "repo": "debugprint.nvim"
       },
       "branch": "main",
-      "revision": "dc4ef0b5b931c7d660cd4c9dfdeb3a74ff362ae3",
-      "url": "https://github.com/andrewferrier/debugprint.nvim/archive/dc4ef0b5b931c7d660cd4c9dfdeb3a74ff362ae3.tar.gz",
-      "hash": "13naq1q7kbs5kmhl2hr448n1rp7wglgcsfzkxq4qbmk0fjjr8v2f"
+      "revision": "72dcb51580c65a8a095666eb1737854d25f89fee",
+      "url": "https://github.com/andrewferrier/debugprint.nvim/archive/72dcb51580c65a8a095666eb1737854d25f89fee.tar.gz",
+      "hash": "1a9g5psl07ngdg13qihvilyrqcbgc7x7k95z4d6aa2xa62ww5khr"
     },
     "diffview-nvim": {
       "type": "Git",
