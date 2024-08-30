@@ -236,9 +236,9 @@
         "repo": "ccc.nvim"
       },
       "branch": "main",
-      "revision": "4fb5abaef2f2e0540fe22d4d74a9841205fff9e4",
-      "url": "https://github.com/uga-rosa/ccc.nvim/archive/4fb5abaef2f2e0540fe22d4d74a9841205fff9e4.tar.gz",
-      "hash": "00916cwvdg3rccmf4vg811gi03gpdrpsndpr9ady29dii2alb6pb"
+      "revision": "790aa881d7f47bc7cc07ad03f1216bb7caf9ef67",
+      "url": "https://github.com/uga-rosa/ccc.nvim/archive/790aa881d7f47bc7cc07ad03f1216bb7caf9ef67.tar.gz",
+      "hash": "0xq64akzb1pl4cf1w73a73q1wg4d9b48k35lddg2kmm86abmsb62"
     },
     "chadtree": {
       "type": "Git",
