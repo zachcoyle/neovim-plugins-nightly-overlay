@@ -1807,9 +1807,9 @@
         "repo": "markview.nvim"
       },
       "branch": "main",
-      "revision": "33e6f83b0c851159b13fd75c72378b4c84e52721",
-      "url": "https://github.com/OXY2DEV/markview.nvim/archive/33e6f83b0c851159b13fd75c72378b4c84e52721.tar.gz",
-      "hash": "0n9mh35g5f24jpsnwfr6fgg5rfaskzlcxyqz7hmgc5fh38g5v3jy"
+      "revision": "59c15a2baec56c8fbb3f22151407978c27f389f8",
+      "url": "https://github.com/OXY2DEV/markview.nvim/archive/59c15a2baec56c8fbb3f22151407978c27f389f8.tar.gz",
+      "hash": "07zv5bk40nd57gxxdbfanr0dkf83baba5dqn68qphbqqymjxxag6"
     },
     "melange": {
       "type": "Git",
@@ -1831,9 +1831,9 @@
         "repo": "mini.nvim"
       },
       "branch": "main",
-      "revision": "08430e1ae29d54f2cb54a7d3f9062f2f2a0b4909",
-      "url": "https://github.com/echasnovski/mini.nvim/archive/08430e1ae29d54f2cb54a7d3f9062f2f2a0b4909.tar.gz",
-      "hash": "1cw62hva0vql7nn58wf35ca47k0n2vhryw49f56z1ggqyfd5kdpj"
+      "revision": "73f2e7a596bbb4e6ae6728d3a4426221ffc9512d",
+      "url": "https://github.com/echasnovski/mini.nvim/archive/73f2e7a596bbb4e6ae6728d3a4426221ffc9512d.tar.gz",
+      "hash": "1cjxj4jbafzyl6z0km7nbj24xdcbyyz3dchz9lma5r1dyyi4r25f"
     },
     "mkdnflow-nvim": {
       "type": "Git",
