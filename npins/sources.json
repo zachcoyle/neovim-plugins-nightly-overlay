@@ -2119,9 +2119,9 @@
         "repo": "neotest-java"
       },
       "branch": "main",
-      "revision": "d624c32702785aa748a194c96b28923119ca5c5d",
-      "url": "https://github.com/rcasia/neotest-java/archive/d624c32702785aa748a194c96b28923119ca5c5d.tar.gz",
-      "hash": "1lkp1m2j488jvza1arykqazsm01871958niyb3yg1s521v87058b"
+      "revision": "0047327b99daeca1219bd83edd21bd91e55ac750",
+      "url": "https://github.com/rcasia/neotest-java/archive/0047327b99daeca1219bd83edd21bd91e55ac750.tar.gz",
+      "hash": "0dgqwg0p3ks3ywsmbaasyv6fdgdaq4j3bvzhvdwfdirpvd4j8lgi"
     },
     "neotest-jest": {
       "type": "Git",
