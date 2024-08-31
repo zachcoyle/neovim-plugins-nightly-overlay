@@ -968,9 +968,9 @@
         "repo": "coq_nvim"
       },
       "branch": "coq",
-      "revision": "f1d2f27a322f41cb80802bacaa9377babead4662",
-      "url": "https://github.com/ms-jpq/coq_nvim/archive/f1d2f27a322f41cb80802bacaa9377babead4662.tar.gz",
-      "hash": "188z8y6i0cypiz4469blyjh7g57m1h2lcfn99jpq2wzby0bi1dcl"
+      "revision": "1aec0a1419841451885070a10117e63934e38b50",
+      "url": "https://github.com/ms-jpq/coq_nvim/archive/1aec0a1419841451885070a10117e63934e38b50.tar.gz",
+      "hash": "1xxz5y4nhs52p6glb998krbvgsps0jh9d47z0086rd8408g6yc89"
     },
     "crates-nvim": {
       "type": "Git",
@@ -1747,9 +1747,9 @@
         "repo": "lz.n"
       },
       "branch": "master",
-      "revision": "1d3bfcc5353ad7ff9dadd8f6a7b8fb3acf895d44",
-      "url": "https://github.com/nvim-neorocks/lz.n/archive/1d3bfcc5353ad7ff9dadd8f6a7b8fb3acf895d44.tar.gz",
-      "hash": "0xbrwf1vhigb45nsjkdpb6miaklj53dzyvsp2f566nfkx2ka3my1"
+      "revision": "304e6db60ad6b06dc6497316efad10e6be55c389",
+      "url": "https://github.com/nvim-neorocks/lz.n/archive/304e6db60ad6b06dc6497316efad10e6be55c389.tar.gz",
+      "hash": "0j4pbaibf6zry4m15rb5xkx6ivycdfkfq0x2hdiwi82abir3ycaz"
     },
     "magma-nvim-goose": {
       "type": "Git",
