@@ -248,9 +248,9 @@
         "repo": "chadtree"
       },
       "branch": "chad",
-      "revision": "7334155c68acd932e275fbf203f05eebf7f741ed",
-      "url": "https://github.com/ms-jpq/chadtree/archive/7334155c68acd932e275fbf203f05eebf7f741ed.tar.gz",
-      "hash": "15ddriks3ffyz8q0g8nkb35dmm2apclw04dkivjbbm21dg5nym11"
+      "revision": "8f0c52af375ec790a3659f15929ce685bec667bb",
+      "url": "https://github.com/ms-jpq/chadtree/archive/8f0c52af375ec790a3659f15929ce685bec667bb.tar.gz",
+      "hash": "1iqi06qgi44dnbzq3qsq8a3mhj2063nalyq0dy8ligvdjarmny4h"
     },
     "clangd_extensions-nvim": {
       "type": "Git",
@@ -3991,9 +3991,9 @@
         "repo": "yazi.nvim"
       },
       "branch": "main",
-      "revision": "154ab33c9774114f5fc6ba36d7cebcf663aa2911",
-      "url": "https://github.com/mikavilpas/yazi.nvim/archive/154ab33c9774114f5fc6ba36d7cebcf663aa2911.tar.gz",
-      "hash": "1nm50v6virh0cb6l4bcgw4q9jywf6c1q0gx8r6mmm9w37npwdi0s"
+      "revision": "fc59e7b83323ab2ce70305a00819b0f76d6611b5",
+      "url": "https://github.com/mikavilpas/yazi.nvim/archive/fc59e7b83323ab2ce70305a00819b0f76d6611b5.tar.gz",
+      "hash": "1ajm7ki8bjjkqqyp71a4zkgif43slf06c0zi8r27p810ibyjdilf"
     },
     "yuck-vim": {
       "type": "Git",
