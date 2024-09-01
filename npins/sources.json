@@ -44,9 +44,9 @@
         "repo": "SchemaStore.nvim"
       },
       "branch": "main",
-      "revision": "6d3ba6ad250538446b2727e352e15a425d6692ef",
-      "url": "https://github.com/b0o/SchemaStore.nvim/archive/6d3ba6ad250538446b2727e352e15a425d6692ef.tar.gz",
-      "hash": "1fvgqasmszqh5ljbjwmyi53j6d9v48dbfhb6x25bfz86w7zh6hga"
+      "revision": "4157ddd9f02bec835feb975b84306e660b19dd61",
+      "url": "https://github.com/b0o/SchemaStore.nvim/archive/4157ddd9f02bec835feb975b84306e660b19dd61.tar.gz",
+      "hash": "1qv30p0ajj02cpz3p5dsfvg7mmavgvj50r8gv97g9vs9n59i44r2"
     },
     "alpha-nvim": {
       "type": "Git",
@@ -2311,9 +2311,9 @@
         "repo": "none-ls.nvim"
       },
       "branch": "main",
-      "revision": "203f5ebde4a1af48ba2eb146401b5be2e7866942",
-      "url": "https://github.com/nvimtools/none-ls.nvim/archive/203f5ebde4a1af48ba2eb146401b5be2e7866942.tar.gz",
-      "hash": "079z2ybs2fwaf74yx4prxa3zf6my5fc8i5k94msisxlcyk0xa66d"
+      "revision": "9b98991e15dce8fc502993e23caac2528b8b667f",
+      "url": "https://github.com/nvimtools/none-ls.nvim/archive/9b98991e15dce8fc502993e23caac2528b8b667f.tar.gz",
+      "hash": "0lllsjn4vmyn563mg6sygybq1knvymjwjjg1az7kr2zi7i2q3gbh"
     },
     "nord-nvim": {
       "type": "Git",
