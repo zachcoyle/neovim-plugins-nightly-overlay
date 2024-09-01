@@ -248,9 +248,9 @@
         "repo": "chadtree"
       },
       "branch": "chad",
-      "revision": "f9bb561bb82caea467924b8bf3f8a3a1a3f01456",
-      "url": "https://github.com/ms-jpq/chadtree/archive/f9bb561bb82caea467924b8bf3f8a3a1a3f01456.tar.gz",
-      "hash": "1mp9h2vrp04d1hbr7n25rxscazx1dmb49fvj6k4003phn0m6f753"
+      "revision": "6eea6d13fa1b139ca94fbaeba04358973a70f075",
+      "url": "https://github.com/ms-jpq/chadtree/archive/6eea6d13fa1b139ca94fbaeba04358973a70f075.tar.gz",
+      "hash": "0r419qbd7h34cxf2kyw6asz9hb5nrczdfgp074fjr9qzfh7g1zd0"
     },
     "clangd_extensions-nvim": {
       "type": "Git",
@@ -2983,9 +2983,9 @@
         "repo": "rainbow-delimiters.nvim"
       },
       "branch": "master",
-      "revision": "b9ba41d1b960317229199e7654d906dac4e51b7e",
-      "url": "https://github.com/HiPhish/rainbow-delimiters.nvim/archive/b9ba41d1b960317229199e7654d906dac4e51b7e.tar.gz",
-      "hash": "1x99zmabmlcwkp04yg4lvli432fmrhf5jp9i6iw28n5rjmnk946c"
+      "revision": "8f47c3d70286a85940cafe990a64b0eac1033671",
+      "url": "https://github.com/HiPhish/rainbow-delimiters.nvim/archive/8f47c3d70286a85940cafe990a64b0eac1033671.tar.gz",
+      "hash": "0qwlq6h2skpppn2aai7d9qhfk6cwfl8zz3lj7llyid0y8qqig41z"
     },
     "refactoring-nvim": {
       "type": "Git",
