@@ -840,6 +840,18 @@
       "url": "https://github.com/mistricky/codesnap.nvim/archive/c2924bf6c9a2c2c03318fae9b7fe0706412b9d9c.tar.gz",
       "hash": "0xvixdcplkmysxfrlfz3sjkhzh4bswgk86jvrpvhq1c4kvyg53lp"
     },
+    "comment-box-nvim": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "LudoPinelli",
+        "repo": "comment-box.nvim"
+      },
+      "branch": "main",
+      "revision": "06bb771690bc9df0763d14769b779062d8f12bc5",
+      "url": "https://github.com/LudoPinelli/comment-box.nvim/archive/06bb771690bc9df0763d14769b779062d8f12bc5.tar.gz",
+      "hash": "182wfx8q30ingkkrr0xs4r9zf1rf0b8wp2l8pi8hds0cpzc8vfvx"
+    },
     "comment-nvim": {
       "type": "Git",
       "repository": {
