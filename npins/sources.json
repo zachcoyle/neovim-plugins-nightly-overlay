@@ -2659,9 +2659,9 @@
         "repo": "nvim-treesitter"
       },
       "branch": "master",
-      "revision": "aa339f6ab611da07183a7fe44daa482605392502",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/aa339f6ab611da07183a7fe44daa482605392502.tar.gz",
-      "hash": "1qdjsl36mxvk0v1d4qsz948fkvgbwylmz457c1ljj81fd9k6avdq"
+      "revision": "4e47268c6dbbc72d53c651f393a612c3e4a3f84e",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/4e47268c6dbbc72d53c651f393a612c3e4a3f84e.tar.gz",
+      "hash": "16sbyjj0sr2648l84kcs2n2drcypc9lgpd9wmmh07pi5bpr638b0"
     },
     "nvim-treesitter-context": {
       "type": "Git",
@@ -2995,9 +2995,9 @@
         "repo": "rest.nvim"
       },
       "branch": "main",
-      "revision": "d788e0fe447da5b1626dbf5427668b228e5cb404",
-      "url": "https://github.com/rest-nvim/rest.nvim/archive/d788e0fe447da5b1626dbf5427668b228e5cb404.tar.gz",
-      "hash": "19lhq3y88c3ncws29wzj4bmc97sp4vhli1fdn34azn8p2ys8yz5g"
+      "revision": "d7e448b9caaf502421435d84d26488327746624c",
+      "url": "https://github.com/rest-nvim/rest.nvim/archive/d7e448b9caaf502421435d84d26488327746624c.tar.gz",
+      "hash": "195ykxkr19i4k92839i4v3r7ij6a7alhwqhf8swxwrvfxyg4qm5m"
     },
     "rose-pine": {
       "type": "Git",
