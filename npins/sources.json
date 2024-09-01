@@ -44,9 +44,9 @@
         "repo": "SchemaStore.nvim"
       },
       "branch": "main",
-      "revision": "4157ddd9f02bec835feb975b84306e660b19dd61",
-      "url": "https://github.com/b0o/SchemaStore.nvim/archive/4157ddd9f02bec835feb975b84306e660b19dd61.tar.gz",
-      "hash": "1qv30p0ajj02cpz3p5dsfvg7mmavgvj50r8gv97g9vs9n59i44r2"
+      "revision": "2e0aa88ccc5f955ff3f97dbe45ee33b94ebf8ab0",
+      "url": "https://github.com/b0o/SchemaStore.nvim/archive/2e0aa88ccc5f955ff3f97dbe45ee33b94ebf8ab0.tar.gz",
+      "hash": "110vbah1h4xxfqk7rq7wvq867x2jwps8j7yq6c3rm5xw4y974zh9"
     },
     "alpha-nvim": {
       "type": "Git",
@@ -2971,9 +2971,9 @@
         "repo": "rainbow-delimiters.nvim"
       },
       "branch": "master",
-      "revision": "bb48714623a4fae73c42e4b318b4587464111769",
-      "url": "https://github.com/HiPhish/rainbow-delimiters.nvim/archive/bb48714623a4fae73c42e4b318b4587464111769.tar.gz",
-      "hash": "03bgab81b2k6a7hf8mbxjynsmrz4ybf4bci6snhq69g6392kr205"
+      "revision": "b9ba41d1b960317229199e7654d906dac4e51b7e",
+      "url": "https://github.com/HiPhish/rainbow-delimiters.nvim/archive/b9ba41d1b960317229199e7654d906dac4e51b7e.tar.gz",
+      "hash": "1x99zmabmlcwkp04yg4lvli432fmrhf5jp9i6iw28n5rjmnk946c"
     },
     "refactoring-nvim": {
       "type": "Git",
@@ -2995,9 +2995,9 @@
         "repo": "rest.nvim"
       },
       "branch": "main",
-      "revision": "8c32934633f2c0517a8aa621b9f1dd149bb5bd5b",
-      "url": "https://github.com/rest-nvim/rest.nvim/archive/8c32934633f2c0517a8aa621b9f1dd149bb5bd5b.tar.gz",
-      "hash": "04mc5jlfgvvrd05mb6xlhfwjbf1cv7zxrmipl7q6g9nvkhj738wk"
+      "revision": "33276565fd6320411734888484adf8d54ac315ca",
+      "url": "https://github.com/rest-nvim/rest.nvim/archive/33276565fd6320411734888484adf8d54ac315ca.tar.gz",
+      "hash": "0w7qsxkyzd99504vsk7hq8bvrjlh39085bklz5gb0pj0247ha6sl"
     },
     "rose-pine": {
       "type": "Git",
