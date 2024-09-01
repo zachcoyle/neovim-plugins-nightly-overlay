@@ -2767,9 +2767,9 @@
         "repo": "octo.nvim"
       },
       "branch": "master",
-      "revision": "0134169886958f3874f16eed7fe73d906a3e7e17",
-      "url": "https://github.com/pwntester/octo.nvim/archive/0134169886958f3874f16eed7fe73d906a3e7e17.tar.gz",
-      "hash": "1w7y1xp6jqd74xjj8ms2hcn70nyypcgjr9vbcn3jgzg82wj3ipzc"
+      "revision": "668b722765aeec1bde4b93e89bdedb1db962606a",
+      "url": "https://github.com/pwntester/octo.nvim/archive/668b722765aeec1bde4b93e89bdedb1db962606a.tar.gz",
+      "hash": "10p8zciqswx7pjgl0f7mndh2s53ciw5j3ir9wmh39ayrc49a1z2w"
     },
     "oil-nvim": {
       "type": "Git",
@@ -2995,9 +2995,9 @@
         "repo": "rest.nvim"
       },
       "branch": "main",
-      "revision": "33276565fd6320411734888484adf8d54ac315ca",
-      "url": "https://github.com/rest-nvim/rest.nvim/archive/33276565fd6320411734888484adf8d54ac315ca.tar.gz",
-      "hash": "0w7qsxkyzd99504vsk7hq8bvrjlh39085bklz5gb0pj0247ha6sl"
+      "revision": "d788e0fe447da5b1626dbf5427668b228e5cb404",
+      "url": "https://github.com/rest-nvim/rest.nvim/archive/d788e0fe447da5b1626dbf5427668b228e5cb404.tar.gz",
+      "hash": "19lhq3y88c3ncws29wzj4bmc97sp4vhli1fdn34azn8p2ys8yz5g"
     },
     "rose-pine": {
       "type": "Git",
@@ -3907,9 +3907,9 @@
         "repo": "vimtex"
       },
       "branch": "master",
-      "revision": "76ef99f73a5ff10be59836a4af4f928eaa8ad284",
-      "url": "https://github.com/lervag/vimtex/archive/76ef99f73a5ff10be59836a4af4f928eaa8ad284.tar.gz",
-      "hash": "05q95b7p92mizwk83vb5fagalgs4kvjsir8jbvrm3kq5iqkvnwb9"
+      "revision": "ec3b648af5092372ddd72404fb5db46b2f78beb5",
+      "url": "https://github.com/lervag/vimtex/archive/ec3b648af5092372ddd72404fb5db46b2f78beb5.tar.gz",
+      "hash": "1nirjrzikw53kwn49bppwmaqfgxl5c0pr0y5cbynl9ijs30d732m"
     },
     "virt-column-nvim": {
       "type": "Git",
