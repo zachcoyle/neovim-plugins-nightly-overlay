@@ -128,9 +128,9 @@
         "repo": "barbar.nvim"
       },
       "branch": "master",
-      "revision": "c20691d686addb0d6ea87896d186c082324b01f8",
-      "url": "https://github.com/romgrk/barbar.nvim/archive/c20691d686addb0d6ea87896d186c082324b01f8.tar.gz",
-      "hash": "187pkjpvxqh5dsjr2jwbjzgmkg24050w2mwmz6lv452njx67n258"
+      "revision": "31b6951c53a59bccfa91bf3984ed1510a940c836",
+      "url": "https://github.com/romgrk/barbar.nvim/archive/31b6951c53a59bccfa91bf3984ed1510a940c836.tar.gz",
+      "hash": "0dlkjbnaq787b9ajm9dwf1kg1fyip8jcc5fmmg88r8wk43zfkvms"
     },
     "barbecue-nvim": {
       "type": "Git",
@@ -1819,9 +1819,9 @@
         "repo": "markview.nvim"
       },
       "branch": "main",
-      "revision": "ea71a5bc6e0a0b28af62e2f21d264ddcc466bd51",
-      "url": "https://github.com/OXY2DEV/markview.nvim/archive/ea71a5bc6e0a0b28af62e2f21d264ddcc466bd51.tar.gz",
-      "hash": "1xxhydcrkr5rnni83ykj7wdrz6iny90csqzi0b49lkw6vb0jhr27"
+      "revision": "d6f0cb87b8cf8929fa8626f06ff0544b89eb9b7a",
+      "url": "https://github.com/OXY2DEV/markview.nvim/archive/d6f0cb87b8cf8929fa8626f06ff0544b89eb9b7a.tar.gz",
+      "hash": "0qga1xpm2h7xkzyv1vkdz71rypx62n0cnfsaj4xs9xpxccfdxz55"
     },
     "melange": {
       "type": "Git",
