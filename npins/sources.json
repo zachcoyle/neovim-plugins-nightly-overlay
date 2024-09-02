@@ -1879,9 +1879,9 @@
         "repo": "molten-nvim"
       },
       "branch": "main",
-      "revision": "eafa6aa0335a239ee333e6ca45076888b9b011ae",
-      "url": "https://github.com/benlubas/molten-nvim/archive/eafa6aa0335a239ee333e6ca45076888b9b011ae.tar.gz",
-      "hash": "1bf6nzncvz7wpgfd9ipp14yqgg4ib5p5mrwmg9rc1ggs3vrpb1pj"
+      "revision": "08f43bf100f27320c201b36b9eb63cabc5a24712",
+      "url": "https://github.com/benlubas/molten-nvim/archive/08f43bf100f27320c201b36b9eb63cabc5a24712.tar.gz",
+      "hash": "0i15vqd726ciclb9l1h2hy471drygbkhkg84571wjwnbcrbmd1jm"
     },
     "multicursors-nvim": {
       "type": "Git",
@@ -1975,9 +1975,9 @@
         "repo": "neorg"
       },
       "branch": "main",
-      "revision": "85f15f033d8c56366ac1e6ae93c940db8ad067ca",
-      "url": "https://github.com/vhyrro/neorg/archive/85f15f033d8c56366ac1e6ae93c940db8ad067ca.tar.gz",
-      "hash": "0m2fsrwh39a0bkpfkh1qa9pzn30c8gp13wyyy7k6s23c7g810qks"
+      "revision": "d5965efe17e28a60cdbf14e97b87723a83f0c962",
+      "url": "https://github.com/vhyrro/neorg/archive/d5965efe17e28a60cdbf14e97b87723a83f0c962.tar.gz",
+      "hash": "0mlcyq8d1gwmfg7qcnza5m2j5p554x7cf4kqzqla3cn00fmbyl0c"
     },
     "neoscroll-nvim": {
       "type": "Git",
