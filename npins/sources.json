@@ -92,9 +92,9 @@
         "repo": "auto-session"
       },
       "branch": "main",
-      "revision": "6cd7e4d44bf9b1d8bd60e19db7f87204e533ec2c",
-      "url": "https://github.com/rmagatti/auto-session/archive/6cd7e4d44bf9b1d8bd60e19db7f87204e533ec2c.tar.gz",
-      "hash": "1xdk8rg9k8cp5z7bqc78i5c0agwkdyxmn1qbz16gr8zvgijc9b9h"
+      "revision": "a90aa7730efa60fdcc7e00497a8f36d94a6da709",
+      "url": "https://github.com/rmagatti/auto-session/archive/a90aa7730efa60fdcc7e00497a8f36d94a6da709.tar.gz",
+      "hash": "1s78iq68s7y8grmxkrjbg6fczi60yzlkji0gh48gavkqrgf5yszx"
     },
     "autoclose-nvim": {
       "type": "Git",
@@ -1807,9 +1807,9 @@
         "repo": "marks.nvim"
       },
       "branch": "master",
-      "revision": "74e8d01b2a2131b6e46354cffc553aa7f81bcf5b",
-      "url": "https://github.com/chentoast/marks.nvim/archive/74e8d01b2a2131b6e46354cffc553aa7f81bcf5b.tar.gz",
-      "hash": "0hi4sp39gxj62swm325a5s25qv310wxj9amkdghdqmrg6nlcwyz2"
+      "revision": "bb25ae3f65f504379e3d08c8a02560b76eaf91e8",
+      "url": "https://github.com/chentoast/marks.nvim/archive/bb25ae3f65f504379e3d08c8a02560b76eaf91e8.tar.gz",
+      "hash": "0hf2w5js47sa67f23pkcgkgz4m1x96fwh460zs95sqk1yn9a2zfm"
     },
     "markview-nvim": {
       "type": "Git",
@@ -3007,9 +3007,9 @@
         "repo": "rest.nvim"
       },
       "branch": "main",
-      "revision": "412a103d501177857d872339169c0c92ee083c92",
-      "url": "https://github.com/rest-nvim/rest.nvim/archive/412a103d501177857d872339169c0c92ee083c92.tar.gz",
-      "hash": "1cpx85dc7vdlx790fkijsahik3js5rr7fpimb36483kszg8dghdd"
+      "revision": "4086034bd563b0d6c7c87b81b7c2d20945dc3b31",
+      "url": "https://github.com/rest-nvim/rest.nvim/archive/4086034bd563b0d6c7c87b81b7c2d20945dc3b31.tar.gz",
+      "hash": "0l42ny6hfcsmiiq5bxgc4diq8yp1jx8l423kgji3x8ikd02b1a3d"
     },
     "rose-pine": {
       "type": "Git",
