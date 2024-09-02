@@ -44,9 +44,9 @@
         "repo": "SchemaStore.nvim"
       },
       "branch": "main",
-      "revision": "2e0aa88ccc5f955ff3f97dbe45ee33b94ebf8ab0",
-      "url": "https://github.com/b0o/SchemaStore.nvim/archive/2e0aa88ccc5f955ff3f97dbe45ee33b94ebf8ab0.tar.gz",
-      "hash": "110vbah1h4xxfqk7rq7wvq867x2jwps8j7yq6c3rm5xw4y974zh9"
+      "revision": "f73b116a078178f8062054c43f8697e1e8b6cc77",
+      "url": "https://github.com/b0o/SchemaStore.nvim/archive/f73b116a078178f8062054c43f8697e1e8b6cc77.tar.gz",
+      "hash": "02d1zc6xc2p1jp73yiajfp4nr2bqi72hjzs7p4lrfv6j039c96xh"
     },
     "alpha-nvim": {
       "type": "Git",
@@ -992,9 +992,9 @@
         "repo": "crates.nvim"
       },
       "branch": "main",
-      "revision": "891063a2dc8471501b9742406a514be62a20c138",
-      "url": "https://github.com/Saecki/crates.nvim/archive/891063a2dc8471501b9742406a514be62a20c138.tar.gz",
-      "hash": "1vk44bdyyr8p6mcq406x1rz5y8i5f3r5v9zbic09pyccfcpabjpx"
+      "revision": "7762778eb97b9bd9be3448b8f287607def2b9594",
+      "url": "https://github.com/Saecki/crates.nvim/archive/7762778eb97b9bd9be3448b8f287607def2b9594.tar.gz",
+      "hash": "05ls3jfyw0vwcqqdsqwrx81y09ab4al6mqfig5v1sxq9fj6j0h87"
     },
     "cyberdream-nvim": {
       "type": "Git",
