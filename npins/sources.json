@@ -1987,9 +1987,9 @@
         "repo": "neoscroll.nvim"
       },
       "branch": "master",
-      "revision": "1903517811aee8397367b0e73e94d01f5d2ee477",
-      "url": "https://github.com/karb94/neoscroll.nvim/archive/1903517811aee8397367b0e73e94d01f5d2ee477.tar.gz",
-      "hash": "0hi4i7qv1ajz86sq2kin7dg0hl7zs484ir9pnr3vxs9i9i3hn37g"
+      "revision": "6dfce64589e8e685d21f2dbd2df15a2473fa1d41",
+      "url": "https://github.com/karb94/neoscroll.nvim/archive/6dfce64589e8e685d21f2dbd2df15a2473fa1d41.tar.gz",
+      "hash": "1jp6mgpfraq829c9mypmsj21y6fpncfga66r4kw1rh5s2yrww90d"
     },
     "neotest": {
       "type": "Git",
@@ -2683,9 +2683,9 @@
         "repo": "nvim-treesitter-context"
       },
       "branch": "master",
-      "revision": "0ec9a8e00cedfb52e3c2259b55f46a7c18fc2429",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter-context/archive/0ec9a8e00cedfb52e3c2259b55f46a7c18fc2429.tar.gz",
-      "hash": "1h7v09l92zi684yj1qq5nrppy5d7if4fm3nc3l92ld6vnb8c9yfw"
+      "revision": "e6cc783b74606d97ca9eff6494e3f5c2ca603a50",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter-context/archive/e6cc783b74606d97ca9eff6494e3f5c2ca603a50.tar.gz",
+      "hash": "0j10zqwssvs09izkni8mcn899xl366r777yhb0q7cz2vl7m5sd60"
     },
     "nvim-treesitter-refactor": {
       "type": "Git",
