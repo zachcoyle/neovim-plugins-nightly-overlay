@@ -992,9 +992,9 @@
         "repo": "crates.nvim"
       },
       "branch": "main",
-      "revision": "7762778eb97b9bd9be3448b8f287607def2b9594",
-      "url": "https://github.com/Saecki/crates.nvim/archive/7762778eb97b9bd9be3448b8f287607def2b9594.tar.gz",
-      "hash": "05ls3jfyw0vwcqqdsqwrx81y09ab4al6mqfig5v1sxq9fj6j0h87"
+      "revision": "b3b9ac6ed9618955b24bf9adede7530ef608495b",
+      "url": "https://github.com/Saecki/crates.nvim/archive/b3b9ac6ed9618955b24bf9adede7530ef608495b.tar.gz",
+      "hash": "09qkny8m9awn8yp0bw1i6vyh5g4aaa59cch4mpvyn4nlwav91k0d"
     },
     "cyberdream-nvim": {
       "type": "Git",
@@ -2527,9 +2527,9 @@
         "repo": "nvim-lspconfig"
       },
       "branch": "master",
-      "revision": "3ad562700d0615818bf358268ac8914f6ce2b079",
-      "url": "https://github.com/neovim/nvim-lspconfig/archive/3ad562700d0615818bf358268ac8914f6ce2b079.tar.gz",
-      "hash": "1jwg5231zgrkbpi524p47lk185vc3nbwr3vy7hhxs0q4a1fj9hj9"
+      "revision": "0ef64599b8aa0187ee5f6d92cb39c951f348f041",
+      "url": "https://github.com/neovim/nvim-lspconfig/archive/0ef64599b8aa0187ee5f6d92cb39c951f348f041.tar.gz",
+      "hash": "0m6vn174xmv4qc2x0qm90lj7glwhi0bnrhv8k6dw06r7w25a0gim"
     },
     "nvim-navbuddy": {
       "type": "Git",
@@ -2779,9 +2779,9 @@
         "repo": "octo.nvim"
       },
       "branch": "master",
-      "revision": "668b722765aeec1bde4b93e89bdedb1db962606a",
-      "url": "https://github.com/pwntester/octo.nvim/archive/668b722765aeec1bde4b93e89bdedb1db962606a.tar.gz",
-      "hash": "10p8zciqswx7pjgl0f7mndh2s53ciw5j3ir9wmh39ayrc49a1z2w"
+      "revision": "418b9f7d35a1e5e940eeb636932b6217a67395ab",
+      "url": "https://github.com/pwntester/octo.nvim/archive/418b9f7d35a1e5e940eeb636932b6217a67395ab.tar.gz",
+      "hash": "1p6r5djrm9j88j5pgv96pk523r4lwxykl9z5df7vxlbkb6cxy76v"
     },
     "oil-nvim": {
       "type": "Git",
