@@ -2359,9 +2359,9 @@
         "repo": "nvim-autopairs"
       },
       "branch": "master",
-      "revision": "19606af7c039271d5aa96bceff101e7523af3136",
-      "url": "https://github.com/windwp/nvim-autopairs/archive/19606af7c039271d5aa96bceff101e7523af3136.tar.gz",
-      "hash": "1l1w7ndfnyzs8ap32cnh2bdmg7cv1kdzqwjka4bdyax7sdxbpvkv"
+      "revision": "fd2badc24e675f947162a16c124d395bde80dbd6",
+      "url": "https://github.com/windwp/nvim-autopairs/archive/fd2badc24e675f947162a16c124d395bde80dbd6.tar.gz",
+      "hash": "06jzi0rdrvw24bm6zwxzqd2clml8k8zmdnqkbqx5vj30rzjchc48"
     },
     "nvim-bacon": {
       "type": "Git",
@@ -3199,9 +3199,9 @@
         "repo": "telescope-frecency.nvim"
       },
       "branch": "master",
-      "revision": "5a80665fa71a23271861ac3e151e9688ccf1ed1a",
-      "url": "https://github.com/nvim-telescope/telescope-frecency.nvim/archive/5a80665fa71a23271861ac3e151e9688ccf1ed1a.tar.gz",
-      "hash": "1q5fajzjn344xcd1vsazf6pjm4pav3v8m7002giiqlh2cham9alg"
+      "revision": "7634ec0d2dd41392aa7694253cc8fa36285885c6",
+      "url": "https://github.com/nvim-telescope/telescope-frecency.nvim/archive/7634ec0d2dd41392aa7694253cc8fa36285885c6.tar.gz",
+      "hash": "1b9zkmk0v9amsjgwzzfbpj3q3yhc8ib5s0cvmg02aij85s9pn58f"
     },
     "telescope-fzf-native-nvim": {
       "type": "Git",
