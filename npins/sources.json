@@ -3007,9 +3007,9 @@
         "repo": "rest.nvim"
       },
       "branch": "main",
-      "revision": "d7e448b9caaf502421435d84d26488327746624c",
-      "url": "https://github.com/rest-nvim/rest.nvim/archive/d7e448b9caaf502421435d84d26488327746624c.tar.gz",
-      "hash": "195ykxkr19i4k92839i4v3r7ij6a7alhwqhf8swxwrvfxyg4qm5m"
+      "revision": "412a103d501177857d872339169c0c92ee083c92",
+      "url": "https://github.com/rest-nvim/rest.nvim/archive/412a103d501177857d872339169c0c92ee083c92.tar.gz",
+      "hash": "1cpx85dc7vdlx790fkijsahik3js5rr7fpimb36483kszg8dghdd"
     },
     "rose-pine": {
       "type": "Git",
@@ -3079,9 +3079,9 @@
         "repo": "solarized.nvim"
       },
       "branch": "main",
-      "revision": "151aabdeb72b3b405005c10d625a172d8a655934",
-      "url": "https://github.com/maxmx03/solarized.nvim/archive/151aabdeb72b3b405005c10d625a172d8a655934.tar.gz",
-      "hash": "0xff9bh6c0mbbc20alz08kagacdyzfs2p3b2albgj77cy3i7la8m"
+      "revision": "655183da8fff0547b371b4f009f6c491eeb80388",
+      "url": "https://github.com/maxmx03/solarized.nvim/archive/655183da8fff0547b371b4f009f6c491eeb80388.tar.gz",
+      "hash": "0dfhl2sn0q0r0va173xb0vk20gnfjp3rc5mxr80p0421yrgjwp3q"
     },
     "specs-nvim": {
       "type": "Git",
