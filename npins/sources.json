@@ -2831,6 +2831,18 @@
       "url": "https://github.com/salkin-mada/openscad.nvim/archive/bf99a48bff318ceb28646d27f29f925ba0b10af0.tar.gz",
       "hash": "1b90bfwwnz9iwwr89whpqn939m5bvw8cpiysc8yaq3yy46gzvkw7"
     },
+    "orgmode": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "nvim-orgmode",
+        "repo": "orgmode"
+      },
+      "branch": "master",
+      "revision": "e3500add486b17da58ce8e42a0f799161e5761c9",
+      "url": "https://github.com/nvim-orgmode/orgmode/archive/e3500add486b17da58ce8e42a0f799161e5761c9.tar.gz",
+      "hash": "19w2jsv98pwpp7fvmhpryxir2b2h8yp9dzvrjn810ysjb5dxli4n"
+    },
     "oxocarbon-nvim": {
       "type": "Git",
       "repository": {
