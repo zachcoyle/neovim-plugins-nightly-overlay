@@ -1879,9 +1879,9 @@
         "repo": "molten-nvim"
       },
       "branch": "main",
-      "revision": "08f43bf100f27320c201b36b9eb63cabc5a24712",
-      "url": "https://github.com/benlubas/molten-nvim/archive/08f43bf100f27320c201b36b9eb63cabc5a24712.tar.gz",
-      "hash": "0i15vqd726ciclb9l1h2hy471drygbkhkg84571wjwnbcrbmd1jm"
+      "revision": "2423411a3e8076f832613efe65318f259353dab4",
+      "url": "https://github.com/benlubas/molten-nvim/archive/2423411a3e8076f832613efe65318f259353dab4.tar.gz",
+      "hash": "0ivak64qiag3yar7mx62lniq7h6ivf0rbqh3b3ahd7sw9cxj410s"
     },
     "multicursors-nvim": {
       "type": "Git",
