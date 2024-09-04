@@ -824,9 +824,9 @@
         "repo": "codeium.vim"
       },
       "branch": "main",
-      "revision": "1513aef682a9b3363c0bf60292e6ddc781c716ce",
-      "url": "https://github.com/Exafunction/codeium.vim/archive/1513aef682a9b3363c0bf60292e6ddc781c716ce.tar.gz",
-      "hash": "0gsg20fcqdjvn5k64mff0sns87hhyrqg0z6jaagj32rfsq58m00s"
+      "revision": "fc5a68d6273715f13a1257f02a63d668604d9f27",
+      "url": "https://github.com/Exafunction/codeium.vim/archive/fc5a68d6273715f13a1257f02a63d668604d9f27.tar.gz",
+      "hash": "12jvq2qgh8g6dfdds1d7p3rs8v27lnqa6crd7mr5dbmh563m3cdg"
     },
     "codesnap-nvim": {
       "type": "Git",
