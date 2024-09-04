@@ -3035,6 +3035,18 @@
       "url": "https://github.com/rose-pine/neovim/archive/8b1fd252255a7f2c41b4192a787ab62660b29f72.tar.gz",
       "hash": "0djiabbm8c9kxwaz2awb5a9a20qiy5xap9r9prwiak4apk96v299"
     },
+    "scope-nvim": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "tiagovla",
+        "repo": "scope.nvim"
+      },
+      "branch": "main",
+      "revision": "5e3f5ead970317b2f276d38dc031cb4bc5742cd4",
+      "url": "https://github.com/tiagovla/scope.nvim/archive/5e3f5ead970317b2f276d38dc031cb4bc5742cd4.tar.gz",
+      "hash": "0l4xkjbw42vwmj3j7dgca3pwlv78dsscbxrdz1jz0i381s2inar6"
+    },
     "scrollbar-nvim": {
       "type": "Git",
       "repository": {
