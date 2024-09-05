@@ -1472,9 +1472,9 @@
         "repo": "hydra.nvim"
       },
       "branch": "main",
-      "revision": "8578056a2226ed49fc608167edc143a87f75d809",
-      "url": "https://github.com/nvimtools/hydra.nvim/archive/8578056a2226ed49fc608167edc143a87f75d809.tar.gz",
-      "hash": "13f04pmqrfl65xx9bfkdak6ll57s94anaw7nqd0fm5hp50b7c6j3"
+      "revision": "7f5341643107d05a8d7d4fdea00b29af28517380",
+      "url": "https://github.com/nvimtools/hydra.nvim/archive/7f5341643107d05a8d7d4fdea00b29af28517380.tar.gz",
+      "hash": "0f9vxv0lxzd4qpikdjinh62vfxg55dm0drcm2ms17igsfjn4myd0"
     },
     "image-nvim": {
       "type": "Git",
