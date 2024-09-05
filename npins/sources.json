@@ -1112,9 +1112,9 @@
         "repo": "efmls-configs-nvim"
       },
       "branch": "main",
-      "revision": "b23178bef394eac491788f525747acebaf259c05",
-      "url": "https://github.com/creativenull/efmls-configs-nvim/archive/b23178bef394eac491788f525747acebaf259c05.tar.gz",
-      "hash": "1p0s4gsbl7f82ismqclz3k5l8v5ybby9rafnfa3cyvw21pc7h6z7"
+      "revision": "8474cdc5a8fc21091828487c3f7781d0b19c66fb",
+      "url": "https://github.com/creativenull/efmls-configs-nvim/archive/8474cdc5a8fc21091828487c3f7781d0b19c66fb.tar.gz",
+      "hash": "1b57l8b5m19p8bf5an67z595zcz9adandz5g4v0yj4b3kbw2azc3"
     },
     "emmet-vim": {
       "type": "Git",
@@ -3619,9 +3619,9 @@
         "repo": "vim-dadbod-ui"
       },
       "branch": "master",
-      "revision": "2f344874918a3ab6bbe68fb866b3f003a639a5d2",
-      "url": "https://github.com/kristijanhusak/vim-dadbod-ui/archive/2f344874918a3ab6bbe68fb866b3f003a639a5d2.tar.gz",
-      "hash": "067d6mvwrvfyw11i5d7kjsa064vf6530g5acfwkbd0snqhm620ac"
+      "revision": "aa003f514ba0b1250ba0f284f031d011bb9e83e8",
+      "url": "https://github.com/kristijanhusak/vim-dadbod-ui/archive/aa003f514ba0b1250ba0f284f031d011bb9e83e8.tar.gz",
+      "hash": "011s4hlhcfif4bhg6a8wbdk2f641v0jzwlvzak51zrjhm72a2acb"
     },
     "vim-devicons": {
       "type": "Git",
