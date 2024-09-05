@@ -1843,9 +1843,9 @@
         "repo": "mini.nvim"
       },
       "branch": "main",
-      "revision": "eb0f557a5797cfe9c720ed84a71582c22bccb4f8",
-      "url": "https://github.com/echasnovski/mini.nvim/archive/eb0f557a5797cfe9c720ed84a71582c22bccb4f8.tar.gz",
-      "hash": "10km0z8sfhrvgh2fwanlhgvifkibbpma4aig00rrcph2pdbc8hvs"
+      "revision": "14f81b96d850d561b6ed0c1e6715fdd724e4447f",
+      "url": "https://github.com/echasnovski/mini.nvim/archive/14f81b96d850d561b6ed0c1e6715fdd724e4447f.tar.gz",
+      "hash": "1l9fbas7nick9ywb3945xcyjrys4xkmqypd9b18fzlkcggxl86c5"
     },
     "mkdnflow-nvim": {
       "type": "Git",
@@ -2671,9 +2671,9 @@
         "repo": "nvim-treesitter"
       },
       "branch": "master",
-      "revision": "3826d0c42ac635f560479b5b6ab522f6627a3466",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/3826d0c42ac635f560479b5b6ab522f6627a3466.tar.gz",
-      "hash": "1sjb5aqkb28843i9rgzs3cmfdwhryhp44h7z1vkcb1nrjbhdh3g9"
+      "revision": "bfe74a4899882a4ef45abb80813f14644a110a34",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/bfe74a4899882a4ef45abb80813f14644a110a34.tar.gz",
+      "hash": "16226i6ls2cg9i0km40v5p3hczn0c5axfpf2srqp62nms1v0xrh2"
     },
     "nvim-treesitter-context": {
       "type": "Git",
@@ -3223,9 +3223,9 @@
         "repo": "telescope-frecency.nvim"
       },
       "branch": "master",
-      "revision": "7634ec0d2dd41392aa7694253cc8fa36285885c6",
-      "url": "https://github.com/nvim-telescope/telescope-frecency.nvim/archive/7634ec0d2dd41392aa7694253cc8fa36285885c6.tar.gz",
-      "hash": "1b9zkmk0v9amsjgwzzfbpj3q3yhc8ib5s0cvmg02aij85s9pn58f"
+      "revision": "1b63e9453d89f82adb4f62955876e7b7dc8eb92e",
+      "url": "https://github.com/nvim-telescope/telescope-frecency.nvim/archive/1b63e9453d89f82adb4f62955876e7b7dc8eb92e.tar.gz",
+      "hash": "103vc4h1khcyqybdw2yc1irgw704mkif902xz7xir0xwhq2smshc"
     },
     "telescope-fzf-native-nvim": {
       "type": "Git",
