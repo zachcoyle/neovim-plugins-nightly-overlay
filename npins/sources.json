@@ -1280,9 +1280,9 @@
         "repo": "git-messenger.vim"
       },
       "branch": "master",
-      "revision": "188da083d5adfeac1d8dd70d1841b242942fae82",
-      "url": "https://github.com/rhysd/git-messenger.vim/archive/188da083d5adfeac1d8dd70d1841b242942fae82.tar.gz",
-      "hash": "0y42krwgjgb6lxq4jm12zc26fxhii34my3j3nj20nrp7avfx7kq6"
+      "revision": "edc603d4cda7894a743e383e16c638e206d03148",
+      "url": "https://github.com/rhysd/git-messenger.vim/archive/edc603d4cda7894a743e383e16c638e206d03148.tar.gz",
+      "hash": "0b9wkjxlc2d91wrjhqkpph9mcix3ndpqy3bdr1xajxnjz9lsy22a"
     },
     "git-worktree-nvim": {
       "type": "Git",
@@ -3103,9 +3103,9 @@
         "repo": "solarized.nvim"
       },
       "branch": "main",
-      "revision": "1a34eb1c4df9c5abef5799839dcc4236733cd6f1",
-      "url": "https://github.com/maxmx03/solarized.nvim/archive/1a34eb1c4df9c5abef5799839dcc4236733cd6f1.tar.gz",
-      "hash": "1yx74wcqdqk8iw3a4dx7chsjcax5c2lq1jnq5zjwhqx3wkrchp2b"
+      "revision": "7ba0f81992ec4d0576bba9eb6272617df2d64793",
+      "url": "https://github.com/maxmx03/solarized.nvim/archive/7ba0f81992ec4d0576bba9eb6272617df2d64793.tar.gz",
+      "hash": "079b4nrwiffcrm34ri0yy7lwq6iydchaka2vy4nlw2qwwimlqcm9"
     },
     "specs-nvim": {
       "type": "Git",
@@ -3223,9 +3223,9 @@
         "repo": "telescope-frecency.nvim"
       },
       "branch": "master",
-      "revision": "1b63e9453d89f82adb4f62955876e7b7dc8eb92e",
-      "url": "https://github.com/nvim-telescope/telescope-frecency.nvim/archive/1b63e9453d89f82adb4f62955876e7b7dc8eb92e.tar.gz",
-      "hash": "103vc4h1khcyqybdw2yc1irgw704mkif902xz7xir0xwhq2smshc"
+      "revision": "dbca328c590a1aea6efb0dcfd6f594794a348b05",
+      "url": "https://github.com/nvim-telescope/telescope-frecency.nvim/archive/dbca328c590a1aea6efb0dcfd6f594794a348b05.tar.gz",
+      "hash": "0pva8m166n8lsgn67fr80gr1zix6qvrggrw4pbjvm0yw3686ajd3"
     },
     "telescope-fzf-native-nvim": {
       "type": "Git",
