@@ -3139,9 +3139,9 @@
         "repo": "startup.nvim"
       },
       "branch": "master",
-      "revision": "c00a24e8777232a68296067847040a749cb94b56",
-      "url": "https://github.com/startup-nvim/startup.nvim/archive/c00a24e8777232a68296067847040a749cb94b56.tar.gz",
-      "hash": "1xwjhp1pwps2s1nw5asr56589w20zpa0map7n20qc0yyh56wi9g4"
+      "revision": "81222a9956148eebf10363726d8bccf8793aa41f",
+      "url": "https://github.com/startup-nvim/startup.nvim/archive/81222a9956148eebf10363726d8bccf8793aa41f.tar.gz",
+      "hash": "1z5gv2qr3q82hmk8vjdxk37q4nm928j3vbq91vw4nary90va8q46"
     },
     "statuscol-nvim": {
       "type": "Git",
