@@ -3103,9 +3103,9 @@
         "repo": "solarized.nvim"
       },
       "branch": "main",
-      "revision": "a7039bb07b9bf89bca1ebd90506b53839b7c1ba3",
-      "url": "https://github.com/maxmx03/solarized.nvim/archive/a7039bb07b9bf89bca1ebd90506b53839b7c1ba3.tar.gz",
-      "hash": "1c0bgzhd366qag52qd3sqp9bn7jhgliw9hsfkqsk9h950x85fj5s"
+      "revision": "b97faa8f679396bd1e23464242d2b5b86dc920c8",
+      "url": "https://github.com/maxmx03/solarized.nvim/archive/b97faa8f679396bd1e23464242d2b5b86dc920c8.tar.gz",
+      "hash": "0d46gxx6b7d6g9dj7pa9cc7grjgzsfv4syn3pjqppyi1n7rp3r3c"
     },
     "specs-nvim": {
       "type": "Git",
@@ -3763,9 +3763,9 @@
         "repo": "vim-matchup"
       },
       "branch": "master",
-      "revision": "1535a769d5dca851fe7d41b0be95f7c7203a4bef",
-      "url": "https://github.com/andymass/vim-matchup/archive/1535a769d5dca851fe7d41b0be95f7c7203a4bef.tar.gz",
-      "hash": "0vw4fwyzkhg0fqavp90mq5smh95qcksjbld7cfpyrzqcj678h3fk"
+      "revision": "f89858a5ab87feb752c860d396022ae7b13070c2",
+      "url": "https://github.com/andymass/vim-matchup/archive/f89858a5ab87feb752c860d396022ae7b13070c2.tar.gz",
+      "hash": "1ac9xz9g1sn196jg7fbh9sj66vmnc9hv8r3ixy34vn3vljia1rzb"
     },
     "vim-nix": {
       "type": "Git",
