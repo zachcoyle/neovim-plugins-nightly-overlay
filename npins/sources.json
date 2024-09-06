@@ -3067,9 +3067,9 @@
         "repo": "smart-splits.nvim"
       },
       "branch": "master",
-      "revision": "aee30930689ae427729aad41568ccaae57c167fe",
-      "url": "https://github.com/mrjones2014/smart-splits.nvim/archive/aee30930689ae427729aad41568ccaae57c167fe.tar.gz",
-      "hash": "0cv5lxnhd1ra29201ixg972qqplvcxva0v2jjapv34dscpbjkq1q"
+      "revision": "99216f4cdbd4a690e10fabafd7f6defcb25e97b2",
+      "url": "https://github.com/mrjones2014/smart-splits.nvim/archive/99216f4cdbd4a690e10fabafd7f6defcb25e97b2.tar.gz",
+      "hash": "06q6jmijsh7aj9ydjmrxn7iczhy34wyfxl4xmjrz5sr5nis83wn7"
     },
     "snippets-nvim": {
       "type": "Git",
@@ -3103,9 +3103,9 @@
         "repo": "solarized.nvim"
       },
       "branch": "main",
-      "revision": "7ba0f81992ec4d0576bba9eb6272617df2d64793",
-      "url": "https://github.com/maxmx03/solarized.nvim/archive/7ba0f81992ec4d0576bba9eb6272617df2d64793.tar.gz",
-      "hash": "079b4nrwiffcrm34ri0yy7lwq6iydchaka2vy4nlw2qwwimlqcm9"
+      "revision": "a7039bb07b9bf89bca1ebd90506b53839b7c1ba3",
+      "url": "https://github.com/maxmx03/solarized.nvim/archive/a7039bb07b9bf89bca1ebd90506b53839b7c1ba3.tar.gz",
+      "hash": "1c0bgzhd366qag52qd3sqp9bn7jhgliw9hsfkqsk9h950x85fj5s"
     },
     "specs-nvim": {
       "type": "Git",
