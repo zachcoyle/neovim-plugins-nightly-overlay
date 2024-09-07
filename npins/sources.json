@@ -2131,9 +2131,9 @@
         "repo": "neotest-java"
       },
       "branch": "main",
-      "revision": "374025343aa5b3fc33f258ced5465bbc7870c738",
-      "url": "https://github.com/rcasia/neotest-java/archive/374025343aa5b3fc33f258ced5465bbc7870c738.tar.gz",
-      "hash": "1q0i3m8sz95w318bqzvfxdvzh26jl33gka1hd7yz48dnl4s5kxci"
+      "revision": "4e0ba6778e56fdaa2367cc32d1abdc4521c90ef1",
+      "url": "https://github.com/rcasia/neotest-java/archive/4e0ba6778e56fdaa2367cc32d1abdc4521c90ef1.tar.gz",
+      "hash": "0yrby7v3fznwa3h4f8flnw7nw4laibsv2anjljpsp58n6042xxds"
     },
     "neotest-jest": {
       "type": "Git",
@@ -4027,9 +4027,9 @@
         "repo": "yazi.nvim"
       },
       "branch": "main",
-      "revision": "3eb78253a4ecd0bdc93c857f24e1f8900e5e30fc",
-      "url": "https://github.com/mikavilpas/yazi.nvim/archive/3eb78253a4ecd0bdc93c857f24e1f8900e5e30fc.tar.gz",
-      "hash": "1n3bj3z1wbhjj2dvw1b6vscg6z17w1pn13fw25kvfv8kc6j4hm4d"
+      "revision": "d4658302479c40abe4831791cf843007d767709f",
+      "url": "https://github.com/mikavilpas/yazi.nvim/archive/d4658302479c40abe4831791cf843007d767709f.tar.gz",
+      "hash": "1apkwvcl64ih2f7awrd91sjyl5865rdi38p0f8bkh2v05s3m3isc"
     },
     "yuck-vim": {
       "type": "Git",
