@@ -2131,9 +2131,9 @@
         "repo": "neotest-java"
       },
       "branch": "main",
-      "revision": "4e0ba6778e56fdaa2367cc32d1abdc4521c90ef1",
-      "url": "https://github.com/rcasia/neotest-java/archive/4e0ba6778e56fdaa2367cc32d1abdc4521c90ef1.tar.gz",
-      "hash": "0yrby7v3fznwa3h4f8flnw7nw4laibsv2anjljpsp58n6042xxds"
+      "revision": "53425b3080504e8ac366fa647c928628f9a7c1c9",
+      "url": "https://github.com/rcasia/neotest-java/archive/53425b3080504e8ac366fa647c928628f9a7c1c9.tar.gz",
+      "hash": "1lh8lvcrcsm299812j66d2yvgf1xn61rargpqjpqrz7d3mgckb7w"
     },
     "neotest-jest": {
       "type": "Git",
@@ -2671,9 +2671,9 @@
         "repo": "nvim-treesitter"
       },
       "branch": "master",
-      "revision": "00f128dd73086aa578dc3d9142de06c633b7c685",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/00f128dd73086aa578dc3d9142de06c633b7c685.tar.gz",
-      "hash": "1dirgv5h09wb2ml5zfi584jpb4mdvv4sxfjhdfi5xmyym13d4qm3"
+      "revision": "58030e6d6f1d6609b43dcb765d54539dcc6a1a76",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/58030e6d6f1d6609b43dcb765d54539dcc6a1a76.tar.gz",
+      "hash": "0lc9x726xsl0svjrd5gq80i8n1dylfm7y9mdpgqlkqxv0ddx7ks9"
     },
     "nvim-treesitter-context": {
       "type": "Git",
