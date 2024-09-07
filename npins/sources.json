@@ -3679,9 +3679,9 @@
         "repo": "vim-fugitive"
       },
       "branch": "master",
-      "revision": "1d18c696c4284e9ce9467a5c04d3adf8af43f994",
-      "url": "https://github.com/tpope/vim-fugitive/archive/1d18c696c4284e9ce9467a5c04d3adf8af43f994.tar.gz",
-      "hash": "1n7csz0vsajygyhssflb03ll0jk0wf2jgmn2dgfn1kjgc37bjlcl"
+      "revision": "d4877e54cef67f5af4f950935b1ade19ed6b7370",
+      "url": "https://github.com/tpope/vim-fugitive/archive/d4877e54cef67f5af4f950935b1ade19ed6b7370.tar.gz",
+      "hash": "17cf21k77fwsl67m4f1ln17dadz5i5g8fjhsw1cc1y1c3jn1xdh2"
     },
     "vim-godot": {
       "type": "Git",
