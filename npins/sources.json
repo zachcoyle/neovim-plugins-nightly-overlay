@@ -3019,9 +3019,9 @@
         "repo": "rest.nvim"
       },
       "branch": "main",
-      "revision": "9e00468da985082faa472e689ffda59e63154270",
-      "url": "https://github.com/rest-nvim/rest.nvim/archive/9e00468da985082faa472e689ffda59e63154270.tar.gz",
-      "hash": "0j410i1153i0yv78xs7apsgm9aqkl5sz3jj7k4yrnszpap2p63h7"
+      "revision": "f2eb2d2f970d05d220d6cc2c511f4ae2bb0b201b",
+      "url": "https://github.com/rest-nvim/rest.nvim/archive/f2eb2d2f970d05d220d6cc2c511f4ae2bb0b201b.tar.gz",
+      "hash": "16bnw27i8cjpdn6ba9cj1gfvq70ywy0gapydsrms2phj1f3paci8"
     },
     "rose-pine": {
       "type": "Git",
@@ -3223,9 +3223,9 @@
         "repo": "telescope-frecency.nvim"
       },
       "branch": "master",
-      "revision": "dbca328c590a1aea6efb0dcfd6f594794a348b05",
-      "url": "https://github.com/nvim-telescope/telescope-frecency.nvim/archive/dbca328c590a1aea6efb0dcfd6f594794a348b05.tar.gz",
-      "hash": "0pva8m166n8lsgn67fr80gr1zix6qvrggrw4pbjvm0yw3686ajd3"
+      "revision": "3c5b61cda1a0171611914a7770633ddc1eb16594",
+      "url": "https://github.com/nvim-telescope/telescope-frecency.nvim/archive/3c5b61cda1a0171611914a7770633ddc1eb16594.tar.gz",
+      "hash": "156svz97qkrw6g1xhvg3z186xzcs1hkddhygfrqf5r861z58kirs"
     },
     "telescope-fzf-native-nvim": {
       "type": "Git",
