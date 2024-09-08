@@ -1759,9 +1759,9 @@
         "repo": "lz.n"
       },
       "branch": "master",
-      "revision": "f2489386ab087ea3c3272c6551268456fa41b0f8",
-      "url": "https://github.com/nvim-neorocks/lz.n/archive/f2489386ab087ea3c3272c6551268456fa41b0f8.tar.gz",
-      "hash": "10c241jicl6q5gqg2ayipyklqxx6vwk2qny4qbyshdhqgi15bgd6"
+      "revision": "960f48443c10da6cdf954e56468875b31ab76e6c",
+      "url": "https://github.com/nvim-neorocks/lz.n/archive/960f48443c10da6cdf954e56468875b31ab76e6c.tar.gz",
+      "hash": "1mqj64aff1zqvy94vr7qw6db5ivkb3myqlwar6mcxrjk93ym4ppz"
     },
     "magma-nvim-goose": {
       "type": "Git",
@@ -2707,9 +2707,9 @@
         "repo": "nvim-treesitter-textobjects"
       },
       "branch": "master",
-      "revision": "fe3deb7f67ce0cc4ebfe2ea6c1c7ae1c7a939d73",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter-textobjects/archive/fe3deb7f67ce0cc4ebfe2ea6c1c7ae1c7a939d73.tar.gz",
-      "hash": "1p1y1fswkgwrc719lzn5if97zp4qnghjbyiirkc3j48h1ngv1ilk"
+      "revision": "bf8d2ad35d1d1a687eae6c065c3d524f7ab61b23",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter-textobjects/archive/bf8d2ad35d1d1a687eae6c065c3d524f7ab61b23.tar.gz",
+      "hash": "00bnih7l16ljliq386347731nbpj5f9k3a6lb6zy7xmbn7i3nfd8"
     },
     "nvim-ts-autotag": {
       "type": "Git",
