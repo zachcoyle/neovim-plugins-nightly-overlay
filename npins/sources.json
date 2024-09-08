@@ -2263,9 +2263,9 @@
         "repo": "neovim-ayu"
       },
       "branch": "master",
-      "revision": "8cf7d43acb0fbe48f11e0a76ba3fb13e93e52ca5",
-      "url": "https://github.com/Shatur/neovim-ayu/archive/8cf7d43acb0fbe48f11e0a76ba3fb13e93e52ca5.tar.gz",
-      "hash": "0yvnyr4d9cs5lixqwbil76dj43r6cbc52g6mn8zw5m4fzxm0rf36"
+      "revision": "2839c88cd297a069e93df1aab542c087e8f6e8c0",
+      "url": "https://github.com/Shatur/neovim-ayu/archive/2839c88cd297a069e93df1aab542c087e8f6e8c0.tar.gz",
+      "hash": "1jzr8zfxblr92ipz0b02nvh7q44yba8f64c2lkq5qfn49cqx9lwh"
     },
     "netman-nvim": {
       "type": "Git",
