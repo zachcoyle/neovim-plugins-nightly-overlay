@@ -2287,9 +2287,9 @@
         "repo": "nightfox.nvim"
       },
       "branch": "main",
-      "revision": "d3e8b1acc095baf57af81bb5e89fe7c4359eb619",
-      "url": "https://github.com/EdenEast/nightfox.nvim/archive/d3e8b1acc095baf57af81bb5e89fe7c4359eb619.tar.gz",
-      "hash": "0z81af970w1rllh2abdvlyx63z4xkcf5jw3wy4xv99gvqa1fxryr"
+      "revision": "7557f26defd093c4e9bc17f28b08403f706f5a44",
+      "url": "https://github.com/EdenEast/nightfox.nvim/archive/7557f26defd093c4e9bc17f28b08403f706f5a44.tar.gz",
+      "hash": "14hzq2mvhl79121zqqy163sy9128ifcjlk0xnjc12yf6azfc4lbx"
     },
     "nix-develop-nvim": {
       "type": "Git",
