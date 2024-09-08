@@ -1819,9 +1819,9 @@
         "repo": "markview.nvim"
       },
       "branch": "main",
-      "revision": "e4b4b9d03b90350236ce88f5be723aa5a8610931",
-      "url": "https://github.com/OXY2DEV/markview.nvim/archive/e4b4b9d03b90350236ce88f5be723aa5a8610931.tar.gz",
-      "hash": "022kmbl0fbxysjlphl089b7xlggx7cpdp2ic8qgprxh12whfh9lx"
+      "revision": "d13c952cc2ff245061baa7d17f9fc27540349991",
+      "url": "https://github.com/OXY2DEV/markview.nvim/archive/d13c952cc2ff245061baa7d17f9fc27540349991.tar.gz",
+      "hash": "0kac9rbahmbi3w2s5v6g7ycahfs3lpn96fqqy5shm39wh386z7bc"
     },
     "melange": {
       "type": "Git",
@@ -1975,9 +1975,9 @@
         "repo": "neorg"
       },
       "branch": "main",
-      "revision": "d5965efe17e28a60cdbf14e97b87723a83f0c962",
-      "url": "https://github.com/vhyrro/neorg/archive/d5965efe17e28a60cdbf14e97b87723a83f0c962.tar.gz",
-      "hash": "0mlcyq8d1gwmfg7qcnza5m2j5p554x7cf4kqzqla3cn00fmbyl0c"
+      "revision": "ba35900b21921c439e676b063a79c8fad914eac9",
+      "url": "https://github.com/vhyrro/neorg/archive/ba35900b21921c439e676b063a79c8fad914eac9.tar.gz",
+      "hash": "12sgvf7zbabxvmdf07cv8rcql6jdgdv5xdcn7v5w42q8lg9mps10"
     },
     "neoscroll-nvim": {
       "type": "Git",
