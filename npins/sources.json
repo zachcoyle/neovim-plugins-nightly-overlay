@@ -1424,9 +1424,9 @@
         "repo": "headlines.nvim"
       },
       "branch": "master",
-      "revision": "73fe831985ec6c27a4fcdc17ead2d3c55dfd936b",
-      "url": "https://github.com/lukas-reineke/headlines.nvim/archive/73fe831985ec6c27a4fcdc17ead2d3c55dfd936b.tar.gz",
-      "hash": "0z0bd69kfrrbjadkdzvs6wkpg066q7dd9ap2mah3hk2pawnqnwns"
+      "revision": "c19bbff5ad47b35c4bbdae92fd810ec5f111f658",
+      "url": "https://github.com/lukas-reineke/headlines.nvim/archive/c19bbff5ad47b35c4bbdae92fd810ec5f111f658.tar.gz",
+      "hash": "0khywlfh5ly337f5d2yzfgnjqchd6bhd7vbxh22s5aigrvvs8vpw"
     },
     "heirline-nvim": {
       "type": "Git",
