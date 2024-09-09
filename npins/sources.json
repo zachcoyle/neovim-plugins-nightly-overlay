@@ -44,9 +44,9 @@
         "repo": "SchemaStore.nvim"
       },
       "branch": "main",
-      "revision": "28a6a50e5b7b963dc6a5d2defc40e158231a67ed",
-      "url": "https://github.com/b0o/SchemaStore.nvim/archive/28a6a50e5b7b963dc6a5d2defc40e158231a67ed.tar.gz",
-      "hash": "0wgy6hb7ic4894dbfffrmkamw81d5sskbg01bkvkrf98lk9lqb46"
+      "revision": "8a31e76df47d85323f70586c39e017a60b64ed83",
+      "url": "https://github.com/b0o/SchemaStore.nvim/archive/8a31e76df47d85323f70586c39e017a60b64ed83.tar.gz",
+      "hash": "0360d9w48hjnqwiw11gprmb5zfdydglz2926gr7wibi1gr7y1qwj"
     },
     "alpha-nvim": {
       "type": "Git",
@@ -1819,9 +1819,9 @@
         "repo": "markview.nvim"
       },
       "branch": "main",
-      "revision": "ce94d8bc9a76c35fff2f4cc90bb28871dece58d6",
-      "url": "https://github.com/OXY2DEV/markview.nvim/archive/ce94d8bc9a76c35fff2f4cc90bb28871dece58d6.tar.gz",
-      "hash": "1xp3w0m8518d6hqqfiymhv6mqaca7jdfk775yhbmpkc5d56wy41c"
+      "revision": "4273e0372691031ecd1d1d1fb6cbb610f65a0b86",
+      "url": "https://github.com/OXY2DEV/markview.nvim/archive/4273e0372691031ecd1d1d1fb6cbb610f65a0b86.tar.gz",
+      "hash": "1h1ji35ikm0h386v5p0bvxa859nmzp8rkv70y6ifcmnjmrjfjlja"
     },
     "melange": {
       "type": "Git",
@@ -4027,9 +4027,9 @@
         "repo": "yazi.nvim"
       },
       "branch": "main",
-      "revision": "6050c5b25dc4b35d5015306e8a32f19059475f78",
-      "url": "https://github.com/mikavilpas/yazi.nvim/archive/6050c5b25dc4b35d5015306e8a32f19059475f78.tar.gz",
-      "hash": "0kj14afrnw07vp37n1zc7mzaayz9sidib8illlybcndwiypwddcj"
+      "revision": "15803ce4f1a4b7b0ed3972480b5a005521f042cb",
+      "url": "https://github.com/mikavilpas/yazi.nvim/archive/15803ce4f1a4b7b0ed3972480b5a005521f042cb.tar.gz",
+      "hash": "1g2gy4nk2p3yh4zrvp0x21a8yirlccp82ss2m90j4jw4xg7pgdp8"
     },
     "yuck-vim": {
       "type": "Git",
