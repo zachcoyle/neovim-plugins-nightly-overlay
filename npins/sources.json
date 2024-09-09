@@ -1424,9 +1424,9 @@
         "repo": "headlines.nvim"
       },
       "branch": "master",
-      "revision": "7671eec1065982cdf2ba4136beb1600fe1279431",
-      "url": "https://github.com/lukas-reineke/headlines.nvim/archive/7671eec1065982cdf2ba4136beb1600fe1279431.tar.gz",
-      "hash": "0ynfpmmmq0sxc11mbfxc0ji611knyzvx307gffpa842jgxm6zz8i"
+      "revision": "73fe831985ec6c27a4fcdc17ead2d3c55dfd936b",
+      "url": "https://github.com/lukas-reineke/headlines.nvim/archive/73fe831985ec6c27a4fcdc17ead2d3c55dfd936b.tar.gz",
+      "hash": "0z0bd69kfrrbjadkdzvs6wkpg066q7dd9ap2mah3hk2pawnqnwns"
     },
     "heirline-nvim": {
       "type": "Git",
@@ -1819,9 +1819,9 @@
         "repo": "markview.nvim"
       },
       "branch": "main",
-      "revision": "77b9b8c78cf4dcfc433c37e73171f722cc0a6fe8",
-      "url": "https://github.com/OXY2DEV/markview.nvim/archive/77b9b8c78cf4dcfc433c37e73171f722cc0a6fe8.tar.gz",
-      "hash": "1mlbvi2jymlbzfgfyhdvddm1iihf0ahhw5pdhs454zwjp7p6lphr"
+      "revision": "573877329dbfa2918f27e47dc5c0e92c06fe400e",
+      "url": "https://github.com/OXY2DEV/markview.nvim/archive/573877329dbfa2918f27e47dc5c0e92c06fe400e.tar.gz",
+      "hash": "198l19y191izzc6gjsdr9lms67mamd6535c3n0sp3722z129zqbm"
     },
     "melange": {
       "type": "Git",
