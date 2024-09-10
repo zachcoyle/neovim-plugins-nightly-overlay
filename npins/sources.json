@@ -944,9 +944,9 @@
         "repo": "copilot.lua"
       },
       "branch": "master",
-      "revision": "7ffc15ba209c905cf37bd085c3a7b07b34ce12aa",
-      "url": "https://github.com/zbirenbaum/copilot.lua/archive/7ffc15ba209c905cf37bd085c3a7b07b34ce12aa.tar.gz",
-      "hash": "02ixxaxx5ip80zpsxwmh383ywn6fy1v4p1wji96s5wb28z1vgirv"
+      "revision": "f9e2c140643bd4519a4517a78a51f6ae8b8b2a95",
+      "url": "https://github.com/zbirenbaum/copilot.lua/archive/f9e2c140643bd4519a4517a78a51f6ae8b8b2a95.tar.gz",
+      "hash": "14v1mh453wjdgip68js3aynilj0rddgkr1avnvi38ihw51mi707i"
     },
     "copilot-vim": {
       "type": "Git",
