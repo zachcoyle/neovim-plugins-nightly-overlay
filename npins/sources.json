@@ -908,9 +908,9 @@
         "repo": "conform.nvim"
       },
       "branch": "master",
-      "revision": "0ebe875d9c306f5fc829db38492ffff2a70d8e9d",
-      "url": "https://github.com/stevearc/conform.nvim/archive/0ebe875d9c306f5fc829db38492ffff2a70d8e9d.tar.gz",
-      "hash": "137zyhhmj7fhxsdnbkvbbqjakbmcz86lap1xn3mlhbkqr7zmy36q"
+      "revision": "936f2413e6c57185cd873623a29a0685bce4b423",
+      "url": "https://github.com/stevearc/conform.nvim/archive/936f2413e6c57185cd873623a29a0685bce4b423.tar.gz",
+      "hash": "049g7jhbvv4awpjg4vcbqw1d4k9bapn2nsvsnajhqmn65qhsif8q"
     },
     "conjure": {
       "type": "Git",
@@ -1951,9 +1951,9 @@
         "repo": "neogit"
       },
       "branch": "master",
-      "revision": "9bc4ee89bb42be31a2f0b1da41e36e3e6cab9bbb",
-      "url": "https://github.com/TimUntersberger/neogit/archive/9bc4ee89bb42be31a2f0b1da41e36e3e6cab9bbb.tar.gz",
-      "hash": "09vh78nwzj256z1i3fsjym7vh58by72zvc5xlr2qi13j0ms63vxj"
+      "revision": "eb5b156a41fb7147eed9f971504dfa8753d8b006",
+      "url": "https://github.com/TimUntersberger/neogit/archive/eb5b156a41fb7147eed9f971504dfa8753d8b006.tar.gz",
+      "hash": "0d5mbv36qkfxhq1lbiz5cwba39pxk0z7bzpbvfh0nggjnw1wws1a"
     },
     "neon": {
       "type": "Git",
@@ -2683,9 +2683,9 @@
         "repo": "nvim-treesitter"
       },
       "branch": "master",
-      "revision": "c436d45eeeeb78e5482cb28b59de1d7a77c93d86",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/c436d45eeeeb78e5482cb28b59de1d7a77c93d86.tar.gz",
-      "hash": "0y5c0ld6758f7hn2ph3y8ljgkdg2xhma305wxca67p10pbsccj9n"
+      "revision": "6a3c6a42a6e24414bdf337b05a84a0ea013dd155",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/6a3c6a42a6e24414bdf337b05a84a0ea013dd155.tar.gz",
+      "hash": "1zp3jsmy3fr0yir587zg69sz8c7jip48rmd30paz96ikdjvc8yfb"
     },
     "nvim-treesitter-context": {
       "type": "Git",
@@ -3583,9 +3583,9 @@
         "repo": "vim-airline"
       },
       "branch": "master",
-      "revision": "d25c049e617775eb2eb26c580e5dec591c94d480",
-      "url": "https://github.com/vim-airline/vim-airline/archive/d25c049e617775eb2eb26c580e5dec591c94d480.tar.gz",
-      "hash": "0pq63f30cqsbq4q669h6ps64hxz05a2b7z3i09lfj0fpa1a27p0h"
+      "revision": "81eca994860645acbb58442285cdd70df5c71d2b",
+      "url": "https://github.com/vim-airline/vim-airline/archive/81eca994860645acbb58442285cdd70df5c71d2b.tar.gz",
+      "hash": "1q2wgavd2ff3iqkq8khzp1h5r651vjz5z90xlz7fyl10lmfm4j10"
     },
     "vim-bbye": {
       "type": "Git",
