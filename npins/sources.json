@@ -1440,6 +1440,18 @@
       "url": "https://github.com/rebelot/heirline.nvim/archive/0d797435e54645a5f98bad7ad6046aac1ef95c1e.tar.gz",
       "hash": "0payyx0j0s4wgk5xvczdnjqkj5nymlhw4f7hcw3sl9m334vnxshb"
     },
+    "hex-nvim": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "RaafatTurki",
+        "repo": "hex.nvim"
+      },
+      "branch": "master",
+      "revision": "d0f553dcd2c08d226026d769119b2eb6b09b8dfd",
+      "url": "https://github.com/RaafatTurki/hex.nvim/archive/d0f553dcd2c08d226026d769119b2eb6b09b8dfd.tar.gz",
+      "hash": "0dqv23i08ng4g7mm35g484p39i4b3vr6xnz3m7ij7n3d6bpfc8c3"
+    },
     "hmts-nvim": {
       "type": "Git",
       "repository": {
