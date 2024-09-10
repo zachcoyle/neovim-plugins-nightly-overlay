@@ -2467,9 +2467,9 @@
         "repo": "nvim-dap-virtual-text"
       },
       "branch": "master",
-      "revision": "9578276dfdc5420624699744377ddd74be2d9a19",
-      "url": "https://github.com/theHamsta/nvim-dap-virtual-text/archive/9578276dfdc5420624699744377ddd74be2d9a19.tar.gz",
-      "hash": "193pki46rwra4ra12pp0jnn5yy20yj6qmlh75gjdrrqs8bmpx4ii"
+      "revision": "3497eb39bf413a57ab5b7e7e2e192683e462148c",
+      "url": "https://github.com/theHamsta/nvim-dap-virtual-text/archive/3497eb39bf413a57ab5b7e7e2e192683e462148c.tar.gz",
+      "hash": "1nv58ds5cxkbwcip1kd7s6kzhn0h33869qmkmjhn3ibykszhz0d4"
     },
     "nvim-jdtls": {
       "type": "Git",
@@ -2671,8 +2671,8 @@
         "repo": "nvim-treesitter"
       },
       "branch": "master",
-      "revision": "f8bbb820a8a2bdb3c3408fa1110b5323e8bbe4bd",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/f8bbb820a8a2bdb3c3408fa1110b5323e8bbe4bd.tar.gz",
+      "revision": "c436d45eeeeb78e5482cb28b59de1d7a77c93d86",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/c436d45eeeeb78e5482cb28b59de1d7a77c93d86.tar.gz",
       "hash": "0y5c0ld6758f7hn2ph3y8ljgkdg2xhma305wxca67p10pbsccj9n"
     },
     "nvim-treesitter-context": {
