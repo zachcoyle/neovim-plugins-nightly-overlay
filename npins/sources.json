@@ -2563,9 +2563,9 @@
         "repo": "nvim-neoclip.lua"
       },
       "branch": "main",
-      "revision": "709c97fabec9da7d04f7d2f5e207423af8c02871",
-      "url": "https://github.com/AckslD/nvim-neoclip.lua/archive/709c97fabec9da7d04f7d2f5e207423af8c02871.tar.gz",
-      "hash": "0sh5a680jr9390hdn7h6j72h2148089is506qk4khxrqag2yd4zi"
+      "revision": "32e05f2d23dc5b6a284a688c0535a83d1bfc633f",
+      "url": "https://github.com/AckslD/nvim-neoclip.lua/archive/32e05f2d23dc5b6a284a688c0535a83d1bfc633f.tar.gz",
+      "hash": "0z6rfbl02ddazfrmczb34hspgshqvxpi3ga4q7srhpz0cch16y8q"
     },
     "nvim-notify": {
       "type": "Git",
