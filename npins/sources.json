@@ -1268,9 +1268,9 @@
         "repo": "git-conflict.nvim"
       },
       "branch": "main",
-      "revision": "45cde6f0acf26d0e4b64acfa45349dd1da01e577",
-      "url": "https://github.com/akinsho/git-conflict.nvim/archive/45cde6f0acf26d0e4b64acfa45349dd1da01e577.tar.gz",
-      "hash": "10gsqny5wbqyz7grvnn4c02wib06b4594rffa8bmdydvg09fb9j9"
+      "revision": "ed1ca6dfd60bf609714f791cfa63aee33aef64ed",
+      "url": "https://github.com/akinsho/git-conflict.nvim/archive/ed1ca6dfd60bf609714f791cfa63aee33aef64ed.tar.gz",
+      "hash": "1qybpjynbmw341asjmc93mkc2k4jp054jh0zq620vc0vplhhx2wz"
     },
     "git-messenger-vim": {
       "type": "Git",
