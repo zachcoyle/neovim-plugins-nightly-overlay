@@ -908,9 +908,9 @@
         "repo": "conform.nvim"
       },
       "branch": "master",
-      "revision": "936f2413e6c57185cd873623a29a0685bce4b423",
-      "url": "https://github.com/stevearc/conform.nvim/archive/936f2413e6c57185cd873623a29a0685bce4b423.tar.gz",
-      "hash": "049g7jhbvv4awpjg4vcbqw1d4k9bapn2nsvsnajhqmn65qhsif8q"
+      "revision": "46c107ad0e7d83b5a7091112ec2994c847577d32",
+      "url": "https://github.com/stevearc/conform.nvim/archive/46c107ad0e7d83b5a7091112ec2994c847577d32.tar.gz",
+      "hash": "1xcbb5rz2z1jhkmc434mg8mcwk22aqql22w0r7bai5znhmbqhy2w"
     },
     "conjure": {
       "type": "Git",
@@ -3079,9 +3079,9 @@
         "repo": "smart-splits.nvim"
       },
       "branch": "master",
-      "revision": "f002d5dd6478a2171de08d2ca32db00d238d6976",
-      "url": "https://github.com/mrjones2014/smart-splits.nvim/archive/f002d5dd6478a2171de08d2ca32db00d238d6976.tar.gz",
-      "hash": "11ji4wzd6g0v6jjaqmfxn9npl313bdba6v4shxvjm57cqblg8m0w"
+      "revision": "12e7b29518f8d95c6fc7408e832f7515f417a440",
+      "url": "https://github.com/mrjones2014/smart-splits.nvim/archive/12e7b29518f8d95c6fc7408e832f7515f417a440.tar.gz",
+      "hash": "1h6h00gywl3383q2is58bm0c93iaw66fwmjfv8x42zbivrm93dr6"
     },
     "snippets-nvim": {
       "type": "Git",
