@@ -1232,9 +1232,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "f39de2d77755e90a7a80989b007f0bf2ca13b0dd",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/f39de2d77755e90a7a80989b007f0bf2ca13b0dd.tar.gz",
-      "hash": "03smf3ic0415v09cfham4cwd58crg5zrw0rl6ygbfnn6c8g2axrl"
+      "revision": "985e1002b5dc70f8196ea0605bbfffc8c8407e31",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/985e1002b5dc70f8196ea0605bbfffc8c8407e31.tar.gz",
+      "hash": "13g5y187hvl3x3i8w926p9mhmg64f8xb2y32vismq5wlfx0mny6k"
     },
     "galaxyline-nvim": {
       "type": "Git",
@@ -3031,9 +3031,9 @@
         "repo": "rest.nvim"
       },
       "branch": "main",
-      "revision": "3d9255db40c4cebf63b6eb30af657826116104ba",
-      "url": "https://github.com/rest-nvim/rest.nvim/archive/3d9255db40c4cebf63b6eb30af657826116104ba.tar.gz",
-      "hash": "0aqsy9fzmy9cphz04i9xb4klikzn67ac8lnj58b3x3l6zwl8mffm"
+      "revision": "b4353fb940f7fde93b1d661bdfc87de199d3216d",
+      "url": "https://github.com/rest-nvim/rest.nvim/archive/b4353fb940f7fde93b1d661bdfc87de199d3216d.tar.gz",
+      "hash": "1rxv535npcaxachgpr3zywh1vq57p8i68rwmc9k3i8niyzdmsz2j"
     },
     "rose-pine": {
       "type": "Git",
