@@ -2803,9 +2803,9 @@
         "repo": "oil.nvim"
       },
       "branch": "master",
-      "revision": "1eb9fb35a4613518f79790117ed82c367a0b4a22",
-      "url": "https://github.com/stevearc/oil.nvim/archive/1eb9fb35a4613518f79790117ed82c367a0b4a22.tar.gz",
-      "hash": "0fg7f600v48md44wirnzz9bwy6minvk8123abqplpqiad9115xh7"
+      "revision": "665bf2edc9f9a6d77a6fc636df36276c97fb5d66",
+      "url": "https://github.com/stevearc/oil.nvim/archive/665bf2edc9f9a6d77a6fc636df36276c97fb5d66.tar.gz",
+      "hash": "0cwg893lnx6aa3822n40rdcdmf4hp6s7ndbw4a9i6vi0nyqx214x"
     },
     "ollama-nvim": {
       "type": "Git",
@@ -3115,9 +3115,9 @@
         "repo": "solarized.nvim"
       },
       "branch": "main",
-      "revision": "b97faa8f679396bd1e23464242d2b5b86dc920c8",
-      "url": "https://github.com/maxmx03/solarized.nvim/archive/b97faa8f679396bd1e23464242d2b5b86dc920c8.tar.gz",
-      "hash": "0d46gxx6b7d6g9dj7pa9cc7grjgzsfv4syn3pjqppyi1n7rp3r3c"
+      "revision": "50edf5a4eee481cf179685508a219fa683ea0949",
+      "url": "https://github.com/maxmx03/solarized.nvim/archive/50edf5a4eee481cf179685508a219fa683ea0949.tar.gz",
+      "hash": "1cvxhjswzc2lzy1gpj0dzz8bz5lbnvb0nbl4mldwg9ndy95917y3"
     },
     "specs-nvim": {
       "type": "Git",
@@ -3955,9 +3955,9 @@
         "repo": "vimtex"
       },
       "branch": "master",
-      "revision": "ec3b648af5092372ddd72404fb5db46b2f78beb5",
-      "url": "https://github.com/lervag/vimtex/archive/ec3b648af5092372ddd72404fb5db46b2f78beb5.tar.gz",
-      "hash": "1nirjrzikw53kwn49bppwmaqfgxl5c0pr0y5cbynl9ijs30d732m"
+      "revision": "0df7aa1eb6e9f007cd44653a7284ace7113b24ca",
+      "url": "https://github.com/lervag/vimtex/archive/0df7aa1eb6e9f007cd44653a7284ace7113b24ca.tar.gz",
+      "hash": "14ymwwq5ikjgplk0qbfr1w8zyfxqw6hcyrpl3inb7jdryz3v8hdl"
     },
     "virt-column-nvim": {
       "type": "Git",
