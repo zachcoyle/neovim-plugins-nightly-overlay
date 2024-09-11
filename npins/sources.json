@@ -3079,9 +3079,9 @@
         "repo": "smart-splits.nvim"
       },
       "branch": "master",
-      "revision": "12e7b29518f8d95c6fc7408e832f7515f417a440",
-      "url": "https://github.com/mrjones2014/smart-splits.nvim/archive/12e7b29518f8d95c6fc7408e832f7515f417a440.tar.gz",
-      "hash": "1h6h00gywl3383q2is58bm0c93iaw66fwmjfv8x42zbivrm93dr6"
+      "revision": "929349c8e0ee1dfea99ccfdcb1c45207b18afe96",
+      "url": "https://github.com/mrjones2014/smart-splits.nvim/archive/929349c8e0ee1dfea99ccfdcb1c45207b18afe96.tar.gz",
+      "hash": "0pk02l1jryw13brwqkhxcw00ykmd6bbbd6csyy56cx8if3byqw4s"
     },
     "snippets-nvim": {
       "type": "Git",
