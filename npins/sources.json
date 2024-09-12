@@ -908,9 +908,9 @@
         "repo": "conform.nvim"
       },
       "branch": "master",
-      "revision": "46c107ad0e7d83b5a7091112ec2994c847577d32",
-      "url": "https://github.com/stevearc/conform.nvim/archive/46c107ad0e7d83b5a7091112ec2994c847577d32.tar.gz",
-      "hash": "1xcbb5rz2z1jhkmc434mg8mcwk22aqql22w0r7bai5znhmbqhy2w"
+      "revision": "1a99fdc1d3aa9ccdf3021e67982a679a8c5c740c",
+      "url": "https://github.com/stevearc/conform.nvim/archive/1a99fdc1d3aa9ccdf3021e67982a679a8c5c740c.tar.gz",
+      "hash": "0r6isycbgi6n55c5sn5kqbs35i11ib4yym2awxpgr1w1bvxhcs01"
     },
     "conjure": {
       "type": "Git",
@@ -1628,9 +1628,9 @@
         "repo": "lean.nvim"
       },
       "branch": "main",
-      "revision": "47578d6a4008f4bf09803fa7bc0a4152f60ed62f",
-      "url": "https://github.com/Julian/lean.nvim/archive/47578d6a4008f4bf09803fa7bc0a4152f60ed62f.tar.gz",
-      "hash": "18l0xryljwq83gllasbf3d0cnayh27ga7bh2h9i2f35sbl9bri6z"
+      "revision": "284668a73fef2d1bea7c36616a97dfb3a0b15b26",
+      "url": "https://github.com/Julian/lean.nvim/archive/284668a73fef2d1bea7c36616a97dfb3a0b15b26.tar.gz",
+      "hash": "0f15779bkgb1c1sp52j44qindgvrn7dv9r1vgd0qlffimx1phmkr"
     },
     "leap-nvim": {
       "type": "Git",
@@ -1759,9 +1759,9 @@
         "repo": "LuaSnip"
       },
       "branch": "master",
-      "revision": "45db5addf8d0a201e1cf247cae4cdce605ad3768",
-      "url": "https://github.com/L3MON4D3/LuaSnip/archive/45db5addf8d0a201e1cf247cae4cdce605ad3768.tar.gz",
-      "hash": "120iq5y7prppphsq1ilc7gd214rqh5v5h8wmskvq2lmhmx7n3gym"
+      "revision": "e808bee352d1a6fcf902ca1a71cee76e60e24071",
+      "url": "https://github.com/L3MON4D3/LuaSnip/archive/e808bee352d1a6fcf902ca1a71cee76e60e24071.tar.gz",
+      "hash": "1714vkibbc4csv2d2mchilkzx6sagq0ba8k4nw26y8wfs7a9lily"
     },
     "lz-n": {
       "type": "Git",
