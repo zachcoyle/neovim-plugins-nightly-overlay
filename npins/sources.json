@@ -704,9 +704,9 @@
         "repo": "cmp-tabnine"
       },
       "branch": "main",
-      "revision": "0f4bf271a8f1eb2c5add4dab712c67aa1f9ca7bd",
-      "url": "https://github.com/tzachar/cmp-tabnine/archive/0f4bf271a8f1eb2c5add4dab712c67aa1f9ca7bd.tar.gz",
-      "hash": "0x1i6zw7qdjj2g164l8899iir519fw5j46nrc97jdfayax3crs4h"
+      "revision": "c0167cdc86c15e782c5461ee62aebee89231c2ed",
+      "url": "https://github.com/tzachar/cmp-tabnine/archive/c0167cdc86c15e782c5461ee62aebee89231c2ed.tar.gz",
+      "hash": "0z0p8n3nmykn05d7p0kcxir5w2wybkjf6dibinaq8zcjxxsgmcc3"
     },
     "cmp-tmux": {
       "type": "Git",
@@ -2683,9 +2683,9 @@
         "repo": "nvim-treesitter"
       },
       "branch": "master",
-      "revision": "b6a6d8997c46dc15682020ce4fddc5a89ee1ac0d",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/b6a6d8997c46dc15682020ce4fddc5a89ee1ac0d.tar.gz",
-      "hash": "0wmr08whizi71s6gv5fl6vving663b493cfyq0fpnkfc9smgncp4"
+      "revision": "4af16a10b7f1e79275f712a1c6dcf725d301a303",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/4af16a10b7f1e79275f712a1c6dcf725d301a303.tar.gz",
+      "hash": "1xh30ggf7dpp2xj0h5115qr427rv6iwq6kp7z1bj01cs7iqlp4wd"
     },
     "nvim-treesitter-context": {
       "type": "Git",
