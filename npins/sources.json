@@ -1004,9 +1004,9 @@
         "repo": "cyberdream.nvim"
       },
       "branch": "main",
-      "revision": "10d79f367abd585626aca5099907df67e4dfd7a6",
-      "url": "https://github.com/scottmckendry/cyberdream.nvim/archive/10d79f367abd585626aca5099907df67e4dfd7a6.tar.gz",
-      "hash": "1whnza3f63z7yj2n35ywdbx9pa70hp9v0qwx5p08iracqs1gga4q"
+      "revision": "cd3c2e7955034a5bec0e1beb9d7cb80c639ef5d5",
+      "url": "https://github.com/scottmckendry/cyberdream.nvim/archive/cd3c2e7955034a5bec0e1beb9d7cb80c639ef5d5.tar.gz",
+      "hash": "1adcwgbcigipvmbldcxg413qf6zd8jad0maisn3vmm8z7saf6zbb"
     },
     "dashboard-nvim": {
       "type": "Git",
@@ -4039,9 +4039,9 @@
         "repo": "yazi.nvim"
       },
       "branch": "main",
-      "revision": "58bb48dd5e1e36b92bc3dae882b10c52e731f27f",
-      "url": "https://github.com/mikavilpas/yazi.nvim/archive/58bb48dd5e1e36b92bc3dae882b10c52e731f27f.tar.gz",
-      "hash": "0f7b8088z0jhwv784gwz6miw4m8vzv14y9ficqczhv2xl2pf3ihn"
+      "revision": "ac97d7c5e47490ecd179647bc0d0ea04c9ce3329",
+      "url": "https://github.com/mikavilpas/yazi.nvim/archive/ac97d7c5e47490ecd179647bc0d0ea04c9ce3329.tar.gz",
+      "hash": "1iq9849g5vvqqpp7vdv9h746b1h5vvwindgqlgj5vapfsjrnzl0c"
     },
     "yuck-vim": {
       "type": "Git",
