@@ -2767,9 +2767,9 @@
         "repo": "nvim-web-devicons"
       },
       "branch": "master",
-      "revision": "9793801f974bba70e4ac5d7eae6c4f5659993d8e",
-      "url": "https://github.com/kyazdani42/nvim-web-devicons/archive/9793801f974bba70e4ac5d7eae6c4f5659993d8e.tar.gz",
-      "hash": "0gssmr3j5cv4313pc1vh0jfd2zi8y71dnr0xyxxndxljzxggcznr"
+      "revision": "9154484705968658e9aab2b894d1b2a64bf9f83d",
+      "url": "https://github.com/kyazdani42/nvim-web-devicons/archive/9154484705968658e9aab2b894d1b2a64bf9f83d.tar.gz",
+      "hash": "164iyy9941jnya7qs33li9n5xic19zxis24lpb0w119vwcd16k9n"
     },
     "obsidian-nvim": {
       "type": "Git",
@@ -3031,9 +3031,9 @@
         "repo": "rest.nvim"
       },
       "branch": "main",
-      "revision": "b4353fb940f7fde93b1d661bdfc87de199d3216d",
-      "url": "https://github.com/rest-nvim/rest.nvim/archive/b4353fb940f7fde93b1d661bdfc87de199d3216d.tar.gz",
-      "hash": "1rxv535npcaxachgpr3zywh1vq57p8i68rwmc9k3i8niyzdmsz2j"
+      "revision": "59afaac487bd7009bd8b9bea0aa26776c5c5d61c",
+      "url": "https://github.com/rest-nvim/rest.nvim/archive/59afaac487bd7009bd8b9bea0aa26776c5c5d61c.tar.gz",
+      "hash": "144bjzc9lliqw6c5bkh3q12l3sqcnid6a05lq86vyy66m0yvm84l"
     },
     "rose-pine": {
       "type": "Git",
@@ -3955,9 +3955,9 @@
         "repo": "vimtex"
       },
       "branch": "master",
-      "revision": "7f216bd79a79f300ae811021bab9634b37e7c051",
-      "url": "https://github.com/lervag/vimtex/archive/7f216bd79a79f300ae811021bab9634b37e7c051.tar.gz",
-      "hash": "102gqvf8ysxvnk7idcx8gsx54k59b1d0i7ylbngvlhk1q4sv9aly"
+      "revision": "539a203f19531c6b9d2d1b093ee8911fb7050bbc",
+      "url": "https://github.com/lervag/vimtex/archive/539a203f19531c6b9d2d1b093ee8911fb7050bbc.tar.gz",
+      "hash": "02d6znxk70qggmj57rkj7fzd3yh52hyywq2ndlxh55df360awpmf"
     },
     "virt-column-nvim": {
       "type": "Git",
