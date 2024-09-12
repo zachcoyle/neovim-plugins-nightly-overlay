@@ -824,9 +824,9 @@
         "repo": "codeium.vim"
       },
       "branch": "main",
-      "revision": "fc5a68d6273715f13a1257f02a63d668604d9f27",
-      "url": "https://github.com/Exafunction/codeium.vim/archive/fc5a68d6273715f13a1257f02a63d668604d9f27.tar.gz",
-      "hash": "12jvq2qgh8g6dfdds1d7p3rs8v27lnqa6crd7mr5dbmh563m3cdg"
+      "revision": "fa65fa942aaf1aef73b6dbe3cc0faa713b738fbe",
+      "url": "https://github.com/Exafunction/codeium.vim/archive/fa65fa942aaf1aef73b6dbe3cc0faa713b738fbe.tar.gz",
+      "hash": "1nh0l6bwas6gbmyk6avmhdi4qkxd39dfb5cn5s19gp0qir7iynkz"
     },
     "codesnap-nvim": {
       "type": "Git",
@@ -1628,9 +1628,9 @@
         "repo": "lean.nvim"
       },
       "branch": "main",
-      "revision": "284668a73fef2d1bea7c36616a97dfb3a0b15b26",
-      "url": "https://github.com/Julian/lean.nvim/archive/284668a73fef2d1bea7c36616a97dfb3a0b15b26.tar.gz",
-      "hash": "0f15779bkgb1c1sp52j44qindgvrn7dv9r1vgd0qlffimx1phmkr"
+      "revision": "c09bb13b2862761bc6537c9e1847dccc5c4d24ba",
+      "url": "https://github.com/Julian/lean.nvim/archive/c09bb13b2862761bc6537c9e1847dccc5c4d24ba.tar.gz",
+      "hash": "11yh1rdyfliypg1jahk00nd8w13izrnk9bwy1srk0ldhvwx1c5f8"
     },
     "leap-nvim": {
       "type": "Git",
@@ -1951,9 +1951,9 @@
         "repo": "neogit"
       },
       "branch": "master",
-      "revision": "eb5b156a41fb7147eed9f971504dfa8753d8b006",
-      "url": "https://github.com/TimUntersberger/neogit/archive/eb5b156a41fb7147eed9f971504dfa8753d8b006.tar.gz",
-      "hash": "0d5mbv36qkfxhq1lbiz5cwba39pxk0z7bzpbvfh0nggjnw1wws1a"
+      "revision": "e78c3e4bd93e650c8836d3740ab5693ed6e52297",
+      "url": "https://github.com/TimUntersberger/neogit/archive/e78c3e4bd93e650c8836d3740ab5693ed6e52297.tar.gz",
+      "hash": "11d9wia9x5s3mbqx99rarcq5wqc12wxglamwq68gmmz5ccjfzq49"
     },
     "neon": {
       "type": "Git",
