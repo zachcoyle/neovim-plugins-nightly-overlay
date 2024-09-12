@@ -3955,9 +3955,9 @@
         "repo": "vimtex"
       },
       "branch": "master",
-      "revision": "0df7aa1eb6e9f007cd44653a7284ace7113b24ca",
-      "url": "https://github.com/lervag/vimtex/archive/0df7aa1eb6e9f007cd44653a7284ace7113b24ca.tar.gz",
-      "hash": "14ymwwq5ikjgplk0qbfr1w8zyfxqw6hcyrpl3inb7jdryz3v8hdl"
+      "revision": "7f216bd79a79f300ae811021bab9634b37e7c051",
+      "url": "https://github.com/lervag/vimtex/archive/7f216bd79a79f300ae811021bab9634b37e7c051.tar.gz",
+      "hash": "102gqvf8ysxvnk7idcx8gsx54k59b1d0i7ylbngvlhk1q4sv9aly"
     },
     "virt-column-nvim": {
       "type": "Git",
