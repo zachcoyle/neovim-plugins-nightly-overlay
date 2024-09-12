@@ -2527,9 +2527,9 @@
         "repo": "nvim-lint"
       },
       "branch": "master",
-      "revision": "ed239a07cf29c10c69c5f20d3341218b2cad9790",
-      "url": "https://github.com/mfussenegger/nvim-lint/archive/ed239a07cf29c10c69c5f20d3341218b2cad9790.tar.gz",
-      "hash": "0gabnfniy61mx0z6xpa54mby9msnr22n9v9hryf7plxwz2gghl6i"
+      "revision": "11fea0d827ed33971aff4cbd577fed32d1bae310",
+      "url": "https://github.com/mfussenegger/nvim-lint/archive/11fea0d827ed33971aff4cbd577fed32d1bae310.tar.gz",
+      "hash": "069hpfnwzmld61ikxwk6dfnad6mm3669jjxlgyvwgblads8y9y67"
     },
     "nvim-lspconfig": {
       "type": "Git",
@@ -2791,9 +2791,9 @@
         "repo": "octo.nvim"
       },
       "branch": "master",
-      "revision": "fd50872494abd1cb580c604f1f52aae2257f7220",
-      "url": "https://github.com/pwntester/octo.nvim/archive/fd50872494abd1cb580c604f1f52aae2257f7220.tar.gz",
-      "hash": "18sld24d3n0ai7acfw2w0frj5a3knkcxn4k5xgjfappqwb7whwwd"
+      "revision": "50c6225460b04c44e5c4f0b113c52a580d5c3114",
+      "url": "https://github.com/pwntester/octo.nvim/archive/50c6225460b04c44e5c4f0b113c52a580d5c3114.tar.gz",
+      "hash": "0dj7b83xxa16vp7i0h5vrqqqlc8fm46mc5zsyz25qxjj64wcjycv"
     },
     "oil-nvim": {
       "type": "Git",
