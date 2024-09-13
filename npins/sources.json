@@ -992,9 +992,9 @@
         "repo": "crates.nvim"
       },
       "branch": "main",
-      "revision": "b3b9ac6ed9618955b24bf9adede7530ef608495b",
-      "url": "https://github.com/Saecki/crates.nvim/archive/b3b9ac6ed9618955b24bf9adede7530ef608495b.tar.gz",
-      "hash": "09qkny8m9awn8yp0bw1i6vyh5g4aaa59cch4mpvyn4nlwav91k0d"
+      "revision": "5a24e3ba60e28e0cfde540696630b3c5a4db6dfd",
+      "url": "https://github.com/Saecki/crates.nvim/archive/5a24e3ba60e28e0cfde540696630b3c5a4db6dfd.tar.gz",
+      "hash": "1aqigachc35j42656a229jdvyb7rihcrw2sxw2alljh165gnbapk"
     },
     "cyberdream-nvim": {
       "type": "Git",
