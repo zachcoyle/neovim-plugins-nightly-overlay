@@ -2983,9 +2983,9 @@
         "repo": "qmk.nvim"
       },
       "branch": "main",
-      "revision": "cfa6cecae362d23778cd97317d33ab12671e157c",
-      "url": "https://github.com/codethread/qmk.nvim/archive/cfa6cecae362d23778cd97317d33ab12671e157c.tar.gz",
-      "hash": "0p44i25iyryrvy1sf3bp10as39mgd6da1gai332rv2ky3zgc3lbh"
+      "revision": "62cfaa51588200915e9ae7933403619789854e74",
+      "url": "https://github.com/codethread/qmk.nvim/archive/62cfaa51588200915e9ae7933403619789854e74.tar.gz",
+      "hash": "1x710lmdiz8vjyjsc1axp42d9h9zs545iis7ib6wy0d8501prh75"
     },
     "quickmath-nvim": {
       "type": "Git",
