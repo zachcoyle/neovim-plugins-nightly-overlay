@@ -224,9 +224,9 @@
         "repo": "nvim"
       },
       "branch": "main",
-      "revision": "4fd72a9ab64b393c2c22b168508fd244877fec96",
-      "url": "https://github.com/catppuccin/nvim/archive/4fd72a9ab64b393c2c22b168508fd244877fec96.tar.gz",
-      "hash": "1fznbifj9xayimdjld2zhn9003mgp93sd87lpaky7pr6nsgsgnb8"
+      "revision": "147e7cfb5b7ec05702468c332cf7e378d935abd3",
+      "url": "https://github.com/catppuccin/nvim/archive/147e7cfb5b7ec05702468c332cf7e378d935abd3.tar.gz",
+      "hash": "1xi8i1sxz469kcq2qffyx2xdvgqsmvfprmqr48c75kvbm7q3fd61"
     },
     "ccc-nvim": {
       "type": "Git",
@@ -3895,9 +3895,9 @@
         "repo": "vim-tmux-navigator"
       },
       "branch": "master",
-      "revision": "5b3c701686fb4e6629c100ed32e827edf8dad01e",
-      "url": "https://github.com/christoomey/vim-tmux-navigator/archive/5b3c701686fb4e6629c100ed32e827edf8dad01e.tar.gz",
-      "hash": "0kcrz2hlv672v0967n7zz1f5xl8vh41nmps0pvms9bplw1p5nzx3"
+      "revision": "a9b52e7d36114d40350099f254b5f299a35df978",
+      "url": "https://github.com/christoomey/vim-tmux-navigator/archive/a9b52e7d36114d40350099f254b5f299a35df978.tar.gz",
+      "hash": "0sfsyf2jk57511pba6g31zfp0qi6v02np78sq6pzgny8qv40rj11"
     },
     "vim-vsnip": {
       "type": "Git",
