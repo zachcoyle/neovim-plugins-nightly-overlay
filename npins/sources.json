@@ -2527,9 +2527,9 @@
         "repo": "nvim-lint"
       },
       "branch": "master",
-      "revision": "2bb7cc049d129d7fdbf31db0bc34fad5dd216f0d",
-      "url": "https://github.com/mfussenegger/nvim-lint/archive/2bb7cc049d129d7fdbf31db0bc34fad5dd216f0d.tar.gz",
-      "hash": "0iyaag1rsn9wcacfgknax04pxfzjmkg0wl8f989qggzywaqbp182"
+      "revision": "0a6a544459cd81d9c5aceb11f958a037064bdcfa",
+      "url": "https://github.com/mfussenegger/nvim-lint/archive/0a6a544459cd81d9c5aceb11f958a037064bdcfa.tar.gz",
+      "hash": "0yfpyx397hp1819vfib0cx3xlxzp2wl2v9y454i13hzyy9f2a8lk"
     },
     "nvim-lspconfig": {
       "type": "Git",
@@ -2539,9 +2539,9 @@
         "repo": "nvim-lspconfig"
       },
       "branch": "master",
-      "revision": "bb682c167a0878338b4313b55538953d1c039085",
-      "url": "https://github.com/neovim/nvim-lspconfig/archive/bb682c167a0878338b4313b55538953d1c039085.tar.gz",
-      "hash": "014d3qd0jahwri5ah5ijphmmybni6pa0c3lqwx90xar35igkpxa1"
+      "revision": "0d027de8820917db548486564d0d5b17af4b3db4",
+      "url": "https://github.com/neovim/nvim-lspconfig/archive/0d027de8820917db548486564d0d5b17af4b3db4.tar.gz",
+      "hash": "0r90cpppf4hnnw8cckn2k0jwjn46lxlb2gnmcsyb7zds8clv3j5q"
     },
     "nvim-navbuddy": {
       "type": "Git",
