@@ -800,9 +800,9 @@
         "repo": "cmp_yanky"
       },
       "branch": "main",
-      "revision": "c3d089186ccead26eba01023502f3eeadd7a92d2",
-      "url": "https://github.com/chrisgrieser/cmp_yanky/archive/c3d089186ccead26eba01023502f3eeadd7a92d2.tar.gz",
-      "hash": "19197b4all82qzm80ms9h7aj1a4yp04b3jgy2j7r3irl6qmnhqwd"
+      "revision": "4beeebf004c7e6e70a5d60fc73f8f419da8f6328",
+      "url": "https://github.com/chrisgrieser/cmp_yanky/archive/4beeebf004c7e6e70a5d60fc73f8f419da8f6328.tar.gz",
+      "hash": "1kh431qipypj5y06bjvjfqncqqcanbd66fg0i22zywbfcmcddijq"
     },
     "codeium-nvim": {
       "type": "Git",
@@ -2659,9 +2659,9 @@
         "repo": "nvim-spider"
       },
       "branch": "main",
-      "revision": "7641ce03636633b986493fc6f52d5051cb1375ce",
-      "url": "https://github.com/chrisgrieser/nvim-spider/archive/7641ce03636633b986493fc6f52d5051cb1375ce.tar.gz",
-      "hash": "0566c1nizpb9qfrv6qq8vwmgx3cb611791gqhyqmf4qqhgyjpv5a"
+      "revision": "b1c542a78522d59432a827f6ec2b28f9422c7e7f",
+      "url": "https://github.com/chrisgrieser/nvim-spider/archive/b1c542a78522d59432a827f6ec2b28f9422c7e7f.tar.gz",
+      "hash": "1b9ccj6qycxlcy84fdd7n7b20bmfpwyc8x4wzcakj3xymrp469d9"
     },
     "nvim-tree-lua": {
       "type": "Git",
@@ -2671,9 +2671,9 @@
         "repo": "nvim-tree.lua"
       },
       "branch": "master",
-      "revision": "cd9c6db77f7c8b348dfa14d805ea28a69e5e718f",
-      "url": "https://github.com/nvim-tree/nvim-tree.lua/archive/cd9c6db77f7c8b348dfa14d805ea28a69e5e718f.tar.gz",
-      "hash": "0g5qikjwa9cjbqlwhfsm57pvvx6xcyzpqcnsp5j42mlxp6z7i0iy"
+      "revision": "bd4881660bf0ddfa6acb21259f856ba3dcb26a93",
+      "url": "https://github.com/nvim-tree/nvim-tree.lua/archive/bd4881660bf0ddfa6acb21259f856ba3dcb26a93.tar.gz",
+      "hash": "0rcrccyxszd0w4m3f4ns0yk0vhvlix3bxp8kbblw41p9v2mddw9n"
     },
     "nvim-treesitter": {
       "type": "Git",
@@ -2683,9 +2683,9 @@
         "repo": "nvim-treesitter"
       },
       "branch": "master",
-      "revision": "e0338f2b74fbad808f2569c7d4eadd8796af2118",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/e0338f2b74fbad808f2569c7d4eadd8796af2118.tar.gz",
-      "hash": "0x0ivrzh5sz533fzlr6yb72kihkd09v7jdznv7yqap9439pb965x"
+      "revision": "583395810e40373c1394d2e2e2393a63213ccbcd",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/583395810e40373c1394d2e2e2393a63213ccbcd.tar.gz",
+      "hash": "1r3b0k4kxwvzajlkbn9qshnl9i93g6a5iqiz67x17aj9fdf2g6qr"
     },
     "nvim-treesitter-context": {
       "type": "Git",
@@ -2983,9 +2983,9 @@
         "repo": "qmk.nvim"
       },
       "branch": "main",
-      "revision": "62cfaa51588200915e9ae7933403619789854e74",
-      "url": "https://github.com/codethread/qmk.nvim/archive/62cfaa51588200915e9ae7933403619789854e74.tar.gz",
-      "hash": "1x710lmdiz8vjyjsc1axp42d9h9zs545iis7ib6wy0d8501prh75"
+      "revision": "ad51cb15e607da0983fcf9882d38a2aafac32149",
+      "url": "https://github.com/codethread/qmk.nvim/archive/ad51cb15e607da0983fcf9882d38a2aafac32149.tar.gz",
+      "hash": "14b8mx7hxv06cnh6xb1z0nrkhlj7xaxdky6lcmajn9bp9spdzlmq"
     },
     "quickmath-nvim": {
       "type": "Git",
