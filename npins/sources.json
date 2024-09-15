@@ -1699,9 +1699,9 @@
         "repo": "lsp_signature.nvim"
       },
       "branch": "master",
-      "revision": "ed58168ae2ecb6aede6841425c3a205aacc5f822",
-      "url": "https://github.com/ray-x/lsp_signature.nvim/archive/ed58168ae2ecb6aede6841425c3a205aacc5f822.tar.gz",
-      "hash": "0rwxi45d8lgs9r8nmfz6j9pyplaxhwvz7jzk7bacw3595kbk4nq7"
+      "revision": "1779ef7e63d323610fa04599f64aff1ff019a30a",
+      "url": "https://github.com/ray-x/lsp_signature.nvim/archive/1779ef7e63d323610fa04599f64aff1ff019a30a.tar.gz",
+      "hash": "0dsxywrgmrk3pcpj60x1aa592y1hp1jz8g9x597y21sr92pv4x9v"
     },
     "lspkind-nvim": {
       "type": "Git",
