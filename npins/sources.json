@@ -2215,9 +2215,9 @@
         "repo": "neotest-plenary"
       },
       "branch": "master",
-      "revision": "2cc925246d7e5324ddf9585fad891cec73c3947b",
-      "url": "https://github.com/nvim-neotest/neotest-plenary/archive/2cc925246d7e5324ddf9585fad891cec73c3947b.tar.gz",
-      "hash": "10466mg8mxqc95qz0q47h8qy0lrkn6qgcw5ccmmd6g4cls3rg7gn"
+      "revision": "3523adcf9ffaad1911960c5813b0136c1b63a2ec",
+      "url": "https://github.com/nvim-neotest/neotest-plenary/archive/3523adcf9ffaad1911960c5813b0136c1b63a2ec.tar.gz",
+      "hash": "12nsn035npdz5hyc9w6jdhx3wv2ixvdbqr78w2znn1p2a6mqc09m"
     },
     "neotest-python": {
       "type": "Git",
