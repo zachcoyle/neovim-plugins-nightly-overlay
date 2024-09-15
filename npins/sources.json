@@ -1256,9 +1256,9 @@
         "repo": "git-blame.nvim"
       },
       "branch": "master",
-      "revision": "50543e3993f4b996eea01ff5ccc8fe2a354c5388",
-      "url": "https://github.com/f-person/git-blame.nvim/archive/50543e3993f4b996eea01ff5ccc8fe2a354c5388.tar.gz",
-      "hash": "1bn45k9w3g93srmr7dwymq90av5zx1zr21kki7fq3xpc5c9vmrwf"
+      "revision": "8c56e864d448e84e0162872c381dd2715824dce2",
+      "url": "https://github.com/f-person/git-blame.nvim/archive/8c56e864d448e84e0162872c381dd2715824dce2.tar.gz",
+      "hash": "12l8pgm523r6cgfj73f9hzyq69205p8in8jvs6x9j7fwcv5y5jil"
     },
     "git-conflict-nvim": {
       "type": "Git",
@@ -2371,9 +2371,9 @@
         "repo": "nvim-autopairs"
       },
       "branch": "master",
-      "revision": "fd2badc24e675f947162a16c124d395bde80dbd6",
-      "url": "https://github.com/windwp/nvim-autopairs/archive/fd2badc24e675f947162a16c124d395bde80dbd6.tar.gz",
-      "hash": "06jzi0rdrvw24bm6zwxzqd2clml8k8zmdnqkbqx5vj30rzjchc48"
+      "revision": "ffc139f2a96640ca6c4d3dff9b95b7b9eace87ae",
+      "url": "https://github.com/windwp/nvim-autopairs/archive/ffc139f2a96640ca6c4d3dff9b95b7b9eace87ae.tar.gz",
+      "hash": "0rgkfzdm2m3yb4dfvh1n3n6v85ppfajwdrkhvi02r1ylmbjsikn6"
     },
     "nvim-bacon": {
       "type": "Git",
