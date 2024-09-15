@@ -1699,9 +1699,9 @@
         "repo": "lsp_signature.nvim"
       },
       "branch": "master",
-      "revision": "a38da0a61c172bb59e34befc12efe48359884793",
-      "url": "https://github.com/ray-x/lsp_signature.nvim/archive/a38da0a61c172bb59e34befc12efe48359884793.tar.gz",
-      "hash": "1p6fznwg6pxr39x08lf9qhjkcvfysd58k1as6d4lwibkav7rfkki"
+      "revision": "ed58168ae2ecb6aede6841425c3a205aacc5f822",
+      "url": "https://github.com/ray-x/lsp_signature.nvim/archive/ed58168ae2ecb6aede6841425c3a205aacc5f822.tar.gz",
+      "hash": "0rwxi45d8lgs9r8nmfz6j9pyplaxhwvz7jzk7bacw3595kbk4nq7"
     },
     "lspkind-nvim": {
       "type": "Git",
@@ -1951,9 +1951,9 @@
         "repo": "neogit"
       },
       "branch": "master",
-      "revision": "e78c3e4bd93e650c8836d3740ab5693ed6e52297",
-      "url": "https://github.com/TimUntersberger/neogit/archive/e78c3e4bd93e650c8836d3740ab5693ed6e52297.tar.gz",
-      "hash": "11d9wia9x5s3mbqx99rarcq5wqc12wxglamwq68gmmz5ccjfzq49"
+      "revision": "cfbdc888cdfb3cb675615eb96467d980b73b3da5",
+      "url": "https://github.com/TimUntersberger/neogit/archive/cfbdc888cdfb3cb675615eb96467d980b73b3da5.tar.gz",
+      "hash": "12zg69nqf8ql8d4nsr5s4fag0nl7823bcsflvglqyjdifym99wfl"
     },
     "neon": {
       "type": "Git",
