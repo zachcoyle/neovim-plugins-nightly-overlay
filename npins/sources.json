@@ -2131,9 +2131,9 @@
         "repo": "neotest-haskell"
       },
       "branch": "master",
-      "revision": "ebf396f49f269ec706f401d6cf92f17b3a221006",
-      "url": "https://github.com/mrcjkb/neotest-haskell/archive/ebf396f49f269ec706f401d6cf92f17b3a221006.tar.gz",
-      "hash": "1dq147dh1x0jj8a9k6cq91c3lpg7snibjs4ffp9viqhw7qk3lg8b"
+      "revision": "ae31e1b2f468487212ad47c6bbed7e3b281c1faa",
+      "url": "https://github.com/mrcjkb/neotest-haskell/archive/ae31e1b2f468487212ad47c6bbed7e3b281c1faa.tar.gz",
+      "hash": "19wgkxrdxm8x4pmjzfxq3rbc4lhwas6cs14dk0dvs2f7dvm1cmiw"
     },
     "neotest-java": {
       "type": "Git",
@@ -2683,9 +2683,9 @@
         "repo": "nvim-treesitter"
       },
       "branch": "master",
-      "revision": "5c42228e586bd46cc75478f982f1d29655a7f9ef",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/5c42228e586bd46cc75478f982f1d29655a7f9ef.tar.gz",
-      "hash": "0fzrpjr6acnmrqshnjfwrffz4r9gabgn7x1cjdb81kb688vzaxs7"
+      "revision": "b9002f6fe679e2b8025a46116081c0da629a6b8c",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/b9002f6fe679e2b8025a46116081c0da629a6b8c.tar.gz",
+      "hash": "0z35jms79m186j90k80h7fzjb4v84vgrb4wkira5i5di0pq8hz6s"
     },
     "nvim-treesitter-context": {
       "type": "Git",
@@ -3487,9 +3487,9 @@
         "repo": "tokyonight.nvim"
       },
       "branch": "main",
-      "revision": "4b386e66a9599057587c30538d5e6192e3d1c181",
-      "url": "https://github.com/folke/tokyonight.nvim/archive/4b386e66a9599057587c30538d5e6192e3d1c181.tar.gz",
-      "hash": "1fqz4zpipfmgv4i2sdznk0cld8i8k40rdwgnj1a2jrayk9m0s6wk"
+      "revision": "817bb6ffff1b9ce72cdd45d9fcfa8c9cd1ad3839",
+      "url": "https://github.com/folke/tokyonight.nvim/archive/817bb6ffff1b9ce72cdd45d9fcfa8c9cd1ad3839.tar.gz",
+      "hash": "0xvdhq7400rh1450ybvw6pg4kdqfrs6k3408ibb9asw2l6mv6j3p"
     },
     "transparent-nvim": {
       "type": "Git",
