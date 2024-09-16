@@ -92,9 +92,9 @@
         "repo": "auto-session"
       },
       "branch": "main",
-      "revision": "aa01054d478c6d3efc0188cb2ed4850e9f475664",
-      "url": "https://github.com/rmagatti/auto-session/archive/aa01054d478c6d3efc0188cb2ed4850e9f475664.tar.gz",
-      "hash": "0m5zxnyr25plhi3pcil4vyvxq5shmf3jklr81739pismvj2xsn8w"
+      "revision": "51e26935e3cc5c46b7dd93f3762a803540ff3581",
+      "url": "https://github.com/rmagatti/auto-session/archive/51e26935e3cc5c46b7dd93f3762a803540ff3581.tar.gz",
+      "hash": "0bpjx97qk3f9b8pkfx6rk5cmp0gm9zb3cnfqvqcz4rld07caxvkz"
     },
     "autoclose-nvim": {
       "type": "Git",
@@ -3103,9 +3103,9 @@
         "repo": "sniprun"
       },
       "branch": "master",
-      "revision": "a29d7b1c313b00980015ad79fa0ab512a0729940",
-      "url": "https://github.com/michaelb/sniprun/archive/a29d7b1c313b00980015ad79fa0ab512a0729940.tar.gz",
-      "hash": "0i24h2skxlsa8v7qvzv3kv410cr5dw5gf9kgn0x15s8hmi8qmpzh"
+      "revision": "c9f0a37736a90997a3868735ede0d33e49f79182",
+      "url": "https://github.com/michaelb/sniprun/archive/c9f0a37736a90997a3868735ede0d33e49f79182.tar.gz",
+      "hash": "10052lx0kcpvig40nc90mh210didl9fb4z273qi7ab8x942mxdfs"
     },
     "solarized-nvim": {
       "type": "Git",
