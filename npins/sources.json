@@ -3463,9 +3463,9 @@
         "repo": "todo-comments.nvim"
       },
       "branch": "main",
-      "revision": "1a67e204ae0332b877521cc5762256971fa7b208",
-      "url": "https://github.com/folke/todo-comments.nvim/archive/1a67e204ae0332b877521cc5762256971fa7b208.tar.gz",
-      "hash": "1zriqx7h22jqj8f29vlyrca8i244wxa9kz9502dfr0568za7yf2i"
+      "revision": "ae0a2afb47cf7395dc400e5dc4e05274bf4fb9e0",
+      "url": "https://github.com/folke/todo-comments.nvim/archive/ae0a2afb47cf7395dc400e5dc4e05274bf4fb9e0.tar.gz",
+      "hash": "0v6vn3f9svj756ds8cp0skpw65xixlx1f3aj0fh374wdpb5i4zhh"
     },
     "toggleterm-nvim": {
       "type": "Git",
