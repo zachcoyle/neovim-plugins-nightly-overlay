@@ -1604,9 +1604,9 @@
         "repo": "lazy.nvim"
       },
       "branch": "main",
-      "revision": "48b52b5cfcf8f88ed0aff8fde573a5cc20b1306d",
-      "url": "https://github.com/folke/lazy.nvim/archive/48b52b5cfcf8f88ed0aff8fde573a5cc20b1306d.tar.gz",
-      "hash": "1rwhgm71qa2wn4iighxn5i76zv6p2hqdjfw989algihymw560i58"
+      "revision": "460e1cd8f24e364d54543a4b0e83f6f4ec1f65fb",
+      "url": "https://github.com/folke/lazy.nvim/archive/460e1cd8f24e364d54543a4b0e83f6f4ec1f65fb.tar.gz",
+      "hash": "0xgc39xir6i0z4i9hm8sp2ldfzza630rz1bk9vwh277v64cvgnq2"
     },
     "lazygit-nvim": {
       "type": "Git",
@@ -3463,9 +3463,9 @@
         "repo": "todo-comments.nvim"
       },
       "branch": "main",
-      "revision": "319c01b99b7a8c9ac2066bf0efd4d6ec68fef444",
-      "url": "https://github.com/folke/todo-comments.nvim/archive/319c01b99b7a8c9ac2066bf0efd4d6ec68fef444.tar.gz",
-      "hash": "0nav42w1g9k27jrxzwspdxdalq9sikz7g1f4p57v0wjnrzwdv741"
+      "revision": "1a67e204ae0332b877521cc5762256971fa7b208",
+      "url": "https://github.com/folke/todo-comments.nvim/archive/1a67e204ae0332b877521cc5762256971fa7b208.tar.gz",
+      "hash": "1zriqx7h22jqj8f29vlyrca8i244wxa9kz9502dfr0568za7yf2i"
     },
     "toggleterm-nvim": {
       "type": "Git",
