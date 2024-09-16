@@ -1771,9 +1771,9 @@
         "repo": "lz.n"
       },
       "branch": "master",
-      "revision": "4ea57c6324d5ab4ef703a750f8567d52b74bbb65",
-      "url": "https://github.com/nvim-neorocks/lz.n/archive/4ea57c6324d5ab4ef703a750f8567d52b74bbb65.tar.gz",
-      "hash": "0rp75d0731ycr5qk332g07s7yxml2r0knfyqr1m8sfa9xa13cmxc"
+      "revision": "ceb1979385db926217b96bd529921e780d9f5fc3",
+      "url": "https://github.com/nvim-neorocks/lz.n/archive/ceb1979385db926217b96bd529921e780d9f5fc3.tar.gz",
+      "hash": "0wllr2q9f8yy62dnvkj52msmqlb6bjy0l1a1fmy38plw06mabxm5"
     },
     "magma-nvim-goose": {
       "type": "Git",
