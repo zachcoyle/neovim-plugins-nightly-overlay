@@ -2035,9 +2035,9 @@
         "repo": "neotest-dart"
       },
       "branch": "main",
-      "revision": "33b9335cd8c2be4dcf9dd8f196b24325e7c2e8e7",
-      "url": "https://github.com/sidlatau/neotest-dart/archive/33b9335cd8c2be4dcf9dd8f196b24325e7c2e8e7.tar.gz",
-      "hash": "1g3xa33p2n5j3w1rpc8zf0dl7wkwnai2f9fs8dr8xanqp22vpl3i"
+      "revision": "ad0fbcd0bfb45999fb78f3d14f6b6ae7ee70b88c",
+      "url": "https://github.com/sidlatau/neotest-dart/archive/ad0fbcd0bfb45999fb78f3d14f6b6ae7ee70b88c.tar.gz",
+      "hash": "1431b9izn4kr5rsc06kpwizd41nkkglcy3yl7p0wls3pfr0v1rxp"
     },
     "neotest-deno": {
       "type": "Git",
