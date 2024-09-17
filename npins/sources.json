@@ -44,9 +44,9 @@
         "repo": "SchemaStore.nvim"
       },
       "branch": "main",
-      "revision": "b45a0314740e3dd9945396aab96b4f0a625e399e",
-      "url": "https://github.com/b0o/SchemaStore.nvim/archive/b45a0314740e3dd9945396aab96b4f0a625e399e.tar.gz",
-      "hash": "0v1kcn17280kl9nywj7wsn5080khql91bk9a59w8b38ii175niki"
+      "revision": "1fc84f9209633412909b2fe7fe2ccdd2a4b9560a",
+      "url": "https://github.com/b0o/SchemaStore.nvim/archive/1fc84f9209633412909b2fe7fe2ccdd2a4b9560a.tar.gz",
+      "hash": "0ls4xi8wfl9fvsdc5i7rhinzb08bv3q6nrmb42vvr2q1y1rikm7l"
     },
     "alpha-nvim": {
       "type": "Git",
@@ -2803,9 +2803,9 @@
         "repo": "oil.nvim"
       },
       "branch": "master",
-      "revision": "f60bb7f793477d99ef1acf39e920bf2ca4e644de",
-      "url": "https://github.com/stevearc/oil.nvim/archive/f60bb7f793477d99ef1acf39e920bf2ca4e644de.tar.gz",
-      "hash": "11kmr7mgz2aaw2c22h96jwl8lf3hsvmg7zzx5fif5i40c7a3rmyw"
+      "revision": "1360be5fda9c67338331abfcd80de2afbb395bcd",
+      "url": "https://github.com/stevearc/oil.nvim/archive/1360be5fda9c67338331abfcd80de2afbb395bcd.tar.gz",
+      "hash": "17jb7s7syzl2bwk6m888kibs88qb3hh13l2sksyxd733m7lnzb8f"
     },
     "ollama-nvim": {
       "type": "Git",
@@ -2923,9 +2923,9 @@
         "repo": "plenary.nvim"
       },
       "branch": "master",
-      "revision": "f4faa5a3dc77a694ba58f42585985fed88540ac6",
-      "url": "https://github.com/nvim-lua/plenary.nvim/archive/f4faa5a3dc77a694ba58f42585985fed88540ac6.tar.gz",
-      "hash": "0s7hpm8r1ibrhvjpbmid8q2a5vgvl5r7nxfa5746s2kfl14bdxqp"
+      "revision": "2d9b06177a975543726ce5c73fca176cedbffe9d",
+      "url": "https://github.com/nvim-lua/plenary.nvim/archive/2d9b06177a975543726ce5c73fca176cedbffe9d.tar.gz",
+      "hash": "1blmh0qr010jhydw61kiynll2m7q4xyrvrva8b5ipf1g81x8ysbf"
     },
     "poimandres-nvim": {
       "type": "Git",
@@ -4099,9 +4099,9 @@
         "repo": "zk-nvim"
       },
       "branch": "main",
-      "revision": "dbf4eeab55b08856c9d6b6722dbff39630bb35eb",
-      "url": "https://github.com/zk-org/zk-nvim/archive/dbf4eeab55b08856c9d6b6722dbff39630bb35eb.tar.gz",
-      "hash": "1d6qz2yi4d0ccpibjh3c366qh32hd9r646m1b99vy16r27ydffcs"
+      "revision": "f87275e9293fe26d3645afb52f2274ade4d707eb",
+      "url": "https://github.com/zk-org/zk-nvim/archive/f87275e9293fe26d3645afb52f2274ade4d707eb.tar.gz",
+      "hash": "1gpwqvi61s2y8vawr7r0q3wmjiyyv8qhrphlgksfy7gvjjw2y0rv"
     }
   },
   "version": 3
