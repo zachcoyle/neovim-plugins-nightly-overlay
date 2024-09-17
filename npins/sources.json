@@ -1915,9 +1915,9 @@
         "repo": "neo-tree.nvim"
       },
       "branch": "main",
-      "revision": "0774fa2085c62a147fcc7b56f0ac37053cc80217",
-      "url": "https://github.com/nvim-neo-tree/neo-tree.nvim/archive/0774fa2085c62a147fcc7b56f0ac37053cc80217.tar.gz",
-      "hash": "0nfvn07xsn19mhylfgr4irg1h6cdiwcihjs4jqgfa0ziklmigcx4"
+      "revision": "a77af2e764c5ed4038d27d1c463fa49cd4794e07",
+      "url": "https://github.com/nvim-neo-tree/neo-tree.nvim/archive/a77af2e764c5ed4038d27d1c463fa49cd4794e07.tar.gz",
+      "hash": "02ag3h40p5ga12y1fwbcd06nnl3rb0l5hs064ylpkx2kjcl79arf"
     },
     "neocord": {
       "type": "Git",
@@ -3055,9 +3055,9 @@
         "repo": "scope.nvim"
       },
       "branch": "main",
-      "revision": "5e3f5ead970317b2f276d38dc031cb4bc5742cd4",
-      "url": "https://github.com/tiagovla/scope.nvim/archive/5e3f5ead970317b2f276d38dc031cb4bc5742cd4.tar.gz",
-      "hash": "0l4xkjbw42vwmj3j7dgca3pwlv78dsscbxrdz1jz0i381s2inar6"
+      "revision": "932102696ead2b7ab9ff65017767b57e2722fdde",
+      "url": "https://github.com/tiagovla/scope.nvim/archive/932102696ead2b7ab9ff65017767b57e2722fdde.tar.gz",
+      "hash": "1ma6rrh8dhbm8wwky6pybczy19ziy98wsy55flfamsq5gclkxqyr"
     },
     "scrollbar-nvim": {
       "type": "Git",
