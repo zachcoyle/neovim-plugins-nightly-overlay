@@ -3383,6 +3383,18 @@
       "url": "https://github.com/nvim-telescope/telescope-github.nvim/archive/ee95c509901c3357679e9f2f9eaac3561c811736.tar.gz",
       "hash": "1943bhi2y3kyxhdrbqysxpwmd9f2rj9pbl4r449kyj1rbh6mzqk2"
     },
+    "telescope-live-grep-args-nvim": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "nvim-telescope",
+        "repo": "telescope-live-grep-args.nvim"
+      },
+      "branch": "master",
+      "revision": "649b662a8f476fd2c0289570764459e95ebaa3f3",
+      "url": "https://github.com/nvim-telescope/telescope-live-grep-args.nvim/archive/649b662a8f476fd2c0289570764459e95ebaa3f3.tar.gz",
+      "hash": "1zg6iyk2n883rpk3v5g8vi5izg89hxrjwlnjfkkk6hkxbggd551a"
+    },
     "telescope-media-files-nvim": {
       "type": "Git",
       "repository": {
