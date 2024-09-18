@@ -3119,6 +3119,18 @@
       "url": "https://github.com/mrjones2014/smart-splits.nvim/archive/cac7e33e08c86d94950d5ba6c6a4df850acafb33.tar.gz",
       "hash": "0nwg8zncagmxb603z9g89j6bdzdz5d935008n85q78kqzpxh1phh"
     },
+    "smartcolumn-nvim": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "m4xshen",
+        "repo": "smartcolumn.nvim"
+      },
+      "branch": "main",
+      "revision": "cefb17be095ad5526030a21bb2a80553cae09127",
+      "url": "https://github.com/m4xshen/smartcolumn.nvim/archive/cefb17be095ad5526030a21bb2a80553cae09127.tar.gz",
+      "hash": "1lddpzrqcvq4vqjqcc89zi851kn1r247m5c1sxn7zxh5sl61wwhc"
+    },
     "snippets-nvim": {
       "type": "Git",
       "repository": {
