@@ -888,6 +888,18 @@
       "url": "https://github.com/xeluxee/competitest.nvim/archive/c3cb0e2b0916a879c4d3dcb5737e6c046dd0afc5.tar.gz",
       "hash": "16mycxnxa425rnl1xdk740ng6mg693ywzx5wsa56xr8nvxkms700"
     },
+    "compiler-nvim": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "Zeioth",
+        "repo": "compiler.nvim"
+      },
+      "branch": "main",
+      "revision": "e889774c7f2fefad60f8e6638d324223b07d2624",
+      "url": "https://github.com/Zeioth/compiler.nvim/archive/e889774c7f2fefad60f8e6638d324223b07d2624.tar.gz",
+      "hash": "18lq9szxgrwhb8378pd6bmgsz744pm3aby5vnrw2g2324xdq46wx"
+    },
     "completion-nvim": {
       "type": "Git",
       "repository": {
