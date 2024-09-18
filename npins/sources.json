@@ -1951,9 +1951,9 @@
         "repo": "neogit"
       },
       "branch": "master",
-      "revision": "e0a8674ac6b6048e1e4d364645dc605ac789bc4a",
-      "url": "https://github.com/TimUntersberger/neogit/archive/e0a8674ac6b6048e1e4d364645dc605ac789bc4a.tar.gz",
-      "hash": "1pzyfkxpxrywa3ya28c0ja16z99k0jc8r7nrlhwk41rqsnfb7m8y"
+      "revision": "9959b58a897036ce89d47385021db1f716613399",
+      "url": "https://github.com/TimUntersberger/neogit/archive/9959b58a897036ce89d47385021db1f716613399.tar.gz",
+      "hash": "1sfknshkkb3dcjv1xzy97habpaxmhc4n1w76ls7hm3db252gn40l"
     },
     "neon": {
       "type": "Git",
@@ -3115,9 +3115,9 @@
         "repo": "solarized.nvim"
       },
       "branch": "main",
-      "revision": "50edf5a4eee481cf179685508a219fa683ea0949",
-      "url": "https://github.com/maxmx03/solarized.nvim/archive/50edf5a4eee481cf179685508a219fa683ea0949.tar.gz",
-      "hash": "1cvxhjswzc2lzy1gpj0dzz8bz5lbnvb0nbl4mldwg9ndy95917y3"
+      "revision": "be02e3baf67771d067d0d304083fc8ae782fa7f8",
+      "url": "https://github.com/maxmx03/solarized.nvim/archive/be02e3baf67771d067d0d304083fc8ae782fa7f8.tar.gz",
+      "hash": "0xzbmzmq9m18gqlqjplzgbll6lp4a3s6yi251qllmln06n17d4h0"
     },
     "specs-nvim": {
       "type": "Git",
