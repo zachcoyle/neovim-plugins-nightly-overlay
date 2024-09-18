@@ -3143,6 +3143,18 @@
       "url": "https://github.com/tami5/sql.nvim/archive/d0ffd703b56d090d213b497ed4eb840495f14a11.tar.gz",
       "hash": "1nj0yqrr8dzjva14irp10g0c6xbnv3wm1igkl2cc7c8f3bddrfwx"
     },
+    "sqlite-lua": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "kkharji",
+        "repo": "sqlite.lua"
+      },
+      "branch": "master",
+      "revision": "d0ffd703b56d090d213b497ed4eb840495f14a11",
+      "url": "https://github.com/kkharji/sqlite.lua/archive/d0ffd703b56d090d213b497ed4eb840495f14a11.tar.gz",
+      "hash": "1nj0yqrr8dzjva14irp10g0c6xbnv3wm1igkl2cc7c8f3bddrfwx"
+    },
     "startup-nvim": {
       "type": "Git",
       "repository": {
