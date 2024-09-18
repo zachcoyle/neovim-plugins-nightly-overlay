@@ -1452,6 +1452,18 @@
       "url": "https://github.com/rebelot/heirline.nvim/archive/0d797435e54645a5f98bad7ad6046aac1ef95c1e.tar.gz",
       "hash": "0payyx0j0s4wgk5xvczdnjqkj5nymlhw4f7hcw3sl9m334vnxshb"
     },
+    "helpview-nvim": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "OXY2DEV",
+        "repo": "helpview.nvim"
+      },
+      "branch": "main",
+      "revision": "857aec1dab331252910da158ab6cbfbc65239c71",
+      "url": "https://github.com/OXY2DEV/helpview.nvim/archive/857aec1dab331252910da158ab6cbfbc65239c71.tar.gz",
+      "hash": "07qj07qdrv9h5f37vv4f0aic2gkwr052fv6cb981ibyaabzmb5n7"
+    },
     "hex-nvim": {
       "type": "Git",
       "repository": {
