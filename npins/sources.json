@@ -2851,9 +2851,9 @@
         "repo": "orgmode"
       },
       "branch": "master",
-      "revision": "e3500add486b17da58ce8e42a0f799161e5761c9",
-      "url": "https://github.com/nvim-orgmode/orgmode/archive/e3500add486b17da58ce8e42a0f799161e5761c9.tar.gz",
-      "hash": "19w2jsv98pwpp7fvmhpryxir2b2h8yp9dzvrjn810ysjb5dxli4n"
+      "revision": "a006c9318132d51d3b7058cf2a8cc557c7fa4f22",
+      "url": "https://github.com/nvim-orgmode/orgmode/archive/a006c9318132d51d3b7058cf2a8cc557c7fa4f22.tar.gz",
+      "hash": "0cchhyaakn7wiiba58ziswd64ghb634kdgkcqqj6xhrhn5z1cb4q"
     },
     "oxocarbon-nvim": {
       "type": "Git",
