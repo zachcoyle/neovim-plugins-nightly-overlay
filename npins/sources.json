@@ -44,9 +44,9 @@
         "repo": "SchemaStore.nvim"
       },
       "branch": "main",
-      "revision": "1fc84f9209633412909b2fe7fe2ccdd2a4b9560a",
-      "url": "https://github.com/b0o/SchemaStore.nvim/archive/1fc84f9209633412909b2fe7fe2ccdd2a4b9560a.tar.gz",
-      "hash": "0ls4xi8wfl9fvsdc5i7rhinzb08bv3q6nrmb42vvr2q1y1rikm7l"
+      "revision": "6e2af7e093a4b92e3dce014aa1cbb5449ad1ebf9",
+      "url": "https://github.com/b0o/SchemaStore.nvim/archive/6e2af7e093a4b92e3dce014aa1cbb5449ad1ebf9.tar.gz",
+      "hash": "13nyljpd9n4vy43fisdi0frgqf3kyimv4p5hfdzkn887gbrivrl4"
     },
     "alpha-nvim": {
       "type": "Git",
@@ -2323,9 +2323,9 @@
         "repo": "noice.nvim"
       },
       "branch": "main",
-      "revision": "448bb9c524a7601035449210838e374a30153172",
-      "url": "https://github.com/folke/noice.nvim/archive/448bb9c524a7601035449210838e374a30153172.tar.gz",
-      "hash": "1pxnfgcqh6b14z699akvzbq2vcvk4glfjpk5d5hybfn6fnbidapk"
+      "revision": "16c946a5964f0cf966f77ae16aa11cb40969ae8a",
+      "url": "https://github.com/folke/noice.nvim/archive/16c946a5964f0cf966f77ae16aa11cb40969ae8a.tar.gz",
+      "hash": "0xiv4pnmkgk6332hv05bvsfpvfm5ivl833wrg5kspkybdgy0g0w1"
     },
     "none-ls-nvim": {
       "type": "Git",
