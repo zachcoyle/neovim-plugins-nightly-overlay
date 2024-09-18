@@ -2855,6 +2855,18 @@
       "url": "https://github.com/nvim-orgmode/orgmode/archive/a006c9318132d51d3b7058cf2a8cc557c7fa4f22.tar.gz",
       "hash": "0cchhyaakn7wiiba58ziswd64ghb634kdgkcqqj6xhrhn5z1cb4q"
     },
+    "overseer-nvim": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "stevearc",
+        "repo": "overseer.nvim"
+      },
+      "branch": "master",
+      "revision": "a2734d90c514eea27c4759c9f502adbcdfbce485",
+      "url": "https://github.com/stevearc/overseer.nvim/archive/a2734d90c514eea27c4759c9f502adbcdfbce485.tar.gz",
+      "hash": "1fj4s0mnnr3hibm2jqkn6hmi8nvrs0bijr802cnmvwdzq1mzc54d"
+    },
     "oxocarbon-nvim": {
       "type": "Git",
       "repository": {
