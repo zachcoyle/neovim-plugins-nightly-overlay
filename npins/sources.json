@@ -2687,6 +2687,18 @@
       "url": "https://github.com/chrisgrieser/nvim-spider/archive/b1c542a78522d59432a827f6ec2b28f9422c7e7f.tar.gz",
       "hash": "1b9ccj6qycxlcy84fdd7n7b20bmfpwyc8x4wzcakj3xymrp469d9"
     },
+    "nvim-surround": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "kylechui",
+        "repo": "nvim-surround"
+      },
+      "branch": "main",
+      "revision": "ec2dc7671067e0086cdf29c2f5df2dd909d5f71f",
+      "url": "https://github.com/kylechui/nvim-surround/archive/ec2dc7671067e0086cdf29c2f5df2dd909d5f71f.tar.gz",
+      "hash": "1d5ffrsl1ryiq8nzxx7k69gpin6zs2ys4zc5pg47qcpazx7my8qc"
+    },
     "nvim-tree-lua": {
       "type": "Git",
       "repository": {
