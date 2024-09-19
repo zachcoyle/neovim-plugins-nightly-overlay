@@ -3967,9 +3967,9 @@
         "repo": "vim-sleuth"
       },
       "branch": "master",
-      "revision": "cd9d382e33bb817abe7f10cdc3a606bf1d491d75",
-      "url": "https://github.com/tpope/vim-sleuth/archive/cd9d382e33bb817abe7f10cdc3a606bf1d491d75.tar.gz",
-      "hash": "01hqxbgikhb9pziwypssd9jigpxdabg76826zpsvjy6l2g9m7v8y"
+      "revision": "be69bff86754b1aa5adcbb527d7fcd1635a84080",
+      "url": "https://github.com/tpope/vim-sleuth/archive/be69bff86754b1aa5adcbb527d7fcd1635a84080.tar.gz",
+      "hash": "0wqxdjgplf04nq428ialw1w03f8nh5vb629a17vl5gc9gf3zfanq"
     },
     "vim-slime": {
       "type": "Git",
