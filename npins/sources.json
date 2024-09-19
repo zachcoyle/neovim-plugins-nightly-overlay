@@ -4135,9 +4135,9 @@
         "repo": "wtf.nvim"
       },
       "branch": "main",
-      "revision": "d75acc087b5183b0b3e000189518c5d799978e95",
-      "url": "https://github.com/piersolenski/wtf.nvim/archive/d75acc087b5183b0b3e000189518c5d799978e95.tar.gz",
-      "hash": "07jl36jk04rr9rykhxlf7nmxwi4p9ngmd5mcq7j7jli0rjhbj1nn"
+      "revision": "16eec1f32c3608bd8519e9e520041fe34201abb0",
+      "url": "https://github.com/piersolenski/wtf.nvim/archive/16eec1f32c3608bd8519e9e520041fe34201abb0.tar.gz",
+      "hash": "1clpik3z79mvxxph5z4ghiwrq560jy0zdr0yxmp9byl2r0ggfa64"
     },
     "yanky-nvim": {
       "type": "Git",
