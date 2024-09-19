@@ -2191,9 +2191,9 @@
         "repo": "neotest-minitest"
       },
       "branch": "main",
-      "revision": "bec6bb22e2f74ae56669b0c16ba38237dcd2febf",
-      "url": "https://github.com/zidhuss/neotest-minitest/archive/bec6bb22e2f74ae56669b0c16ba38237dcd2febf.tar.gz",
-      "hash": "1435ffq3zm1gqxx08yxgqg37cd9c2rlc8xjs6j4jw8v873xw06z3"
+      "revision": "5623b9a7b2b27314e5c336b385315d2ab7d4ccba",
+      "url": "https://github.com/zidhuss/neotest-minitest/archive/5623b9a7b2b27314e5c336b385315d2ab7d4ccba.tar.gz",
+      "hash": "0rv4nhvlxl693d4q9jd9a6ym3ib1fwsjzl0911pqjwf9kmnqx4w7"
     },
     "neotest-pest": {
       "type": "Git",
