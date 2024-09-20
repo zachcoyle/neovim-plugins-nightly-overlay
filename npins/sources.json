@@ -1244,9 +1244,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "f513524561060f2b9e3bd6d36ff046bfa03ca114",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/f513524561060f2b9e3bd6d36ff046bfa03ca114.tar.gz",
-      "hash": "0rqh2bvh1bp5i4y1xrvggi0d27a6qbpkvcinrq0c6s9k8g84d7wy"
+      "revision": "a34542d466b46be19198d16199e5245d27e89a9e",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/a34542d466b46be19198d16199e5245d27e89a9e.tar.gz",
+      "hash": "1lnmlpawqcdxbaj60hnf4zmph1bpgc7w9nb2yi20r128zpjpa4bl"
     },
     "galaxyline-nvim": {
       "type": "Git",
@@ -2887,9 +2887,9 @@
         "repo": "orgmode"
       },
       "branch": "master",
-      "revision": "a006c9318132d51d3b7058cf2a8cc557c7fa4f22",
-      "url": "https://github.com/nvim-orgmode/orgmode/archive/a006c9318132d51d3b7058cf2a8cc557c7fa4f22.tar.gz",
-      "hash": "0cchhyaakn7wiiba58ziswd64ghb634kdgkcqqj6xhrhn5z1cb4q"
+      "revision": "1692af5a0dd363851b7846c3636040c53f9cdc79",
+      "url": "https://github.com/nvim-orgmode/orgmode/archive/1692af5a0dd363851b7846c3636040c53f9cdc79.tar.gz",
+      "hash": "15bn9520vz311q8hfiv9zryhv83a1qbb1wj0xzb96irrr4fr2hr4"
     },
     "overseer-nvim": {
       "type": "Git",
