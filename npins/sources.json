@@ -992,9 +992,9 @@
         "repo": "coq_nvim"
       },
       "branch": "coq",
-      "revision": "924abb75a8d8f06eab4ddc3b78eeea506f73132c",
-      "url": "https://github.com/ms-jpq/coq_nvim/archive/924abb75a8d8f06eab4ddc3b78eeea506f73132c.tar.gz",
-      "hash": "1wx2iapiwy7y1c8w18lb3klfayf7z6lvbnm9l59vl8xsb4m3k5hq"
+      "revision": "1c93db92bac10609fe42dcf1b7962a9b037852b4",
+      "url": "https://github.com/ms-jpq/coq_nvim/archive/1c93db92bac10609fe42dcf1b7962a9b037852b4.tar.gz",
+      "hash": "0799y1nj1271r93nnd1p0j77bwv0w0l03q2a6j0amdslswqfa9cn"
     },
     "crates-nvim": {
       "type": "Git",
@@ -1652,9 +1652,9 @@
         "repo": "lean.nvim"
       },
       "branch": "main",
-      "revision": "76ed4456e15e626da9d71f74633387ffb902892b",
-      "url": "https://github.com/Julian/lean.nvim/archive/76ed4456e15e626da9d71f74633387ffb902892b.tar.gz",
-      "hash": "17nnj2yxysiw4s101z1adygrid5zs5nmf46i64z9jw2l20pl92bc"
+      "revision": "23dd408b1a73bf77c48595a7739afd26ef757846",
+      "url": "https://github.com/Julian/lean.nvim/archive/23dd408b1a73bf77c48595a7739afd26ef757846.tar.gz",
+      "hash": "15ii2cn6541q52ljcnpxflcar65vn40n5frcz3xybbv0a817mvg4"
     },
     "leap-nvim": {
       "type": "Git",
@@ -2803,9 +2803,9 @@
         "repo": "nvim-web-devicons"
       },
       "branch": "master",
-      "revision": "9154484705968658e9aab2b894d1b2a64bf9f83d",
-      "url": "https://github.com/kyazdani42/nvim-web-devicons/archive/9154484705968658e9aab2b894d1b2a64bf9f83d.tar.gz",
-      "hash": "164iyy9941jnya7qs33li9n5xic19zxis24lpb0w119vwcd16k9n"
+      "revision": "31bd21ac46b2b6039aa0b856ca02b018cf549ef7",
+      "url": "https://github.com/kyazdani42/nvim-web-devicons/archive/31bd21ac46b2b6039aa0b856ca02b018cf549ef7.tar.gz",
+      "hash": "0bl08qlglxdn7dghpy8f15937qlyi4pqi9gnx0xwy3y2iy2vwh7v"
     },
     "obsidian-nvim": {
       "type": "Git",
