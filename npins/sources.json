@@ -2551,9 +2551,9 @@
         "repo": "nvim-lint"
       },
       "branch": "master",
-      "revision": "ba0ab2f813e77d015da1a1c9920328fd2bf295f2",
-      "url": "https://github.com/mfussenegger/nvim-lint/archive/ba0ab2f813e77d015da1a1c9920328fd2bf295f2.tar.gz",
-      "hash": "069bn8a3qdgg8nkbh44hiyrmhdyk9ccz42mnbmhsv6yd19g9660a"
+      "revision": "c823e2d0621b5c15aa6b46be4d69b1379bcb8fa6",
+      "url": "https://github.com/mfussenegger/nvim-lint/archive/c823e2d0621b5c15aa6b46be4d69b1379bcb8fa6.tar.gz",
+      "hash": "1a5pbf2c9kcmw6iy9zb381b6lhswbbcwb2y6svki17ygj2crs66b"
     },
     "nvim-lspconfig": {
       "type": "Git",
@@ -4075,9 +4075,9 @@
         "repo": "vimtex"
       },
       "branch": "master",
-      "revision": "539a203f19531c6b9d2d1b093ee8911fb7050bbc",
-      "url": "https://github.com/lervag/vimtex/archive/539a203f19531c6b9d2d1b093ee8911fb7050bbc.tar.gz",
-      "hash": "02d6znxk70qggmj57rkj7fzd3yh52hyywq2ndlxh55df360awpmf"
+      "revision": "a61db58f39b7ef3060bc9c60bbc813436f414bac",
+      "url": "https://github.com/lervag/vimtex/archive/a61db58f39b7ef3060bc9c60bbc813436f414bac.tar.gz",
+      "hash": "1s962mgqk7jrqggjlamw4yybyg49a2ll2csd95affahlzg2bnyzk"
     },
     "virt-column-nvim": {
       "type": "Git",
