@@ -1652,9 +1652,9 @@
         "repo": "lean.nvim"
       },
       "branch": "main",
-      "revision": "3d8a6580ff3a98d56920c04a0d509c23bb57cfd2",
-      "url": "https://github.com/Julian/lean.nvim/archive/3d8a6580ff3a98d56920c04a0d509c23bb57cfd2.tar.gz",
-      "hash": "18v9gw82bcpgzg355rixq9qgi9z47ggs0y4q56cs3n3ylijlkwf2"
+      "revision": "65d6408e7614f22628704e7fe76f69c3177e1dcf",
+      "url": "https://github.com/Julian/lean.nvim/archive/65d6408e7614f22628704e7fe76f69c3177e1dcf.tar.gz",
+      "hash": "0lpk5j9pn27fzf1zwag7cb74r6926n86hrkqj2nk8rz3gjhgnphc"
     },
     "leap-nvim": {
       "type": "Git",
@@ -2611,9 +2611,9 @@
         "repo": "nvim-notify"
       },
       "branch": "master",
-      "revision": "d333b6f167900f6d9d42a59005d82919830626bf",
-      "url": "https://github.com/rcarriga/nvim-notify/archive/d333b6f167900f6d9d42a59005d82919830626bf.tar.gz",
-      "hash": "0000a56y6xp2hzb5pf0in9336s9r29w590kxqdxdl5gfpz08f763"
+      "revision": "fbef5d32be8466dd76544a257d3f3dce20082a07",
+      "url": "https://github.com/rcarriga/nvim-notify/archive/fbef5d32be8466dd76544a257d3f3dce20082a07.tar.gz",
+      "hash": "0wbsib27kgrk632c094ivjbc8rw51kbalq9c8j576p78k93wipj9"
     },
     "nvim-osc52": {
       "type": "Git",
@@ -4159,9 +4159,9 @@
         "repo": "yazi.nvim"
       },
       "branch": "main",
-      "revision": "9ae6007005f4903f743b382d6acee31d9ccdbf82",
-      "url": "https://github.com/mikavilpas/yazi.nvim/archive/9ae6007005f4903f743b382d6acee31d9ccdbf82.tar.gz",
-      "hash": "0492bq90iczam5syjb36nndgy1i2g76jnpp1h3m9f29287k82f7q"
+      "revision": "f7f05ceeeb88bc85428dd3bf909a1eab9234bfff",
+      "url": "https://github.com/mikavilpas/yazi.nvim/archive/f7f05ceeeb88bc85428dd3bf909a1eab9234bfff.tar.gz",
+      "hash": "02j01f6ayv3awi171bw9419wbfjv20hw1gspj0c1ihssyg63jrmj"
     },
     "yuck-vim": {
       "type": "Git",
