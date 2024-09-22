@@ -800,9 +800,9 @@
         "repo": "cmp_yanky"
       },
       "branch": "main",
-      "revision": "4beeebf004c7e6e70a5d60fc73f8f419da8f6328",
-      "url": "https://github.com/chrisgrieser/cmp_yanky/archive/4beeebf004c7e6e70a5d60fc73f8f419da8f6328.tar.gz",
-      "hash": "1kh431qipypj5y06bjvjfqncqqcanbd66fg0i22zywbfcmcddijq"
+      "revision": "c9cc4824327096ca9c78c275c722a42fd89062c9",
+      "url": "https://github.com/chrisgrieser/cmp_yanky/archive/c9cc4824327096ca9c78c275c722a42fd89062c9.tar.gz",
+      "hash": "0d9xmqj30lpgd6bgrkdnwvh3gg6l1hzn8mcxcxhgjk8fy1hl63nq"
     },
     "codeium-nvim": {
       "type": "Git",
