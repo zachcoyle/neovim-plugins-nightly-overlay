@@ -2035,9 +2035,9 @@
         "repo": "neotest"
       },
       "branch": "master",
-      "revision": "6d6ad113f56edc7c3f2a77a0836ea8c1b955ebea",
-      "url": "https://github.com/nvim-neotest/neotest/archive/6d6ad113f56edc7c3f2a77a0836ea8c1b955ebea.tar.gz",
-      "hash": "1v8y7jpwb0a6w5gcr6r17zcgrvdqs7y396c67xxpz5f2bibxzbxr"
+      "revision": "48f8b5fce704594eb0ff94338e080defca14f0dc",
+      "url": "https://github.com/nvim-neotest/neotest/archive/48f8b5fce704594eb0ff94338e080defca14f0dc.tar.gz",
+      "hash": "0cr3qbds7g5ybndaaiafh758v6igzjz65l81mqragk9kcajkwkip"
     },
     "neotest-bash": {
       "type": "Git",
