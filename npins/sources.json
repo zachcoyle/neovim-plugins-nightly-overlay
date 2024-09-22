@@ -1652,9 +1652,9 @@
         "repo": "lean.nvim"
       },
       "branch": "main",
-      "revision": "1bbb169f2218fc854dc5a5f78892e13773751b58",
-      "url": "https://github.com/Julian/lean.nvim/archive/1bbb169f2218fc854dc5a5f78892e13773751b58.tar.gz",
-      "hash": "16fvqpsxf8zh08c4ir3c2106jvcqhrjv7zailklsw99k7ckfb7d0"
+      "revision": "3d8a6580ff3a98d56920c04a0d509c23bb57cfd2",
+      "url": "https://github.com/Julian/lean.nvim/archive/3d8a6580ff3a98d56920c04a0d509c23bb57cfd2.tar.gz",
+      "hash": "18v9gw82bcpgzg355rixq9qgi9z47ggs0y4q56cs3n3ylijlkwf2"
     },
     "leap-nvim": {
       "type": "Git",
@@ -2167,9 +2167,9 @@
         "repo": "neotest-java"
       },
       "branch": "main",
-      "revision": "f3532b86371f4bfa2bdfc90f5666faa65d7efb04",
-      "url": "https://github.com/rcasia/neotest-java/archive/f3532b86371f4bfa2bdfc90f5666faa65d7efb04.tar.gz",
-      "hash": "0n0115z2sbjac34f251a0q1k8d180w9rvcbqspl19va5z975i9vb"
+      "revision": "9e6e8cf630d32d620700c4fbcf489e18292600ec",
+      "url": "https://github.com/rcasia/neotest-java/archive/9e6e8cf630d32d620700c4fbcf489e18292600ec.tar.gz",
+      "hash": "0yfpjp72ibgb9p6266yc2b8sf6qwlhcxmkh3siydscfzx4yj7sri"
     },
     "neotest-jest": {
       "type": "Git",
