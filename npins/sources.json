@@ -884,9 +884,9 @@
         "repo": "competitest.nvim"
       },
       "branch": "master",
-      "revision": "3aa0bdac56628f807050b05e8641a182578466aa",
-      "url": "https://github.com/xeluxee/competitest.nvim/archive/3aa0bdac56628f807050b05e8641a182578466aa.tar.gz",
-      "hash": "0mh7g6c2qrpmk2k1m5k10msr3zf4n1fsn7dn9rdqsk88mf323nwx"
+      "revision": "4ef440c20eec0be407f455f5db4bfad4acb2641e",
+      "url": "https://github.com/xeluxee/competitest.nvim/archive/4ef440c20eec0be407f455f5db4bfad4acb2641e.tar.gz",
+      "hash": "1s8akxwws2z2kvw6xw8qpmfdv5bryblfwbw32jri83dk6iijkir6"
     },
     "compiler-nvim": {
       "type": "Git",
