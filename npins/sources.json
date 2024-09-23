@@ -1448,9 +1448,9 @@
         "repo": "heirline.nvim"
       },
       "branch": "master",
-      "revision": "0d797435e54645a5f98bad7ad6046aac1ef95c1e",
-      "url": "https://github.com/rebelot/heirline.nvim/archive/0d797435e54645a5f98bad7ad6046aac1ef95c1e.tar.gz",
-      "hash": "0payyx0j0s4wgk5xvczdnjqkj5nymlhw4f7hcw3sl9m334vnxshb"
+      "revision": "7a79753c1a42c3f52e89a6c42429e7f871e560cd",
+      "url": "https://github.com/rebelot/heirline.nvim/archive/7a79753c1a42c3f52e89a6c42429e7f871e560cd.tar.gz",
+      "hash": "065llk3pbmyrgapa2k835rcf2k7s7b8qfx94jcbqg8v30r6s6ah3"
     },
     "helpview-nvim": {
       "type": "Git",
@@ -2887,9 +2887,9 @@
         "repo": "orgmode"
       },
       "branch": "master",
-      "revision": "fd957083c2de09618573432ff2a7646f8c1050e7",
-      "url": "https://github.com/nvim-orgmode/orgmode/archive/fd957083c2de09618573432ff2a7646f8c1050e7.tar.gz",
-      "hash": "18nbzk77bl1h2nkn2gyrzdcx545zvfblgzpz43gm4ahr7ms3ay8h"
+      "revision": "08d763df12f4a03e704c25254ae0de0a95e26eaf",
+      "url": "https://github.com/nvim-orgmode/orgmode/archive/08d763df12f4a03e704c25254ae0de0a95e26eaf.tar.gz",
+      "hash": "1gkpwyfvw9z92277q6311r924rmb9zidgmlr4xxkmn2xrj5qwl7x"
     },
     "overseer-nvim": {
       "type": "Git",
@@ -4075,9 +4075,9 @@
         "repo": "vimtex"
       },
       "branch": "master",
-      "revision": "a61db58f39b7ef3060bc9c60bbc813436f414bac",
-      "url": "https://github.com/lervag/vimtex/archive/a61db58f39b7ef3060bc9c60bbc813436f414bac.tar.gz",
-      "hash": "1s962mgqk7jrqggjlamw4yybyg49a2ll2csd95affahlzg2bnyzk"
+      "revision": "b9cc11536a4e726c58c4776e9bcecff26fc454cb",
+      "url": "https://github.com/lervag/vimtex/archive/b9cc11536a4e726c58c4776e9bcecff26fc454cb.tar.gz",
+      "hash": "17fl1gyax3ia0jk15n0c5863njcprg3zjicw87kb95vkx0gy5wzw"
     },
     "virt-column-nvim": {
       "type": "Git",
