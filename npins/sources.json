@@ -1100,9 +1100,9 @@
         "repo": "dropbar.nvim"
       },
       "branch": "master",
-      "revision": "cc9e637cc7e43214cd3c8a9c2d38ce19089d2fb3",
-      "url": "https://github.com/Bekaboo/dropbar.nvim/archive/cc9e637cc7e43214cd3c8a9c2d38ce19089d2fb3.tar.gz",
-      "hash": "118cm3a3k156v2240rdqq8vzf26866vlbqawc6w6f9k8v0vnzp6c"
+      "revision": "b7b0cd2670cfab298afc955f2531206218736766",
+      "url": "https://github.com/Bekaboo/dropbar.nvim/archive/b7b0cd2670cfab298afc955f2531206218736766.tar.gz",
+      "hash": "1drcvhayc3knwm1cfmsx43ywfzyvs8g5vniy2sci8xg86vypbqmn"
     },
     "edgy-nvim": {
       "type": "Git",
@@ -1220,9 +1220,9 @@
         "repo": "friendly-snippets"
       },
       "branch": "main",
-      "revision": "8929e8f2b14ef84fe33a0443f6be8fc668a251d6",
-      "url": "https://github.com/rafamadriz/friendly-snippets/archive/8929e8f2b14ef84fe33a0443f6be8fc668a251d6.tar.gz",
-      "hash": "0sa8nzj4pzfkl8brjhw289y7jczchszi73nqxkd4xs7mq0m1cs3s"
+      "revision": "00ba9dd3df89509f95437b8d595553707c46d5ea",
+      "url": "https://github.com/rafamadriz/friendly-snippets/archive/00ba9dd3df89509f95437b8d595553707c46d5ea.tar.gz",
+      "hash": "0nc6pflj81qldg4yjywzww4md0315kdj0jv8sbcfi8m7kdbjwfy9"
     },
     "fzf-lsp-nvim": {
       "type": "Git",
