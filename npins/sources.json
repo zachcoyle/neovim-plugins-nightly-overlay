@@ -1652,9 +1652,9 @@
         "repo": "lean.nvim"
       },
       "branch": "main",
-      "revision": "3476b940c4344c83db6350fae5c56c5911ffe7da",
-      "url": "https://github.com/Julian/lean.nvim/archive/3476b940c4344c83db6350fae5c56c5911ffe7da.tar.gz",
-      "hash": "0hd47a4is10zpn3ggmkr7g63q0r0gpm5x832nm56v9wid73x3f69"
+      "revision": "08216f625022e343156fb70b245d3495eaee96d0",
+      "url": "https://github.com/Julian/lean.nvim/archive/08216f625022e343156fb70b245d3495eaee96d0.tar.gz",
+      "hash": "1mpg01lxa1dfsp2cz9rsyqjdxzngba5kbhdbmhf0g0pd2jnqhakh"
     },
     "leap-nvim": {
       "type": "Git",
