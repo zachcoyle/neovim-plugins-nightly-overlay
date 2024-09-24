@@ -1268,9 +1268,9 @@
         "repo": "git-blame.nvim"
       },
       "branch": "master",
-      "revision": "8c56e864d448e84e0162872c381dd2715824dce2",
-      "url": "https://github.com/f-person/git-blame.nvim/archive/8c56e864d448e84e0162872c381dd2715824dce2.tar.gz",
-      "hash": "12l8pgm523r6cgfj73f9hzyq69205p8in8jvs6x9j7fwcv5y5jil"
+      "revision": "2883a7460f611c2705b23f12d58d398d5ce6ec00",
+      "url": "https://github.com/f-person/git-blame.nvim/archive/2883a7460f611c2705b23f12d58d398d5ce6ec00.tar.gz",
+      "hash": "0km0wcwd8jlv5lbvh11kdj58kq55s1x3k917vyi2glhf379fcp4q"
     },
     "git-conflict-nvim": {
       "type": "Git",
