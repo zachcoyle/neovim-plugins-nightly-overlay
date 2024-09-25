@@ -68,9 +68,9 @@
         "repo": "arrow.nvim"
       },
       "branch": "master",
-      "revision": "5952360b09a6bcc01718d0d00655d3c17ee51783",
-      "url": "https://github.com/otavioschwanck/arrow.nvim/archive/5952360b09a6bcc01718d0d00655d3c17ee51783.tar.gz",
-      "hash": "1cglfx99qc2phylydqph4md02kfsi8rzq5dk1iny8b4sghq46zd6"
+      "revision": "f9e5cf4d591039b1d10adadae2d85917f52f1389",
+      "url": "https://github.com/otavioschwanck/arrow.nvim/archive/f9e5cf4d591039b1d10adadae2d85917f52f1389.tar.gz",
+      "hash": "11sinsd3p2ly0i02wqwwihhl7srm82554pc08y6z5igzamgpdad5"
     },
     "auto-save-nvim": {
       "type": "Git",
