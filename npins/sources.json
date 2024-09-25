@@ -1172,9 +1172,9 @@
         "repo": "firenvim"
       },
       "branch": "master",
-      "revision": "bb70728c13c305ff35193586d5f6ce68668af063",
-      "url": "https://github.com/glacambre/firenvim/archive/bb70728c13c305ff35193586d5f6ce68668af063.tar.gz",
-      "hash": "0vfghlqaj9hy5q4hcjvyksqb45dfyvwmlz3ns63jmwn25hbzs9h3"
+      "revision": "64f9389b88c8b0c7667d45c171a5f25c42d852fb",
+      "url": "https://github.com/glacambre/firenvim/archive/64f9389b88c8b0c7667d45c171a5f25c42d852fb.tar.gz",
+      "hash": "11c5fxpnmfqan5rjwzljz23n47g4iik4rphsknb05hycl4baapfs"
     },
     "flash-nvim": {
       "type": "Git",
@@ -2719,9 +2719,9 @@
         "repo": "nvim-treesitter"
       },
       "branch": "master",
-      "revision": "6511cd984ab4b21e28f83af488f38dc89c3b0586",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/6511cd984ab4b21e28f83af488f38dc89c3b0586.tar.gz",
-      "hash": "1qw7dxn42xikj9hz4nql6ig9kp7nppby9kyin244vfd4812mwbg7"
+      "revision": "0c8a582e474e248f2a4406188e0c653f92a064cf",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/0c8a582e474e248f2a4406188e0c653f92a064cf.tar.gz",
+      "hash": "1920pyq5gxdhbmi57gkf4948hgrlgd3bd3741vn8nq6jd3c1npnz"
     },
     "nvim-treesitter-context": {
       "type": "Git",
