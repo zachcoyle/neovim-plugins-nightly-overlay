@@ -1100,9 +1100,9 @@
         "repo": "dropbar.nvim"
       },
       "branch": "master",
-      "revision": "4fec2d791371b786444f898d8b2edf88830dfc47",
-      "url": "https://github.com/Bekaboo/dropbar.nvim/archive/4fec2d791371b786444f898d8b2edf88830dfc47.tar.gz",
-      "hash": "0a0jwcm7k91vf7na3za0lbhkvjjlxih3q9zm1kmp3ljrkk41hjjn"
+      "revision": "045906e33827d32516497a6946a60b73b6fefced",
+      "url": "https://github.com/Bekaboo/dropbar.nvim/archive/045906e33827d32516497a6946a60b73b6fefced.tar.gz",
+      "hash": "1wvx4kznfwi0n1vshvcpab4fnjhs591f6gx0cbvxc1bbqmcfk3a4"
     },
     "edgy-nvim": {
       "type": "Git",
@@ -2359,9 +2359,9 @@
         "repo": "none-ls.nvim"
       },
       "branch": "main",
-      "revision": "5f041cfc2d763b2ba69b848854240308e0d88d5b",
-      "url": "https://github.com/nvimtools/none-ls.nvim/archive/5f041cfc2d763b2ba69b848854240308e0d88d5b.tar.gz",
-      "hash": "0avy2x3ap9z8ixg7dqih3xpgr2bn5ixv1q1xql2wr4zx8alnw185"
+      "revision": "68a39ec218a9f15ebb2bb36c8c245681d5e61144",
+      "url": "https://github.com/nvimtools/none-ls.nvim/archive/68a39ec218a9f15ebb2bb36c8c245681d5e61144.tar.gz",
+      "hash": "10iiqq5c3fpmk6bmgifa06qcgjrfg5i10j7cmh5cpikgp481xca2"
     },
     "nord-nvim": {
       "type": "Git",
