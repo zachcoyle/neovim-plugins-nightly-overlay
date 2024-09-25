@@ -68,9 +68,9 @@
         "repo": "arrow.nvim"
       },
       "branch": "master",
-      "revision": "f9e5cf4d591039b1d10adadae2d85917f52f1389",
-      "url": "https://github.com/otavioschwanck/arrow.nvim/archive/f9e5cf4d591039b1d10adadae2d85917f52f1389.tar.gz",
-      "hash": "11sinsd3p2ly0i02wqwwihhl7srm82554pc08y6z5igzamgpdad5"
+      "revision": "8b54450ae537564f809ee6883157c82c4f82e6ae",
+      "url": "https://github.com/otavioschwanck/arrow.nvim/archive/8b54450ae537564f809ee6883157c82c4f82e6ae.tar.gz",
+      "hash": "095cqvlp38y8v1b41b0qfklvr68kp8vbhnw91jp5xqqbzf5sxgb9"
     },
     "auto-save-nvim": {
       "type": "Git",
@@ -1975,9 +1975,9 @@
         "repo": "neogit"
       },
       "branch": "master",
-      "revision": "9959b58a897036ce89d47385021db1f716613399",
-      "url": "https://github.com/TimUntersberger/neogit/archive/9959b58a897036ce89d47385021db1f716613399.tar.gz",
-      "hash": "1sfknshkkb3dcjv1xzy97habpaxmhc4n1w76ls7hm3db252gn40l"
+      "revision": "c4bf4a3d06c6001b10228bdbad325084fbd2d9f3",
+      "url": "https://github.com/TimUntersberger/neogit/archive/c4bf4a3d06c6001b10228bdbad325084fbd2d9f3.tar.gz",
+      "hash": "155a0b8mmdscfv5rabkyrwvrsrqxb9lwkg5cwgmkp3q496m1bymn"
     },
     "neon": {
       "type": "Git",
