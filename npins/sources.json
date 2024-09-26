@@ -2143,9 +2143,9 @@
         "repo": "neotest-gtest"
       },
       "branch": "main",
-      "revision": "b44c8afc26cea75ffc80617ce07b4e745a56e589",
-      "url": "https://github.com/alfaix/neotest-gtest/archive/b44c8afc26cea75ffc80617ce07b4e745a56e589.tar.gz",
-      "hash": "09h94w4s1yp3qx0n342qkksixgilkfmqiqp65jayfxiwa3jpkgya"
+      "revision": "16989561a6356878ec4ecd6afed4f0d7a471d1db",
+      "url": "https://github.com/alfaix/neotest-gtest/archive/16989561a6356878ec4ecd6afed4f0d7a471d1db.tar.gz",
+      "hash": "0i95b07zxj69q5h7xwfml39jln9413f6c6hfw0k9vz19dhzinfc7"
     },
     "neotest-haskell": {
       "type": "Git",
