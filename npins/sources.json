@@ -1484,9 +1484,9 @@
         "repo": "hmts.nvim"
       },
       "branch": "main",
-      "revision": "19a91816c123173a4551a6a04f2882338f20db1d",
-      "url": "https://github.com/calops/hmts.nvim/archive/19a91816c123173a4551a6a04f2882338f20db1d.tar.gz",
-      "hash": "1qw3b7zsp467bg8npingba5jsiiywyr0mgjhk8khvjnb1hjyld5w"
+      "revision": "1ecb68b9f89abdb23d2754f9d69f90eab2d33eaa",
+      "url": "https://github.com/calops/hmts.nvim/archive/1ecb68b9f89abdb23d2754f9d69f90eab2d33eaa.tar.gz",
+      "hash": "15s0vxihhcqapvdr8y9h41h1vp0kjhfi4c9gxln980jb1qpnalph"
     },
     "hop-nvim": {
       "type": "Git",
@@ -1879,9 +1879,9 @@
         "repo": "mini.nvim"
       },
       "branch": "main",
-      "revision": "e50cf9de614500a20e47cfc50e30a100042f91c3",
-      "url": "https://github.com/echasnovski/mini.nvim/archive/e50cf9de614500a20e47cfc50e30a100042f91c3.tar.gz",
-      "hash": "1jsll8d3s1glah9ig6041ikpvhcpncd671v8cn55gsacazj46g4h"
+      "revision": "64e95aa77587d04f97a5579b2106a82a08a7d968",
+      "url": "https://github.com/echasnovski/mini.nvim/archive/64e95aa77587d04f97a5579b2106a82a08a7d968.tar.gz",
+      "hash": "0wyhx7xrq12ykpgxq3bszipzhs7bdxjz6f6yhbxhzi2xcmfpyr8i"
     },
     "mkdnflow-nvim": {
       "type": "Git",
