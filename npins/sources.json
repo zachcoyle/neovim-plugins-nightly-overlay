@@ -1652,9 +1652,9 @@
         "repo": "lean.nvim"
       },
       "branch": "main",
-      "revision": "08216f625022e343156fb70b245d3495eaee96d0",
-      "url": "https://github.com/Julian/lean.nvim/archive/08216f625022e343156fb70b245d3495eaee96d0.tar.gz",
-      "hash": "1mpg01lxa1dfsp2cz9rsyqjdxzngba5kbhdbmhf0g0pd2jnqhakh"
+      "revision": "c9ea0f9c3857cc7e89e18725595e79cd883ee441",
+      "url": "https://github.com/Julian/lean.nvim/archive/c9ea0f9c3857cc7e89e18725595e79cd883ee441.tar.gz",
+      "hash": "12sqq39qfc60fmkjn915a321s0fi5a9p2qniba491qdjxf7qx707"
     },
     "leap-nvim": {
       "type": "Git",
@@ -1975,9 +1975,9 @@
         "repo": "neogit"
       },
       "branch": "master",
-      "revision": "641ae8fc7dc76ba9f1e72a6223b966fb0d7ff8f8",
-      "url": "https://github.com/TimUntersberger/neogit/archive/641ae8fc7dc76ba9f1e72a6223b966fb0d7ff8f8.tar.gz",
-      "hash": "0nmpxb4y0qkq0nwy6mqp7c4qxdmwxyinywvf8rz826r2nv5j9awv"
+      "revision": "75ee709d18625a94aef90d94ccac4e562c9a0046",
+      "url": "https://github.com/TimUntersberger/neogit/archive/75ee709d18625a94aef90d94ccac4e562c9a0046.tar.gz",
+      "hash": "0l45k7bkgr0s932y8ddlsqj09kr0j2qfiqw11yl5x3wrcgrscf2x"
     },
     "neon": {
       "type": "Git",
@@ -2803,9 +2803,9 @@
         "repo": "nvim-web-devicons"
       },
       "branch": "master",
-      "revision": "26220156aafb198b2de6a4cf80c1b120a3768da0",
-      "url": "https://github.com/kyazdani42/nvim-web-devicons/archive/26220156aafb198b2de6a4cf80c1b120a3768da0.tar.gz",
-      "hash": "11ndzzh43xhbb6gmjcqjyinb87ijsvwshmxbxinlpw712zdiyfpn"
+      "revision": "1e5a2a796a88b5d696acb07dd5c285b13d13da21",
+      "url": "https://github.com/kyazdani42/nvim-web-devicons/archive/1e5a2a796a88b5d696acb07dd5c285b13d13da21.tar.gz",
+      "hash": "14m7fsav3raix9r2jksv2qdl9lz8a9vq87j6vljk4ji9451lhjlx"
     },
     "obsidian-nvim": {
       "type": "Git",
