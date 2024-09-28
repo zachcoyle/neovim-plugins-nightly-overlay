@@ -1244,9 +1244,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "86b77a661ff38bf08b1ceb5a6c3c257285a42a4d",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/86b77a661ff38bf08b1ceb5a6c3c257285a42a4d.tar.gz",
-      "hash": "0cwx9qxigkhpldl5v97bg2vhnxqrjr229pcnz5k4ki79f0x9frxv"
+      "revision": "fb00a0dec19ad03140f26b56fa76973c921147dc",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/fb00a0dec19ad03140f26b56fa76973c921147dc.tar.gz",
+      "hash": "0fm73wjrvpds027313wjwi8xnm2srdsr53vk489i4fx2karjsj9p"
     },
     "galaxyline-nvim": {
       "type": "Git",
@@ -1676,9 +1676,9 @@
         "repo": "lightline.vim"
       },
       "branch": "master",
-      "revision": "58c97bc21c6f657d3babdd4eefce7593e30e75ce",
-      "url": "https://github.com/itchyny/lightline.vim/archive/58c97bc21c6f657d3babdd4eefce7593e30e75ce.tar.gz",
-      "hash": "1g6yqaibf6khskhdxd3amcs7azmsb3cvz9nx4bgxrv7r6vb8bjg0"
+      "revision": "d6a07ea376a4b7372aa59e7ea6a051c9470bb4d0",
+      "url": "https://github.com/itchyny/lightline.vim/archive/d6a07ea376a4b7372aa59e7ea6a051c9470bb4d0.tar.gz",
+      "hash": "0n7ljlczy70ra12hf6szz2997i46iadjy67lad3avk9ybzzn5fmi"
     },
     "lsp-format-nvim": {
       "type": "Git",
