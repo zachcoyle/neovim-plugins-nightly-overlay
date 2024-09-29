@@ -2563,9 +2563,9 @@
         "repo": "nvim-lspconfig"
       },
       "branch": "master",
-      "revision": "77029ece81b69208ffcc16f150d0946d54015a14",
-      "url": "https://github.com/neovim/nvim-lspconfig/archive/77029ece81b69208ffcc16f150d0946d54015a14.tar.gz",
-      "hash": "1hr8b9b2dry4pbg5dfbb5v3dlg3n90blay3yzmxb0sf7w1ayvfps"
+      "revision": "0678aa439b82965daf03679cd146e84f10e299c3",
+      "url": "https://github.com/neovim/nvim-lspconfig/archive/0678aa439b82965daf03679cd146e84f10e299c3.tar.gz",
+      "hash": "184qchilj66m6qrzrzkk8xyhf10cvrwm475viqs6dxdnzlazi2ms"
     },
     "nvim-navbuddy": {
       "type": "Git",
@@ -2635,9 +2635,9 @@
         "repo": "nvim-scrollview"
       },
       "branch": "main",
-      "revision": "401c0498689dcaa54b2e7483d823e33cdc051e72",
-      "url": "https://github.com/dstein64/nvim-scrollview/archive/401c0498689dcaa54b2e7483d823e33cdc051e72.tar.gz",
-      "hash": "1j6y0mv56ykip6cf9n4pragqxbcb73p3zmj6n7h3ppsncs5993ma"
+      "revision": "2a0ba552442638d1746379d8b8f3ba2df7d0bdf0",
+      "url": "https://github.com/dstein64/nvim-scrollview/archive/2a0ba552442638d1746379d8b8f3ba2df7d0bdf0.tar.gz",
+      "hash": "057lyn26q7hzb8h22xqpk0flv56zal7lgcjhw70qn6bs97v4jwm4"
     },
     "nvim-snippets": {
       "type": "Git",
