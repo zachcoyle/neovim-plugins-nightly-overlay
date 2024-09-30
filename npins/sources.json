@@ -2155,9 +2155,9 @@
         "repo": "neotest-haskell"
       },
       "branch": "master",
-      "revision": "5429318dc128db73f8022a45fb46ab00a90937d8",
-      "url": "https://github.com/mrcjkb/neotest-haskell/archive/5429318dc128db73f8022a45fb46ab00a90937d8.tar.gz",
-      "hash": "10ljfnklkbss26ki1mr19aw02ar0yq9hagk8v83d8l3xzix034p0"
+      "revision": "36eed805a815652eaba863c3fb29a53bfd0be083",
+      "url": "https://github.com/mrcjkb/neotest-haskell/archive/36eed805a815652eaba863c3fb29a53bfd0be083.tar.gz",
+      "hash": "0r2xfw34cir7k5bgcgfn3bpy7vafr794dz7kd4zijcbj65lfg9xy"
     },
     "neotest-java": {
       "type": "Git",
@@ -2719,9 +2719,9 @@
         "repo": "nvim-treesitter"
       },
       "branch": "master",
-      "revision": "140f534ce9c02189921b80f5c8a68ab9e3f92ce8",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/140f534ce9c02189921b80f5c8a68ab9e3f92ce8.tar.gz",
-      "hash": "0wy98j0rvpybd13jw398yk7x82lrqkgwcs92k6g3lpq75kacfn7n"
+      "revision": "d1e1f17cea23f14cbe230635b9bb654a835f02d7",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/d1e1f17cea23f14cbe230635b9bb654a835f02d7.tar.gz",
+      "hash": "19icjyxlnx15l9vcds5q4swq1cyqvn2nsdqm3dqqfr91i1mh1xqk"
     },
     "nvim-treesitter-context": {
       "type": "Git",
@@ -3439,9 +3439,9 @@
         "repo": "telescope.nvim"
       },
       "branch": "master",
-      "revision": "cb3f98d935842836cc115e8c9e4b38c1380fbb6b",
-      "url": "https://github.com/nvim-telescope/telescope.nvim/archive/cb3f98d935842836cc115e8c9e4b38c1380fbb6b.tar.gz",
-      "hash": "05d8ziw6y8530rd8gal0shija3cb3d9bm7yhy6k1jh5m5ni1rpkg"
+      "revision": "eae0d8fbde590b0eaa2f9481948cd6fd7dd21656",
+      "url": "https://github.com/nvim-telescope/telescope.nvim/archive/eae0d8fbde590b0eaa2f9481948cd6fd7dd21656.tar.gz",
+      "hash": "06lqkxp7j6d6lh9pl7975214dz16zbbfq9hacrnhd6wnyq002193"
     },
     "telescope-packer-nvim": {
       "type": "Git",
