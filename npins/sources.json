@@ -992,9 +992,9 @@
         "repo": "coq_nvim"
       },
       "branch": "coq",
-      "revision": "f3ac90a86f891889ebff9b29e8056ccfb2d43b7f",
-      "url": "https://github.com/ms-jpq/coq_nvim/archive/f3ac90a86f891889ebff9b29e8056ccfb2d43b7f.tar.gz",
-      "hash": "0bl8x9pznjcsi6rjmwak1jsp3h7c04zlr2kb31gpqq33mvq28pbk"
+      "revision": "c56c8236a9d2fec45a4627bb13d1f00fa03bf54f",
+      "url": "https://github.com/ms-jpq/coq_nvim/archive/c56c8236a9d2fec45a4627bb13d1f00fa03bf54f.tar.gz",
+      "hash": "0hpfy2z824fibvmkrvf4aji34jfw7h2y55a6yc4nnhjp3828mbhx"
     },
     "crates-nvim": {
       "type": "Git",
@@ -4075,9 +4075,9 @@
         "repo": "vimtex"
       },
       "branch": "master",
-      "revision": "b9cc11536a4e726c58c4776e9bcecff26fc454cb",
-      "url": "https://github.com/lervag/vimtex/archive/b9cc11536a4e726c58c4776e9bcecff26fc454cb.tar.gz",
-      "hash": "17fl1gyax3ia0jk15n0c5863njcprg3zjicw87kb95vkx0gy5wzw"
+      "revision": "be2c13c76eb4c72b2d036900aa17b4b8200ddfb5",
+      "url": "https://github.com/lervag/vimtex/archive/be2c13c76eb4c72b2d036900aa17b4b8200ddfb5.tar.gz",
+      "hash": "1maa7g91bk9jni14p4jvk1bhzgwzyg15a41l19skc9sb1vk1y82h"
     },
     "virt-column-nvim": {
       "type": "Git",
