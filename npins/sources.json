@@ -44,9 +44,9 @@
         "repo": "SchemaStore.nvim"
       },
       "branch": "main",
-      "revision": "63836d8d9e17755c67919f5840ead0efd0bc0098",
-      "url": "https://github.com/b0o/SchemaStore.nvim/archive/63836d8d9e17755c67919f5840ead0efd0bc0098.tar.gz",
-      "hash": "0gpw82xgn9fbxvf9p3wn1imjcxfbmqg1m697j6g3d8yskx7zr1mh"
+      "revision": "c3c96332d80b8511697711d8036049128119f771",
+      "url": "https://github.com/b0o/SchemaStore.nvim/archive/c3c96332d80b8511697711d8036049128119f771.tar.gz",
+      "hash": "0xa7nrgn2nhd0pgf3bn15sba9wmh1w9m14gkxysz48f234zsmnax"
     },
     "alpha-nvim": {
       "type": "Git",
@@ -884,9 +884,9 @@
         "repo": "competitest.nvim"
       },
       "branch": "master",
-      "revision": "4ef440c20eec0be407f455f5db4bfad4acb2641e",
-      "url": "https://github.com/xeluxee/competitest.nvim/archive/4ef440c20eec0be407f455f5db4bfad4acb2641e.tar.gz",
-      "hash": "1s8akxwws2z2kvw6xw8qpmfdv5bryblfwbw32jri83dk6iijkir6"
+      "revision": "20ce9ba1b2f7502291a23ad06096e6650917f0c2",
+      "url": "https://github.com/xeluxee/competitest.nvim/archive/20ce9ba1b2f7502291a23ad06096e6650917f0c2.tar.gz",
+      "hash": "0a4s1i294nm27n23crx0sqwzac8q8cnz9ddwmdh01fbk9i7w1ffr"
     },
     "compiler-nvim": {
       "type": "Git",
