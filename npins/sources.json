@@ -56,9 +56,9 @@
         "repo": "alpha-nvim"
       },
       "branch": "main",
-      "revision": "b6f4129302db197a7249e67a90de3f2b676de13e",
-      "url": "https://github.com/goolord/alpha-nvim/archive/b6f4129302db197a7249e67a90de3f2b676de13e.tar.gz",
-      "hash": "1zvzavhvpdf5xm4lcz43d7zqkpicam3gydxgy389xs9p6fdc9ww2"
+      "revision": "bf3c8bb8c02ed3d9644cc5bbc48e2bdc39349cd7",
+      "url": "https://github.com/goolord/alpha-nvim/archive/bf3c8bb8c02ed3d9644cc5bbc48e2bdc39349cd7.tar.gz",
+      "hash": "0d1yrranhin6hmg77v81q0wa4xj4y1bfn2a4s6l33qa2zly62yfz"
     },
     "arrow-nvim": {
       "type": "Git",
