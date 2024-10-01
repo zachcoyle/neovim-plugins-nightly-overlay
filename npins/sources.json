@@ -1016,9 +1016,9 @@
         "repo": "cyberdream.nvim"
       },
       "branch": "main",
-      "revision": "57fc3af9a8adcf1655fa4e70164bddd2ed898f60",
-      "url": "https://github.com/scottmckendry/cyberdream.nvim/archive/57fc3af9a8adcf1655fa4e70164bddd2ed898f60.tar.gz",
-      "hash": "1dq7n30h1qqyipgickpcjwc4jzixdhb8bqsqpp16maq2rnjwd9xr"
+      "revision": "61dcce0800bd2ea70108963c6b4633f7e18157d6",
+      "url": "https://github.com/scottmckendry/cyberdream.nvim/archive/61dcce0800bd2ea70108963c6b4633f7e18157d6.tar.gz",
+      "hash": "0f2sryhc1qmnp9nnpskg2nmajis8wq6j5v2b21r6hdp51lnnxwlf"
     },
     "dashboard-nvim": {
       "type": "Git",
@@ -2635,9 +2635,9 @@
         "repo": "nvim-scrollview"
       },
       "branch": "main",
-      "revision": "2a0ba552442638d1746379d8b8f3ba2df7d0bdf0",
-      "url": "https://github.com/dstein64/nvim-scrollview/archive/2a0ba552442638d1746379d8b8f3ba2df7d0bdf0.tar.gz",
-      "hash": "057lyn26q7hzb8h22xqpk0flv56zal7lgcjhw70qn6bs97v4jwm4"
+      "revision": "75a91f6666b80f4e738e5caf61b798e525229547",
+      "url": "https://github.com/dstein64/nvim-scrollview/archive/75a91f6666b80f4e738e5caf61b798e525229547.tar.gz",
+      "hash": "0x0ygq4yzr8824im8qra1jid06n4039q6kg3nhv332c3ckywn7c7"
     },
     "nvim-snippets": {
       "type": "Git",
