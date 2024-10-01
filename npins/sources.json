@@ -1016,9 +1016,9 @@
         "repo": "cyberdream.nvim"
       },
       "branch": "main",
-      "revision": "61dcce0800bd2ea70108963c6b4633f7e18157d6",
-      "url": "https://github.com/scottmckendry/cyberdream.nvim/archive/61dcce0800bd2ea70108963c6b4633f7e18157d6.tar.gz",
-      "hash": "0f2sryhc1qmnp9nnpskg2nmajis8wq6j5v2b21r6hdp51lnnxwlf"
+      "revision": "0b808734ad8c1b321131f9a82879465496d99eef",
+      "url": "https://github.com/scottmckendry/cyberdream.nvim/archive/0b808734ad8c1b321131f9a82879465496d99eef.tar.gz",
+      "hash": "03c895ifz3k41nfn1rv6giy7cal5bs8arm8c5k6karkfqppc0as8"
     },
     "dashboard-nvim": {
       "type": "Git",
@@ -2011,9 +2011,9 @@
         "repo": "neorg"
       },
       "branch": "main",
-      "revision": "ba35900b21921c439e676b063a79c8fad914eac9",
-      "url": "https://github.com/vhyrro/neorg/archive/ba35900b21921c439e676b063a79c8fad914eac9.tar.gz",
-      "hash": "12sgvf7zbabxvmdf07cv8rcql6jdgdv5xdcn7v5w42q8lg9mps10"
+      "revision": "afc9a37bf021acb0853e95714c4c6436e1588286",
+      "url": "https://github.com/vhyrro/neorg/archive/afc9a37bf021acb0853e95714c4c6436e1588286.tar.gz",
+      "hash": "197zgch9ksxppxc3bsm3cx8jaar0sna4abb5j5iyvdmj4bmr1xf9"
     },
     "neoscroll-nvim": {
       "type": "Git",
