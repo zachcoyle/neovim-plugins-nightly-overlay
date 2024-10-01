@@ -1652,9 +1652,9 @@
         "repo": "lean.nvim"
       },
       "branch": "main",
-      "revision": "c9ea0f9c3857cc7e89e18725595e79cd883ee441",
-      "url": "https://github.com/Julian/lean.nvim/archive/c9ea0f9c3857cc7e89e18725595e79cd883ee441.tar.gz",
-      "hash": "12sqq39qfc60fmkjn915a321s0fi5a9p2qniba491qdjxf7qx707"
+      "revision": "c04a0a0264a8b6d9639a26da1ec942774f2d32b1",
+      "url": "https://github.com/Julian/lean.nvim/archive/c04a0a0264a8b6d9639a26da1ec942774f2d32b1.tar.gz",
+      "hash": "08x58i7hn82pxz8d97ya3bgi0kmn3wvnz5q0cwbp518g5mnbbm9s"
     },
     "leap-nvim": {
       "type": "Git",
@@ -4219,9 +4219,9 @@
         "repo": "zk-nvim"
       },
       "branch": "main",
-      "revision": "8942fcc7ba2477e3e0d8097c806eec41cd844fd1",
-      "url": "https://github.com/zk-org/zk-nvim/archive/8942fcc7ba2477e3e0d8097c806eec41cd844fd1.tar.gz",
-      "hash": "14psk650j0n39n5dnz14idxkwywls5dspbaz0bpsvq5qzfdxm0bq"
+      "revision": "16fc98ce3d037418f04c181b5cc0fc4b982ceaed",
+      "url": "https://github.com/zk-org/zk-nvim/archive/16fc98ce3d037418f04c181b5cc0fc4b982ceaed.tar.gz",
+      "hash": "11ggr5qc6kzn3r0y5waqd8i8ax6if2dx08m0w2p739k1wgy1285l"
     }
   },
   "version": 3
