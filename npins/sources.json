@@ -1640,9 +1640,9 @@
         "repo": "lazygit.nvim"
       },
       "branch": "main",
-      "revision": "2432b447483f42ff2e18b2d392cb2bb27e495c08",
-      "url": "https://github.com/kdheepak/lazygit.nvim/archive/2432b447483f42ff2e18b2d392cb2bb27e495c08.tar.gz",
-      "hash": "0mwx0vdsid6crzwv30wayhw2qszynr6xyrmkbpxik26ghgwcpzb0"
+      "revision": "56760339a81cd1540d5a72fd9d93010a2677b55d",
+      "url": "https://github.com/kdheepak/lazygit.nvim/archive/56760339a81cd1540d5a72fd9d93010a2677b55d.tar.gz",
+      "hash": "0ijnvccjhdg0fqc61xr7h9f5k6ishx15z45w3h2c4b82bklihc3n"
     },
     "lean-nvim": {
       "type": "Git",
@@ -2563,9 +2563,9 @@
         "repo": "nvim-lspconfig"
       },
       "branch": "master",
-      "revision": "0678aa439b82965daf03679cd146e84f10e299c3",
-      "url": "https://github.com/neovim/nvim-lspconfig/archive/0678aa439b82965daf03679cd146e84f10e299c3.tar.gz",
-      "hash": "184qchilj66m6qrzrzkk8xyhf10cvrwm475viqs6dxdnzlazi2ms"
+      "revision": "36f21ab9555dacac485f35059e20f327501320d5",
+      "url": "https://github.com/neovim/nvim-lspconfig/archive/36f21ab9555dacac485f35059e20f327501320d5.tar.gz",
+      "hash": "056pjswqyks25yawzdslir08bkj7zg6sjc68b61qh9pa33iwipdf"
     },
     "nvim-navbuddy": {
       "type": "Git",
