@@ -824,9 +824,9 @@
         "repo": "codeium.vim"
       },
       "branch": "main",
-      "revision": "dfe75c688a8ee9c3d192c51b6e7d315a3ca37d74",
-      "url": "https://github.com/Exafunction/codeium.vim/archive/dfe75c688a8ee9c3d192c51b6e7d315a3ca37d74.tar.gz",
-      "hash": "0fh0ksd18b4zxbqsdnblvz852r4fm42ilpj33mnj2wmj4z43hpyb"
+      "revision": "5644ac5a0e098ca0cf5deed1c909c3fa5e9901f3",
+      "url": "https://github.com/Exafunction/codeium.vim/archive/5644ac5a0e098ca0cf5deed1c909c3fa5e9901f3.tar.gz",
+      "hash": "141cw5zgd03swmi3djx3vrgsps9yz1d5qbwwa1jsakvqzrdjawgd"
     },
     "codesnap-nvim": {
       "type": "Git",
@@ -1903,9 +1903,9 @@
         "repo": "modus-themes.nvim"
       },
       "branch": "master",
-      "revision": "162bc34b4d670fa4d8d1407924c0f855985fcc2c",
-      "url": "https://github.com/miikanissi/modus-themes.nvim/archive/162bc34b4d670fa4d8d1407924c0f855985fcc2c.tar.gz",
-      "hash": "0d6jf6041lwkm4saxmh0zlfd0427z1vcxj9xdfl138b082csnfds"
+      "revision": "24b34562a71cb75769411ca3146d35c093e7f4e6",
+      "url": "https://github.com/miikanissi/modus-themes.nvim/archive/24b34562a71cb75769411ca3146d35c093e7f4e6.tar.gz",
+      "hash": "1lg0y8ravnsk1swdx8k5668yrly6hlzs2jg9fl01x0b211xn5xx6"
     },
     "molten-nvim": {
       "type": "Git",
