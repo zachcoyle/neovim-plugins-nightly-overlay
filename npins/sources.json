@@ -1652,9 +1652,9 @@
         "repo": "lean.nvim"
       },
       "branch": "main",
-      "revision": "c04a0a0264a8b6d9639a26da1ec942774f2d32b1",
-      "url": "https://github.com/Julian/lean.nvim/archive/c04a0a0264a8b6d9639a26da1ec942774f2d32b1.tar.gz",
-      "hash": "08x58i7hn82pxz8d97ya3bgi0kmn3wvnz5q0cwbp518g5mnbbm9s"
+      "revision": "acd713fa60fc6d056983291a6ebbe0f26bb1d18a",
+      "url": "https://github.com/Julian/lean.nvim/archive/acd713fa60fc6d056983291a6ebbe0f26bb1d18a.tar.gz",
+      "hash": "0q8hx42mis70z1h0nfvm8m5y484i0mp8dnkcfj7w0w5vydrr1lxz"
     },
     "leap-nvim": {
       "type": "Git",
@@ -4159,9 +4159,9 @@
         "repo": "yazi.nvim"
       },
       "branch": "main",
-      "revision": "1f8bcc422956e347d2fe5e2f1e323d45130ae399",
-      "url": "https://github.com/mikavilpas/yazi.nvim/archive/1f8bcc422956e347d2fe5e2f1e323d45130ae399.tar.gz",
-      "hash": "1xwl3k5l40z2wz6frgr4bg5pi1v0107nhljz6mwbldzxpfzjakyh"
+      "revision": "742236854c88b54592905c0b46e859c7eda8f4b6",
+      "url": "https://github.com/mikavilpas/yazi.nvim/archive/742236854c88b54592905c0b46e859c7eda8f4b6.tar.gz",
+      "hash": "1kkbx0bv2297jdfyq9iqdk3jlb0cw3i5x6wfz3a2ksj8yga1h140"
     },
     "yuck-vim": {
       "type": "Git",
