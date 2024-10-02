@@ -2035,9 +2035,9 @@
         "repo": "neotest"
       },
       "branch": "master",
-      "revision": "48f8b5fce704594eb0ff94338e080defca14f0dc",
-      "url": "https://github.com/nvim-neotest/neotest/archive/48f8b5fce704594eb0ff94338e080defca14f0dc.tar.gz",
-      "hash": "0cr3qbds7g5ybndaaiafh758v6igzjz65l81mqragk9kcajkwkip"
+      "revision": "6d3d22cdad49999ef774ebe1bc250a4994038964",
+      "url": "https://github.com/nvim-neotest/neotest/archive/6d3d22cdad49999ef774ebe1bc250a4994038964.tar.gz",
+      "hash": "10zac93v1i9iqbwwy4hb1q4wmwxg1nf9dmlywx6qmlkq0scnqg80"
     },
     "neotest-bash": {
       "type": "Git",
@@ -2251,9 +2251,9 @@
         "repo": "neotest-python"
       },
       "branch": "master",
-      "revision": "72603dfdbaad5695160268cb10531a14cc37236e",
-      "url": "https://github.com/nvim-neotest/neotest-python/archive/72603dfdbaad5695160268cb10531a14cc37236e.tar.gz",
-      "hash": "1d8rcpvgr4x2p3bg37kzsnfydibhb7rpyqb10sgxsjz0ylgmv7jr"
+      "revision": "a2861ab3c9a0bf75a56b11835c2bfc8270f5be7e",
+      "url": "https://github.com/nvim-neotest/neotest-python/archive/a2861ab3c9a0bf75a56b11835c2bfc8270f5be7e.tar.gz",
+      "hash": "1m78f9bxsl548f1pcrmbndmnwdplvhqynpm86pv080272ci9msgy"
     },
     "neotest-rspec": {
       "type": "Git",
@@ -2347,9 +2347,9 @@
         "repo": "noice.nvim"
       },
       "branch": "main",
-      "revision": "86c3ab04eaddeed901a5495bc350a0235a2a11bc",
-      "url": "https://github.com/folke/noice.nvim/archive/86c3ab04eaddeed901a5495bc350a0235a2a11bc.tar.gz",
-      "hash": "049n7fknm4vf96lpnrxlcyfxdjv7hfnhrhzn6d5yn3sqb3vl8v74"
+      "revision": "df448c649ef6bc5a6a633a44f2ad0ed8d4442499",
+      "url": "https://github.com/folke/noice.nvim/archive/df448c649ef6bc5a6a633a44f2ad0ed8d4442499.tar.gz",
+      "hash": "1qsnvg41wmvx9gip11lka21gq04f59ydm0x3pdri99irbqzy0azn"
     },
     "none-ls-nvim": {
       "type": "Git",
@@ -2563,9 +2563,9 @@
         "repo": "nvim-lspconfig"
       },
       "branch": "master",
-      "revision": "e6569c18c21be5166e4b9cc7530e828b8285c84e",
-      "url": "https://github.com/neovim/nvim-lspconfig/archive/e6569c18c21be5166e4b9cc7530e828b8285c84e.tar.gz",
-      "hash": "0c4xzsv7mllv44r7chc4xyvj46vsfyadar0vwwzq010wnraimlj6"
+      "revision": "38cd54b7063c4c45fb37c73ebfbd776939d0cfde",
+      "url": "https://github.com/neovim/nvim-lspconfig/archive/38cd54b7063c4c45fb37c73ebfbd776939d0cfde.tar.gz",
+      "hash": "0dk204564k42ni1jrryjzk58mhksq3340krrnp03gis4lm8qx935"
     },
     "nvim-navbuddy": {
       "type": "Git",
@@ -3199,9 +3199,9 @@
         "repo": "solarized.nvim"
       },
       "branch": "main",
-      "revision": "fe6d32a3eb0741b7eb976fa19601dc75e2fb64df",
-      "url": "https://github.com/maxmx03/solarized.nvim/archive/fe6d32a3eb0741b7eb976fa19601dc75e2fb64df.tar.gz",
-      "hash": "0rjr65pp8hbgjzlqx0mi4irh92axs5pvvdz0dgsxxwnqax5y9an2"
+      "revision": "f85f000c3e46714fee52cee3adf9f9661a048e40",
+      "url": "https://github.com/maxmx03/solarized.nvim/archive/f85f000c3e46714fee52cee3adf9f9661a048e40.tar.gz",
+      "hash": "1f6nim66127mq9rnxriqz6g6bp2rmc79dwg13p6kgxwya4mnwknn"
     },
     "specs-nvim": {
       "type": "Git",
