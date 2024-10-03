@@ -1879,9 +1879,9 @@
         "repo": "mini.nvim"
       },
       "branch": "main",
-      "revision": "848c5e8f428faf843051768e0d56104cd02aea1f",
-      "url": "https://github.com/echasnovski/mini.nvim/archive/848c5e8f428faf843051768e0d56104cd02aea1f.tar.gz",
-      "hash": "1n14lygrbkimqncg752c5znm48lm3hizvbsswq0z5q8q6c7ww8fm"
+      "revision": "61e5d46fc0cf71306c51275383767d996f559a60",
+      "url": "https://github.com/echasnovski/mini.nvim/archive/61e5d46fc0cf71306c51275383767d996f559a60.tar.gz",
+      "hash": "10kcjv2bp4wzywa2r90sb0mwng7qm3xpar499jzjyrwmlj80i38v"
     },
     "mkdnflow-nvim": {
       "type": "Git",
@@ -2551,9 +2551,9 @@
         "repo": "nvim-lint"
       },
       "branch": "master",
-      "revision": "93b309e07f73897a57d7dbb2067ed5c3a5e15719",
-      "url": "https://github.com/mfussenegger/nvim-lint/archive/93b309e07f73897a57d7dbb2067ed5c3a5e15719.tar.gz",
-      "hash": "1pnky60czsis00wg5d57r06i2fismbp3mrdj3h2g3kvf6znyl933"
+      "revision": "27f44d1cc3d733a38a736acb902f94879d99c76c",
+      "url": "https://github.com/mfussenegger/nvim-lint/archive/27f44d1cc3d733a38a736acb902f94879d99c76c.tar.gz",
+      "hash": "02632rx9sn954ds17wb30lznaqnf2cfsdl9a0vnj7zig4q0yss73"
     },
     "nvim-lspconfig": {
       "type": "Git",
@@ -2563,9 +2563,9 @@
         "repo": "nvim-lspconfig"
       },
       "branch": "master",
-      "revision": "8868928d20b392e24dafaafff8c1d75167726fbe",
-      "url": "https://github.com/neovim/nvim-lspconfig/archive/8868928d20b392e24dafaafff8c1d75167726fbe.tar.gz",
-      "hash": "0kl1dc18w2nsn6ppwl5sskal5f7p8z7zjpskjgg1jmm7hzwi0hrv"
+      "revision": "1c2595e38da319a1a58c94f58afe6fe6fe02e292",
+      "url": "https://github.com/neovim/nvim-lspconfig/archive/1c2595e38da319a1a58c94f58afe6fe6fe02e292.tar.gz",
+      "hash": "0ab5yk6zw1clz8lwcgmvdzrm5b122s88w0d2wzqcyvir1brv4k18"
     },
     "nvim-navbuddy": {
       "type": "Git",
