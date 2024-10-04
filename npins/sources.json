@@ -4127,6 +4127,18 @@
       "url": "https://github.com/gelguy/wilder.nvim/archive/679f348dc90d80ff9ba0e7c470c40a4d038dcecf.tar.gz",
       "hash": "01b59fn1k0p03sifihws80zjf3kch9w52bn283yk5sn3jahz1cld"
     },
+    "wrapping-nvim": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "andrewferrier",
+        "repo": "wrapping.nvim"
+      },
+      "branch": "master",
+      "revision": "a5210c29be19ed736eb3333677e08a57efebce78",
+      "url": "https://github.com/andrewferrier/wrapping.nvim/archive/a5210c29be19ed736eb3333677e08a57efebce78.tar.gz",
+      "hash": "02fvg2rrbklr3dns2x726icgv6ilmdwkz25q4nf9mnwr4bbrd212"
+    },
     "wtf-nvim": {
       "type": "Git",
       "repository": {
