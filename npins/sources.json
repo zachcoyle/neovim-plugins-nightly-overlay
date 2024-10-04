@@ -108,6 +108,18 @@
       "url": "https://github.com/m4xshen/autoclose.nvim/archive/b2077aa2c83df7ebc19b2a20a3a0654b24ae9c8f.tar.gz",
       "hash": "0qsaiwn3fznzzda9xw0v4ss6cyhladiwikslbnh0w29qz732g0lq"
     },
+    "avante-nvim": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "yetone",
+        "repo": "avante.nvim"
+      },
+      "branch": "main",
+      "revision": "0705234991d03170a72582085dc508600a03a779",
+      "url": "https://github.com/yetone/avante.nvim/archive/0705234991d03170a72582085dc508600a03a779.tar.gz",
+      "hash": "1y9iq7ziifks6hinrfwq72pg3c2yvfm6klcy4rchnr5pliia025l"
+    },
     "baleia-nvim": {
       "type": "Git",
       "repository": {
