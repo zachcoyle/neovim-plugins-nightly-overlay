@@ -1116,6 +1116,18 @@
       "url": "https://github.com/Bekaboo/dropbar.nvim/archive/669e325489202ae4da5a951314bbf8dbb20e7cff.tar.gz",
       "hash": "056iyj4l3rjb6w5vg0h8w7mn930dj74fknra1282xdiz5qf70myx"
     },
+    "earthly-vim": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "earthly",
+        "repo": "earthly.vim"
+      },
+      "branch": "main",
+      "revision": "cb0440a357a09fb9234ece56a6b09e04d25c1b1d",
+      "url": "https://github.com/earthly/earthly.vim/archive/cb0440a357a09fb9234ece56a6b09e04d25c1b1d.tar.gz",
+      "hash": "038g9sjik2jn5la06k7i5xfnzc28faibskn2fikgrxwlx240c8wv"
+    },
     "edgy-nvim": {
       "type": "Git",
       "repository": {
