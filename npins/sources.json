@@ -836,9 +836,9 @@
         "repo": "codeium.vim"
       },
       "branch": "main",
-      "revision": "5644ac5a0e098ca0cf5deed1c909c3fa5e9901f3",
-      "url": "https://github.com/Exafunction/codeium.vim/archive/5644ac5a0e098ca0cf5deed1c909c3fa5e9901f3.tar.gz",
-      "hash": "141cw5zgd03swmi3djx3vrgsps9yz1d5qbwwa1jsakvqzrdjawgd"
+      "revision": "b9be24761977b64c100db1c8745635d46172a4e2",
+      "url": "https://github.com/Exafunction/codeium.vim/archive/b9be24761977b64c100db1c8745635d46172a4e2.tar.gz",
+      "hash": "0d9h6a6l9r59b7vc410lc4a5xig355imfd1kc122dlbxrx7q3d8w"
     },
     "codesnap-nvim": {
       "type": "Git",
@@ -2839,9 +2839,9 @@
         "repo": "nvim-web-devicons"
       },
       "branch": "master",
-      "revision": "6b53401918a9033a41159d012160c5fb5eb249ae",
-      "url": "https://github.com/kyazdani42/nvim-web-devicons/archive/6b53401918a9033a41159d012160c5fb5eb249ae.tar.gz",
-      "hash": "1bncyvmx5x0ic8xi2bw533lvgzkghiwfkiy4ir2rbhcq4c579j1g"
+      "revision": "56f17def81478e406e3a8ec4aa727558e79786f3",
+      "url": "https://github.com/kyazdani42/nvim-web-devicons/archive/56f17def81478e406e3a8ec4aa727558e79786f3.tar.gz",
+      "hash": "1855li3b7j64w1m1jxqxxdsdf0m6vs8migddhkrfkz6nmm1f3lfq"
     },
     "obsidian-nvim": {
       "type": "Git",
