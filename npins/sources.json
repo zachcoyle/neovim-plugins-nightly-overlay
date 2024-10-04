@@ -2503,9 +2503,9 @@
         "repo": "nvim-dap-virtual-text"
       },
       "branch": "master",
-      "revision": "3497eb39bf413a57ab5b7e7e2e192683e462148c",
-      "url": "https://github.com/theHamsta/nvim-dap-virtual-text/archive/3497eb39bf413a57ab5b7e7e2e192683e462148c.tar.gz",
-      "hash": "1nv58ds5cxkbwcip1kd7s6kzhn0h33869qmkmjhn3ibykszhz0d4"
+      "revision": "52638640ae309cacdaff785fdbb854437bd1ee5c",
+      "url": "https://github.com/theHamsta/nvim-dap-virtual-text/archive/52638640ae309cacdaff785fdbb854437bd1ee5c.tar.gz",
+      "hash": "1rq9df6dasyfdix2wr812r5cffjsqw4i6bpxr22bacw6w656rzz6"
     },
     "nvim-jdtls": {
       "type": "Git",
@@ -3151,9 +3151,9 @@
         "repo": "smart-splits.nvim"
       },
       "branch": "master",
-      "revision": "7796d530559048481953bd1dcbdcfc776f636fb8",
-      "url": "https://github.com/mrjones2014/smart-splits.nvim/archive/7796d530559048481953bd1dcbdcfc776f636fb8.tar.gz",
-      "hash": "10hlx9mazjys9m79dirz6kj7p2469a30mhdkrf7zfm8fgxbhn5pd"
+      "revision": "0523920a07c54eea7610f342ca8c1bddbee4b626",
+      "url": "https://github.com/mrjones2014/smart-splits.nvim/archive/0523920a07c54eea7610f342ca8c1bddbee4b626.tar.gz",
+      "hash": "1cccikkr5gvxv0ml23la4gsma6nyanr1a0h00mx949cwjl9q9m4s"
     },
     "smartcolumn-nvim": {
       "type": "Git",
@@ -4159,9 +4159,9 @@
         "repo": "yazi.nvim"
       },
       "branch": "main",
-      "revision": "b6ac040a9c9671c1a546992f8449d903259e2249",
-      "url": "https://github.com/mikavilpas/yazi.nvim/archive/b6ac040a9c9671c1a546992f8449d903259e2249.tar.gz",
-      "hash": "0jckq3k4jcalh3qc6k2ka89y3lgdr8vpq3my07cyplgnsih954b5"
+      "revision": "52e78170eca70f872ce08511c34f25674fa6c4b9",
+      "url": "https://github.com/mikavilpas/yazi.nvim/archive/52e78170eca70f872ce08511c34f25674fa6c4b9.tar.gz",
+      "hash": "17ni77hp1zb866svmnay9vlmhlzcpz4vcbd2hw20xdb2agxjf09x"
     },
     "yuck-vim": {
       "type": "Git",
