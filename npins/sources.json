@@ -3107,6 +3107,18 @@
       "url": "https://github.com/ThePrimeagen/refactoring.nvim/archive/c406fc5fb4d7ba5fce7b668637075fad6e75e9f8.tar.gz",
       "hash": "102h8gcf86540bzs0dgis25x3w9ap0an1v75hskj3y2pbyr7hyvk"
     },
+    "render-markdown-nvim": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "MeanderingProgrammer",
+        "repo": "render-markdown.nvim"
+      },
+      "branch": "main",
+      "revision": "fe1002fddc61207e4ef4325d4bc0ca33697bbc7a",
+      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/fe1002fddc61207e4ef4325d4bc0ca33697bbc7a.tar.gz",
+      "hash": "1srxz1916qbbgaf2xxp29sdvjib9j4kfqjr7qb0grddk7s5hrywz"
+    },
     "rest-nvim": {
       "type": "Git",
       "repository": {
