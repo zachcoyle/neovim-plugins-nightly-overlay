@@ -116,9 +116,9 @@
         "repo": "avante.nvim"
       },
       "branch": "main",
-      "revision": "0705234991d03170a72582085dc508600a03a779",
-      "url": "https://github.com/yetone/avante.nvim/archive/0705234991d03170a72582085dc508600a03a779.tar.gz",
-      "hash": "1y9iq7ziifks6hinrfwq72pg3c2yvfm6klcy4rchnr5pliia025l"
+      "revision": "c3848d086c415c0492fc042b367036763f76fa4c",
+      "url": "https://github.com/yetone/avante.nvim/archive/c3848d086c415c0492fc042b367036763f76fa4c.tar.gz",
+      "hash": "0y9sqg1nj2655g9c0lin9j4nq7mgj2mhlqa16lfywj5qcbzqwd83"
     },
     "baleia-nvim": {
       "type": "Git",
@@ -2755,9 +2755,9 @@
         "repo": "nvim-treesitter"
       },
       "branch": "master",
-      "revision": "45386764cc9535200d2288cab929c5093d33660e",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/45386764cc9535200d2288cab929c5093d33660e.tar.gz",
-      "hash": "1vsa6w7b9xxjc5mdsgim5v3hixx0wwl1jpn7w6dkwsd6l5cswfw8"
+      "revision": "5bcc338c3dfe2164a893c6dbeca4210f65f9c4e2",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/5bcc338c3dfe2164a893c6dbeca4210f65f9c4e2.tar.gz",
+      "hash": "0gxm9aibn100pa3n1pn44i3yrh2z9xxgqhng57z5lnyp296hv0fz"
     },
     "nvim-treesitter-context": {
       "type": "Git",
