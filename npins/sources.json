@@ -824,9 +824,9 @@
         "repo": "codeium.nvim"
       },
       "branch": "main",
-      "revision": "ef36bbbbb22bf3d84ebc270a65c5b3dc0e41282c",
-      "url": "https://github.com/Exafunction/codeium.nvim/archive/ef36bbbbb22bf3d84ebc270a65c5b3dc0e41282c.tar.gz",
-      "hash": "047qc4xmnw0yf65p399bdk8cq894gs4lingxrsbfbabjflr3z03x"
+      "revision": "ed65f0a5262c746b2d69a7ae67af7c1da89f94ab",
+      "url": "https://github.com/Exafunction/codeium.nvim/archive/ed65f0a5262c746b2d69a7ae67af7c1da89f94ab.tar.gz",
+      "hash": "061i7q55mdqsnk02iz37s0k4l00mxgg0xqcb410j0m281knxicmp"
     },
     "codeium-vim": {
       "type": "Git",
@@ -1891,9 +1891,9 @@
         "repo": "markview.nvim"
       },
       "branch": "main",
-      "revision": "4d549f68b5d6d4edc2447bbbd0b650d5c8039942",
-      "url": "https://github.com/OXY2DEV/markview.nvim/archive/4d549f68b5d6d4edc2447bbbd0b650d5c8039942.tar.gz",
-      "hash": "05hzj65d39smwrycrq4rzj9c866vcyp8wrp2qy8y9d3chj1j2k06"
+      "revision": "9b848848703184b3c974a4493043f6a3caba3970",
+      "url": "https://github.com/OXY2DEV/markview.nvim/archive/9b848848703184b3c974a4493043f6a3caba3970.tar.gz",
+      "hash": "1svv849fhsf5rhp5gj9s4sxcrmd93wkh45bsfnxn2hvxh6xiv2mb"
     },
     "melange": {
       "type": "Git",
