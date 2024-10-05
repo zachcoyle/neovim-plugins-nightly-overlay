@@ -272,9 +272,9 @@
         "repo": "clangd_extensions.nvim"
       },
       "branch": "main",
-      "revision": "385a44f133f4145e3a3da1a2a557225dccc3e1f8",
-      "url": "https://github.com/p00f/clangd_extensions.nvim/archive/385a44f133f4145e3a3da1a2a557225dccc3e1f8.tar.gz",
-      "hash": "1fsc5ggzzf3gcgn87pv70wrlakl32dh5kz492m1djgr6c7gzpnnn"
+      "revision": "8f7b72100883e0e34400d9518d40a03f21e4d0a6",
+      "url": "https://github.com/p00f/clangd_extensions.nvim/archive/8f7b72100883e0e34400d9518d40a03f21e4d0a6.tar.gz",
+      "hash": "1rlw3h9f9cnbniqqpv9fv2s63g7s4p8ag4n15xja1r4scfxhyrip"
     },
     "clipboard-image-nvim": {
       "type": "Git",
