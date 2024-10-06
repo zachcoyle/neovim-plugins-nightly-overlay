@@ -1028,9 +1028,9 @@
         "repo": "cyberdream.nvim"
       },
       "branch": "main",
-      "revision": "513c6298b397bad43b061faa12e2744bbbeb7dc5",
-      "url": "https://github.com/scottmckendry/cyberdream.nvim/archive/513c6298b397bad43b061faa12e2744bbbeb7dc5.tar.gz",
-      "hash": "08bvm8s0p4iznxw2p2awlch2nyghc8n89cw5sm97rgd50z7z6mdp"
+      "revision": "f6760d3b7ee3c9949d9ec1cb2f82f683e25c912d",
+      "url": "https://github.com/scottmckendry/cyberdream.nvim/archive/f6760d3b7ee3c9949d9ec1cb2f82f683e25c912d.tar.gz",
+      "hash": "1lx0ccc0ig2w2625ir9p8vz28hmn41drw5abb23hm0iygl4qz5a2"
     },
     "dashboard-nvim": {
       "type": "Git",
@@ -2203,9 +2203,9 @@
         "repo": "neotest-java"
       },
       "branch": "main",
-      "revision": "d5a31b394a989e69156fef41db286e34e34d86e3",
-      "url": "https://github.com/rcasia/neotest-java/archive/d5a31b394a989e69156fef41db286e34e34d86e3.tar.gz",
-      "hash": "1mqd7ycbxhll007p5z71sb3jqcz50rwjbjcd2zfqipd82im46a1l"
+      "revision": "b880a7dacd78425965fc7b70c39a56ddea2e31c1",
+      "url": "https://github.com/rcasia/neotest-java/archive/b880a7dacd78425965fc7b70c39a56ddea2e31c1.tar.gz",
+      "hash": "0216mfpgk8qrq374d1grh8442ddjickhy1814snm993l6q8xpybi"
     },
     "neotest-jest": {
       "type": "Git",
@@ -4219,9 +4219,9 @@
         "repo": "yazi.nvim"
       },
       "branch": "main",
-      "revision": "0a3c852a9541511d58409059cc01c642539b3712",
-      "url": "https://github.com/mikavilpas/yazi.nvim/archive/0a3c852a9541511d58409059cc01c642539b3712.tar.gz",
-      "hash": "14v73jy19hwq167q5nda95mpby9ymjrlqagyhx82jxnnqdlramva"
+      "revision": "d6a5f0eb63e6593c85210811427a8a6c7b259372",
+      "url": "https://github.com/mikavilpas/yazi.nvim/archive/d6a5f0eb63e6593c85210811427a8a6c7b259372.tar.gz",
+      "hash": "10fl86qk55bk9m5mw6wbyhl2hnsj2d1c3w663kkkw5jd3b82rfxg"
     },
     "yuck-vim": {
       "type": "Git",
