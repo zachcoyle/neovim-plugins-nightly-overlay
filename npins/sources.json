@@ -2191,9 +2191,9 @@
         "repo": "neotest-haskell"
       },
       "branch": "master",
-      "revision": "36eed805a815652eaba863c3fb29a53bfd0be083",
-      "url": "https://github.com/mrcjkb/neotest-haskell/archive/36eed805a815652eaba863c3fb29a53bfd0be083.tar.gz",
-      "hash": "0r2xfw34cir7k5bgcgfn3bpy7vafr794dz7kd4zijcbj65lfg9xy"
+      "revision": "8750709fbeb96e361f2c14397ba771b292af84b6",
+      "url": "https://github.com/mrcjkb/neotest-haskell/archive/8750709fbeb96e361f2c14397ba771b292af84b6.tar.gz",
+      "hash": "1548xshr5fdswfaxrs3wd7wxmwf7svgid6pfqxq3njrff39mx7vj"
     },
     "neotest-java": {
       "type": "Git",
