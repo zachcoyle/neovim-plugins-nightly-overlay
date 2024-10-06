@@ -2599,9 +2599,9 @@
         "repo": "nvim-lspconfig"
       },
       "branch": "master",
-      "revision": "dcf511d53fae9675c6fde4241d94b2daaa5e0cd5",
-      "url": "https://github.com/neovim/nvim-lspconfig/archive/dcf511d53fae9675c6fde4241d94b2daaa5e0cd5.tar.gz",
-      "hash": "1i96iqxn20r3viprif0kfyc755zc0n9m6gyp5si46pkw9sa61m1h"
+      "revision": "3805bb215ca2eb3e047c947fc4bf2434ca473ff6",
+      "url": "https://github.com/neovim/nvim-lspconfig/archive/3805bb215ca2eb3e047c947fc4bf2434ca473ff6.tar.gz",
+      "hash": "1l4bhlp6s4p59aq9czavc80baikccrm1wpdy7miy880c6693qgm0"
     },
     "nvim-navbuddy": {
       "type": "Git",
@@ -4027,9 +4027,9 @@
         "repo": "vim-slime"
       },
       "branch": "main",
-      "revision": "f6bbbeb8f18393f2177cdcef764f3e0e1d7e9328",
-      "url": "https://github.com/jpalardy/vim-slime/archive/f6bbbeb8f18393f2177cdcef764f3e0e1d7e9328.tar.gz",
-      "hash": "186j2f4il5ayz3ff9d5ay94ff0kjmj03dzwsp3rj4v6wgacc1q46"
+      "revision": "c8cfb9bec587aef0a7a87a52dacb087f48ea2b41",
+      "url": "https://github.com/jpalardy/vim-slime/archive/c8cfb9bec587aef0a7a87a52dacb087f48ea2b41.tar.gz",
+      "hash": "1wvc2342y0m7q8bqqqc5g4ls9jldi6dni9vp4szzj9sxp8ss4dgg"
     },
     "vim-startify": {
       "type": "Git",
@@ -4219,9 +4219,9 @@
         "repo": "yazi.nvim"
       },
       "branch": "main",
-      "revision": "d6a5f0eb63e6593c85210811427a8a6c7b259372",
-      "url": "https://github.com/mikavilpas/yazi.nvim/archive/d6a5f0eb63e6593c85210811427a8a6c7b259372.tar.gz",
-      "hash": "10fl86qk55bk9m5mw6wbyhl2hnsj2d1c3w663kkkw5jd3b82rfxg"
+      "revision": "55e66733a7d05e761f97fa11589f569233be6616",
+      "url": "https://github.com/mikavilpas/yazi.nvim/archive/55e66733a7d05e761f97fa11589f569233be6616.tar.gz",
+      "hash": "1bng3j8mm0mx9pq0kf4v5vlvnm9bz5a9j1jynin30c46kagn24fx"
     },
     "yuck-vim": {
       "type": "Git",
