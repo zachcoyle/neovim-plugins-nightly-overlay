@@ -908,9 +908,9 @@
         "repo": "compiler.nvim"
       },
       "branch": "main",
-      "revision": "48b3fdc89e815528424290f38aad3b32f000eae2",
-      "url": "https://github.com/Zeioth/compiler.nvim/archive/48b3fdc89e815528424290f38aad3b32f000eae2.tar.gz",
-      "hash": "15nryqhr1b07nhg8wjw60hfii7x7i79gdzbaqf9hv4gwdvvm8v3k"
+      "revision": "fd28c5e3cf9f78d9a943530ffd1b9cbd15e57ee1",
+      "url": "https://github.com/Zeioth/compiler.nvim/archive/fd28c5e3cf9f78d9a943530ffd1b9cbd15e57ee1.tar.gz",
+      "hash": "0hdj464fnwii30cwmsy1p0a90gmhxcnh2nxvfycn7gm1kanly8np"
     },
     "completion-nvim": {
       "type": "Git",
