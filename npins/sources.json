@@ -1831,9 +1831,9 @@
         "repo": "lz.n"
       },
       "branch": "master",
-      "revision": "470173e3cbef763c6d1b918f3f129b67db75e1f8",
-      "url": "https://github.com/nvim-neorocks/lz.n/archive/470173e3cbef763c6d1b918f3f129b67db75e1f8.tar.gz",
-      "hash": "1qb6y8af9rb4fnwc145c8z053q2lrpigz122i1j72d3nwjaqsdd8"
+      "revision": "d8de8a99ba5b810b5ac7c8cdbd385dde67c1d395",
+      "url": "https://github.com/nvim-neorocks/lz.n/archive/d8de8a99ba5b810b5ac7c8cdbd385dde67c1d395.tar.gz",
+      "hash": "1811nh3m6rg23ryd4hhh5nxgbm7ax4lmr8k533qzcxzdsx8ssqyj"
     },
     "magma-nvim-goose": {
       "type": "Git",
@@ -3487,9 +3487,9 @@
         "repo": "telescope.nvim"
       },
       "branch": "master",
-      "revision": "eae0d8fbde590b0eaa2f9481948cd6fd7dd21656",
-      "url": "https://github.com/nvim-telescope/telescope.nvim/archive/eae0d8fbde590b0eaa2f9481948cd6fd7dd21656.tar.gz",
-      "hash": "06lqkxp7j6d6lh9pl7975214dz16zbbfq9hacrnhd6wnyq002193"
+      "revision": "dc6fc321a5ba076697cca89c9d7ea43153276d81",
+      "url": "https://github.com/nvim-telescope/telescope.nvim/archive/dc6fc321a5ba076697cca89c9d7ea43153276d81.tar.gz",
+      "hash": "0jknzk7fi5w05zwl7l5yymgn80nb6sdlqmmkiqzrqn2808aaa4bf"
     },
     "telescope-packer-nvim": {
       "type": "Git",
