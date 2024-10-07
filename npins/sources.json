@@ -1244,9 +1244,9 @@
         "repo": "friendly-snippets"
       },
       "branch": "main",
-      "revision": "00ba9dd3df89509f95437b8d595553707c46d5ea",
-      "url": "https://github.com/rafamadriz/friendly-snippets/archive/00ba9dd3df89509f95437b8d595553707c46d5ea.tar.gz",
-      "hash": "0nc6pflj81qldg4yjywzww4md0315kdj0jv8sbcfi8m7kdbjwfy9"
+      "revision": "de8fce94985873666bd9712ea3e49ee17aadb1ed",
+      "url": "https://github.com/rafamadriz/friendly-snippets/archive/de8fce94985873666bd9712ea3e49ee17aadb1ed.tar.gz",
+      "hash": "0aq3k61x8qni60ad30n67s531jpfpq2m5a08zshc8rkllz4i3phz"
     },
     "fzf-lsp-nvim": {
       "type": "Git",
