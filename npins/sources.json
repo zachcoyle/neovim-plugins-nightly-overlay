@@ -836,9 +836,9 @@
         "repo": "codeium.vim"
       },
       "branch": "main",
-      "revision": "9ff8d323ff56ff513457f3f7f4305523408d538e",
-      "url": "https://github.com/Exafunction/codeium.vim/archive/9ff8d323ff56ff513457f3f7f4305523408d538e.tar.gz",
-      "hash": "1yp6n5377baxkwz7dq9cgxnhp9cvhf1kv4w2fypsky6nrqdcgsak"
+      "revision": "d85a85ca7e12967db22b00fd5e9f1a095bb47c96",
+      "url": "https://github.com/Exafunction/codeium.vim/archive/d85a85ca7e12967db22b00fd5e9f1a095bb47c96.tar.gz",
+      "hash": "0jjx0rqfh2qfsv10rj3pp1aws2aaqaflli0gmfmnm4bg2id01lwz"
     },
     "codesnap-nvim": {
       "type": "Git",
@@ -2191,9 +2191,9 @@
         "repo": "neotest-haskell"
       },
       "branch": "master",
-      "revision": "08c0e81415971b37a41193e66f56344886d05fec",
-      "url": "https://github.com/mrcjkb/neotest-haskell/archive/08c0e81415971b37a41193e66f56344886d05fec.tar.gz",
-      "hash": "1sgfbj9d6p7bfk7az4jsz81kz7rs9izglccg5hwxhkp8d9mksycv"
+      "revision": "2de3232c98bec825006a87d4601c773525b5421f",
+      "url": "https://github.com/mrcjkb/neotest-haskell/archive/2de3232c98bec825006a87d4601c773525b5421f.tar.gz",
+      "hash": "1a6ji86igd9hda2b39x1rwycpgk8ddc4anj8c2bk79vv8v2k612y"
     },
     "neotest-java": {
       "type": "Git",
@@ -2203,9 +2203,9 @@
         "repo": "neotest-java"
       },
       "branch": "main",
-      "revision": "b880a7dacd78425965fc7b70c39a56ddea2e31c1",
-      "url": "https://github.com/rcasia/neotest-java/archive/b880a7dacd78425965fc7b70c39a56ddea2e31c1.tar.gz",
-      "hash": "0216mfpgk8qrq374d1grh8442ddjickhy1814snm993l6q8xpybi"
+      "revision": "c73d1d8f17aab973a7fad2e159645fe0df3f40eb",
+      "url": "https://github.com/rcasia/neotest-java/archive/c73d1d8f17aab973a7fad2e159645fe0df3f40eb.tar.gz",
+      "hash": "0n16p0iki2nsbgvdl4c6k6ydl9j0iy84r7ag94blhwp0wp7s4cfg"
     },
     "neotest-jest": {
       "type": "Git",
