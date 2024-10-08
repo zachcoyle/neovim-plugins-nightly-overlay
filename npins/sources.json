@@ -980,9 +980,9 @@
         "repo": "copilot.vim"
       },
       "branch": "release",
-      "revision": "782461159655b259cff10ecff05efa761e3d4764",
-      "url": "https://github.com/github/copilot.vim/archive/782461159655b259cff10ecff05efa761e3d4764.tar.gz",
-      "hash": "0f0iszaphi1p411wgpn8r4slqrxlwdcy03raqypdg5f40jmiad9c"
+      "revision": "87038123804796ca7af20d1b71c3428d858a9124",
+      "url": "https://github.com/github/copilot.vim/archive/87038123804796ca7af20d1b71c3428d858a9124.tar.gz",
+      "hash": "1532h9694na7mx2lxmg0cx683df0x7w83vrrvd1gn5hwv96bhvpp"
     },
     "coq-thirdparty": {
       "type": "Git",
@@ -3163,9 +3163,9 @@
         "repo": "neovim"
       },
       "branch": "main",
-      "revision": "8b1fd252255a7f2c41b4192a787ab62660b29f72",
-      "url": "https://github.com/rose-pine/neovim/archive/8b1fd252255a7f2c41b4192a787ab62660b29f72.tar.gz",
-      "hash": "0djiabbm8c9kxwaz2awb5a9a20qiy5xap9r9prwiak4apk96v299"
+      "revision": "d396005db5bbd1d4ec7772a7c96c96f4c4802328",
+      "url": "https://github.com/rose-pine/neovim/archive/d396005db5bbd1d4ec7772a7c96c96f4c4802328.tar.gz",
+      "hash": "1ahcvljrk073mwr2ipmlf3gd2k7gp1n6g921q2s2v4i0136v2lyr"
     },
     "scope-nvim": {
       "type": "Git",
