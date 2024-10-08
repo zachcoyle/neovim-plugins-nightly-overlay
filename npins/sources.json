@@ -1915,9 +1915,9 @@
         "repo": "mini.nvim"
       },
       "branch": "main",
-      "revision": "e52ac74bd4e9c0ce6a182ee551eb099236b5a89d",
-      "url": "https://github.com/echasnovski/mini.nvim/archive/e52ac74bd4e9c0ce6a182ee551eb099236b5a89d.tar.gz",
-      "hash": "18kl8hlrkgywq6s9lz53fy4wyzh76j8wpyic12dxhm57clc6hkny"
+      "revision": "a535342b6105a684f16114f598d44318e6a1d20f",
+      "url": "https://github.com/echasnovski/mini.nvim/archive/a535342b6105a684f16114f598d44318e6a1d20f.tar.gz",
+      "hash": "1zamfwvmhipjds7xspy5palzzfjr1z5sw7yksi5gb4jiksg14dmk"
     },
     "mkdnflow-nvim": {
       "type": "Git",
@@ -2203,9 +2203,9 @@
         "repo": "neotest-java"
       },
       "branch": "main",
-      "revision": "03c415f8bf19d5c9e17df3170e98e87e8e1353b0",
-      "url": "https://github.com/rcasia/neotest-java/archive/03c415f8bf19d5c9e17df3170e98e87e8e1353b0.tar.gz",
-      "hash": "078p62dgnxrbvlzrzi0mxhy9bwb1ipd2kln5da93jj1hgdd7cj3n"
+      "revision": "6375aef2ab41ceb5ac83a68a2570415cb3f2125a",
+      "url": "https://github.com/rcasia/neotest-java/archive/6375aef2ab41ceb5ac83a68a2570415cb3f2125a.tar.gz",
+      "hash": "1vcppz33539zazqiddgmk19f8zywpsbbhh3xj3d80g450psql3y6"
     },
     "neotest-jest": {
       "type": "Git",
