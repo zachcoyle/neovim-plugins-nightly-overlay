@@ -2011,9 +2011,9 @@
         "repo": "neogit"
       },
       "branch": "master",
-      "revision": "c3ff049446e0920d02a5828c4e3619243d3c6e15",
-      "url": "https://github.com/TimUntersberger/neogit/archive/c3ff049446e0920d02a5828c4e3619243d3c6e15.tar.gz",
-      "hash": "1wgix1pg3xh1qfs1dy4jirz0wp4a3fzywf9hf6mq1xhrxqqvn357"
+      "revision": "a8dd1509a7fc6bf92ca60f21e33393f685ab70aa",
+      "url": "https://github.com/TimUntersberger/neogit/archive/a8dd1509a7fc6bf92ca60f21e33393f685ab70aa.tar.gz",
+      "hash": "0yj93255spdngqa5wlscx5izm070y9snggw56ybkn8r6p0bxdngj"
     },
     "neon": {
       "type": "Git",
