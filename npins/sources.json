@@ -1783,9 +1783,9 @@
         "repo": "lspsaga.nvim"
       },
       "branch": "main",
-      "revision": "e64351d0e6335eadf089aa2b9f17221e54ca10a4",
-      "url": "https://github.com/nvimdev/lspsaga.nvim/archive/e64351d0e6335eadf089aa2b9f17221e54ca10a4.tar.gz",
-      "hash": "0n8jmfg7rg23skdd4qlqyx78acww6ahskd3j6l5k2lvh5jlxjc4r"
+      "revision": "f0b5d2ce3912a9d84fae8083cb9cab90def39f3e",
+      "url": "https://github.com/nvimdev/lspsaga.nvim/archive/f0b5d2ce3912a9d84fae8083cb9cab90def39f3e.tar.gz",
+      "hash": "0i01hlmz47z73m99c82nrnvhw9y807pnk1mrkn6lbvl4s8k3in56"
     },
     "ltex_extra-nvim": {
       "type": "Git",
@@ -1939,9 +1939,9 @@
         "repo": "modus-themes.nvim"
       },
       "branch": "master",
-      "revision": "24b34562a71cb75769411ca3146d35c093e7f4e6",
-      "url": "https://github.com/miikanissi/modus-themes.nvim/archive/24b34562a71cb75769411ca3146d35c093e7f4e6.tar.gz",
-      "hash": "1lg0y8ravnsk1swdx8k5668yrly6hlzs2jg9fl01x0b211xn5xx6"
+      "revision": "0389c2111081f3968e24c13bddcfbc8dd33aaf6b",
+      "url": "https://github.com/miikanissi/modus-themes.nvim/archive/0389c2111081f3968e24c13bddcfbc8dd33aaf6b.tar.gz",
+      "hash": "04lkfskya4lwnhrlw3w2lk1crcr7in5yr2z2wcab3a4gh8n41k9k"
     },
     "molten-nvim": {
       "type": "Git",
