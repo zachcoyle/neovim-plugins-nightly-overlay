@@ -116,9 +116,9 @@
         "repo": "avante.nvim"
       },
       "branch": "main",
-      "revision": "2a72dfa711386a241f7675eb0acc6e838f4fa344",
-      "url": "https://github.com/yetone/avante.nvim/archive/2a72dfa711386a241f7675eb0acc6e838f4fa344.tar.gz",
-      "hash": "1ivlfs98d0mcgj83z897fvia4y33ld7mfpvrf4gp5jwvr7ypwcgn"
+      "revision": "08bed9e256900ce01564f6b8280d1f2c9c5ce273",
+      "url": "https://github.com/yetone/avante.nvim/archive/08bed9e256900ce01564f6b8280d1f2c9c5ce273.tar.gz",
+      "hash": "1h5zrxyigv2bwqzs9jg12w30w3icjzisgjlbzb032grz37d7lq7h"
     },
     "baleia-nvim": {
       "type": "Git",
@@ -1112,9 +1112,9 @@
         "repo": "dropbar.nvim"
       },
       "branch": "master",
-      "revision": "669e325489202ae4da5a951314bbf8dbb20e7cff",
-      "url": "https://github.com/Bekaboo/dropbar.nvim/archive/669e325489202ae4da5a951314bbf8dbb20e7cff.tar.gz",
-      "hash": "056iyj4l3rjb6w5vg0h8w7mn930dj74fknra1282xdiz5qf70myx"
+      "revision": "5f0da7fa51e4e884e9ab1dc02cd32509252cdf19",
+      "url": "https://github.com/Bekaboo/dropbar.nvim/archive/5f0da7fa51e4e884e9ab1dc02cd32509252cdf19.tar.gz",
+      "hash": "0rk70p89j0msrymibag3zs5rqb1cqpwapg8g7qs16jsz92sa8ing"
     },
     "earthly-vim": {
       "type": "Git",
