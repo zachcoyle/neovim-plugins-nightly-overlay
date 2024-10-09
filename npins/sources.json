@@ -116,9 +116,9 @@
         "repo": "avante.nvim"
       },
       "branch": "main",
-      "revision": "3dac407a11767a2063beee0e5ccebffda1f90bd4",
-      "url": "https://github.com/yetone/avante.nvim/archive/3dac407a11767a2063beee0e5ccebffda1f90bd4.tar.gz",
-      "hash": "13a0v6rikf0b0vjnfmhr9r8j06iaaxk2zdmx7jk2n5cnhlnbff93"
+      "revision": "41324854871aed30e552b44f76d38c8a7a1cbcf4",
+      "url": "https://github.com/yetone/avante.nvim/archive/41324854871aed30e552b44f76d38c8a7a1cbcf4.tar.gz",
+      "hash": "020dk6lbj8pk19dg111wpxl0djpl3jg5ffdz3xki4d0n35vg1179"
     },
     "baleia-nvim": {
       "type": "Git",
@@ -3139,9 +3139,9 @@
         "repo": "render-markdown.nvim"
       },
       "branch": "main",
-      "revision": "d20d19fa54965f6eb94558c0b84fe9a942169fb4",
-      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/d20d19fa54965f6eb94558c0b84fe9a942169fb4.tar.gz",
-      "hash": "1nbqf1dr7f2gmxq1n72frsdbwwls4cvs2p13g2j583l10chlvnps"
+      "revision": "b02c8ef72b10537a346556696b6e7fb354c8771f",
+      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/b02c8ef72b10537a346556696b6e7fb354c8771f.tar.gz",
+      "hash": "07j283kammjpg1928dlfc0bdh8b9hsqgpmrmy9l2d2v6i3m991jr"
     },
     "rest-nvim": {
       "type": "Git",
