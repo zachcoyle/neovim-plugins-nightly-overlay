@@ -1891,9 +1891,9 @@
         "repo": "markview.nvim"
       },
       "branch": "main",
-      "revision": "4ef3e11292fdd4191e02ab865de2738d5fbeeba9",
-      "url": "https://github.com/OXY2DEV/markview.nvim/archive/4ef3e11292fdd4191e02ab865de2738d5fbeeba9.tar.gz",
-      "hash": "04r1ibqpqynjfdyr0r79mxldnfzgwlhpinazi83qy04hly3b8igg"
+      "revision": "67b69cdaf9055bebac3682a070d7e5c8eecba29c",
+      "url": "https://github.com/OXY2DEV/markview.nvim/archive/67b69cdaf9055bebac3682a070d7e5c8eecba29c.tar.gz",
+      "hash": "1p8rhzza9jwskn66qk1xrnfq9rlxzpzzpdwyx18n9mjxdciwdbl1"
     },
     "melange": {
       "type": "Git",
@@ -2671,9 +2671,9 @@
         "repo": "nvim-scrollview"
       },
       "branch": "main",
-      "revision": "bc37a942debe191fffd072f0f1f2ec7c56c54b17",
-      "url": "https://github.com/dstein64/nvim-scrollview/archive/bc37a942debe191fffd072f0f1f2ec7c56c54b17.tar.gz",
-      "hash": "1vm6qdgwmgvd353p7r7rfj6rz0ssj0qjzg9rr0p10swqbrsmryvm"
+      "revision": "3825bd63951c3a2b5d849eebb472ee34729c2667",
+      "url": "https://github.com/dstein64/nvim-scrollview/archive/3825bd63951c3a2b5d849eebb472ee34729c2667.tar.gz",
+      "hash": "0ji21rdq56lp9rl3yvjzqzr2psa1503l18p94p8484wdsgx56wmj"
     },
     "nvim-snippets": {
       "type": "Git",
