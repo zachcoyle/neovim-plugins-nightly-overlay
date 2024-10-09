@@ -1028,9 +1028,9 @@
         "repo": "cyberdream.nvim"
       },
       "branch": "main",
-      "revision": "1af5dbd6fba7c92c6fc17c775a625f9402dd9980",
-      "url": "https://github.com/scottmckendry/cyberdream.nvim/archive/1af5dbd6fba7c92c6fc17c775a625f9402dd9980.tar.gz",
-      "hash": "1j6hvxvhp007nc2va3vf9nq2pf1i41nb7lsrf89375msvibg8smv"
+      "revision": "f823dfa61a82f126dda17b5752b0693d165416a9",
+      "url": "https://github.com/scottmckendry/cyberdream.nvim/archive/f823dfa61a82f126dda17b5752b0693d165416a9.tar.gz",
+      "hash": "0inw7ncsnqw2z0491himyidvwy3lan0as2wjakkm3fjjndb4ynxc"
     },
     "dashboard-nvim": {
       "type": "Git",
@@ -1496,9 +1496,9 @@
         "repo": "hex.nvim"
       },
       "branch": "master",
-      "revision": "d0f553dcd2c08d226026d769119b2eb6b09b8dfd",
-      "url": "https://github.com/RaafatTurki/hex.nvim/archive/d0f553dcd2c08d226026d769119b2eb6b09b8dfd.tar.gz",
-      "hash": "0dqv23i08ng4g7mm35g484p39i4b3vr6xnz3m7ij7n3d6bpfc8c3"
+      "revision": "fcff75fcf43b5a6c5b471eed65b3a06c412d6020",
+      "url": "https://github.com/RaafatTurki/hex.nvim/archive/fcff75fcf43b5a6c5b471eed65b3a06c412d6020.tar.gz",
+      "hash": "1wh8dnx9a8pjq53v7crhxczv0bzvv2gdj2ra7n2w66cql75piw4v"
     },
     "hmts-nvim": {
       "type": "Git",
@@ -2755,9 +2755,9 @@
         "repo": "nvim-treesitter"
       },
       "branch": "master",
-      "revision": "86c10df7ef77daf45a0e4a918934bb59083db1e1",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/86c10df7ef77daf45a0e4a918934bb59083db1e1.tar.gz",
-      "hash": "1rg9mlqmgnfhfj5w5whpl5ymsy4xykdfl51kjnax4vq5spcsh6k0"
+      "revision": "009e981c30c84fee7167aae57f9ace35c77728c0",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/009e981c30c84fee7167aae57f9ace35c77728c0.tar.gz",
+      "hash": "03kgdkfgk87c9yqc6pyl0hi1gibr0p0s49dzl0za629kfq5v08m7"
     },
     "nvim-treesitter-context": {
       "type": "Git",
