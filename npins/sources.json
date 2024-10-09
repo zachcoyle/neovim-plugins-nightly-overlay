@@ -8,9 +8,9 @@
         "repo": "ChatGPT.nvim"
       },
       "branch": "main",
-      "revision": "4d9d297c2409c8ebc715da7f1d7705a221564555",
-      "url": "https://github.com/jackMort/ChatGPT.nvim/archive/4d9d297c2409c8ebc715da7f1d7705a221564555.tar.gz",
-      "hash": "0i4ras7n66i4h64bb0v70v85b70d0rw33hy16kgyr20b6qkm53vm"
+      "revision": "d587f3043ad6aae5d39bc3bd536b6ac0df62202e",
+      "url": "https://github.com/jackMort/ChatGPT.nvim/archive/d587f3043ad6aae5d39bc3bd536b6ac0df62202e.tar.gz",
+      "hash": "1490brnqxm6748s20yasqvlyl6zy3vk4c2m79iklxzp7famfy9j2"
     },
     "CopilotChat-nvim": {
       "type": "Git",
@@ -2599,9 +2599,9 @@
         "repo": "nvim-lspconfig"
       },
       "branch": "master",
-      "revision": "d3f169f436e1b44538bfe7e13b4721eec48dbc59",
-      "url": "https://github.com/neovim/nvim-lspconfig/archive/d3f169f436e1b44538bfe7e13b4721eec48dbc59.tar.gz",
-      "hash": "0rbqphyd053n7969fmlwkmw2p1q6kjhn8r6zjrzkarf01gxhhl5r"
+      "revision": "ff69ecca55d83ffc70657f260a799f79a5637831",
+      "url": "https://github.com/neovim/nvim-lspconfig/archive/ff69ecca55d83ffc70657f260a799f79a5637831.tar.gz",
+      "hash": "0lrfqvsbzwki30n4d5axjjlijv7h57v61c0sbdbd1kih5drfwsim"
     },
     "nvim-navbuddy": {
       "type": "Git",
@@ -4219,9 +4219,9 @@
         "repo": "yazi.nvim"
       },
       "branch": "main",
-      "revision": "55e66733a7d05e761f97fa11589f569233be6616",
-      "url": "https://github.com/mikavilpas/yazi.nvim/archive/55e66733a7d05e761f97fa11589f569233be6616.tar.gz",
-      "hash": "1bng3j8mm0mx9pq0kf4v5vlvnm9bz5a9j1jynin30c46kagn24fx"
+      "revision": "1e8d63d85176d5e0cca191fd6c5847839b65bfa8",
+      "url": "https://github.com/mikavilpas/yazi.nvim/archive/1e8d63d85176d5e0cca191fd6c5847839b65bfa8.tar.gz",
+      "hash": "0ifzm0aykizjdyskcyvvqa4bhm8mk1aplvkfbyihx35akih3z86d"
     },
     "yuck-vim": {
       "type": "Git",
