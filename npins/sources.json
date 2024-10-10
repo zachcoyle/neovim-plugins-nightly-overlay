@@ -2587,9 +2587,9 @@
         "repo": "nvim-lint"
       },
       "branch": "master",
-      "revision": "7e9eb8fd753eb157355b6a32f0c265a6975107f7",
-      "url": "https://github.com/mfussenegger/nvim-lint/archive/7e9eb8fd753eb157355b6a32f0c265a6975107f7.tar.gz",
-      "hash": "19bfv78n9ax42iyd7lcm5lsanwqrky8v96qs6vxpajv8wwrgiik9"
+      "revision": "f707b3ae50417067fa63fdfe179b0bff6b380da1",
+      "url": "https://github.com/mfussenegger/nvim-lint/archive/f707b3ae50417067fa63fdfe179b0bff6b380da1.tar.gz",
+      "hash": "0zws4m0jcprpn0d0ny2k6pvkmca917wjbqwk13g1p8rp87ia5yy1"
     },
     "nvim-lspconfig": {
       "type": "Git",
