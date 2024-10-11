@@ -1939,9 +1939,9 @@
         "repo": "modus-themes.nvim"
       },
       "branch": "master",
-      "revision": "0389c2111081f3968e24c13bddcfbc8dd33aaf6b",
-      "url": "https://github.com/miikanissi/modus-themes.nvim/archive/0389c2111081f3968e24c13bddcfbc8dd33aaf6b.tar.gz",
-      "hash": "04lkfskya4lwnhrlw3w2lk1crcr7in5yr2z2wcab3a4gh8n41k9k"
+      "revision": "948857b0035122376128266c0dee3305abf2d2cb",
+      "url": "https://github.com/miikanissi/modus-themes.nvim/archive/948857b0035122376128266c0dee3305abf2d2cb.tar.gz",
+      "hash": "1xarpskbpcc96rgmcwkqwcrams6wch3vz19kg8apm8mlaqxzwv8y"
     },
     "molten-nvim": {
       "type": "Git",
@@ -2047,9 +2047,9 @@
         "repo": "neorg"
       },
       "branch": "main",
-      "revision": "afc9a37bf021acb0853e95714c4c6436e1588286",
-      "url": "https://github.com/vhyrro/neorg/archive/afc9a37bf021acb0853e95714c4c6436e1588286.tar.gz",
-      "hash": "197zgch9ksxppxc3bsm3cx8jaar0sna4abb5j5iyvdmj4bmr1xf9"
+      "revision": "13d1d546684c83ba464adbf463a8a272c884e1e8",
+      "url": "https://github.com/vhyrro/neorg/archive/13d1d546684c83ba464adbf463a8a272c884e1e8.tar.gz",
+      "hash": "04mazbdcz9x764hz1w0vqcrnzzzg2hfy322m6c4scqra04dc517g"
     },
     "neoscroll-nvim": {
       "type": "Git",
