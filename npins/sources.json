@@ -1052,9 +1052,9 @@
         "repo": "debugprint.nvim"
       },
       "branch": "main",
-      "revision": "aa2e6966e1caf57a80df293565bb669cc8dbe50d",
-      "url": "https://github.com/andrewferrier/debugprint.nvim/archive/aa2e6966e1caf57a80df293565bb669cc8dbe50d.tar.gz",
-      "hash": "1qz31i7ggcq5zzav1v3hz4zb6d2gr56r0k4wcbj5wslnz869k42f"
+      "revision": "b859f19e86107ab33b73dbb3c3591d421fe7fe27",
+      "url": "https://github.com/andrewferrier/debugprint.nvim/archive/b859f19e86107ab33b73dbb3c3591d421fe7fe27.tar.gz",
+      "hash": "03wzsy0w0sgz9l1rasaa7gv5yjjfg2lzj3wyix708ap2w39gr0mw"
     },
     "diffview-nvim": {
       "type": "Git",
@@ -2671,9 +2671,9 @@
         "repo": "nvim-scrollview"
       },
       "branch": "main",
-      "revision": "add6ee592525dfc09f7ca8ed1701658bcf79b385",
-      "url": "https://github.com/dstein64/nvim-scrollview/archive/add6ee592525dfc09f7ca8ed1701658bcf79b385.tar.gz",
-      "hash": "0cdfdyfcnng735hvfkf6wy83qsrf0mgv1d5rbs6zxgf3bcxril86"
+      "revision": "ce798b9c53a2056cc50fb2b41120ec29690814ac",
+      "url": "https://github.com/dstein64/nvim-scrollview/archive/ce798b9c53a2056cc50fb2b41120ec29690814ac.tar.gz",
+      "hash": "0j7zikw0hxqi2dflr74mk360nbzn7m3fl5c9nmc83lhpp7l5ix3z"
     },
     "nvim-snippets": {
       "type": "Git",
