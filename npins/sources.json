@@ -3235,9 +3235,9 @@
         "repo": "sniprun"
       },
       "branch": "master",
-      "revision": "c9f0a37736a90997a3868735ede0d33e49f79182",
-      "url": "https://github.com/michaelb/sniprun/archive/c9f0a37736a90997a3868735ede0d33e49f79182.tar.gz",
-      "hash": "10052lx0kcpvig40nc90mh210didl9fb4z273qi7ab8x942mxdfs"
+      "revision": "67ac2d84d03f3b857d59571ff5fefb6080dffa2d",
+      "url": "https://github.com/michaelb/sniprun/archive/67ac2d84d03f3b857d59571ff5fefb6080dffa2d.tar.gz",
+      "hash": "159xy9xmkpba62r8id3vljg63kl0q6825b5vcd8c0las4j9i7gdz"
     },
     "solarized-nvim": {
       "type": "Git",
