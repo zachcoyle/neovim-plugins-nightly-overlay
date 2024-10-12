@@ -8,9 +8,9 @@
         "repo": "ChatGPT.nvim"
       },
       "branch": "main",
-      "revision": "d587f3043ad6aae5d39bc3bd536b6ac0df62202e",
-      "url": "https://github.com/jackMort/ChatGPT.nvim/archive/d587f3043ad6aae5d39bc3bd536b6ac0df62202e.tar.gz",
-      "hash": "1490brnqxm6748s20yasqvlyl6zy3vk4c2m79iklxzp7famfy9j2"
+      "revision": "5b6d296eefc75331e2ff9f0adcffbd7d27862dd6",
+      "url": "https://github.com/jackMort/ChatGPT.nvim/archive/5b6d296eefc75331e2ff9f0adcffbd7d27862dd6.tar.gz",
+      "hash": "07f0p03fb4060lc7jfvp8mqi0jbk8mril9fg3b8rx9mq8415g1gr"
     },
     "CopilotChat-nvim": {
       "type": "Git",
