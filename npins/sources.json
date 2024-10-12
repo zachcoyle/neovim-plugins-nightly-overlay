@@ -1424,9 +1424,9 @@
         "repo": "hardtime.nvim"
       },
       "branch": "main",
-      "revision": "6513bf42cd9261669d1ee41ff8b4065dfdc53a09",
-      "url": "https://github.com/m4xshen/hardtime.nvim/archive/6513bf42cd9261669d1ee41ff8b4065dfdc53a09.tar.gz",
-      "hash": "0v522mzz7cp62hjf9bqnfrpnadapywb56r5d888kjvc4gcy9kzrv"
+      "revision": "027d6f991927a71bd510a7673ae5bb404ca2a1c7",
+      "url": "https://github.com/m4xshen/hardtime.nvim/archive/027d6f991927a71bd510a7673ae5bb404ca2a1c7.tar.gz",
+      "hash": "1vpxrcrw8hh6jcs74ykvld4rk7dhvjp0k4sd7jqn5ijj73h3ah48"
     },
     "harpoon": {
       "type": "Git",
@@ -1951,9 +1951,9 @@
         "repo": "molten-nvim"
       },
       "branch": "main",
-      "revision": "047bf41c7cdb66c75de07e22babe8961857def76",
-      "url": "https://github.com/benlubas/molten-nvim/archive/047bf41c7cdb66c75de07e22babe8961857def76.tar.gz",
-      "hash": "1yrq8y7vc9w0ib0rjyvxk76jalyqwmjxl0dp0yrgfca1mp8lwa48"
+      "revision": "66ee5c0a0fbe3e014b867d04db44592f2d3eb30f",
+      "url": "https://github.com/benlubas/molten-nvim/archive/66ee5c0a0fbe3e014b867d04db44592f2d3eb30f.tar.gz",
+      "hash": "0k88b6ix8sqsnhm8z02jrphbkjzpimg1wx3jbqcmzlnm8i49nghs"
     },
     "multicursors-nvim": {
       "type": "Git",
