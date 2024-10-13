@@ -260,9 +260,9 @@
         "repo": "chadtree"
       },
       "branch": "chad",
-      "revision": "d468597e614aa610664dc55427a133b76271af63",
-      "url": "https://github.com/ms-jpq/chadtree/archive/d468597e614aa610664dc55427a133b76271af63.tar.gz",
-      "hash": "07f4z2y5dk903zc16934nngkzyp460z3fl4ccqir4wwibqlfs8am"
+      "revision": "0c69cca5098d3ad8a1e612569203eda7d54488b6",
+      "url": "https://github.com/ms-jpq/chadtree/archive/0c69cca5098d3ad8a1e612569203eda7d54488b6.tar.gz",
+      "hash": "1nv2v7wjijxz7sjir75w64j8f0q22fpbbgcm9vha55qapp10j38r"
     },
     "clangd_extensions-nvim": {
       "type": "Git",
@@ -4123,9 +4123,9 @@
         "repo": "vimtex"
       },
       "branch": "master",
-      "revision": "521fe5351ff9b092ded88aed247b00431177ee25",
-      "url": "https://github.com/lervag/vimtex/archive/521fe5351ff9b092ded88aed247b00431177ee25.tar.gz",
-      "hash": "170l5srrzy8hdcdpbxki00w9gmg3z57karalfcmqq4bgawjwvxgp"
+      "revision": "9a5ef1d4ac8e4e06071179ebe8121350fcb97861",
+      "url": "https://github.com/lervag/vimtex/archive/9a5ef1d4ac8e4e06071179ebe8121350fcb97861.tar.gz",
+      "hash": "1zp8wvys8m61sqpyil7ra33pinnq8kliadric0d7iii9d4gjqidd"
     },
     "virt-column-nvim": {
       "type": "Git",
