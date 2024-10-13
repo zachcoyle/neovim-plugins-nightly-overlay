@@ -3139,9 +3139,9 @@
         "repo": "render-markdown.nvim"
       },
       "branch": "main",
-      "revision": "18c7ef71fb4b8d83cb0160adc9127fc4d65ca42e",
-      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/18c7ef71fb4b8d83cb0160adc9127fc4d65ca42e.tar.gz",
-      "hash": "0bnngr0v286gzp3ccfk8906x9jmis5kzjghkiyfmn3hvmf9vd5c2"
+      "revision": "fb6b3d145e5e12b838c0b84124354802f381b1af",
+      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/fb6b3d145e5e12b838c0b84124354802f381b1af.tar.gz",
+      "hash": "02vjjrd17ibs8bvz95dski5l2gl2g1w883l27cwdsqf1hwhijk2x"
     },
     "rest-nvim": {
       "type": "Git",
@@ -4219,9 +4219,9 @@
         "repo": "yazi.nvim"
       },
       "branch": "main",
-      "revision": "1e8d63d85176d5e0cca191fd6c5847839b65bfa8",
-      "url": "https://github.com/mikavilpas/yazi.nvim/archive/1e8d63d85176d5e0cca191fd6c5847839b65bfa8.tar.gz",
-      "hash": "0ifzm0aykizjdyskcyvvqa4bhm8mk1aplvkfbyihx35akih3z86d"
+      "revision": "d7513472d66d2adc5698d7f791347ead36b4988b",
+      "url": "https://github.com/mikavilpas/yazi.nvim/archive/d7513472d66d2adc5698d7f791347ead36b4988b.tar.gz",
+      "hash": "061rb6v5yas9avp4w00sx6hsf1rlprxcvxb9fcla6729b4wkdi0c"
     },
     "yuck-vim": {
       "type": "Git",
