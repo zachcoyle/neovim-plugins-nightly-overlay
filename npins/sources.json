@@ -1939,9 +1939,9 @@
         "repo": "modus-themes.nvim"
       },
       "branch": "master",
-      "revision": "a702bfbc144344518dab9c4f474400293927ef35",
-      "url": "https://github.com/miikanissi/modus-themes.nvim/archive/a702bfbc144344518dab9c4f474400293927ef35.tar.gz",
-      "hash": "1rvnljfr79bnl38g80n3xngn622xrcyizr2c0hi2r2za4382zsxy"
+      "revision": "f012470c3f223f4a8804b52eb3cb3d551990fc14",
+      "url": "https://github.com/miikanissi/modus-themes.nvim/archive/f012470c3f223f4a8804b52eb3cb3d551990fc14.tar.gz",
+      "hash": "0fzzwaajy1hnzc3rm2i7bcqvivrvfmyw8nr2plw7nxcbxx2i0vky"
     },
     "molten-nvim": {
       "type": "Git",
@@ -3139,9 +3139,9 @@
         "repo": "render-markdown.nvim"
       },
       "branch": "main",
-      "revision": "c0082b7d9e33408ba4e451741d8aca2b1f5ed823",
-      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/c0082b7d9e33408ba4e451741d8aca2b1f5ed823.tar.gz",
-      "hash": "10wc1s4v03grpl17af7wl9mg94b08ryqjy2d33a04vn7k78ch8kl"
+      "revision": "29863dc5262954ea04d76bd564f2f63330b42d7f",
+      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/29863dc5262954ea04d76bd564f2f63330b42d7f.tar.gz",
+      "hash": "1v61v36sivzvn4574cakvwp36qcmcrfxqy5wqzgxpzgk05fzgcv0"
     },
     "rest-nvim": {
       "type": "Git",
@@ -3667,9 +3667,9 @@
         "repo": "trim.nvim"
       },
       "branch": "master",
-      "revision": "23509afc370b217201c4a6aef9f43813a01af5db",
-      "url": "https://github.com/cappyzawa/trim.nvim/archive/23509afc370b217201c4a6aef9f43813a01af5db.tar.gz",
-      "hash": "18p1mw08piv2y0wkb582wqdgi555nrk08inmr38cl48hp3jqnh13"
+      "revision": "7dc35b9e61b9f77f475807a2be6fe8115a12d81c",
+      "url": "https://github.com/cappyzawa/trim.nvim/archive/7dc35b9e61b9f77f475807a2be6fe8115a12d81c.tar.gz",
+      "hash": "07bi6y2pc7kh02v5497a6wji7qj7si2wjf3khi5bmgqyj9iqlp95"
     },
     "trouble-nvim": {
       "type": "Git",
