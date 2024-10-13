@@ -3139,9 +3139,9 @@
         "repo": "render-markdown.nvim"
       },
       "branch": "main",
-      "revision": "e13ac2c05d2f081453db1451ec07fbd8be33ceec",
-      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/e13ac2c05d2f081453db1451ec07fbd8be33ceec.tar.gz",
-      "hash": "1zl4y51wqh7y31kl8082nihy3dqr7l8mdak2a5l9yhl4hpaydp3f"
+      "revision": "c0082b7d9e33408ba4e451741d8aca2b1f5ed823",
+      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/c0082b7d9e33408ba4e451741d8aca2b1f5ed823.tar.gz",
+      "hash": "10wc1s4v03grpl17af7wl9mg94b08ryqjy2d33a04vn7k78ch8kl"
     },
     "rest-nvim": {
       "type": "Git",
@@ -3667,9 +3667,9 @@
         "repo": "trim.nvim"
       },
       "branch": "master",
-      "revision": "4fe47a46c02a58894ded8328ca81f6c214a892f5",
-      "url": "https://github.com/cappyzawa/trim.nvim/archive/4fe47a46c02a58894ded8328ca81f6c214a892f5.tar.gz",
-      "hash": "1h8w50an3fmp8xl052apblsnm0x70m1ykygjn5wb94wsb7crydl9"
+      "revision": "23509afc370b217201c4a6aef9f43813a01af5db",
+      "url": "https://github.com/cappyzawa/trim.nvim/archive/23509afc370b217201c4a6aef9f43813a01af5db.tar.gz",
+      "hash": "18p1mw08piv2y0wkb582wqdgi555nrk08inmr38cl48hp3jqnh13"
     },
     "trouble-nvim": {
       "type": "Git",
