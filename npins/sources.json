@@ -1783,9 +1783,9 @@
         "repo": "lspsaga.nvim"
       },
       "branch": "main",
-      "revision": "f0b5d2ce3912a9d84fae8083cb9cab90def39f3e",
-      "url": "https://github.com/nvimdev/lspsaga.nvim/archive/f0b5d2ce3912a9d84fae8083cb9cab90def39f3e.tar.gz",
-      "hash": "0i01hlmz47z73m99c82nrnvhw9y807pnk1mrkn6lbvl4s8k3in56"
+      "revision": "3c1af059348350b0bbb81c5ca3c1f8f573dbd64a",
+      "url": "https://github.com/nvimdev/lspsaga.nvim/archive/3c1af059348350b0bbb81c5ca3c1f8f573dbd64a.tar.gz",
+      "hash": "15y7bv8ywaihc1s0ifs5g8a6pcpdlqm4c15ahg8ygys2hnb4l5r7"
     },
     "ltex_extra-nvim": {
       "type": "Git",
@@ -2191,9 +2191,9 @@
         "repo": "neotest-haskell"
       },
       "branch": "master",
-      "revision": "2de3232c98bec825006a87d4601c773525b5421f",
-      "url": "https://github.com/mrcjkb/neotest-haskell/archive/2de3232c98bec825006a87d4601c773525b5421f.tar.gz",
-      "hash": "1a6ji86igd9hda2b39x1rwycpgk8ddc4anj8c2bk79vv8v2k612y"
+      "revision": "6b555ce43d3b9d29f484abf98ccb70e7597a50bb",
+      "url": "https://github.com/mrcjkb/neotest-haskell/archive/6b555ce43d3b9d29f484abf98ccb70e7597a50bb.tar.gz",
+      "hash": "02wrqp854na7k2rxr204ckwc4kvm1pxlsrxknpm60jqinm1fj3i0"
     },
     "neotest-java": {
       "type": "Git",
