@@ -1004,9 +1004,9 @@
         "repo": "coq_nvim"
       },
       "branch": "coq",
-      "revision": "1a1a6645c70d42519d8a2425530fae0df4041a81",
-      "url": "https://github.com/ms-jpq/coq_nvim/archive/1a1a6645c70d42519d8a2425530fae0df4041a81.tar.gz",
-      "hash": "1p9xg66xipdyyc0f1pp1zl33fvz93rqcy1lb95zk0j943gg06md1"
+      "revision": "a8d665bdff07f3c8a08832e823f13312b49bfa5c",
+      "url": "https://github.com/ms-jpq/coq_nvim/archive/a8d665bdff07f3c8a08832e823f13312b49bfa5c.tar.gz",
+      "hash": "0asb0lnr4dn8y5n2bp4f6991474sjc48gsggc8mvwrj6z5jghqvk"
     },
     "crates-nvim": {
       "type": "Git",
@@ -1268,9 +1268,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "1e03541de4d8a169defe83bb4d7abfba450c63a1",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/1e03541de4d8a169defe83bb4d7abfba450c63a1.tar.gz",
-      "hash": "1by9092fvfk1v06idfqhnx5bsisj28hk981ngylkzq806j7lbj09"
+      "revision": "5dec364c9dedec00dcd6d06e323d7bc7f8d6b596",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/5dec364c9dedec00dcd6d06e323d7bc7f8d6b596.tar.gz",
+      "hash": "1fr43zyqbxmnzvynjwsiivlj76wblwrvrx5860sg0a675kbkmi83"
     },
     "galaxyline-nvim": {
       "type": "Git",
