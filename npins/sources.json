@@ -116,9 +116,9 @@
         "repo": "avante.nvim"
       },
       "branch": "main",
-      "revision": "b19573cb2a8e30662e2245c3bfbb6e22d09d0905",
-      "url": "https://github.com/yetone/avante.nvim/archive/b19573cb2a8e30662e2245c3bfbb6e22d09d0905.tar.gz",
-      "hash": "1bpv5209nm3awfmbhdy1fdvybzl3h11vxl985yv6lv00xs1y5fnn"
+      "revision": "86ba5a468b9944b11dad8c2951b2c62fbd829fdb",
+      "url": "https://github.com/yetone/avante.nvim/archive/86ba5a468b9944b11dad8c2951b2c62fbd829fdb.tar.gz",
+      "hash": "15jdp7jar5s1hdwzc9zdvp8pxarhqr40k8pi87mbqfzll6a00avj"
     },
     "baleia-nvim": {
       "type": "Git",
@@ -1939,9 +1939,9 @@
         "repo": "modus-themes.nvim"
       },
       "branch": "master",
-      "revision": "f012470c3f223f4a8804b52eb3cb3d551990fc14",
-      "url": "https://github.com/miikanissi/modus-themes.nvim/archive/f012470c3f223f4a8804b52eb3cb3d551990fc14.tar.gz",
-      "hash": "0fzzwaajy1hnzc3rm2i7bcqvivrvfmyw8nr2plw7nxcbxx2i0vky"
+      "revision": "54647ef5282e7166c1878ab1527a2c0de54c085d",
+      "url": "https://github.com/miikanissi/modus-themes.nvim/archive/54647ef5282e7166c1878ab1527a2c0de54c085d.tar.gz",
+      "hash": "0mrnm422j85pxjjq4l7ghjkpm50b1fs7ii89frpnivz4ppfljz11"
     },
     "molten-nvim": {
       "type": "Git",
@@ -2671,9 +2671,9 @@
         "repo": "nvim-scrollview"
       },
       "branch": "main",
-      "revision": "3820bf458f4054d962cc3aaaac1f0bacc207814c",
-      "url": "https://github.com/dstein64/nvim-scrollview/archive/3820bf458f4054d962cc3aaaac1f0bacc207814c.tar.gz",
-      "hash": "1g20fma02289v562d5dgnifmjy3kbwkx641r3lmcp0dd3jhqjl59"
+      "revision": "532f55da42c06c8b25cd26928361ec12e9befdd7",
+      "url": "https://github.com/dstein64/nvim-scrollview/archive/532f55da42c06c8b25cd26928361ec12e9befdd7.tar.gz",
+      "hash": "0axami6ka0vcdqvavsp9nnpqp2vgmsr3jril420n2a60w8gkklis"
     },
     "nvim-snippets": {
       "type": "Git",
