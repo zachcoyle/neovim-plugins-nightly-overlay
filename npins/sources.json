@@ -1688,9 +1688,9 @@
         "repo": "lean.nvim"
       },
       "branch": "main",
-      "revision": "fa3c28824de5707731d05f3a2691b2b1d33723cf",
-      "url": "https://github.com/Julian/lean.nvim/archive/fa3c28824de5707731d05f3a2691b2b1d33723cf.tar.gz",
-      "hash": "1x0h9dxjl43v5jkl9h1nd30qj28idsd3kg30gvswiz7g3z7nshv8"
+      "revision": "08d67725e575fba9d1f3cf499fad06b01581890d",
+      "url": "https://github.com/Julian/lean.nvim/archive/08d67725e575fba9d1f3cf499fad06b01581890d.tar.gz",
+      "hash": "0q1c0ha136hqry0v1dm51s3ajqs11gh151cb0s7xad4n495y7438"
     },
     "leap-nvim": {
       "type": "Git",
@@ -1831,9 +1831,9 @@
         "repo": "lz.n"
       },
       "branch": "master",
-      "revision": "de27f80d43c6e9283d3e5b23d0c42f4fd095b116",
-      "url": "https://github.com/nvim-neorocks/lz.n/archive/de27f80d43c6e9283d3e5b23d0c42f4fd095b116.tar.gz",
-      "hash": "0sfdk5gzbag0bm0646fqw7vq785rgdm22p92qmkmkic98zgy21m6"
+      "revision": "801332a8e646d6ad6156af244028f34ffe4eb9f9",
+      "url": "https://github.com/nvim-neorocks/lz.n/archive/801332a8e646d6ad6156af244028f34ffe4eb9f9.tar.gz",
+      "hash": "1qwzxl8lzf6gh66zhfbi7q6wav00vnvai0sz8w7aiix7q1jrsl1q"
     },
     "magma-nvim-goose": {
       "type": "Git",
