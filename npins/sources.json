@@ -260,9 +260,9 @@
         "repo": "chadtree"
       },
       "branch": "chad",
-      "revision": "0c69cca5098d3ad8a1e612569203eda7d54488b6",
-      "url": "https://github.com/ms-jpq/chadtree/archive/0c69cca5098d3ad8a1e612569203eda7d54488b6.tar.gz",
-      "hash": "1nv2v7wjijxz7sjir75w64j8f0q22fpbbgcm9vha55qapp10j38r"
+      "revision": "ddd88d9f1f91c026b21bac5f8b5e8259af20434a",
+      "url": "https://github.com/ms-jpq/chadtree/archive/ddd88d9f1f91c026b21bac5f8b5e8259af20434a.tar.gz",
+      "hash": "1q76b0j4fzb0y98jh0x273x70a0f85mwwan88d90dd6np0k10p9c"
     },
     "clangd_extensions-nvim": {
       "type": "Git",
@@ -1004,9 +1004,9 @@
         "repo": "coq_nvim"
       },
       "branch": "coq",
-      "revision": "a8d665bdff07f3c8a08832e823f13312b49bfa5c",
-      "url": "https://github.com/ms-jpq/coq_nvim/archive/a8d665bdff07f3c8a08832e823f13312b49bfa5c.tar.gz",
-      "hash": "0asb0lnr4dn8y5n2bp4f6991474sjc48gsggc8mvwrj6z5jghqvk"
+      "revision": "27cca63337debdea4a8da61f758abc82a0045bfb",
+      "url": "https://github.com/ms-jpq/coq_nvim/archive/27cca63337debdea4a8da61f758abc82a0045bfb.tar.gz",
+      "hash": "1f08b0p2ffqkswwlx32h6b16q4n2mafcs9q612yfzcp7hkx9ffs2"
     },
     "crates-nvim": {
       "type": "Git",
