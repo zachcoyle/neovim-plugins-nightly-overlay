@@ -1232,9 +1232,9 @@
         "repo": "formatter.nvim"
       },
       "branch": "master",
-      "revision": "77979a90a80849e60c6a9249427421b65d5a9a68",
-      "url": "https://github.com/mhartington/formatter.nvim/archive/77979a90a80849e60c6a9249427421b65d5a9a68.tar.gz",
-      "hash": "139wx2bhvs2iyyc3bysgln40rj1jcm5iag5yd39hcwwdk2f6f4iz"
+      "revision": "b32a279978860cc16196ea6e73b0ad83d843c701",
+      "url": "https://github.com/mhartington/formatter.nvim/archive/b32a279978860cc16196ea6e73b0ad83d843c701.tar.gz",
+      "hash": "16xhc6nyhlbix5bgbqkvrj8llqqd0dxljm11r7s99gjcarqx3fmw"
     },
     "friendly-snippets": {
       "type": "Git",
@@ -2863,9 +2863,9 @@
         "repo": "octo.nvim"
       },
       "branch": "master",
-      "revision": "896d48b6184f69113599e9ecc46611e9d0b5fbcf",
-      "url": "https://github.com/pwntester/octo.nvim/archive/896d48b6184f69113599e9ecc46611e9d0b5fbcf.tar.gz",
-      "hash": "1p1618cnf1ag6nmirpm6z9hx57cwrpn5wfnhncr6rifjndjfmas1"
+      "revision": "1d321f1cba761d369bf3c9adb8113bd59d3ea667",
+      "url": "https://github.com/pwntester/octo.nvim/archive/1d321f1cba761d369bf3c9adb8113bd59d3ea667.tar.gz",
+      "hash": "0wwzbhyb8b0gx27qwql8h8qvs4gajh8dmdqqr93z94g3dp8b5h99"
     },
     "oil-nvim": {
       "type": "Git",
