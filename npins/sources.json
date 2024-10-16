@@ -2875,9 +2875,9 @@
         "repo": "oil.nvim"
       },
       "branch": "master",
-      "revision": "ccab9d5e09e2d0042fbbe5b6bd05e82426247067",
-      "url": "https://github.com/stevearc/oil.nvim/archive/ccab9d5e09e2d0042fbbe5b6bd05e82426247067.tar.gz",
-      "hash": "08ywsapg9j6simfixj7bxw4b011d8dbsrvy7yiawzvfry1hpqmxx"
+      "revision": "39dbf875861449cf09e936fa80073f3413e9439c",
+      "url": "https://github.com/stevearc/oil.nvim/archive/39dbf875861449cf09e936fa80073f3413e9439c.tar.gz",
+      "hash": "1j97c6f5x6vv5rdsb92d64hi1d9p2gd84n4awl6x5bdzqnjr55pn"
     },
     "ollama-nvim": {
       "type": "Git",
@@ -2935,9 +2935,9 @@
         "repo": "overseer.nvim"
       },
       "branch": "master",
-      "revision": "965f8159408cee5970421ad36c4523333b798502",
-      "url": "https://github.com/stevearc/overseer.nvim/archive/965f8159408cee5970421ad36c4523333b798502.tar.gz",
-      "hash": "1z6mrgkh0rkpc565r5hlfqnfqgfywcxz9hizw69zyrfhy8x8yg58"
+      "revision": "6f8bc37eb729a00e185cdf38b1ed3309a05bfeef",
+      "url": "https://github.com/stevearc/overseer.nvim/archive/6f8bc37eb729a00e185cdf38b1ed3309a05bfeef.tar.gz",
+      "hash": "0817pw0vaa9war0d7skf9438mazdf9ip29amw77zlbjqcdzg5nbi"
     },
     "oxocarbon-nvim": {
       "type": "Git",
