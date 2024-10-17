@@ -668,9 +668,9 @@
         "repo": "cmp-rg"
       },
       "branch": "master",
-      "revision": "677a7874ee8f1afc648c2e7d63a97bc21a7663c5",
-      "url": "https://github.com/lukas-reineke/cmp-rg/archive/677a7874ee8f1afc648c2e7d63a97bc21a7663c5.tar.gz",
-      "hash": "0cahyz5i6iyjqb4cklrkimw5pjajfnlazpmky617ysl3m1b6pwk3"
+      "revision": "d6cea15ad504369ec98f3de73b9631dfdd23a671",
+      "url": "https://github.com/lukas-reineke/cmp-rg/archive/d6cea15ad504369ec98f3de73b9631dfdd23a671.tar.gz",
+      "hash": "1rjhlc1rldqz79b1han5xrbwqvx514h3yvlsz7rgx58jscv6mmx9"
     },
     "cmp-snippy": {
       "type": "Git",
