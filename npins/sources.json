@@ -1915,9 +1915,9 @@
         "repo": "mini.nvim"
       },
       "branch": "main",
-      "revision": "255369b9afef450cf918ef78a0bf58e6f65eed2f",
-      "url": "https://github.com/echasnovski/mini.nvim/archive/255369b9afef450cf918ef78a0bf58e6f65eed2f.tar.gz",
-      "hash": "0lff4vbnk62bpx57kljqmd98xndr3ys3a92sdbxqki7002a2ys1w"
+      "revision": "e5273e8a01597e9b71c015abb2b1f4278892e12a",
+      "url": "https://github.com/echasnovski/mini.nvim/archive/e5273e8a01597e9b71c015abb2b1f4278892e12a.tar.gz",
+      "hash": "17ad90sr1rhn43mhbw8mkn5rm8fqr4fj215nszgcs7i91ggknb9h"
     },
     "mkdnflow-nvim": {
       "type": "Git",
@@ -2767,9 +2767,9 @@
         "repo": "nvim-treesitter-context"
       },
       "branch": "master",
-      "revision": "78a81c7494e7d1a08dd1200b556933e513fd9f29",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter-context/archive/78a81c7494e7d1a08dd1200b556933e513fd9f29.tar.gz",
-      "hash": "19vf1wlvi7nggwzawaqyp81jk8hp85xsg1nm9cgjzk9fvywddnpc"
+      "revision": "3de5708b3060554ba5f383404f2ce6516e9dbed1",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter-context/archive/3de5708b3060554ba5f383404f2ce6516e9dbed1.tar.gz",
+      "hash": "1rm0ngvr2ni6v8j64g5pjj9a5bh3lk2yckv8axwd1lpgshx91gzx"
     },
     "nvim-treesitter-refactor": {
       "type": "Git",
