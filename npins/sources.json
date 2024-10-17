@@ -1232,9 +1232,9 @@
         "repo": "formatter.nvim"
       },
       "branch": "master",
-      "revision": "b32a279978860cc16196ea6e73b0ad83d843c701",
-      "url": "https://github.com/mhartington/formatter.nvim/archive/b32a279978860cc16196ea6e73b0ad83d843c701.tar.gz",
-      "hash": "16xhc6nyhlbix5bgbqkvrj8llqqd0dxljm11r7s99gjcarqx3fmw"
+      "revision": "04547bdfe89035731a2815a3875b87f77d43e36d",
+      "url": "https://github.com/mhartington/formatter.nvim/archive/04547bdfe89035731a2815a3875b87f77d43e36d.tar.gz",
+      "hash": "1ih28z1y6g8r20si698zispkwra5mll0g8b1lc6778cjfd4dy32j"
     },
     "friendly-snippets": {
       "type": "Git",
@@ -1915,9 +1915,9 @@
         "repo": "mini.nvim"
       },
       "branch": "main",
-      "revision": "d4ce7d025f9c7bb4d55ebc4fd88987651e632893",
-      "url": "https://github.com/echasnovski/mini.nvim/archive/d4ce7d025f9c7bb4d55ebc4fd88987651e632893.tar.gz",
-      "hash": "10cls549nsv4bgmqqky5acdy8f912901084vbqzrgq7dnx7j3vzg"
+      "revision": "255369b9afef450cf918ef78a0bf58e6f65eed2f",
+      "url": "https://github.com/echasnovski/mini.nvim/archive/255369b9afef450cf918ef78a0bf58e6f65eed2f.tar.gz",
+      "hash": "0lff4vbnk62bpx57kljqmd98xndr3ys3a92sdbxqki7002a2ys1w"
     },
     "mkdnflow-nvim": {
       "type": "Git",
@@ -2863,9 +2863,9 @@
         "repo": "octo.nvim"
       },
       "branch": "master",
-      "revision": "1d321f1cba761d369bf3c9adb8113bd59d3ea667",
-      "url": "https://github.com/pwntester/octo.nvim/archive/1d321f1cba761d369bf3c9adb8113bd59d3ea667.tar.gz",
-      "hash": "0wwzbhyb8b0gx27qwql8h8qvs4gajh8dmdqqr93z94g3dp8b5h99"
+      "revision": "a83ca8bcee6cf4a9288bbfd1b97a51ba32068c21",
+      "url": "https://github.com/pwntester/octo.nvim/archive/a83ca8bcee6cf4a9288bbfd1b97a51ba32068c21.tar.gz",
+      "hash": "03pwwkb06b7dfd0m5w98b05dfggn1vnpcxk531p0vsmiy263qyyh"
     },
     "oil-nvim": {
       "type": "Git",
