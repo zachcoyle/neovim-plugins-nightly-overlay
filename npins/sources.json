@@ -1520,9 +1520,9 @@
         "repo": "hop.nvim"
       },
       "branch": "master",
-      "revision": "8f51ef02700bb3cdcce94e92eff16170a6343c4f",
-      "url": "https://github.com/smoka7/hop.nvim/archive/8f51ef02700bb3cdcce94e92eff16170a6343c4f.tar.gz",
-      "hash": "07py0rhr6wx1nbq8i20a71iv0arp7ym75ffyb3d3n5icmf53inl4"
+      "revision": "08ddca799089ab96a6d1763db0b8adc5320bf050",
+      "url": "https://github.com/smoka7/hop.nvim/archive/08ddca799089ab96a6d1763db0b8adc5320bf050.tar.gz",
+      "hash": "07mydcm3x7xc7x6wg5l6kcx8yrrv9bwy2p44y17ajyx37c5lmwwn"
     },
     "hydra-nvim": {
       "type": "Git",
