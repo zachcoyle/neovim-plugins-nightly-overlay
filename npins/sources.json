@@ -44,9 +44,9 @@
         "repo": "SchemaStore.nvim"
       },
       "branch": "main",
-      "revision": "528de485531f42ce5f097e34ab91d8f4a891559d",
-      "url": "https://github.com/b0o/SchemaStore.nvim/archive/528de485531f42ce5f097e34ab91d8f4a891559d.tar.gz",
-      "hash": "07xny04mn07agmh95q3rkz5m931id2apcsm75fsgapd9ircmzy9f"
+      "revision": "ee460baf4c8d29d051906d39b0e095289a3ddc9a",
+      "url": "https://github.com/b0o/SchemaStore.nvim/archive/ee460baf4c8d29d051906d39b0e095289a3ddc9a.tar.gz",
+      "hash": "0awxb0rlyplaf9jhgs7i55spi224m8whhycw8ixhsr7vwiscjr62"
     },
     "alpha-nvim": {
       "type": "Git",
@@ -1028,9 +1028,9 @@
         "repo": "cyberdream.nvim"
       },
       "branch": "main",
-      "revision": "a4023119076876fcfc92ca48268c8a99647d6b0d",
-      "url": "https://github.com/scottmckendry/cyberdream.nvim/archive/a4023119076876fcfc92ca48268c8a99647d6b0d.tar.gz",
-      "hash": "1clr2js6w5mrm3i2zg5nfq0nlz52s2347ppk373d3hmylb8vmnkz"
+      "revision": "358f6bfdd06115c139fb5518d3b95688083b7f70",
+      "url": "https://github.com/scottmckendry/cyberdream.nvim/archive/358f6bfdd06115c139fb5518d3b95688083b7f70.tar.gz",
+      "hash": "0cvsj55jv3aggqkrk611hmhb0kcvy7z6xal5p9af00bql97hqh4a"
     },
     "dashboard-nvim": {
       "type": "Git",
@@ -4219,9 +4219,9 @@
         "repo": "yazi.nvim"
       },
       "branch": "main",
-      "revision": "5119c81598eb4cfe53dc7ee0e851b15619e0323d",
-      "url": "https://github.com/mikavilpas/yazi.nvim/archive/5119c81598eb4cfe53dc7ee0e851b15619e0323d.tar.gz",
-      "hash": "1q7ajm33vhfdqzpp3j1x6n8cfqapyv0lm6ilnc8gwjdb2hylkbx7"
+      "revision": "5bc0d1f1fef83a3d8c68b882b3fe865979b5112f",
+      "url": "https://github.com/mikavilpas/yazi.nvim/archive/5bc0d1f1fef83a3d8c68b882b3fe865979b5112f.tar.gz",
+      "hash": "1lkkahwj6i39dc13nqmi87az74jl4qvgmaqlgak3rrzz8k3nkpxg"
     },
     "yuck-vim": {
       "type": "Git",
