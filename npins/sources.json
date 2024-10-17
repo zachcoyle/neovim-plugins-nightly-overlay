@@ -2011,9 +2011,9 @@
         "repo": "neogit"
       },
       "branch": "master",
-      "revision": "33127ea31abd8775d1178c0cf89a4db089ee3e9e",
-      "url": "https://github.com/TimUntersberger/neogit/archive/33127ea31abd8775d1178c0cf89a4db089ee3e9e.tar.gz",
-      "hash": "04jqpddbpsvzxziqg85cm4m99fkcsznxqsjdgir5wal2fphnsg81"
+      "revision": "3e44062d164d11848a1663831e4366b86ef6d889",
+      "url": "https://github.com/TimUntersberger/neogit/archive/3e44062d164d11848a1663831e4366b86ef6d889.tar.gz",
+      "hash": "1mb2mi9cxcd0mdb9fkjc877d2358l00l83p60pjdmd0213b5cc4a"
     },
     "neon": {
       "type": "Git",
@@ -3139,9 +3139,9 @@
         "repo": "render-markdown.nvim"
       },
       "branch": "main",
-      "revision": "2f36ac16df20e0c6512f14e2793f7b2ba235989c",
-      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/2f36ac16df20e0c6512f14e2793f7b2ba235989c.tar.gz",
-      "hash": "1g7xrnz5b6bz4yxj1m2z62nsg6hclyfqxjzrn15ks0gqgizfri3f"
+      "revision": "bea6f2078e34abdf5c2632f593651bb13205477f",
+      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/bea6f2078e34abdf5c2632f593651bb13205477f.tar.gz",
+      "hash": "1l163dpad13i9s61wi5j9ixlgxfgvjdjzrfkid0y9n1lxs782js9"
     },
     "rest-nvim": {
       "type": "Git",
@@ -4123,9 +4123,9 @@
         "repo": "vimtex"
       },
       "branch": "master",
-      "revision": "9a5ef1d4ac8e4e06071179ebe8121350fcb97861",
-      "url": "https://github.com/lervag/vimtex/archive/9a5ef1d4ac8e4e06071179ebe8121350fcb97861.tar.gz",
-      "hash": "1zp8wvys8m61sqpyil7ra33pinnq8kliadric0d7iii9d4gjqidd"
+      "revision": "4dd3be5cc4e8f6ee7401e303a8211efb4d91bcf6",
+      "url": "https://github.com/lervag/vimtex/archive/4dd3be5cc4e8f6ee7401e303a8211efb4d91bcf6.tar.gz",
+      "hash": "11a84xcm0rm4mv8521pi5a9dgiv8lys11nrda5kwh5vlrzxdwdwx"
     },
     "virt-column-nvim": {
       "type": "Git",
