@@ -140,9 +140,9 @@
         "repo": "barbar.nvim"
       },
       "branch": "master",
-      "revision": "ca1326f7d87acfd47b0cbeeb3bef98cec73a92be",
-      "url": "https://github.com/romgrk/barbar.nvim/archive/ca1326f7d87acfd47b0cbeeb3bef98cec73a92be.tar.gz",
-      "hash": "0irbz0f061fl8f9y45gy7kg9fbgn4qwp51knqh1q1q2fm5nhlvwh"
+      "revision": "7c28de8c22f4c00ed43a78ae16c13dd6a248fe1a",
+      "url": "https://github.com/romgrk/barbar.nvim/archive/7c28de8c22f4c00ed43a78ae16c13dd6a248fe1a.tar.gz",
+      "hash": "0cd93xldgqbkfbkq5s2bmq6j9mzzgfq5vk8rqbff938j0y3d7ldd"
     },
     "barbecue-nvim": {
       "type": "Git",
@@ -2575,9 +2575,9 @@
         "repo": "nvim-lightbulb"
       },
       "branch": "master",
-      "revision": "0292125488e78347795905e6dd0563b008c9a169",
-      "url": "https://github.com/kosayoda/nvim-lightbulb/archive/0292125488e78347795905e6dd0563b008c9a169.tar.gz",
-      "hash": "05bp7183cvkbnaddrzx1y3aismgb94gldfvwqhfq1jy53v55x6yi"
+      "revision": "78e7a95df4a1f316feb88ce60fdb4b037077c6a2",
+      "url": "https://github.com/kosayoda/nvim-lightbulb/archive/78e7a95df4a1f316feb88ce60fdb4b037077c6a2.tar.gz",
+      "hash": "0z2zc2rfb4jbwi44b7z0fcj19hv8gpwlzszqazzj1cprirylpxlp"
     },
     "nvim-lint": {
       "type": "Git",
@@ -3139,9 +3139,9 @@
         "repo": "render-markdown.nvim"
       },
       "branch": "main",
-      "revision": "5925f48b8c00bb6911763f2a2de19ce05d375e85",
-      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/5925f48b8c00bb6911763f2a2de19ce05d375e85.tar.gz",
-      "hash": "1vn7nnr7h8g5i8ljqfrj11mzbqs6qamw2rwi5xrihaxmjnhbp24z"
+      "revision": "7808306438e51d7222534759011cddedf36ce580",
+      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/7808306438e51d7222534759011cddedf36ce580.tar.gz",
+      "hash": "06n133smnj4mqlbz6rkms4wfd949d9f32y31mlc5i3f8icxinrib"
     },
     "rest-nvim": {
       "type": "Git",
