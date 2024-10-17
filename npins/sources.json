@@ -2755,9 +2755,9 @@
         "repo": "nvim-treesitter"
       },
       "branch": "master",
-      "revision": "92725df6222614307c4712eb9982e5287f21aa11",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/92725df6222614307c4712eb9982e5287f21aa11.tar.gz",
-      "hash": "1v07in2nv62lfqicf21ljk80zy3qry9ql2jsy1fqysbkrh088p0b"
+      "revision": "03452942dfbd998701d4123ccad2090e1bc7e9f1",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/03452942dfbd998701d4123ccad2090e1bc7e9f1.tar.gz",
+      "hash": "1j5marsz84zr3qpnabbhahd7fc1sqyxsk2lw2xw4iyvg90bwyaqx"
     },
     "nvim-treesitter-context": {
       "type": "Git",
@@ -2923,9 +2923,9 @@
         "repo": "orgmode"
       },
       "branch": "master",
-      "revision": "a5aeb14663ef08e0bb4bb847f8d79f9c253094a0",
-      "url": "https://github.com/nvim-orgmode/orgmode/archive/a5aeb14663ef08e0bb4bb847f8d79f9c253094a0.tar.gz",
-      "hash": "0hwplx3dj7mn95cqhj9hrc9dl2q211ib8hlz3fn4771bsadabxzh"
+      "revision": "05d69831e57996d09d9c6d9b135d141d6c051035",
+      "url": "https://github.com/nvim-orgmode/orgmode/archive/05d69831e57996d09d9c6d9b135d141d6c051035.tar.gz",
+      "hash": "05scr3vhdhq11sk4fbqbndska8nfsw63mqpx7kllalzvkcdw31pi"
     },
     "overseer-nvim": {
       "type": "Git",
