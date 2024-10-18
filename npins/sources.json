@@ -44,9 +44,9 @@
         "repo": "SchemaStore.nvim"
       },
       "branch": "main",
-      "revision": "ee460baf4c8d29d051906d39b0e095289a3ddc9a",
-      "url": "https://github.com/b0o/SchemaStore.nvim/archive/ee460baf4c8d29d051906d39b0e095289a3ddc9a.tar.gz",
-      "hash": "0awxb0rlyplaf9jhgs7i55spi224m8whhycw8ixhsr7vwiscjr62"
+      "revision": "30eacb81f0202c0d5718fb27e3ec0b03945a03c7",
+      "url": "https://github.com/b0o/SchemaStore.nvim/archive/30eacb81f0202c0d5718fb27e3ec0b03945a03c7.tar.gz",
+      "hash": "0q75ql3fg84nb8vhfxgi1wpmpfz7yk0wqkiw3l7zf1j5xmqskl4y"
     },
     "alpha-nvim": {
       "type": "Git",
@@ -4087,9 +4087,9 @@
         "repo": "vim-vsnip-integ"
       },
       "branch": "master",
-      "revision": "1914e72cf3de70df7f5dde476cd299aba2440aef",
-      "url": "https://github.com/hrsh7th/vim-vsnip-integ/archive/1914e72cf3de70df7f5dde476cd299aba2440aef.tar.gz",
-      "hash": "0jqnzvvhlvwrqbxk70j1z7qx5hgzqjnv0hp8rzs9sfbv3wkgq12q"
+      "revision": "90ae474e8b05ed41e36d6f58382a9fbfb4b672c4",
+      "url": "https://github.com/hrsh7th/vim-vsnip-integ/archive/90ae474e8b05ed41e36d6f58382a9fbfb4b672c4.tar.gz",
+      "hash": "1n8g9knii0y5c7gnwmndbw2c2ii5xji0i90cfdcdvrkdhfacpyha"
     },
     "vim-wakatime": {
       "type": "Git",
