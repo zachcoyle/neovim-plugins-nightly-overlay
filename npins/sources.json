@@ -2671,9 +2671,9 @@
         "repo": "nvim-scrollview"
       },
       "branch": "main",
-      "revision": "c82821508e50d07fc0696af764fa8604c9f66de8",
-      "url": "https://github.com/dstein64/nvim-scrollview/archive/c82821508e50d07fc0696af764fa8604c9f66de8.tar.gz",
-      "hash": "0v5v2m4akjrbi1qcqpjl5bj8wwh3g863mhkj8k8sf922flyh0mxp"
+      "revision": "f7f611330a8f7cd00dc81538fec369611be678ed",
+      "url": "https://github.com/dstein64/nvim-scrollview/archive/f7f611330a8f7cd00dc81538fec369611be678ed.tar.gz",
+      "hash": "1xx5aayjdjc6r8ad3lx70f67nsyi7zi7wclwd4a1zq7rx5j49vn9"
     },
     "nvim-snippets": {
       "type": "Git",
@@ -3139,9 +3139,9 @@
         "repo": "render-markdown.nvim"
       },
       "branch": "main",
-      "revision": "1871dc4ced6fd775591a63df8e4c343ebaf1a2d2",
-      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/1871dc4ced6fd775591a63df8e4c343ebaf1a2d2.tar.gz",
-      "hash": "0pjhn4wrbbd7mbkxa6i7ifalf3p41srbabn6likngl8sj4bxdc2h"
+      "revision": "c6b59a263cffbd6bf463fff03b28a35ad9f1a8e6",
+      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/c6b59a263cffbd6bf463fff03b28a35ad9f1a8e6.tar.gz",
+      "hash": "0bxssjba4k7grd1z7c285vcxzywlsc9swnsccvylx0fc9qcspx63"
     },
     "rest-nvim": {
       "type": "Git",
