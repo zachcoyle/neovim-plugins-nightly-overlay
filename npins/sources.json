@@ -1028,9 +1028,9 @@
         "repo": "cyberdream.nvim"
       },
       "branch": "main",
-      "revision": "358f6bfdd06115c139fb5518d3b95688083b7f70",
-      "url": "https://github.com/scottmckendry/cyberdream.nvim/archive/358f6bfdd06115c139fb5518d3b95688083b7f70.tar.gz",
-      "hash": "0cvsj55jv3aggqkrk611hmhb0kcvy7z6xal5p9af00bql97hqh4a"
+      "revision": "7e6feb49d2ec47a742215754ec0ecc51eebba55a",
+      "url": "https://github.com/scottmckendry/cyberdream.nvim/archive/7e6feb49d2ec47a742215754ec0ecc51eebba55a.tar.gz",
+      "hash": "0ilv916j4wf110fapy25glc99qyps9dajvb1397xz95r6cyqc7ld"
     },
     "dashboard-nvim": {
       "type": "Git",
@@ -3031,9 +3031,9 @@
         "repo": "poimandres.nvim"
       },
       "branch": "main",
-      "revision": "77635055e686ae3c8a519198006ff0b43b6b2eae",
-      "url": "https://github.com/olivercederborg/poimandres.nvim/archive/77635055e686ae3c8a519198006ff0b43b6b2eae.tar.gz",
-      "hash": "0rnpx5c5pcxr5prpl3642422ggir1vfvll643dj9h21h9k1b12xh"
+      "revision": "a488957d803943a4201ac3b774913fcafa9e6b3a",
+      "url": "https://github.com/olivercederborg/poimandres.nvim/archive/a488957d803943a4201ac3b774913fcafa9e6b3a.tar.gz",
+      "hash": "0jxika4w73hhi17y69lpiwwqfl2a2910s8inyskzfddxam1k8ivk"
     },
     "popup-nvim": {
       "type": "Git",
