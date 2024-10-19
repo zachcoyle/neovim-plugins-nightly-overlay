@@ -2599,9 +2599,9 @@
         "repo": "nvim-lspconfig"
       },
       "branch": "master",
-      "revision": "b55b9659de9ac17e05df4787bb023e4c7ef45329",
-      "url": "https://github.com/neovim/nvim-lspconfig/archive/b55b9659de9ac17e05df4787bb023e4c7ef45329.tar.gz",
-      "hash": "0887n4q7z2k9faqd43ki7gpq30dn9vjk217kafj9hwymamqqfmk2"
+      "revision": "b58d56c0c7b3dfb1c71797013ad7b4aca5e6b898",
+      "url": "https://github.com/neovim/nvim-lspconfig/archive/b58d56c0c7b3dfb1c71797013ad7b4aca5e6b898.tar.gz",
+      "hash": "0fi4dspakbz8fmizjnawfd5qvp2sdwd76fkcyqsrnh2rq5l41b51"
     },
     "nvim-navbuddy": {
       "type": "Git",
@@ -3139,9 +3139,9 @@
         "repo": "render-markdown.nvim"
       },
       "branch": "main",
-      "revision": "c6b59a263cffbd6bf463fff03b28a35ad9f1a8e6",
-      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/c6b59a263cffbd6bf463fff03b28a35ad9f1a8e6.tar.gz",
-      "hash": "0bxssjba4k7grd1z7c285vcxzywlsc9swnsccvylx0fc9qcspx63"
+      "revision": "e1a2289106a9ce5ea1b20b78c90aef4d890950b7",
+      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/e1a2289106a9ce5ea1b20b78c90aef4d890950b7.tar.gz",
+      "hash": "15xf4d6fsl68fqv31y6dk3kr2818z4jlc236gdg4kn7mxgyj3azm"
     },
     "rest-nvim": {
       "type": "Git",
