@@ -236,9 +236,9 @@
         "repo": "nvim"
       },
       "branch": "main",
-      "revision": "7be452ee067978cdc8b2c5f3411f0c71ffa612b9",
-      "url": "https://github.com/catppuccin/nvim/archive/7be452ee067978cdc8b2c5f3411f0c71ffa612b9.tar.gz",
-      "hash": "1zn3z1wyjaiq27635ifx83b4ikix7svq5rvqmyry3ijsrgpp98cg"
+      "revision": "5ea0888e9003f1457d13685ac76f046af26a5524",
+      "url": "https://github.com/catppuccin/nvim/archive/5ea0888e9003f1457d13685ac76f046af26a5524.tar.gz",
+      "hash": "1fnvmbfzn0ab2q9j0rs51slqim8wchsn9qvckss3z2f4cmksj1kp"
     },
     "ccc-nvim": {
       "type": "Git",
