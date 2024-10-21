@@ -1004,9 +1004,9 @@
         "repo": "coq_nvim"
       },
       "branch": "coq",
-      "revision": "a23759c0d6f48f5b6b5b1504f24d2021fb87f374",
-      "url": "https://github.com/ms-jpq/coq_nvim/archive/a23759c0d6f48f5b6b5b1504f24d2021fb87f374.tar.gz",
-      "hash": "0cx46c93bzss1rdxncy6ypscmanj5ywzdmzgn01cby05z44188q0"
+      "revision": "0d3aa376fa10ac205ace6221583c3a5703b1e09f",
+      "url": "https://github.com/ms-jpq/coq_nvim/archive/0d3aa376fa10ac205ace6221583c3a5703b1e09f.tar.gz",
+      "hash": "0rrzngbs9j59mqqw6l1aa9fcf4glwv5xb5ldcn1vx70bgyh6a5jx"
     },
     "crates-nvim": {
       "type": "Git",
@@ -2923,9 +2923,9 @@
         "repo": "orgmode"
       },
       "branch": "master",
-      "revision": "1657948f884ed5b7fd7a4e13c9c7e5375fc1afb7",
-      "url": "https://github.com/nvim-orgmode/orgmode/archive/1657948f884ed5b7fd7a4e13c9c7e5375fc1afb7.tar.gz",
-      "hash": "0v3s0219qiq39imlz4d08zb5v1y0l2ms4nhd84im4zdawbn81a2n"
+      "revision": "625f060d8c68f5000a21a8d0f7ca5c4541df86f1",
+      "url": "https://github.com/nvim-orgmode/orgmode/archive/625f060d8c68f5000a21a8d0f7ca5c4541df86f1.tar.gz",
+      "hash": "0gpa9jf3czflrr8sf6rg0s2d52s5s8fn3g3fdgvlpj4w6bbzfzgv"
     },
     "overseer-nvim": {
       "type": "Git",
