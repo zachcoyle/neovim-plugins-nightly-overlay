@@ -44,9 +44,9 @@
         "repo": "SchemaStore.nvim"
       },
       "branch": "main",
-      "revision": "3c1db9e0fdb648c0dd6663ed11c6b261bfed22eb",
-      "url": "https://github.com/b0o/SchemaStore.nvim/archive/3c1db9e0fdb648c0dd6663ed11c6b261bfed22eb.tar.gz",
-      "hash": "0gpcrzrraf4i78q34xfms4a8hvjd88qkkvms2h66c9n981fbnkw9"
+      "revision": "3e54f4bbebea598646b141aa8aeca8a01b6ba601",
+      "url": "https://github.com/b0o/SchemaStore.nvim/archive/3e54f4bbebea598646b141aa8aeca8a01b6ba601.tar.gz",
+      "hash": "1h4j63kaw5pihlwjf2g7xff418wqfbjmn7rg30df5r37kb4bcxa2"
     },
     "alpha-nvim": {
       "type": "Git",
@@ -1819,9 +1819,9 @@
         "repo": "LuaSnip"
       },
       "branch": "master",
-      "revision": "e808bee352d1a6fcf902ca1a71cee76e60e24071",
-      "url": "https://github.com/L3MON4D3/LuaSnip/archive/e808bee352d1a6fcf902ca1a71cee76e60e24071.tar.gz",
-      "hash": "1714vkibbc4csv2d2mchilkzx6sagq0ba8k4nw26y8wfs7a9lily"
+      "revision": "ac7cbc0e85710db7cba6510b1d8e6a1a551444f7",
+      "url": "https://github.com/L3MON4D3/LuaSnip/archive/ac7cbc0e85710db7cba6510b1d8e6a1a551444f7.tar.gz",
+      "hash": "007qbfm3rvgxzkibg9rv56cnrarb42dpsbmarls8d677isj2spjx"
     },
     "lz-n": {
       "type": "Git",
