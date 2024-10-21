@@ -2443,9 +2443,9 @@
         "repo": "nvim-bacon"
       },
       "branch": "main",
-      "revision": "ad7b522ae85b7aab4981bcd34e9b513ce5849eda",
-      "url": "https://github.com/Canop/nvim-bacon/archive/ad7b522ae85b7aab4981bcd34e9b513ce5849eda.tar.gz",
-      "hash": "1baki6dfiahilkcgfdspbfj2mv3pf06nj7yamvranzpj04jadlx3"
+      "revision": "61169ad66eceb59ef01808a5f1b6aeb0b00c6a9a",
+      "url": "https://github.com/Canop/nvim-bacon/archive/61169ad66eceb59ef01808a5f1b6aeb0b00c6a9a.tar.gz",
+      "hash": "0ynl38agz9v32qx6wcy2znhbc8pm5c3zd8gyslkl34jbnca8ijmk"
     },
     "nvim-blame-line": {
       "type": "Git",
