@@ -1112,9 +1112,9 @@
         "repo": "dropbar.nvim"
       },
       "branch": "master",
-      "revision": "35988affc74c0cebb1484bcdfccfed523c0e7267",
-      "url": "https://github.com/Bekaboo/dropbar.nvim/archive/35988affc74c0cebb1484bcdfccfed523c0e7267.tar.gz",
-      "hash": "0ap101wxi1y3f2dx6x9b0ag0gbibifhqj2ybn13z5kab8pindc2r"
+      "revision": "61d1403532bf6fb3a28caef8394e34234cf674e6",
+      "url": "https://github.com/Bekaboo/dropbar.nvim/archive/61d1403532bf6fb3a28caef8394e34234cf674e6.tar.gz",
+      "hash": "14qsbjli3vgw60hpz3bbp3gs2m9paj5gllmz7mxchapzb2mj6clq"
     },
     "earthly-vim": {
       "type": "Git",
@@ -1915,9 +1915,9 @@
         "repo": "mini.nvim"
       },
       "branch": "main",
-      "revision": "8d94201fece82559881362da80063a4842b6c4c4",
-      "url": "https://github.com/echasnovski/mini.nvim/archive/8d94201fece82559881362da80063a4842b6c4c4.tar.gz",
-      "hash": "00yfr5zyxp9inmbk6msgkm80aasma2ndj65j23rjdf0mdwhiczws"
+      "revision": "92ff9f0a1291a1bddc8e5a8535dc02930d4d7203",
+      "url": "https://github.com/echasnovski/mini.nvim/archive/92ff9f0a1291a1bddc8e5a8535dc02930d4d7203.tar.gz",
+      "hash": "1x19z9b2jb020zzkp4ascrdbckngj79wmvhi9453r6klp38n35cf"
     },
     "mkdnflow-nvim": {
       "type": "Git",
