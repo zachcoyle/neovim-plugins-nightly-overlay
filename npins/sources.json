@@ -1004,9 +1004,9 @@
         "repo": "coq_nvim"
       },
       "branch": "coq",
-      "revision": "0d3aa376fa10ac205ace6221583c3a5703b1e09f",
-      "url": "https://github.com/ms-jpq/coq_nvim/archive/0d3aa376fa10ac205ace6221583c3a5703b1e09f.tar.gz",
-      "hash": "0rrzngbs9j59mqqw6l1aa9fcf4glwv5xb5ldcn1vx70bgyh6a5jx"
+      "revision": "2cc819f2f78dfae240ddb6f6f1ac4b329cfc352c",
+      "url": "https://github.com/ms-jpq/coq_nvim/archive/2cc819f2f78dfae240ddb6f6f1ac4b329cfc352c.tar.gz",
+      "hash": "1vd2pmxrfhjpv9rh5a8072s001ywsih1igb8pvzk8a1si1fwfpnb"
     },
     "crates-nvim": {
       "type": "Git",
@@ -3775,9 +3775,9 @@
         "repo": "vim-commentary"
       },
       "branch": "master",
-      "revision": "c4b8f52cbb7142ec239494e5a2c4a512f92c4d07",
-      "url": "https://github.com/tpope/vim-commentary/archive/c4b8f52cbb7142ec239494e5a2c4a512f92c4d07.tar.gz",
-      "hash": "1v16mnjm8gr540w6smvwbpn1zmjimzwi74a8d165a1yacnmdm6pf"
+      "revision": "64a654ef4a20db1727938338310209b6a63f60c9",
+      "url": "https://github.com/tpope/vim-commentary/archive/64a654ef4a20db1727938338310209b6a63f60c9.tar.gz",
+      "hash": "0jniidmrr1iddb7s5qxac30l30f4cmyia4b56xqcqv00ysk3kbni"
     },
     "vim-css-color": {
       "type": "Git",
