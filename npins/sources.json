@@ -212,9 +212,9 @@
         "repo": "bufferline.nvim"
       },
       "branch": "main",
-      "revision": "0b2fd861eee7595015b6561dade52fb060be10c4",
-      "url": "https://github.com/akinsho/bufferline.nvim/archive/0b2fd861eee7595015b6561dade52fb060be10c4.tar.gz",
-      "hash": "068gg98w88q0j3c1wrlggsp0986yppa8vlbnzy7wy4g7kn0aqfsn"
+      "revision": "5c528bee3dd797d5bd6bae5f229411939b25b203",
+      "url": "https://github.com/akinsho/bufferline.nvim/archive/5c528bee3dd797d5bd6bae5f229411939b25b203.tar.gz",
+      "hash": "0pv3hylmcl781jy5y1085h247ibvjnhvwwkvz8wvbsx6gl0npcy6"
     },
     "calvera-dark-nvim": {
       "type": "Git",
@@ -3643,9 +3643,9 @@
         "repo": "tokyonight.nvim"
       },
       "branch": "main",
-      "revision": "2c85fad417170d4572ead7bf9fdd706057bd73d7",
-      "url": "https://github.com/folke/tokyonight.nvim/archive/2c85fad417170d4572ead7bf9fdd706057bd73d7.tar.gz",
-      "hash": "1rqycwyk98fb9ris55wvicsg0mywfsv0j2z7ccn94zigzm9jhhh1"
+      "revision": "4867d10ead04e69872b24818d0d306539305cf87",
+      "url": "https://github.com/folke/tokyonight.nvim/archive/4867d10ead04e69872b24818d0d306539305cf87.tar.gz",
+      "hash": "12rkasnkhbiiv039lr5z4vp0klc4gjy79j2gnv4684swy9rw04vk"
     },
     "transparent-nvim": {
       "type": "Git",
@@ -3679,9 +3679,9 @@
         "repo": "trouble.nvim"
       },
       "branch": "main",
-      "revision": "20aa858a86a09458c3851464eab0c5560b5249c0",
-      "url": "https://github.com/folke/trouble.nvim/archive/20aa858a86a09458c3851464eab0c5560b5249c0.tar.gz",
-      "hash": "1sg9wh3dg9h6vavk3xb3n7bdm5l43rbpkmhn7619l2rs9adzdzxi"
+      "revision": "e45a7cb618ed4e84b28d7478c7db60bad9e142c2",
+      "url": "https://github.com/folke/trouble.nvim/archive/e45a7cb618ed4e84b28d7478c7db60bad9e142c2.tar.gz",
+      "hash": "1aidnd3lhw99r7n544d09y594b3r9awxi9klfrlqr4x9yr5l60cm"
     },
     "ts-comments-nvim": {
       "type": "Git",
