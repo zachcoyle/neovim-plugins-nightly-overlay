@@ -2047,9 +2047,9 @@
         "repo": "neorg"
       },
       "branch": "main",
-      "revision": "13d1d546684c83ba464adbf463a8a272c884e1e8",
-      "url": "https://github.com/vhyrro/neorg/archive/13d1d546684c83ba464adbf463a8a272c884e1e8.tar.gz",
-      "hash": "04mazbdcz9x764hz1w0vqcrnzzzg2hfy322m6c4scqra04dc517g"
+      "revision": "caa2829e7f1ea743f8da66aa37c2f802871f7454",
+      "url": "https://github.com/vhyrro/neorg/archive/caa2829e7f1ea743f8da66aa37c2f802871f7454.tar.gz",
+      "hash": "0wgjgd6kl9mya33i5awf9r8jv65zli6aq6i3cq9rm9p69hffpz6l"
     },
     "neoscroll-nvim": {
       "type": "Git",
