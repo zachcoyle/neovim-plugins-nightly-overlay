@@ -1232,9 +1232,9 @@
         "repo": "formatter.nvim"
       },
       "branch": "master",
-      "revision": "04547bdfe89035731a2815a3875b87f77d43e36d",
-      "url": "https://github.com/mhartington/formatter.nvim/archive/04547bdfe89035731a2815a3875b87f77d43e36d.tar.gz",
-      "hash": "1ih28z1y6g8r20si698zispkwra5mll0g8b1lc6778cjfd4dy32j"
+      "revision": "db71fdb31cee8ae33573b5cf1910e477360678b2",
+      "url": "https://github.com/mhartington/formatter.nvim/archive/db71fdb31cee8ae33573b5cf1910e477360678b2.tar.gz",
+      "hash": "13p4ksy1jqbj322y0qb21rbjrrrsg8zm2nmyh1ahlxlif49ch5vb"
     },
     "friendly-snippets": {
       "type": "Git",
