@@ -116,9 +116,9 @@
         "repo": "avante.nvim"
       },
       "branch": "main",
-      "revision": "bd6ce346c10e9f84d7489c4bfd9ac42960ffe7b7",
-      "url": "https://github.com/yetone/avante.nvim/archive/bd6ce346c10e9f84d7489c4bfd9ac42960ffe7b7.tar.gz",
-      "hash": "1zxib6xr2v9610qf1fdfrvzsp1nyds6fgg5q6bkg35c2lggx389i"
+      "revision": "a8e2b9a00c73b11d28857f0f5de79a9022281182",
+      "url": "https://github.com/yetone/avante.nvim/archive/a8e2b9a00c73b11d28857f0f5de79a9022281182.tar.gz",
+      "hash": "09jba8mww4xy0xw2r673mgl8c1iv1346yqqxplggbqf7x2khssgg"
     },
     "baleia-nvim": {
       "type": "Git",
@@ -1052,9 +1052,9 @@
         "repo": "debugprint.nvim"
       },
       "branch": "main",
-      "revision": "954f0b6c1c2e9338a71442a64ccf464a20ee9134",
-      "url": "https://github.com/andrewferrier/debugprint.nvim/archive/954f0b6c1c2e9338a71442a64ccf464a20ee9134.tar.gz",
-      "hash": "09z2f0fv1gfnvkn2z5f5s9a5cgxna09rach6v7cmcia9f5wg2ncf"
+      "revision": "b0136b289ef8931e226307e528cf3479447a4985",
+      "url": "https://github.com/andrewferrier/debugprint.nvim/archive/b0136b289ef8931e226307e528cf3479447a4985.tar.gz",
+      "hash": "0lhy4ska3bcjc7x023nh6wygh1j4zgxv9409fjn1mwix3kzn6v4n"
     },
     "diffview-nvim": {
       "type": "Git",
