@@ -116,9 +116,9 @@
         "repo": "avante.nvim"
       },
       "branch": "main",
-      "revision": "3f947f8deb31af42bc3a7280c3d0d57763565222",
-      "url": "https://github.com/yetone/avante.nvim/archive/3f947f8deb31af42bc3a7280c3d0d57763565222.tar.gz",
-      "hash": "0p9y2ddjj2d9i69qvarb78sh8w1873nimvqjj5js239277gg52d6"
+      "revision": "bd6ce346c10e9f84d7489c4bfd9ac42960ffe7b7",
+      "url": "https://github.com/yetone/avante.nvim/archive/bd6ce346c10e9f84d7489c4bfd9ac42960ffe7b7.tar.gz",
+      "hash": "1zxib6xr2v9610qf1fdfrvzsp1nyds6fgg5q6bkg35c2lggx389i"
     },
     "baleia-nvim": {
       "type": "Git",
@@ -3679,9 +3679,9 @@
         "repo": "trouble.nvim"
       },
       "branch": "main",
-      "revision": "254145ffd528b98eb20be894338e2d5c93fa02c2",
-      "url": "https://github.com/folke/trouble.nvim/archive/254145ffd528b98eb20be894338e2d5c93fa02c2.tar.gz",
-      "hash": "0bn9bxybczjk537dyfnawbkd23i3zb2mwb6bbmrl3354053z678d"
+      "revision": "20aa858a86a09458c3851464eab0c5560b5249c0",
+      "url": "https://github.com/folke/trouble.nvim/archive/20aa858a86a09458c3851464eab0c5560b5249c0.tar.gz",
+      "hash": "1sg9wh3dg9h6vavk3xb3n7bdm5l43rbpkmhn7619l2rs9adzdzxi"
     },
     "ts-comments-nvim": {
       "type": "Git",
@@ -3691,9 +3691,9 @@
         "repo": "ts-comments.nvim"
       },
       "branch": "main",
-      "revision": "98d7d4dec0af1312d38e288f800bbf6ff562b6ab",
-      "url": "https://github.com/folke/ts-comments.nvim/archive/98d7d4dec0af1312d38e288f800bbf6ff562b6ab.tar.gz",
-      "hash": "12g6rwrj67wk4fxxl31rsras5jw6a73xngrazlw095xhz6sd9l71"
+      "revision": "2002692ad1d3f6518d016550c20c2a890f0cbf0e",
+      "url": "https://github.com/folke/ts-comments.nvim/archive/2002692ad1d3f6518d016550c20c2a890f0cbf0e.tar.gz",
+      "hash": "1fwscqdqcza46zhbm76bfhfmz5x92cpl1hl5myfm8zkqax9kxk3l"
     },
     "twilight-nvim": {
       "type": "Git",
