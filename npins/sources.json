@@ -3943,9 +3943,9 @@
         "repo": "vim-matchup"
       },
       "branch": "master",
-      "revision": "57d3a4bbf4c9a0ab73f2cb90c4a9c93fef4c420f",
-      "url": "https://github.com/andymass/vim-matchup/archive/57d3a4bbf4c9a0ab73f2cb90c4a9c93fef4c420f.tar.gz",
-      "hash": "1b0qvf0kd69b4y5r0c32ajy8gyj63c8bmknc43hycicij3dh3bsz"
+      "revision": "2328f4a3082093fe61f6d8004572f905cc1b58f4",
+      "url": "https://github.com/andymass/vim-matchup/archive/2328f4a3082093fe61f6d8004572f905cc1b58f4.tar.gz",
+      "hash": "0fqgg6gsld4ff8sm7vh85qsn29rsxhvvbpylk4msymnw70bqcrv0"
     },
     "vim-nix": {
       "type": "Git",
