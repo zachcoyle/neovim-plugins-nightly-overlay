@@ -1268,9 +1268,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "5dec364c9dedec00dcd6d06e323d7bc7f8d6b596",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/5dec364c9dedec00dcd6d06e323d7bc7f8d6b596.tar.gz",
-      "hash": "1fr43zyqbxmnzvynjwsiivlj76wblwrvrx5860sg0a675kbkmi83"
+      "revision": "fc0f2b5781587d388b743c2c114127a7036d1a31",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/fc0f2b5781587d388b743c2c114127a7036d1a31.tar.gz",
+      "hash": "08k9xmnkjian4mr5ak7fzbw5v14rlhr6zl6a9nk4xq155p5qlk2s"
     },
     "galaxyline-nvim": {
       "type": "Git",
@@ -2011,9 +2011,9 @@
         "repo": "neogit"
       },
       "branch": "master",
-      "revision": "e92fc0e18e7d8be6a921e26728ea4184dd4bdd74",
-      "url": "https://github.com/TimUntersberger/neogit/archive/e92fc0e18e7d8be6a921e26728ea4184dd4bdd74.tar.gz",
-      "hash": "10zs9v6ws707bqiri7lv3d1jiyqqw0pmim8pihawb0zh3n7jvcfp"
+      "revision": "5e51097f964c01bc457f3a0f6fb7287d6782c04e",
+      "url": "https://github.com/TimUntersberger/neogit/archive/5e51097f964c01bc457f3a0f6fb7287d6782c04e.tar.gz",
+      "hash": "0wfhwbqpc7ni7qs1cdajy44m4avygk1ic6pzn6mxs3j28vk3kkm9"
     },
     "neon": {
       "type": "Git",
@@ -2755,9 +2755,9 @@
         "repo": "nvim-treesitter"
       },
       "branch": "master",
-      "revision": "cfc6f2c117aaaa82f19bcce44deec2c194d900ab",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/cfc6f2c117aaaa82f19bcce44deec2c194d900ab.tar.gz",
-      "hash": "0fv4i7l7zh7ma1pl9cjfjc7fijd1m3k9sgbplzzc0wk6s65idi7h"
+      "revision": "9210b9a4fa106247333495e19c843710f4d62102",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/9210b9a4fa106247333495e19c843710f4d62102.tar.gz",
+      "hash": "0d1gf3ilaqbgxyr41rzqry75l7brcfdqcwqmw1widylfcc259sl7"
     },
     "nvim-treesitter-context": {
       "type": "Git",
