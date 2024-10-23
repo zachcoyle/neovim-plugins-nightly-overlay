@@ -932,9 +932,9 @@
         "repo": "conform.nvim"
       },
       "branch": "master",
-      "revision": "51e99efa1675bd003a549fb02244b0a54e8de800",
-      "url": "https://github.com/stevearc/conform.nvim/archive/51e99efa1675bd003a549fb02244b0a54e8de800.tar.gz",
-      "hash": "1m8ysjvndqbi30h9fwlwxx6fjvvpg2l4s8k2i6w5za8d2sb88yga"
+      "revision": "5fbea7d7043bae2499d643c97b407f6da44abff4",
+      "url": "https://github.com/stevearc/conform.nvim/archive/5fbea7d7043bae2499d643c97b407f6da44abff4.tar.gz",
+      "hash": "1h40h4h3hwwxvyhzk0qh614vq6habhbvkwf87lny8bqc53bl9jgz"
     },
     "conjure": {
       "type": "Git",
@@ -3679,9 +3679,9 @@
         "repo": "trouble.nvim"
       },
       "branch": "main",
-      "revision": "e45a7cb618ed4e84b28d7478c7db60bad9e142c2",
-      "url": "https://github.com/folke/trouble.nvim/archive/e45a7cb618ed4e84b28d7478c7db60bad9e142c2.tar.gz",
-      "hash": "1aidnd3lhw99r7n544d09y594b3r9awxi9klfrlqr4x9yr5l60cm"
+      "revision": "2f3b537f2207ce32f4459f9d56746ee013b5e01b",
+      "url": "https://github.com/folke/trouble.nvim/archive/2f3b537f2207ce32f4459f9d56746ee013b5e01b.tar.gz",
+      "hash": "0why49ss11pgsjafblcwyz0k446m10pn03zy9yxafck1kfpshh97"
     },
     "ts-comments-nvim": {
       "type": "Git",
