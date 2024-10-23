@@ -1688,9 +1688,9 @@
         "repo": "lean.nvim"
       },
       "branch": "main",
-      "revision": "65053ad1943539adbae730608fe7ac6a4393f7ce",
-      "url": "https://github.com/Julian/lean.nvim/archive/65053ad1943539adbae730608fe7ac6a4393f7ce.tar.gz",
-      "hash": "05sbmjlywk91if98psni5qkf42jkn4hlr1gmwivl8fh11qn2yi45"
+      "revision": "bcdcfef2052f5f66f4765c7815d20b723a46367c",
+      "url": "https://github.com/Julian/lean.nvim/archive/bcdcfef2052f5f66f4765c7815d20b723a46367c.tar.gz",
+      "hash": "0b7fkrb1fd6pwm94v1zqvv2m7vsnvj0gmchpid23hfjbbi0kh80x"
     },
     "leap-nvim": {
       "type": "Git",
@@ -3163,9 +3163,9 @@
         "repo": "neovim"
       },
       "branch": "main",
-      "revision": "d396005db5bbd1d4ec7772a7c96c96f4c4802328",
-      "url": "https://github.com/rose-pine/neovim/archive/d396005db5bbd1d4ec7772a7c96c96f4c4802328.tar.gz",
-      "hash": "1ahcvljrk073mwr2ipmlf3gd2k7gp1n6g921q2s2v4i0136v2lyr"
+      "revision": "07a887a7bef4aacea8c7caebaf8cbf808cdc7a8e",
+      "url": "https://github.com/rose-pine/neovim/archive/07a887a7bef4aacea8c7caebaf8cbf808cdc7a8e.tar.gz",
+      "hash": "00gyn9s5c76fk1sqyg48aldbq2d8m33xia48vik8grj9wp12kbpx"
     },
     "scope-nvim": {
       "type": "Git",
