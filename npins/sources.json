@@ -2011,9 +2011,9 @@
         "repo": "neogit"
       },
       "branch": "master",
-      "revision": "1c6f02040e128f9f8133905c2b22dd120d3030d2",
-      "url": "https://github.com/TimUntersberger/neogit/archive/1c6f02040e128f9f8133905c2b22dd120d3030d2.tar.gz",
-      "hash": "03x9b896iwxnqarqp4ck7a9nx8j3xjbdz7cdgxnwv9ipk0zamgly"
+      "revision": "e92fc0e18e7d8be6a921e26728ea4184dd4bdd74",
+      "url": "https://github.com/TimUntersberger/neogit/archive/e92fc0e18e7d8be6a921e26728ea4184dd4bdd74.tar.gz",
+      "hash": "10zs9v6ws707bqiri7lv3d1jiyqqw0pmim8pihawb0zh3n7jvcfp"
     },
     "neon": {
       "type": "Git",
@@ -2755,9 +2755,9 @@
         "repo": "nvim-treesitter"
       },
       "branch": "master",
-      "revision": "bab7b0f20bd3e805b77231a77f516c7d69382693",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/bab7b0f20bd3e805b77231a77f516c7d69382693.tar.gz",
-      "hash": "04han1mgdvw2dksi33rq86f8rh6zgj90aphxqni2rr1c1524rwr8"
+      "revision": "cfc6f2c117aaaa82f19bcce44deec2c194d900ab",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/cfc6f2c117aaaa82f19bcce44deec2c194d900ab.tar.gz",
+      "hash": "0fv4i7l7zh7ma1pl9cjfjc7fijd1m3k9sgbplzzc0wk6s65idi7h"
     },
     "nvim-treesitter-context": {
       "type": "Git",
@@ -3643,9 +3643,9 @@
         "repo": "tokyonight.nvim"
       },
       "branch": "main",
-      "revision": "4867d10ead04e69872b24818d0d306539305cf87",
-      "url": "https://github.com/folke/tokyonight.nvim/archive/4867d10ead04e69872b24818d0d306539305cf87.tar.gz",
-      "hash": "12rkasnkhbiiv039lr5z4vp0klc4gjy79j2gnv4684swy9rw04vk"
+      "revision": "19f39b53ef5e148bf94ea3696df36175af7e31e6",
+      "url": "https://github.com/folke/tokyonight.nvim/archive/19f39b53ef5e148bf94ea3696df36175af7e31e6.tar.gz",
+      "hash": "1812nv74m24nx21lg9zbqrqd8jnp8q51lj6m9z5pqhb5xi3hrgy1"
     },
     "transparent-nvim": {
       "type": "Git",
