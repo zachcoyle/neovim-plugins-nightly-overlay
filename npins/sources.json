@@ -1831,9 +1831,9 @@
         "repo": "lz.n"
       },
       "branch": "master",
-      "revision": "409fe8585f329f5e70452b6fc107a77f95c028cc",
-      "url": "https://github.com/nvim-neorocks/lz.n/archive/409fe8585f329f5e70452b6fc107a77f95c028cc.tar.gz",
-      "hash": "12mg81x2kwm62mf6z3v5y0jbqwk5shayncmdi0dq8n5j5knzpky0"
+      "revision": "f78f791e7be24c3ec59278c1c194ed3208f116dd",
+      "url": "https://github.com/nvim-neorocks/lz.n/archive/f78f791e7be24c3ec59278c1c194ed3208f116dd.tar.gz",
+      "hash": "1xk4m8i61aiwcd9k5xp3wpn3frxkkjy5fk2921qkma1vsadd83yk"
     },
     "magma-nvim-goose": {
       "type": "Git",
@@ -3751,9 +3751,9 @@
         "repo": "vim-airline"
       },
       "branch": "master",
-      "revision": "81eca994860645acbb58442285cdd70df5c71d2b",
-      "url": "https://github.com/vim-airline/vim-airline/archive/81eca994860645acbb58442285cdd70df5c71d2b.tar.gz",
-      "hash": "1q2wgavd2ff3iqkq8khzp1h5r651vjz5z90xlz7fyl10lmfm4j10"
+      "revision": "3ddcab16c26760d7b94ef0b1f8b62f9bc1ea8cba",
+      "url": "https://github.com/vim-airline/vim-airline/archive/3ddcab16c26760d7b94ef0b1f8b62f9bc1ea8cba.tar.gz",
+      "hash": "0mx29fp30cn6b7w6axmq7igm0z0q6pnvvimic39c3lqc74m599c8"
     },
     "vim-bbye": {
       "type": "Git",
