@@ -212,9 +212,9 @@
         "repo": "bufferline.nvim"
       },
       "branch": "main",
-      "revision": "5c528bee3dd797d5bd6bae5f229411939b25b203",
-      "url": "https://github.com/akinsho/bufferline.nvim/archive/5c528bee3dd797d5bd6bae5f229411939b25b203.tar.gz",
-      "hash": "0pv3hylmcl781jy5y1085h247ibvjnhvwwkvz8wvbsx6gl0npcy6"
+      "revision": "5cc447cb2b463cb499c82eaeabbed4f5fa6a0a44",
+      "url": "https://github.com/akinsho/bufferline.nvim/archive/5cc447cb2b463cb499c82eaeabbed4f5fa6a0a44.tar.gz",
+      "hash": "1k9n2xmd76h44c2h16z87slf4lir0di7vwam7cyzf0kmmvqrg51j"
     },
     "calvera-dark-nvim": {
       "type": "Git",
@@ -4279,9 +4279,9 @@
         "repo": "zk-nvim"
       },
       "branch": "main",
-      "revision": "16fc98ce3d037418f04c181b5cc0fc4b982ceaed",
-      "url": "https://github.com/zk-org/zk-nvim/archive/16fc98ce3d037418f04c181b5cc0fc4b982ceaed.tar.gz",
-      "hash": "11ggr5qc6kzn3r0y5waqd8i8ax6if2dx08m0w2p739k1wgy1285l"
+      "revision": "aa9b346f2b0ab0c822bef917ee7f607d5c99f7bc",
+      "url": "https://github.com/zk-org/zk-nvim/archive/aa9b346f2b0ab0c822bef917ee7f607d5c99f7bc.tar.gz",
+      "hash": "1clsi06jjr08gngkjb4jzx2v45bsdl6yd6909srpwmssrzzzaxq5"
     }
   },
   "version": 3
