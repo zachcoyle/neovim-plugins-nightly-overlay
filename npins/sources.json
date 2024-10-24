@@ -260,9 +260,9 @@
         "repo": "chadtree"
       },
       "branch": "chad",
-      "revision": "ddd88d9f1f91c026b21bac5f8b5e8259af20434a",
-      "url": "https://github.com/ms-jpq/chadtree/archive/ddd88d9f1f91c026b21bac5f8b5e8259af20434a.tar.gz",
-      "hash": "1q76b0j4fzb0y98jh0x273x70a0f85mwwan88d90dd6np0k10p9c"
+      "revision": "613ec50d78164c7c4ee51f57ab394b701e18e4df",
+      "url": "https://github.com/ms-jpq/chadtree/archive/613ec50d78164c7c4ee51f57ab394b701e18e4df.tar.gz",
+      "hash": "13d8pjgzyh4y080lhv5vdlqpfqk3afvqn676gs4hxnn57qs9ymcs"
     },
     "clangd_extensions-nvim": {
       "type": "Git",
@@ -2755,9 +2755,9 @@
         "repo": "nvim-treesitter"
       },
       "branch": "master",
-      "revision": "649f6a1636d352b68527ace70973eda6da50fa6b",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/649f6a1636d352b68527ace70973eda6da50fa6b.tar.gz",
-      "hash": "0bbapvi73fx9v3fxhlzdh0abyjn3v94f31k5mmd42f9y5d566d0j"
+      "revision": "377039daa260b71f304c881d1b21d643c501a261",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/377039daa260b71f304c881d1b21d643c501a261.tar.gz",
+      "hash": "1a6416kqfyb2s7xcaf7nhd26239fyz5g1qd7ngas7dgzw1pzqznq"
     },
     "nvim-treesitter-context": {
       "type": "Git",
