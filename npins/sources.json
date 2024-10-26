@@ -1052,9 +1052,9 @@
         "repo": "debugprint.nvim"
       },
       "branch": "main",
-      "revision": "90b66806c961c4fd4863ee35d1f4df653e736548",
-      "url": "https://github.com/andrewferrier/debugprint.nvim/archive/90b66806c961c4fd4863ee35d1f4df653e736548.tar.gz",
-      "hash": "16fff5i347m3hi80r68sk1ia8jprrgga7nyx0zqf9ky4zzk6s4qy"
+      "revision": "95a45b87ed45afed0a5b6a9ad8c70e89bea0c092",
+      "url": "https://github.com/andrewferrier/debugprint.nvim/archive/95a45b87ed45afed0a5b6a9ad8c70e89bea0c092.tar.gz",
+      "hash": "1k8h7gihaxgnnqzsvd1ijk6jbgdxxsr8ghc6gxqrz3nlayr0c6qa"
     },
     "diffview-nvim": {
       "type": "Git",
@@ -2011,9 +2011,9 @@
         "repo": "neogit"
       },
       "branch": "master",
-      "revision": "570c39181784f7a2e1bc9cedbfb11846022eea54",
-      "url": "https://github.com/TimUntersberger/neogit/archive/570c39181784f7a2e1bc9cedbfb11846022eea54.tar.gz",
-      "hash": "0i75yd4sw8cdxl54d2dwzx1slcfnixfrjh4zysc0v9qsq34d57s1"
+      "revision": "51450329e04860f71a31d8c7ef5178fce6e60524",
+      "url": "https://github.com/TimUntersberger/neogit/archive/51450329e04860f71a31d8c7ef5178fce6e60524.tar.gz",
+      "hash": "0s2pkl0al8ynhq4b56vnsli6vn59ngfrjpgpg7rzb4zk3xq7v868"
     },
     "neon": {
       "type": "Git",
@@ -2743,9 +2743,9 @@
         "repo": "nvim-tree.lua"
       },
       "branch": "master",
-      "revision": "8760d76c1d316aa46f141f3f2b80b853a2acc41e",
-      "url": "https://github.com/nvim-tree/nvim-tree.lua/archive/8760d76c1d316aa46f141f3f2b80b853a2acc41e.tar.gz",
-      "hash": "03bxny93xlxq1n3dpkm65mfjyf9cd6b7r49a298vamqzr48gxy3x"
+      "revision": "f3efc25e56543688e654b3c575a4c7632c63f70d",
+      "url": "https://github.com/nvim-tree/nvim-tree.lua/archive/f3efc25e56543688e654b3c575a4c7632c63f70d.tar.gz",
+      "hash": "1kclja9hzxxk61yr9aj3y52n2xj3by2s05mnd0y7hqqa7pkffgbx"
     },
     "nvim-treesitter": {
       "type": "Git",
