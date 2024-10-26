@@ -1052,9 +1052,9 @@
         "repo": "debugprint.nvim"
       },
       "branch": "main",
-      "revision": "95a45b87ed45afed0a5b6a9ad8c70e89bea0c092",
-      "url": "https://github.com/andrewferrier/debugprint.nvim/archive/95a45b87ed45afed0a5b6a9ad8c70e89bea0c092.tar.gz",
-      "hash": "1k8h7gihaxgnnqzsvd1ijk6jbgdxxsr8ghc6gxqrz3nlayr0c6qa"
+      "revision": "dcd6bb1368225a9b3f091e5a67229b54c9b065ac",
+      "url": "https://github.com/andrewferrier/debugprint.nvim/archive/dcd6bb1368225a9b3f091e5a67229b54c9b065ac.tar.gz",
+      "hash": "0205csmf9ndzszpp7bm6mbp5khyszr0jgwhsw5rmwlmap1yrjia3"
     },
     "diffview-nvim": {
       "type": "Git",
@@ -2743,9 +2743,9 @@
         "repo": "nvim-tree.lua"
       },
       "branch": "master",
-      "revision": "f3efc25e56543688e654b3c575a4c7632c63f70d",
-      "url": "https://github.com/nvim-tree/nvim-tree.lua/archive/f3efc25e56543688e654b3c575a4c7632c63f70d.tar.gz",
-      "hash": "1kclja9hzxxk61yr9aj3y52n2xj3by2s05mnd0y7hqqa7pkffgbx"
+      "revision": "6e5a204ca659bb8f2a564df75df2739edec03cb0",
+      "url": "https://github.com/nvim-tree/nvim-tree.lua/archive/6e5a204ca659bb8f2a564df75df2739edec03cb0.tar.gz",
+      "hash": "0sbbxzshvkrn574rgrl1qq7l670wv292w4inn6bq2j94y6v153yv"
     },
     "nvim-treesitter": {
       "type": "Git",
