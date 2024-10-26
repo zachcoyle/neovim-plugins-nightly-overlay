@@ -2935,9 +2935,9 @@
         "repo": "overseer.nvim"
       },
       "branch": "master",
-      "revision": "6f8bc37eb729a00e185cdf38b1ed3309a05bfeef",
-      "url": "https://github.com/stevearc/overseer.nvim/archive/6f8bc37eb729a00e185cdf38b1ed3309a05bfeef.tar.gz",
-      "hash": "0817pw0vaa9war0d7skf9438mazdf9ip29amw77zlbjqcdzg5nbi"
+      "revision": "c416be50c2715a7f631d67e21154b8e6cd873ca3",
+      "url": "https://github.com/stevearc/overseer.nvim/archive/c416be50c2715a7f631d67e21154b8e6cd873ca3.tar.gz",
+      "hash": "0iincr9z0k9jy7j46vwgf1f2v16z74mm0z4m6hqx6w8rjaiiv3s0"
     },
     "oxocarbon-nvim": {
       "type": "Git",
@@ -3139,9 +3139,9 @@
         "repo": "render-markdown.nvim"
       },
       "branch": "main",
-      "revision": "04e75a35900d9e6bc53eb0f18e2aeee140d6c5ae",
-      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/04e75a35900d9e6bc53eb0f18e2aeee140d6c5ae.tar.gz",
-      "hash": "0nv4nx2j1zkvc3m91lbk95k4nj3zwhd3in1sbsqrbvs1c5ch0wn6"
+      "revision": "14673b03963ef9bb9365474133306266fd4864f6",
+      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/14673b03963ef9bb9365474133306266fd4864f6.tar.gz",
+      "hash": "0j2mcmzf8vbzhlqm03yp321wmnns7wd6lcdghcnf2mb4hzr151zj"
     },
     "rest-nvim": {
       "type": "Git",
