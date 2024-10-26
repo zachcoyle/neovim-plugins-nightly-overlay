@@ -1915,9 +1915,9 @@
         "repo": "mini.nvim"
       },
       "branch": "main",
-      "revision": "77533e69cc4fadb7f4c25f23255ae0890a058818",
-      "url": "https://github.com/echasnovski/mini.nvim/archive/77533e69cc4fadb7f4c25f23255ae0890a058818.tar.gz",
-      "hash": "1w3k703f50422k82s7rm1j9vwymd6r4xmfzy0vgi5zvls2yp22k4"
+      "revision": "919b953f044d97a2243cc2d1f0b316a199434127",
+      "url": "https://github.com/echasnovski/mini.nvim/archive/919b953f044d97a2243cc2d1f0b316a199434127.tar.gz",
+      "hash": "0hajz2f0j07bdwckzn7hh7d9fjz4vabr53wfv24pwq030rxfhn6l"
     },
     "mkdnflow-nvim": {
       "type": "Git",
@@ -3487,9 +3487,9 @@
         "repo": "telescope.nvim"
       },
       "branch": "master",
-      "revision": "df534c3042572fb958586facd02841e10186707c",
-      "url": "https://github.com/nvim-telescope/telescope.nvim/archive/df534c3042572fb958586facd02841e10186707c.tar.gz",
-      "hash": "0a82h051ymnbkzxsz21f454fbk5qq26fhxk4h42jby6vgy7myqqx"
+      "revision": "37dc9233a473dd6c3f54456ef9994d8f77c80211",
+      "url": "https://github.com/nvim-telescope/telescope.nvim/archive/37dc9233a473dd6c3f54456ef9994d8f77c80211.tar.gz",
+      "hash": "0jbwmmf810jbhixd5sfdyfjcv9xrb1l1hliap09p1bhnvm55h9yf"
     },
     "telescope-packer-nvim": {
       "type": "Git",
