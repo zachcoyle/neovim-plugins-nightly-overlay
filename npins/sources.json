@@ -2191,9 +2191,9 @@
         "repo": "neotest-haskell"
       },
       "branch": "master",
-      "revision": "19d85cd6c1b99ff4a99c16400d5033150331b4ba",
-      "url": "https://github.com/mrcjkb/neotest-haskell/archive/19d85cd6c1b99ff4a99c16400d5033150331b4ba.tar.gz",
-      "hash": "17rl29iy8d7gz0vjw3w7wnwirnkx4xpv9w1lbcn4ih2gay4a36by"
+      "revision": "0c7a7f29041fcec97e99ad45b46f7f5ec27fd3f2",
+      "url": "https://github.com/mrcjkb/neotest-haskell/archive/0c7a7f29041fcec97e99ad45b46f7f5ec27fd3f2.tar.gz",
+      "hash": "1y9rrc1da2cnkizlzkgl78js2wzibwjg4ax8ssib159yap0mbfck"
     },
     "neotest-java": {
       "type": "Git",
@@ -2743,9 +2743,9 @@
         "repo": "nvim-tree.lua"
       },
       "branch": "master",
-      "revision": "6e5a204ca659bb8f2a564df75df2739edec03cb0",
-      "url": "https://github.com/nvim-tree/nvim-tree.lua/archive/6e5a204ca659bb8f2a564df75df2739edec03cb0.tar.gz",
-      "hash": "0sbbxzshvkrn574rgrl1qq7l670wv292w4inn6bq2j94y6v153yv"
+      "revision": "e4bc05b41587b6f95be3da26f0bccecc09aa5832",
+      "url": "https://github.com/nvim-tree/nvim-tree.lua/archive/e4bc05b41587b6f95be3da26f0bccecc09aa5832.tar.gz",
+      "hash": "0y9wlcbwh9iq0y7brn3w1isd3946s063rfk49rfy1jm9xc59sk6p"
     },
     "nvim-treesitter": {
       "type": "Git",
