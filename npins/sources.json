@@ -500,9 +500,9 @@
         "repo": "cmp-git"
       },
       "branch": "main",
-      "revision": "9d8f66cc39bd3a52736f8e0535695b0242bf9ebf",
-      "url": "https://github.com/petertriho/cmp-git/archive/9d8f66cc39bd3a52736f8e0535695b0242bf9ebf.tar.gz",
-      "hash": "0z3xx1b3ynifprra5hp593zx6hw61k9i7zc7gi7rf4r69m2f4ghk"
+      "revision": "ec049036e354ed8ed0215f2427112882e1ea7051",
+      "url": "https://github.com/petertriho/cmp-git/archive/ec049036e354ed8ed0215f2427112882e1ea7051.tar.gz",
+      "hash": "0if0bqng4gibsgw00fl70b29lzyx6fi1vvhbmbyypw6j1qvdqq73"
     },
     "cmp-greek": {
       "type": "Git",
@@ -2707,9 +2707,9 @@
         "repo": "nvim-spectre"
       },
       "branch": "master",
-      "revision": "ba7fb777edff6c1fbbeffd343e113af64c04e90a",
-      "url": "https://github.com/nvim-pack/nvim-spectre/archive/ba7fb777edff6c1fbbeffd343e113af64c04e90a.tar.gz",
-      "hash": "024kndjny8h8669d63796c8fnksb3vi86w20bfplxi4vbsz4syhn"
+      "revision": "08be31c104df3b4b049607694ebb2b6ced4f928b",
+      "url": "https://github.com/nvim-pack/nvim-spectre/archive/08be31c104df3b4b049607694ebb2b6ced4f928b.tar.gz",
+      "hash": "04v1gypga9fhmkddis5yyppvmpq0b1b7zpvbfjlxfp2z498l5n2v"
     },
     "nvim-spider": {
       "type": "Git",
