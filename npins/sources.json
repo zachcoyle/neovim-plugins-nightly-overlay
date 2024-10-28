@@ -1819,9 +1819,9 @@
         "repo": "LuaSnip"
       },
       "branch": "master",
-      "revision": "67c0da98d807bbbcb6e43a446a01407529e1dd10",
-      "url": "https://github.com/L3MON4D3/LuaSnip/archive/67c0da98d807bbbcb6e43a446a01407529e1dd10.tar.gz",
-      "hash": "1cny26lcl80dwl9b4pgcn8prqzfw2y70vwxh2mj2rfzzy7z9dd0p"
+      "revision": "2c08f32a570c07b8130144813266e21393da80d3",
+      "url": "https://github.com/L3MON4D3/LuaSnip/archive/2c08f32a570c07b8130144813266e21393da80d3.tar.gz",
+      "hash": "103yv70awkxhrliwph09a1v4ic440n828r04dljr9c0cpl1xbldh"
     },
     "lz-n": {
       "type": "Git",
@@ -2827,9 +2827,9 @@
         "repo": "nvim-ufo"
       },
       "branch": "main",
-      "revision": "c96bb3bb853ff6253fe74f057df03e61fafd2403",
-      "url": "https://github.com/kevinhwang91/nvim-ufo/archive/c96bb3bb853ff6253fe74f057df03e61fafd2403.tar.gz",
-      "hash": "090f9ivv57sz18pkgnciybgas8kjnvsfwpw8ipml7rs8hvng2gz7"
+      "revision": "5ab417d2113c993fc3de10ec7718d6bd67786222",
+      "url": "https://github.com/kevinhwang91/nvim-ufo/archive/5ab417d2113c993fc3de10ec7718d6bd67786222.tar.gz",
+      "hash": "1hmljs0d5pzi8avymapqg22pwmh09wrm3h58jx4wvslq3g2fqwx1"
     },
     "nvim-web-devicons": {
       "type": "Git",
