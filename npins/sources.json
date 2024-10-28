@@ -236,9 +236,9 @@
         "repo": "nvim"
       },
       "branch": "main",
-      "revision": "9970917b9e73159048103929b778c22e6cf1413d",
-      "url": "https://github.com/catppuccin/nvim/archive/9970917b9e73159048103929b778c22e6cf1413d.tar.gz",
-      "hash": "1i4fjnga3gmws6np4m2g7ya7p5kida6gsr3qhc9l60agkq8m1p82"
+      "revision": "65bf0b16f57a3db70d6a93ac68882dd9a31d0565",
+      "url": "https://github.com/catppuccin/nvim/archive/65bf0b16f57a3db70d6a93ac68882dd9a31d0565.tar.gz",
+      "hash": "16ngmh7psyc5499bdz4l03gqkjxj67400kj0fd8jxac57dwfq9h7"
     },
     "ccc-nvim": {
       "type": "Git",
@@ -1556,9 +1556,9 @@
         "repo": "image.nvim"
       },
       "branch": "master",
-      "revision": "88e9693e188b8464b1c426aebb4389fd9db2fcbf",
-      "url": "https://github.com/3rd/image.nvim/archive/88e9693e188b8464b1c426aebb4389fd9db2fcbf.tar.gz",
-      "hash": "1bpzckk1gyfyp9bc25zln09w3djsib7ppck6l7wy32lqlmdafn5k"
+      "revision": "adfc6893b501b49f7b27d922d1ef7c4882f94271",
+      "url": "https://github.com/3rd/image.nvim/archive/adfc6893b501b49f7b27d922d1ef7c4882f94271.tar.gz",
+      "hash": "1qvqw6w921p83snn2cxjqkaq7jnr5rgm7f6xqqlpdvxqwxjd2bzn"
     },
     "improved-search-nvim": {
       "type": "Git",
@@ -2599,9 +2599,9 @@
         "repo": "nvim-lspconfig"
       },
       "branch": "master",
-      "revision": "4ab7476f1eecf59fef1d0845f0fb36113f4547da",
-      "url": "https://github.com/neovim/nvim-lspconfig/archive/4ab7476f1eecf59fef1d0845f0fb36113f4547da.tar.gz",
-      "hash": "07qvvcbkq5xp5k5aq96n012h2022mg47xlpmficw5v7wi4mai9b9"
+      "revision": "59a6766cbf32c7e4cf3ed685ccad7ffe1dde8c40",
+      "url": "https://github.com/neovim/nvim-lspconfig/archive/59a6766cbf32c7e4cf3ed685ccad7ffe1dde8c40.tar.gz",
+      "hash": "0w04mply303j4mq6myygwgr54bxv7cirnj3qrq4il798bxs71vix"
     },
     "nvim-navbuddy": {
       "type": "Git",
@@ -3943,9 +3943,9 @@
         "repo": "vim-matchup"
       },
       "branch": "master",
-      "revision": "2328f4a3082093fe61f6d8004572f905cc1b58f4",
-      "url": "https://github.com/andymass/vim-matchup/archive/2328f4a3082093fe61f6d8004572f905cc1b58f4.tar.gz",
-      "hash": "0fqgg6gsld4ff8sm7vh85qsn29rsxhvvbpylk4msymnw70bqcrv0"
+      "revision": "5fb083de1e06fdd134c6ad8d007d4b5576b25ba7",
+      "url": "https://github.com/andymass/vim-matchup/archive/5fb083de1e06fdd134c6ad8d007d4b5576b25ba7.tar.gz",
+      "hash": "1913gqqhza5nhcmxh0bdrn0bzsizk6ymlrv303dd5s1mp8k44mzn"
     },
     "vim-nix": {
       "type": "Git",
