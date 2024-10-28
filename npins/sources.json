@@ -2731,9 +2731,9 @@
         "repo": "nvim-surround"
       },
       "branch": "main",
-      "revision": "ec2dc7671067e0086cdf29c2f5df2dd909d5f71f",
-      "url": "https://github.com/kylechui/nvim-surround/archive/ec2dc7671067e0086cdf29c2f5df2dd909d5f71f.tar.gz",
-      "hash": "1d5ffrsl1ryiq8nzxx7k69gpin6zs2ys4zc5pg47qcpazx7my8qc"
+      "revision": "dca2e998ff26681ee422b92c6ed39b3d2908d8a9",
+      "url": "https://github.com/kylechui/nvim-surround/archive/dca2e998ff26681ee422b92c6ed39b3d2908d8a9.tar.gz",
+      "hash": "192nfbfzjfcjczkj97pxg04jx1g37pv2n86iid1djxy8rnh2yp2x"
     },
     "nvim-tree-lua": {
       "type": "Git",
@@ -2875,9 +2875,9 @@
         "repo": "oil.nvim"
       },
       "branch": "master",
-      "revision": "cca1631d5ea450c09ba72f3951a9e28105a3632c",
-      "url": "https://github.com/stevearc/oil.nvim/archive/cca1631d5ea450c09ba72f3951a9e28105a3632c.tar.gz",
-      "hash": "1d8xqx7mlbf92z0iiifnv2xbzbd9r1y0ldrwk396qgv3v3qgpci8"
+      "revision": "42333bb46e34dd47e13927010b1dcd30e6e4ca96",
+      "url": "https://github.com/stevearc/oil.nvim/archive/42333bb46e34dd47e13927010b1dcd30e6e4ca96.tar.gz",
+      "hash": "1wbw3a24lk2j93l03y6y7hc1y2p751cybrbcryfkyb9g13zhwdds"
     },
     "ollama-nvim": {
       "type": "Git",
