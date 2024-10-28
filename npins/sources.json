@@ -824,9 +824,9 @@
         "repo": "codeium.nvim"
       },
       "branch": "main",
-      "revision": "a7196bf9472b56ecac5c93c8b6eefba932b14492",
-      "url": "https://github.com/Exafunction/codeium.nvim/archive/a7196bf9472b56ecac5c93c8b6eefba932b14492.tar.gz",
-      "hash": "1za7gc7m563p8a7j712hmyfvab2c46kn267jfjy4dvjb7rdvg80v"
+      "revision": "dddaee0d1e9a1d0bcaea66f08a8103b3cdf26604",
+      "url": "https://github.com/Exafunction/codeium.nvim/archive/dddaee0d1e9a1d0bcaea66f08a8103b3cdf26604.tar.gz",
+      "hash": "17wrbhlm9zrskrxn78pin54qp9q8vdn6yahfdmr9763vzjf88cml"
     },
     "codeium-vim": {
       "type": "Git",
@@ -1364,9 +1364,9 @@
         "repo": "gitsigns.nvim"
       },
       "branch": "main",
-      "revision": "ee7634ab4f0a6606438fe13e16cbf2065589a5ed",
-      "url": "https://github.com/lewis6991/gitsigns.nvim/archive/ee7634ab4f0a6606438fe13e16cbf2065589a5ed.tar.gz",
-      "hash": "134xgywyjcg731iya93w14p48dq4cp21q36fb4jf7c4vgnnzy7ld"
+      "revision": "2d725fdd7fe4a612fa3171ca0a965f455d8dc325",
+      "url": "https://github.com/lewis6991/gitsigns.nvim/archive/2d725fdd7fe4a612fa3171ca0a965f455d8dc325.tar.gz",
+      "hash": "1vzgnc3430bdk8g3n2z39xp6m3ina76gzfpysddpda8ik3gnvlj5"
     },
     "glow-nvim": {
       "type": "Git",
