@@ -1819,9 +1819,9 @@
         "repo": "LuaSnip"
       },
       "branch": "master",
-      "revision": "787dee55ca364cc9119787165418fe93b74c1842",
-      "url": "https://github.com/L3MON4D3/LuaSnip/archive/787dee55ca364cc9119787165418fe93b74c1842.tar.gz",
-      "hash": "0b2dhcxdi5hbws3nixd4gfj11x7y8vbacn7hqb7bqr13dp1nnqk0"
+      "revision": "67c0da98d807bbbcb6e43a446a01407529e1dd10",
+      "url": "https://github.com/L3MON4D3/LuaSnip/archive/67c0da98d807bbbcb6e43a446a01407529e1dd10.tar.gz",
+      "hash": "1cny26lcl80dwl9b4pgcn8prqzfw2y70vwxh2mj2rfzzy7z9dd0p"
     },
     "lz-n": {
       "type": "Git",
@@ -2011,9 +2011,9 @@
         "repo": "neogit"
       },
       "branch": "master",
-      "revision": "51450329e04860f71a31d8c7ef5178fce6e60524",
-      "url": "https://github.com/TimUntersberger/neogit/archive/51450329e04860f71a31d8c7ef5178fce6e60524.tar.gz",
-      "hash": "0s2pkl0al8ynhq4b56vnsli6vn59ngfrjpgpg7rzb4zk3xq7v868"
+      "revision": "c2796c2838dffc5264750720a2a42b8ecc10ce7e",
+      "url": "https://github.com/TimUntersberger/neogit/archive/c2796c2838dffc5264750720a2a42b8ecc10ce7e.tar.gz",
+      "hash": "0c6blz0ac74baxbf51f5k1wysb3nl7n0rfr4hvabgqvabl4hmaj9"
     },
     "neon": {
       "type": "Git",
