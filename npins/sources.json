@@ -1556,9 +1556,9 @@
         "repo": "image.nvim"
       },
       "branch": "master",
-      "revision": "adfc6893b501b49f7b27d922d1ef7c4882f94271",
-      "url": "https://github.com/3rd/image.nvim/archive/adfc6893b501b49f7b27d922d1ef7c4882f94271.tar.gz",
-      "hash": "1qvqw6w921p83snn2cxjqkaq7jnr5rgm7f6xqqlpdvxqwxjd2bzn"
+      "revision": "1bb91fc3a99bf599324bd32a69bf8c925269e3c8",
+      "url": "https://github.com/3rd/image.nvim/archive/1bb91fc3a99bf599324bd32a69bf8c925269e3c8.tar.gz",
+      "hash": "0ijshi300g0d1z2lasx9xhw0zcml4ahvn0p281rygd9nrk6hav07"
     },
     "improved-search-nvim": {
       "type": "Git",
