@@ -1052,9 +1052,9 @@
         "repo": "debugprint.nvim"
       },
       "branch": "main",
-      "revision": "3d62843bc803927dc4f6c5fa673fad3990f26ea2",
-      "url": "https://github.com/andrewferrier/debugprint.nvim/archive/3d62843bc803927dc4f6c5fa673fad3990f26ea2.tar.gz",
-      "hash": "0s5l2w1dmhrb0wvqbi51zbk6ys5fr0qlapv3mjvazvyqg9xlfjhg"
+      "revision": "bd56fe8e7ddd73c38942611997651bcc5f0b4381",
+      "url": "https://github.com/andrewferrier/debugprint.nvim/archive/bd56fe8e7ddd73c38942611997651bcc5f0b4381.tar.gz",
+      "hash": "0zrw8m81i6b9zzxmj10q64vjl4n3gj9n0h91ii4na122vygf0v3q"
     },
     "diffview-nvim": {
       "type": "Git",
@@ -1688,9 +1688,9 @@
         "repo": "lean.nvim"
       },
       "branch": "main",
-      "revision": "a233e8d5d4325ca8377aa238b9dc7684f627270c",
-      "url": "https://github.com/Julian/lean.nvim/archive/a233e8d5d4325ca8377aa238b9dc7684f627270c.tar.gz",
-      "hash": "0liaflwpcds29zqyjafk0zfpmnpwqjxkyv3nrxqhsym25i1k81w8"
+      "revision": "825ba502707f8aada1efeef150d98a94d03c0cbd",
+      "url": "https://github.com/Julian/lean.nvim/archive/825ba502707f8aada1efeef150d98a94d03c0cbd.tar.gz",
+      "hash": "05drf7j594md8c691br01w5f4i6sja9qs14vq9wrs7233g9pf7ps"
     },
     "leap-nvim": {
       "type": "Git",
