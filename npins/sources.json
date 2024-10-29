@@ -1688,9 +1688,9 @@
         "repo": "lean.nvim"
       },
       "branch": "main",
-      "revision": "02a2de5b7927499defc637092dd8391fa9a93ca9",
-      "url": "https://github.com/Julian/lean.nvim/archive/02a2de5b7927499defc637092dd8391fa9a93ca9.tar.gz",
-      "hash": "0dv2563zgrn4vyk19mygjvhncnml1zg2kb6my4vm15q1lr871x2d"
+      "revision": "a233e8d5d4325ca8377aa238b9dc7684f627270c",
+      "url": "https://github.com/Julian/lean.nvim/archive/a233e8d5d4325ca8377aa238b9dc7684f627270c.tar.gz",
+      "hash": "0liaflwpcds29zqyjafk0zfpmnpwqjxkyv3nrxqhsym25i1k81w8"
     },
     "leap-nvim": {
       "type": "Git",
@@ -3487,9 +3487,9 @@
         "repo": "telescope.nvim"
       },
       "branch": "master",
-      "revision": "37dc9233a473dd6c3f54456ef9994d8f77c80211",
-      "url": "https://github.com/nvim-telescope/telescope.nvim/archive/37dc9233a473dd6c3f54456ef9994d8f77c80211.tar.gz",
-      "hash": "0jbwmmf810jbhixd5sfdyfjcv9xrb1l1hliap09p1bhnvm55h9yf"
+      "revision": "85922dde3767e01d42a08e750a773effbffaea3e",
+      "url": "https://github.com/nvim-telescope/telescope.nvim/archive/85922dde3767e01d42a08e750a773effbffaea3e.tar.gz",
+      "hash": "0yv3v4nlh42s96r0xa4fvlil4rh4p0q6l50jk8yg0hmc8vxxzbs1"
     },
     "telescope-packer-nvim": {
       "type": "Git",
