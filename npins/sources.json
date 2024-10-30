@@ -1819,9 +1819,9 @@
         "repo": "LuaSnip"
       },
       "branch": "master",
-      "revision": "2c08f32a570c07b8130144813266e21393da80d3",
-      "url": "https://github.com/L3MON4D3/LuaSnip/archive/2c08f32a570c07b8130144813266e21393da80d3.tar.gz",
-      "hash": "103yv70awkxhrliwph09a1v4ic440n828r04dljr9c0cpl1xbldh"
+      "revision": "8d7aa7a7b7c0875e4878d1d2590924bc1c229305",
+      "url": "https://github.com/L3MON4D3/LuaSnip/archive/8d7aa7a7b7c0875e4878d1d2590924bc1c229305.tar.gz",
+      "hash": "08hkijb7lv2hnndgpbin831bhivbmak3lc2apzmv170kxa2acc40"
     },
     "lz-n": {
       "type": "Git",
@@ -2863,9 +2863,9 @@
         "repo": "octo.nvim"
       },
       "branch": "master",
-      "revision": "84a4f195bca82b99d0bf1c8acf64fda00eb0a118",
-      "url": "https://github.com/pwntester/octo.nvim/archive/84a4f195bca82b99d0bf1c8acf64fda00eb0a118.tar.gz",
-      "hash": "09fal1s0xay5fjdm4y087b8hxb8s2jc6ivr27jx0zjdqb2vrqqmm"
+      "revision": "616fabd2beea95c15d6001a319d73925cd1ee40b",
+      "url": "https://github.com/pwntester/octo.nvim/archive/616fabd2beea95c15d6001a319d73925cd1ee40b.tar.gz",
+      "hash": "1jb3l53631cldz4jfh1vv20m3f791q8j51flxq5ad6qi1gq7blm0"
     },
     "oil-nvim": {
       "type": "Git",
