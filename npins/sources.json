@@ -1831,9 +1831,9 @@
         "repo": "lz.n"
       },
       "branch": "master",
-      "revision": "d3f6efdcca22a266f107cf0f35272275f495fba5",
-      "url": "https://github.com/nvim-neorocks/lz.n/archive/d3f6efdcca22a266f107cf0f35272275f495fba5.tar.gz",
-      "hash": "0q4zlhpp7ygx8zmd0h7zhd8bhzch87q03dnjqzmclp1kzcy381l9"
+      "revision": "988b7b3c9a55deae5dcf229edb146b61589395dc",
+      "url": "https://github.com/nvim-neorocks/lz.n/archive/988b7b3c9a55deae5dcf229edb146b61589395dc.tar.gz",
+      "hash": "05vzqd4jxpdjz92sd29z98vrxhxxkkhqd5h1w2wgprjd3wdp166p"
     },
     "magma-nvim-goose": {
       "type": "Git",
@@ -3295,9 +3295,9 @@
         "repo": "startup.nvim"
       },
       "branch": "master",
-      "revision": "81222a9956148eebf10363726d8bccf8793aa41f",
-      "url": "https://github.com/startup-nvim/startup.nvim/archive/81222a9956148eebf10363726d8bccf8793aa41f.tar.gz",
-      "hash": "1z5gv2qr3q82hmk8vjdxk37q4nm928j3vbq91vw4nary90va8q46"
+      "revision": "9ca3b9a55f2f2196ef90b39a52029b46fdde5226",
+      "url": "https://github.com/startup-nvim/startup.nvim/archive/9ca3b9a55f2f2196ef90b39a52029b46fdde5226.tar.gz",
+      "hash": "0gm1nxcmrfh24ql2d7sbsny2djifqf8k9wl6axpjirjqbvk6ywh1"
     },
     "statuscol-nvim": {
       "type": "Git",
