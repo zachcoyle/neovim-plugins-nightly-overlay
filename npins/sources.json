@@ -3751,9 +3751,9 @@
         "repo": "vim-airline"
       },
       "branch": "master",
-      "revision": "3ddcab16c26760d7b94ef0b1f8b62f9bc1ea8cba",
-      "url": "https://github.com/vim-airline/vim-airline/archive/3ddcab16c26760d7b94ef0b1f8b62f9bc1ea8cba.tar.gz",
-      "hash": "0mx29fp30cn6b7w6axmq7igm0z0q6pnvvimic39c3lqc74m599c8"
+      "revision": "6c704f4b780e2b687dd21b24a19f598dde06dc22",
+      "url": "https://github.com/vim-airline/vim-airline/archive/6c704f4b780e2b687dd21b24a19f598dde06dc22.tar.gz",
+      "hash": "1pl473x7mjak5yidqg7kh53lclgibqlrr8j4mczzadn8jxbybkqz"
     },
     "vim-bbye": {
       "type": "Git",
@@ -4219,9 +4219,9 @@
         "repo": "yazi.nvim"
       },
       "branch": "main",
-      "revision": "93fd9dc5f23c7699ba50507bfe5d4136cfa487d2",
-      "url": "https://github.com/mikavilpas/yazi.nvim/archive/93fd9dc5f23c7699ba50507bfe5d4136cfa487d2.tar.gz",
-      "hash": "1pbiamgvfnd2lcc0nlq2wz42xfx1v2qk45z3lkn03mn2rvmr6nlf"
+      "revision": "6616bd5a24280d5a21d9110025451a69ebc9708e",
+      "url": "https://github.com/mikavilpas/yazi.nvim/archive/6616bd5a24280d5a21d9110025451a69ebc9708e.tar.gz",
+      "hash": "1cip2f179zg5q47s9ynnvawimhbrlh5npklj9j2im3618ii6bzbf"
     },
     "yuck-vim": {
       "type": "Git",
