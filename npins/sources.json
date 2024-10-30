@@ -1556,9 +1556,9 @@
         "repo": "image.nvim"
       },
       "branch": "master",
-      "revision": "1bb91fc3a99bf599324bd32a69bf8c925269e3c8",
-      "url": "https://github.com/3rd/image.nvim/archive/1bb91fc3a99bf599324bd32a69bf8c925269e3c8.tar.gz",
-      "hash": "0ijshi300g0d1z2lasx9xhw0zcml4ahvn0p281rygd9nrk6hav07"
+      "revision": "8fe14765f30e1671b6ea7c8b3f4aff60e931b8dc",
+      "url": "https://github.com/3rd/image.nvim/archive/8fe14765f30e1671b6ea7c8b3f4aff60e931b8dc.tar.gz",
+      "hash": "0gsgswiqaaj6injq9i7nra3fqbkvpq601djxwv4h4ypajkk9w9jq"
     },
     "improved-search-nvim": {
       "type": "Git",
@@ -2095,9 +2095,9 @@
         "repo": "neotest-dart"
       },
       "branch": "main",
-      "revision": "ad0fbcd0bfb45999fb78f3d14f6b6ae7ee70b88c",
-      "url": "https://github.com/sidlatau/neotest-dart/archive/ad0fbcd0bfb45999fb78f3d14f6b6ae7ee70b88c.tar.gz",
-      "hash": "1431b9izn4kr5rsc06kpwizd41nkkglcy3yl7p0wls3pfr0v1rxp"
+      "revision": "8b4f68217e8fb072bee62544b7f834cf76cc38ca",
+      "url": "https://github.com/sidlatau/neotest-dart/archive/8b4f68217e8fb072bee62544b7f834cf76cc38ca.tar.gz",
+      "hash": "0jzs7iq1wshk0b5096l7dn9fb6n74y7i8wc4bblfg6jdr35n33fj"
     },
     "neotest-deno": {
       "type": "Git",
