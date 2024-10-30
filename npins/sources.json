@@ -1052,9 +1052,9 @@
         "repo": "debugprint.nvim"
       },
       "branch": "main",
-      "revision": "964d46512d9a14939b3e6ee1d7a714aa7e9b6bc5",
-      "url": "https://github.com/andrewferrier/debugprint.nvim/archive/964d46512d9a14939b3e6ee1d7a714aa7e9b6bc5.tar.gz",
-      "hash": "1ir7gvv7xpdq3hs1sdby7k5ph6snkkqjxmgwqz4r3f89k74v69hj"
+      "revision": "3db6f0e3f175703bf66a6f0047023a323d638394",
+      "url": "https://github.com/andrewferrier/debugprint.nvim/archive/3db6f0e3f175703bf66a6f0047023a323d638394.tar.gz",
+      "hash": "0fwlnn447h2chlgznvjv5jciz16qcprym6598q3mcq7d8za1arbd"
     },
     "diffview-nvim": {
       "type": "Git",
@@ -3055,9 +3055,9 @@
         "repo": "precognition.nvim"
       },
       "branch": "main",
-      "revision": "19d970623b752448abe023bb6684a76141ca200a",
-      "url": "https://github.com/tris203/precognition.nvim/archive/19d970623b752448abe023bb6684a76141ca200a.tar.gz",
-      "hash": "1za7zg9wc4gvb1qlf25gkfbas52idqg1c3jq6qykxnw6cv4804rz"
+      "revision": "0189e8d6f96275a079b2805d68d49414871885cd",
+      "url": "https://github.com/tris203/precognition.nvim/archive/0189e8d6f96275a079b2805d68d49414871885cd.tar.gz",
+      "hash": "1h8i8i66phrqjha3jplrjg6zly29d5lfg6hvq5sv9h4xmw0kaxm2"
     },
     "presence-nvim": {
       "type": "Git",
