@@ -1364,9 +1364,9 @@
         "repo": "gitsigns.nvim"
       },
       "branch": "main",
-      "revision": "2d725fdd7fe4a612fa3171ca0a965f455d8dc325",
-      "url": "https://github.com/lewis6991/gitsigns.nvim/archive/2d725fdd7fe4a612fa3171ca0a965f455d8dc325.tar.gz",
-      "hash": "1vzgnc3430bdk8g3n2z39xp6m3ina76gzfpysddpda8ik3gnvlj5"
+      "revision": "7c27a30450130cd59c4994a6755e3c5d74d83e76",
+      "url": "https://github.com/lewis6991/gitsigns.nvim/archive/7c27a30450130cd59c4994a6755e3c5d74d83e76.tar.gz",
+      "hash": "0rwydfc5mz8cy4bqjlv8x69gwpngkcs3pdzmj5rdqicdglnq10k7"
     },
     "glow-nvim": {
       "type": "Git",
@@ -2875,9 +2875,9 @@
         "repo": "oil.nvim"
       },
       "branch": "master",
-      "revision": "42333bb46e34dd47e13927010b1dcd30e6e4ca96",
-      "url": "https://github.com/stevearc/oil.nvim/archive/42333bb46e34dd47e13927010b1dcd30e6e4ca96.tar.gz",
-      "hash": "1wbw3a24lk2j93l03y6y7hc1y2p751cybrbcryfkyb9g13zhwdds"
+      "revision": "52cc8a1fb35ea6ce1df536143add7ce7215c63c0",
+      "url": "https://github.com/stevearc/oil.nvim/archive/52cc8a1fb35ea6ce1df536143add7ce7215c63c0.tar.gz",
+      "hash": "01anxa0ha9h2rc0dkhxxni1hl1g0kb6xav79bng7qis11jb6sjwv"
     },
     "ollama-nvim": {
       "type": "Git",
