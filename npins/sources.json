@@ -176,9 +176,9 @@
         "repo": "better-escape.nvim"
       },
       "branch": "master",
-      "revision": "bb197e51a91a635deb88630813c3bfc284413697",
-      "url": "https://github.com/max397574/better-escape.nvim/archive/bb197e51a91a635deb88630813c3bfc284413697.tar.gz",
-      "hash": "12nn87w12v9b2l86x2q55kqw5nqixyz6qqpcy8vb7d1rmj5v7j2j"
+      "revision": "199dcc2643dec5d8dbdab4ec672cf405224dcb3b",
+      "url": "https://github.com/max397574/better-escape.nvim/archive/199dcc2643dec5d8dbdab4ec672cf405224dcb3b.tar.gz",
+      "hash": "074z27g7ac0byna12przi5sqb0ca8c4q12kb3pc7bq1vlhag9f73"
     },
     "blamer-nvim": {
       "type": "Git",
@@ -884,9 +884,9 @@
         "repo": "committia.vim"
       },
       "branch": "master",
-      "revision": "a187b8633694027ab5ef8a834527d33093282f95",
-      "url": "https://github.com/rhysd/committia.vim/archive/a187b8633694027ab5ef8a834527d33093282f95.tar.gz",
-      "hash": "1ncvpsa83g665yh3qxrwigsvpxpwm3586198zp6rlmq719d3yh3g"
+      "revision": "8a9a47dec1bd24b9ad9a4798b92df05ee9ae68e5",
+      "url": "https://github.com/rhysd/committia.vim/archive/8a9a47dec1bd24b9ad9a4798b92df05ee9ae68e5.tar.gz",
+      "hash": "1qi0hv4xbw76ywqvsim3pw80m03javjwwrz8dhn584m32n4ni35g"
     },
     "competitest-nvim": {
       "type": "Git",
@@ -1628,9 +1628,9 @@
         "repo": "intellitab.nvim"
       },
       "branch": "main",
-      "revision": "31f914282e342c886243edb22dcfc82ffe6b7528",
-      "url": "https://github.com/pta2002/intellitab.nvim/archive/31f914282e342c886243edb22dcfc82ffe6b7528.tar.gz",
-      "hash": "1gq1mvhwdmjmsc4dypigy7qaj1yyi4zn7faws8l8kvqm6k3ff057"
+      "revision": "698ea483eb91e314f472c9c119915c034479ea08",
+      "url": "https://github.com/pta2002/intellitab.nvim/archive/698ea483eb91e314f472c9c119915c034479ea08.tar.gz",
+      "hash": "1z3vlbccwlq1z322yxnjgq8kvr3rkhj604ng6jlgccl06482vksa"
     },
     "jupytext": {
       "type": "Git",
