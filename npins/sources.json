@@ -2383,9 +2383,9 @@
         "repo": "noice.nvim"
       },
       "branch": "main",
-      "revision": "df448c649ef6bc5a6a633a44f2ad0ed8d4442499",
-      "url": "https://github.com/folke/noice.nvim/archive/df448c649ef6bc5a6a633a44f2ad0ed8d4442499.tar.gz",
-      "hash": "1qsnvg41wmvx9gip11lka21gq04f59ydm0x3pdri99irbqzy0azn"
+      "revision": "0783e229e437941bfd624af0e551dd17bf064cd1",
+      "url": "https://github.com/folke/noice.nvim/archive/0783e229e437941bfd624af0e551dd17bf064cd1.tar.gz",
+      "hash": "1vm7llpml9vf2f137wala4jfv75izqba6ixzpvmm0hc2m6278fmq"
     },
     "none-ls-nvim": {
       "type": "Git",
