@@ -2491,9 +2491,9 @@
         "repo": "nvim-colorizer.lua"
       },
       "branch": "master",
-      "revision": "0671e0eabc6842676d3310370e8fae4e1c51d7f9",
-      "url": "https://github.com/NvChad/nvim-colorizer.lua/archive/0671e0eabc6842676d3310370e8fae4e1c51d7f9.tar.gz",
-      "hash": "1ilxfiq76a7wzh4nvhds5b7k6q2shrnfmyb4icnfc8w0kx1vby0m"
+      "revision": "19477946096b7800ca215bc813c0f021ae98c46c",
+      "url": "https://github.com/NvChad/nvim-colorizer.lua/archive/19477946096b7800ca215bc813c0f021ae98c46c.tar.gz",
+      "hash": "0d8ikscgkdpvzb61p684kj3skpfifalycw1k0njhf4nayzwhxys2"
     },
     "nvim-coverage": {
       "type": "Git",
@@ -2743,9 +2743,9 @@
         "repo": "nvim-tree.lua"
       },
       "branch": "master",
-      "revision": "82ab19ebf79c1839d7351f2fed213d1af13a598e",
-      "url": "https://github.com/nvim-tree/nvim-tree.lua/archive/82ab19ebf79c1839d7351f2fed213d1af13a598e.tar.gz",
-      "hash": "1633dhgzhgf3jm122za7mjfjpf183rmas7ifih2llja1mifbxg55"
+      "revision": "2156bc08c982d3c4b4cfc2b8fd7faeff58a88e10",
+      "url": "https://github.com/nvim-tree/nvim-tree.lua/archive/2156bc08c982d3c4b4cfc2b8fd7faeff58a88e10.tar.gz",
+      "hash": "1gd98lfvyixigszk246rhn8f6l1j3x7ipghqalqai6jwbvq9jawa"
     },
     "nvim-treesitter": {
       "type": "Git",
