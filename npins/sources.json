@@ -1052,9 +1052,9 @@
         "repo": "debugprint.nvim"
       },
       "branch": "main",
-      "revision": "9202716a0a73fafea2a82887fd6fca5235e72429",
-      "url": "https://github.com/andrewferrier/debugprint.nvim/archive/9202716a0a73fafea2a82887fd6fca5235e72429.tar.gz",
-      "hash": "1bg8ryyg3f46mw3avgmi7v3kz93vr6ljnh80xp88pl3d4sz8chxi"
+      "revision": "a238e63879be1404bec61a7ce1a4b2d49c036275",
+      "url": "https://github.com/andrewferrier/debugprint.nvim/archive/a238e63879be1404bec61a7ce1a4b2d49c036275.tar.gz",
+      "hash": "1wm7lcg881wff4zxvd0r98gjacnw6kdmwksbakkqaz6fhz7l854f"
     },
     "diffview-nvim": {
       "type": "Git",
@@ -4063,9 +4063,9 @@
         "repo": "vim-tmux-navigator"
       },
       "branch": "master",
-      "revision": "a9b52e7d36114d40350099f254b5f299a35df978",
-      "url": "https://github.com/christoomey/vim-tmux-navigator/archive/a9b52e7d36114d40350099f254b5f299a35df978.tar.gz",
-      "hash": "0sfsyf2jk57511pba6g31zfp0qi6v02np78sq6pzgny8qv40rj11"
+      "revision": "2d8bc8176af90935fb918526b0fde73d6ceba0df",
+      "url": "https://github.com/christoomey/vim-tmux-navigator/archive/2d8bc8176af90935fb918526b0fde73d6ceba0df.tar.gz",
+      "hash": "1m2bs3dcgd827sr3mc9lqrj49yx5qhij1nlnnlgvbgvb0wpcgrnq"
     },
     "vim-vsnip": {
       "type": "Git",
