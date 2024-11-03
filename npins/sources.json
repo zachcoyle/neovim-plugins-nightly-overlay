@@ -92,9 +92,9 @@
         "repo": "auto-session"
       },
       "branch": "main",
-      "revision": "3cd531ce4d46fb156268ddedf5f3e6822ef26af7",
-      "url": "https://github.com/rmagatti/auto-session/archive/3cd531ce4d46fb156268ddedf5f3e6822ef26af7.tar.gz",
-      "hash": "0jjc2ziw4v6xma416mz4ixk9svsf25p58wc3wvr1v1zsc6nkzvfd"
+      "revision": "542d338ec5ee027638c8e076110b188a465b45d2",
+      "url": "https://github.com/rmagatti/auto-session/archive/542d338ec5ee027638c8e076110b188a465b45d2.tar.gz",
+      "hash": "1v7gkbir6zm69h9annaln54i8qrpack9qxm44jz0sjjvrrqd4ni2"
     },
     "autoclose-nvim": {
       "type": "Git",
@@ -2743,9 +2743,9 @@
         "repo": "nvim-tree.lua"
       },
       "branch": "master",
-      "revision": "2156bc08c982d3c4b4cfc2b8fd7faeff58a88e10",
-      "url": "https://github.com/nvim-tree/nvim-tree.lua/archive/2156bc08c982d3c4b4cfc2b8fd7faeff58a88e10.tar.gz",
-      "hash": "1gd98lfvyixigszk246rhn8f6l1j3x7ipghqalqai6jwbvq9jawa"
+      "revision": "610a1c189bdb2b9b936169b2ea9d1838f971fa2b",
+      "url": "https://github.com/nvim-tree/nvim-tree.lua/archive/610a1c189bdb2b9b936169b2ea9d1838f971fa2b.tar.gz",
+      "hash": "119hr70829j7gnswamwsayillmk9m920dmfnr9p2kwrs0j7yq34k"
     },
     "nvim-treesitter": {
       "type": "Git",
