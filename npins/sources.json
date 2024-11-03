@@ -1052,9 +1052,9 @@
         "repo": "debugprint.nvim"
       },
       "branch": "main",
-      "revision": "16e7a19d21c04e0141b7da1addb46b5b5b355f45",
-      "url": "https://github.com/andrewferrier/debugprint.nvim/archive/16e7a19d21c04e0141b7da1addb46b5b5b355f45.tar.gz",
-      "hash": "0qn8zi97cq70rxv5rr3p2samkhp60cf8bw9dffj7smlcznxh6izq"
+      "revision": "9202716a0a73fafea2a82887fd6fca5235e72429",
+      "url": "https://github.com/andrewferrier/debugprint.nvim/archive/9202716a0a73fafea2a82887fd6fca5235e72429.tar.gz",
+      "hash": "1bg8ryyg3f46mw3avgmi7v3kz93vr6ljnh80xp88pl3d4sz8chxi"
     },
     "diffview-nvim": {
       "type": "Git",
@@ -3115,9 +3115,9 @@
         "repo": "rainbow-delimiters.nvim"
       },
       "branch": "master",
-      "revision": "d227e6c9879bb50af35cd733461198666981d482",
-      "url": "https://github.com/HiPhish/rainbow-delimiters.nvim/archive/d227e6c9879bb50af35cd733461198666981d482.tar.gz",
-      "hash": "1kvp3clmdh646zzdcr8va3vinysd3rj94vdhhzf7c4niy2rjysnx"
+      "revision": "397481e45ff7ffc29eaf9db1af0d24171b1ab5aa",
+      "url": "https://github.com/HiPhish/rainbow-delimiters.nvim/archive/397481e45ff7ffc29eaf9db1af0d24171b1ab5aa.tar.gz",
+      "hash": "1mbnj57sanbchh1m0phja3h0pzdgd783w11a4cc92snx3mkcw7mn"
     },
     "refactoring-nvim": {
       "type": "Git",
