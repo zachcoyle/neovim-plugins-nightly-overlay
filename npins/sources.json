@@ -884,9 +884,9 @@
         "repo": "committia.vim"
       },
       "branch": "master",
-      "revision": "8a9a47dec1bd24b9ad9a4798b92df05ee9ae68e5",
-      "url": "https://github.com/rhysd/committia.vim/archive/8a9a47dec1bd24b9ad9a4798b92df05ee9ae68e5.tar.gz",
-      "hash": "1qi0hv4xbw76ywqvsim3pw80m03javjwwrz8dhn584m32n4ni35g"
+      "revision": "c8c0f255e8090ed90dd9d5dd2e8672994f8e3671",
+      "url": "https://github.com/rhysd/committia.vim/archive/c8c0f255e8090ed90dd9d5dd2e8672994f8e3671.tar.gz",
+      "hash": "05hh42c5c7k4sh4jpy1ccs20vyp3malfab4v3yzgp2m6jrz93nln"
     },
     "competitest-nvim": {
       "type": "Git",
@@ -1052,9 +1052,9 @@
         "repo": "debugprint.nvim"
       },
       "branch": "main",
-      "revision": "80503916ab7ed7b7a589e619bbd9008e924047d6",
-      "url": "https://github.com/andrewferrier/debugprint.nvim/archive/80503916ab7ed7b7a589e619bbd9008e924047d6.tar.gz",
-      "hash": "0y2cn0cm1893mmq7y26g46ycffcb8rrvj114q8sm9928kq0wk9p9"
+      "revision": "16e7a19d21c04e0141b7da1addb46b5b5b355f45",
+      "url": "https://github.com/andrewferrier/debugprint.nvim/archive/16e7a19d21c04e0141b7da1addb46b5b5b355f45.tar.gz",
+      "hash": "0qn8zi97cq70rxv5rr3p2samkhp60cf8bw9dffj7smlcznxh6izq"
     },
     "diffview-nvim": {
       "type": "Git",
