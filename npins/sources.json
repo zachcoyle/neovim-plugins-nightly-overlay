@@ -908,9 +908,9 @@
         "repo": "compiler.nvim"
       },
       "branch": "main",
-      "revision": "fd28c5e3cf9f78d9a943530ffd1b9cbd15e57ee1",
-      "url": "https://github.com/Zeioth/compiler.nvim/archive/fd28c5e3cf9f78d9a943530ffd1b9cbd15e57ee1.tar.gz",
-      "hash": "0hdj464fnwii30cwmsy1p0a90gmhxcnh2nxvfycn7gm1kanly8np"
+      "revision": "eb7f82bb8f9e722dd194f638e67ec53c12ce5ac5",
+      "url": "https://github.com/Zeioth/compiler.nvim/archive/eb7f82bb8f9e722dd194f638e67ec53c12ce5ac5.tar.gz",
+      "hash": "1pbd9n2338bzm665vsv5imayqa2ika2ypa5nlwx230n0zymnl8s6"
     },
     "completion-nvim": {
       "type": "Git",
@@ -4219,9 +4219,9 @@
         "repo": "yazi.nvim"
       },
       "branch": "main",
-      "revision": "6616bd5a24280d5a21d9110025451a69ebc9708e",
-      "url": "https://github.com/mikavilpas/yazi.nvim/archive/6616bd5a24280d5a21d9110025451a69ebc9708e.tar.gz",
-      "hash": "1cip2f179zg5q47s9ynnvawimhbrlh5npklj9j2im3618ii6bzbf"
+      "revision": "bdc1e5a46a00a2388460145991d1d7e12a92afdc",
+      "url": "https://github.com/mikavilpas/yazi.nvim/archive/bdc1e5a46a00a2388460145991d1d7e12a92afdc.tar.gz",
+      "hash": "1v39zw4g8zys54d5zynaws7jpw5615x4yvliilp3h7vmpah5gamv"
     },
     "yuck-vim": {
       "type": "Git",
