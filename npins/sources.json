@@ -2863,9 +2863,9 @@
         "repo": "octo.nvim"
       },
       "branch": "master",
-      "revision": "1e687e3a84459a7e42b98912a0ab1b22e843ec8c",
-      "url": "https://github.com/pwntester/octo.nvim/archive/1e687e3a84459a7e42b98912a0ab1b22e843ec8c.tar.gz",
-      "hash": "037xgvgzflyshd412smwv6jchln9xa0d5jjfi8pnzlxsrya45d18"
+      "revision": "8cb88a4124cdff8ad42707da06680da196752e8d",
+      "url": "https://github.com/pwntester/octo.nvim/archive/8cb88a4124cdff8ad42707da06680da196752e8d.tar.gz",
+      "hash": "0rp8a966vpy2yircppr7pza4yn0jfqvzspvp7gd8n3d55f2b2rjw"
     },
     "oil-nvim": {
       "type": "Git",
@@ -3343,9 +3343,9 @@
         "repo": "telescope-dap.nvim"
       },
       "branch": "master",
-      "revision": "8c88d9716c91eaef1cdea13cb9390d8ef447dbfe",
-      "url": "https://github.com/nvim-telescope/telescope-dap.nvim/archive/8c88d9716c91eaef1cdea13cb9390d8ef447dbfe.tar.gz",
-      "hash": "1zgajsbvmbmysxfi4aspmf9pbzkzsfz9p2n1q5vz0im9vc3ais1z"
+      "revision": "783366bd6c1e7fa0a5c59c07db37f49c805a28df",
+      "url": "https://github.com/nvim-telescope/telescope-dap.nvim/archive/783366bd6c1e7fa0a5c59c07db37f49c805a28df.tar.gz",
+      "hash": "1pzvvas3qwfrxdbjsf3q2pjzgg5ar0hyrbi0s1aryjszhyrkq6ri"
     },
     "telescope-emoji-nvim": {
       "type": "Git",
