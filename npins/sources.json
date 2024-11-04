@@ -800,9 +800,9 @@
         "repo": "cmp_luasnip"
       },
       "branch": "master",
-      "revision": "05a9ab28b53f71d1aece421ef32fee2cb857a843",
-      "url": "https://github.com/saadparwaiz1/cmp_luasnip/archive/05a9ab28b53f71d1aece421ef32fee2cb857a843.tar.gz",
-      "hash": "0gw3jz65dnxkc618j26zj37gs1yycf7wql9yqc9glazjdjbljhlx"
+      "revision": "98d9cb5c2c38532bd9bdb481067b20fea8f32e90",
+      "url": "https://github.com/saadparwaiz1/cmp_luasnip/archive/98d9cb5c2c38532bd9bdb481067b20fea8f32e90.tar.gz",
+      "hash": "037sh4g1747wf07f9sqngiifp89hqww6m2rvizy5ra7jyd04magk"
     },
     "cmp_yanky": {
       "type": "Git",
@@ -2755,9 +2755,9 @@
         "repo": "nvim-treesitter"
       },
       "branch": "master",
-      "revision": "dbf90fbfa67b979191c696c570d75e3a20a5b909",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/dbf90fbfa67b979191c696c570d75e3a20a5b909.tar.gz",
-      "hash": "01am9niacx5zrpgg4r572c17rdczci4987jmis37mmizn553j60p"
+      "revision": "dfd3207ed43a0c572c13acc02bf9d7dc270f4030",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/dfd3207ed43a0c572c13acc02bf9d7dc270f4030.tar.gz",
+      "hash": "1k27xilglzcym5r4xplf5pifyd3lgc9bq8j9l6qj32zvcv2qv6q5"
     },
     "nvim-treesitter-context": {
       "type": "Git",
@@ -2959,9 +2959,9 @@
         "repo": "package-info.nvim"
       },
       "branch": "master",
-      "revision": "268f4669fc29546726009ad665d26901dbf62c3b",
-      "url": "https://github.com/vuki656/package-info.nvim/archive/268f4669fc29546726009ad665d26901dbf62c3b.tar.gz",
-      "hash": "16lj1x11lp1fiq9ncvcrn3r6mr3s5ailwxs4hgvyvydr4smv1giy"
+      "revision": "3de4f3569ce60e248707df042b72769b3ec343b8",
+      "url": "https://github.com/vuki656/package-info.nvim/archive/3de4f3569ce60e248707df042b72769b3ec343b8.tar.gz",
+      "hash": "03cf6k5wc5bypqacpv1qvbmps2wj5y21h0li987li4m1s8gvm4cq"
     },
     "packer-nvim": {
       "type": "Git",
