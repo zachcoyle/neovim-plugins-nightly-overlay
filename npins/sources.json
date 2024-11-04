@@ -1100,9 +1100,9 @@
         "repo": "dressing.nvim"
       },
       "branch": "master",
-      "revision": "c334ac73e031f0dc93d6d91f3658ee75b8be1d3b",
-      "url": "https://github.com/stevearc/dressing.nvim/archive/c334ac73e031f0dc93d6d91f3658ee75b8be1d3b.tar.gz",
-      "hash": "0ixn5mg03jxqpss7634a3cg78pca7vv6i7z5kdlb6q3kzg7w6fnf"
+      "revision": "6ef1ca479d37d4ff66f13eed44d08912caff483a",
+      "url": "https://github.com/stevearc/dressing.nvim/archive/6ef1ca479d37d4ff66f13eed44d08912caff483a.tar.gz",
+      "hash": "04crajvh4mmziz2ixdir419cjrglgrxh3m8zjkrh9xbc0g49vn8p"
     },
     "dropbar-nvim": {
       "type": "Git",
@@ -1951,9 +1951,9 @@
         "repo": "molten-nvim"
       },
       "branch": "main",
-      "revision": "66ee5c0a0fbe3e014b867d04db44592f2d3eb30f",
-      "url": "https://github.com/benlubas/molten-nvim/archive/66ee5c0a0fbe3e014b867d04db44592f2d3eb30f.tar.gz",
-      "hash": "0k88b6ix8sqsnhm8z02jrphbkjzpimg1wx3jbqcmzlnm8i49nghs"
+      "revision": "bdc085fe991ed232cf37b4206bc47a3a98a27cad",
+      "url": "https://github.com/benlubas/molten-nvim/archive/bdc085fe991ed232cf37b4206bc47a3a98a27cad.tar.gz",
+      "hash": "05j42nlm3ljj07kjnzh4xv4zv1akss4anz7i5aksa7r1czssprsl"
     },
     "multicursors-nvim": {
       "type": "Git",
