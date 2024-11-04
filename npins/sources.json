@@ -116,9 +116,9 @@
         "repo": "avante.nvim"
       },
       "branch": "main",
-      "revision": "3c4ef490a861427817c57e1204c4e41f3fd5fe73",
-      "url": "https://github.com/yetone/avante.nvim/archive/3c4ef490a861427817c57e1204c4e41f3fd5fe73.tar.gz",
-      "hash": "1cyqg4s5lfanix2gyjcwqv2pwv47gl8rqxrllv4f5phpcmy1nrjs"
+      "revision": "579ef12f76db285ba104585ea76ef87af744443c",
+      "url": "https://github.com/yetone/avante.nvim/archive/579ef12f76db285ba104585ea76ef87af744443c.tar.gz",
+      "hash": "170bgxl0rcvm9icayfvnab3c9xskrdkzgpzhbmqy0d96shd5y2bp"
     },
     "baleia-nvim": {
       "type": "Git",
@@ -4063,9 +4063,9 @@
         "repo": "vim-tmux-navigator"
       },
       "branch": "master",
-      "revision": "2d8bc8176af90935fb918526b0fde73d6ceba0df",
-      "url": "https://github.com/christoomey/vim-tmux-navigator/archive/2d8bc8176af90935fb918526b0fde73d6ceba0df.tar.gz",
-      "hash": "1m2bs3dcgd827sr3mc9lqrj49yx5qhij1nlnnlgvbgvb0wpcgrnq"
+      "revision": "424b5caa154bff34dc258ee53cec5a8e36cf7ea8",
+      "url": "https://github.com/christoomey/vim-tmux-navigator/archive/424b5caa154bff34dc258ee53cec5a8e36cf7ea8.tar.gz",
+      "hash": "02rgmzpgrmnq15916cvqilb1mh37g1hpjiz5ys84gnqgdl26w0k7"
     },
     "vim-vsnip": {
       "type": "Git",
