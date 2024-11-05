@@ -1819,9 +1819,9 @@
         "repo": "LuaSnip"
       },
       "branch": "master",
-      "revision": "4bf40748f6fe939bdcb69325918535b1c5edea51",
-      "url": "https://github.com/L3MON4D3/LuaSnip/archive/4bf40748f6fe939bdcb69325918535b1c5edea51.tar.gz",
-      "hash": "1j05nk3q766scszswqxl0riki9685jv2gmy28mzrbsakvk6nz1qs"
+      "revision": "29417eea5b7c4b6beda105ced072855101d9680e",
+      "url": "https://github.com/L3MON4D3/LuaSnip/archive/29417eea5b7c4b6beda105ced072855101d9680e.tar.gz",
+      "hash": "01x1vwkjp4jpsp9q17r163qvw4hkpm9zjwgmm7vn6gszagiwx4fi"
     },
     "lz-n": {
       "type": "Git",
