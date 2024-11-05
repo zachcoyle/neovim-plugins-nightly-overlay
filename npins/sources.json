@@ -116,9 +116,9 @@
         "repo": "avante.nvim"
       },
       "branch": "main",
-      "revision": "0aa2659580e5756555577fad3e75eedc34620f25",
-      "url": "https://github.com/yetone/avante.nvim/archive/0aa2659580e5756555577fad3e75eedc34620f25.tar.gz",
-      "hash": "1yiidivps068y4xsrarpq207kjxliw5y9dkpsiqjpakviqfs8j9j"
+      "revision": "9fbe0256f277a940fa61dce127129c1e8a3916a0",
+      "url": "https://github.com/yetone/avante.nvim/archive/9fbe0256f277a940fa61dce127129c1e8a3916a0.tar.gz",
+      "hash": "0shpbjf3cnlw7icrabah4q077rn110gdw5bc9hif1dwf7wdffhvc"
     },
     "baleia-nvim": {
       "type": "Git",
@@ -2011,9 +2011,9 @@
         "repo": "neogit"
       },
       "branch": "master",
-      "revision": "001f43f50d9589d837cec59004fd92486ab06870",
-      "url": "https://github.com/TimUntersberger/neogit/archive/001f43f50d9589d837cec59004fd92486ab06870.tar.gz",
-      "hash": "0knm3jf56np990cajy30fjf9751gxkhgbxvvpz5mgffywv4khrlc"
+      "revision": "bae3412ea9ac31292e14e9090dde7cb118cd52c1",
+      "url": "https://github.com/TimUntersberger/neogit/archive/bae3412ea9ac31292e14e9090dde7cb118cd52c1.tar.gz",
+      "hash": "07pxksgwrzszidx32kwwpvd7f15bn3pj37jvy6imwvwmfvzza43x"
     },
     "neon": {
       "type": "Git",
