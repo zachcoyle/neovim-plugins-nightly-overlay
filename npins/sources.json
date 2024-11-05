@@ -3559,9 +3559,9 @@
         "repo": "telescope-undo.nvim"
       },
       "branch": "main",
-      "revision": "51be9ae7c42fc27c0b05505e3a0162e0f05fbb6a",
-      "url": "https://github.com/debugloop/telescope-undo.nvim/archive/51be9ae7c42fc27c0b05505e3a0162e0f05fbb6a.tar.gz",
-      "hash": "1xz2fccjp1rv7l0xzkczz4z2w32q8slc9lc6rm5219s1hl7k4nam"
+      "revision": "2971cc9f193ec09e0c5de3563f99cbea16b63f10",
+      "url": "https://github.com/debugloop/telescope-undo.nvim/archive/2971cc9f193ec09e0c5de3563f99cbea16b63f10.tar.gz",
+      "hash": "0cg4w40wmr1k2l5zb25zffpp990wsmi6kq39fvfzy4ay2wx56zgs"
     },
     "telescope-vimspector-nvim": {
       "type": "Git",
