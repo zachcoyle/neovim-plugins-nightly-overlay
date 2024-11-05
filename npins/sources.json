@@ -116,9 +116,9 @@
         "repo": "avante.nvim"
       },
       "branch": "main",
-      "revision": "b6f7c193b07d17a921b2af509d704474fac77321",
-      "url": "https://github.com/yetone/avante.nvim/archive/b6f7c193b07d17a921b2af509d704474fac77321.tar.gz",
-      "hash": "1ggsfx9y54dkskl8zszg8wr3wl081k184q41pdpan92lva53pwk6"
+      "revision": "16e10c5f88e71b3d7395fd4fab5a0fedd67471fc",
+      "url": "https://github.com/yetone/avante.nvim/archive/16e10c5f88e71b3d7395fd4fab5a0fedd67471fc.tar.gz",
+      "hash": "1nng8050hyx92bz4hp5fkkbfjvsswjrihx1ajgnxs3vhsqnwxd36"
     },
     "baleia-nvim": {
       "type": "Git",
@@ -1688,9 +1688,9 @@
         "repo": "lean.nvim"
       },
       "branch": "main",
-      "revision": "cad73ef6ba19039890e64625eef1f7f6ec1b8701",
-      "url": "https://github.com/Julian/lean.nvim/archive/cad73ef6ba19039890e64625eef1f7f6ec1b8701.tar.gz",
-      "hash": "18wpd38kk6srh4rvjp4b57s3b6sbhfhvqp9kq1rs270wxvykkk7b"
+      "revision": "de515ccaf139f766087b0fa38af30e1bfa448ee7",
+      "url": "https://github.com/Julian/lean.nvim/archive/de515ccaf139f766087b0fa38af30e1bfa448ee7.tar.gz",
+      "hash": "0jhp0i5yfbzkykmlyd3b1ik902db5lrwspdhya9339v6wvf6j4ff"
     },
     "leap-nvim": {
       "type": "Git",
