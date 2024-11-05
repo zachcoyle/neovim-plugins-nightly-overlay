@@ -1052,9 +1052,9 @@
         "repo": "debugprint.nvim"
       },
       "branch": "main",
-      "revision": "64148dfb91c04c033cbdba7db5e3bd4d3b501bae",
-      "url": "https://github.com/andrewferrier/debugprint.nvim/archive/64148dfb91c04c033cbdba7db5e3bd4d3b501bae.tar.gz",
-      "hash": "08vqphvffpx9hqnn15ycl6fbq8xybzn98v8ifhq8xgglvvfcv9za"
+      "revision": "b97bd8afb54b91a2614b424116d742dac86a17f4",
+      "url": "https://github.com/andrewferrier/debugprint.nvim/archive/b97bd8afb54b91a2614b424116d742dac86a17f4.tar.gz",
+      "hash": "0bb30nhkmqb8izxp9xqxmw72i3rzffk6y16py2iyb51hf67gdrjm"
     },
     "diffview-nvim": {
       "type": "Git",
@@ -2863,9 +2863,9 @@
         "repo": "octo.nvim"
       },
       "branch": "master",
-      "revision": "1f3115bb88f15a12d339568fe0f1d75bc45db989",
-      "url": "https://github.com/pwntester/octo.nvim/archive/1f3115bb88f15a12d339568fe0f1d75bc45db989.tar.gz",
-      "hash": "09cpl37kr1fxvgn22402bcfz97fkwmyiwghcsd3x5m5di3b80rgm"
+      "revision": "650f33ab9f134eaae345f55b96468ee3d0808871",
+      "url": "https://github.com/pwntester/octo.nvim/archive/650f33ab9f134eaae345f55b96468ee3d0808871.tar.gz",
+      "hash": "0casnv4kz4jl5qjn9446fvfc6anip55bk543lp3fhicdfkhqb2wc"
     },
     "oil-nvim": {
       "type": "Git",
