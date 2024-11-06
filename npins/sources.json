@@ -1688,9 +1688,9 @@
         "repo": "lean.nvim"
       },
       "branch": "main",
-      "revision": "de515ccaf139f766087b0fa38af30e1bfa448ee7",
-      "url": "https://github.com/Julian/lean.nvim/archive/de515ccaf139f766087b0fa38af30e1bfa448ee7.tar.gz",
-      "hash": "0jhp0i5yfbzkykmlyd3b1ik902db5lrwspdhya9339v6wvf6j4ff"
+      "revision": "40134e0c7532bfb85caedb5f35d6b772f4459fe2",
+      "url": "https://github.com/Julian/lean.nvim/archive/40134e0c7532bfb85caedb5f35d6b772f4459fe2.tar.gz",
+      "hash": "1f3mnzfslra89xrijn5spkcn47gz19nd3360d3f4kg2gs8r89m5m"
     },
     "leap-nvim": {
       "type": "Git",
@@ -2383,9 +2383,9 @@
         "repo": "noice.nvim"
       },
       "branch": "main",
-      "revision": "d80136061820765baf70ace7dfb98a52575edc4a",
-      "url": "https://github.com/folke/noice.nvim/archive/d80136061820765baf70ace7dfb98a52575edc4a.tar.gz",
-      "hash": "00ddrs842x8rg2g5r2fv97gfgqb8d3rbp7vjzvxnd3n9qz2z6vb2"
+      "revision": "8c9a29acbcb5380c4dadc09f25ab3e99f5ab626e",
+      "url": "https://github.com/folke/noice.nvim/archive/8c9a29acbcb5380c4dadc09f25ab3e99f5ab626e.tar.gz",
+      "hash": "0358q9vc4j5q2gs4904k0srzlhv39f6pqd2yd7232i45cp45rxvk"
     },
     "none-ls-nvim": {
       "type": "Git",
