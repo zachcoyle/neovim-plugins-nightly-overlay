@@ -1652,9 +1652,9 @@
         "repo": "kanagawa.nvim"
       },
       "branch": "master",
-      "revision": "bfba3e28faf3a9c1e9c887f191670d2cff321406",
-      "url": "https://github.com/rebelot/kanagawa.nvim/archive/bfba3e28faf3a9c1e9c887f191670d2cff321406.tar.gz",
-      "hash": "192kcg9zv2yzn5h10q4v8dddp0daad3n62xxpvlgignccszdzmvx"
+      "revision": "e2b081d7e1f61e561e928719ae7b29c1ddbf5de3",
+      "url": "https://github.com/rebelot/kanagawa.nvim/archive/e2b081d7e1f61e561e928719ae7b29c1ddbf5de3.tar.gz",
+      "hash": "15vi23a5qmpnx4v0yj6rdkn0j62ycjkx3k9421bq59zr9ndyaix3"
     },
     "lazy-nvim": {
       "type": "Git",
@@ -1688,9 +1688,9 @@
         "repo": "lean.nvim"
       },
       "branch": "main",
-      "revision": "40134e0c7532bfb85caedb5f35d6b772f4459fe2",
-      "url": "https://github.com/Julian/lean.nvim/archive/40134e0c7532bfb85caedb5f35d6b772f4459fe2.tar.gz",
-      "hash": "1f3mnzfslra89xrijn5spkcn47gz19nd3360d3f4kg2gs8r89m5m"
+      "revision": "3be7eaf73c64b952aafabdd487616f95083b954f",
+      "url": "https://github.com/Julian/lean.nvim/archive/3be7eaf73c64b952aafabdd487616f95083b954f.tar.gz",
+      "hash": "0kz9m7h9sc7n5zq3lxd1qjdh2c0hgwi8rs88hbmkj20r3gp5qh7h"
     },
     "leap-nvim": {
       "type": "Git",
@@ -2383,9 +2383,9 @@
         "repo": "noice.nvim"
       },
       "branch": "main",
-      "revision": "8c9a29acbcb5380c4dadc09f25ab3e99f5ab626e",
-      "url": "https://github.com/folke/noice.nvim/archive/8c9a29acbcb5380c4dadc09f25ab3e99f5ab626e.tar.gz",
-      "hash": "0358q9vc4j5q2gs4904k0srzlhv39f6pqd2yd7232i45cp45rxvk"
+      "revision": "46fa519d481bba76a9bc4d9f9e716481a93d2b4d",
+      "url": "https://github.com/folke/noice.nvim/archive/46fa519d481bba76a9bc4d9f9e716481a93d2b4d.tar.gz",
+      "hash": "186gsxfxgf6y79qf1jlc7x4sdfy807kmvb72082bh19fgdps549w"
     },
     "none-ls-nvim": {
       "type": "Git",
