@@ -2755,9 +2755,9 @@
         "repo": "nvim-treesitter"
       },
       "branch": "master",
-      "revision": "7dc8aabe86db8c2f23520e8334f7584f83e84342",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/7dc8aabe86db8c2f23520e8334f7584f83e84342.tar.gz",
-      "hash": "1xizf90767kh3yw1nrjz3xd4lxq71x92r99hr9iq3bpb50a698s5"
+      "revision": "4b9a83f6017ee5edea85722cbfda1b3058a82e69",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/4b9a83f6017ee5edea85722cbfda1b3058a82e69.tar.gz",
+      "hash": "1zkly49xbnya2m3xl5qz5cmcyxkipwwfb2xx4qwl195krp0p0kqb"
     },
     "nvim-treesitter-context": {
       "type": "Git",
@@ -4219,9 +4219,9 @@
         "repo": "yazi.nvim"
       },
       "branch": "main",
-      "revision": "135d0bda3291aa757b06a1b8f5916b5661bcc373",
-      "url": "https://github.com/mikavilpas/yazi.nvim/archive/135d0bda3291aa757b06a1b8f5916b5661bcc373.tar.gz",
-      "hash": "14a7j7frqzvy59p7m1y0l4y3dcaxpaaj6nqcaijjh1p1hmknxdis"
+      "revision": "caaebf12464d80d479be497c97d92c1c71b16e94",
+      "url": "https://github.com/mikavilpas/yazi.nvim/archive/caaebf12464d80d479be497c97d92c1c71b16e94.tar.gz",
+      "hash": "12gaxx3cmk40idslgxjq7l5mx7jh2gyfdhfpv0rngkqxgcv0s485"
     },
     "yuck-vim": {
       "type": "Git",
