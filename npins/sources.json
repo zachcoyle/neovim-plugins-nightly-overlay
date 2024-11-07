@@ -1807,9 +1807,9 @@
         "repo": "lualine.nvim"
       },
       "branch": "master",
-      "revision": "640260d7c2d98779cab89b1e7088ab14ea354a02",
-      "url": "https://github.com/nvim-lualine/lualine.nvim/archive/640260d7c2d98779cab89b1e7088ab14ea354a02.tar.gz",
-      "hash": "0vd9n7mxzgasr8i454vg3698l25lzkci2bz0s8rwhkmq5n6sdfh4"
+      "revision": "ef3f2ee04140aeca037bdcabafab4339da4d5b5f",
+      "url": "https://github.com/nvim-lualine/lualine.nvim/archive/ef3f2ee04140aeca037bdcabafab4339da4d5b5f.tar.gz",
+      "hash": "13b4b63wqyl2lgf63yd3gydzkgn9pg6papadi1yd59xqx76gnyls"
     },
     "luasnip": {
       "type": "Git",
@@ -2863,9 +2863,9 @@
         "repo": "octo.nvim"
       },
       "branch": "master",
-      "revision": "650f33ab9f134eaae345f55b96468ee3d0808871",
-      "url": "https://github.com/pwntester/octo.nvim/archive/650f33ab9f134eaae345f55b96468ee3d0808871.tar.gz",
-      "hash": "0casnv4kz4jl5qjn9446fvfc6anip55bk543lp3fhicdfkhqb2wc"
+      "revision": "44060b7ad1153d80ec2a30ebfaf9957d58d6c69e",
+      "url": "https://github.com/pwntester/octo.nvim/archive/44060b7ad1153d80ec2a30ebfaf9957d58d6c69e.tar.gz",
+      "hash": "0zq2aq19b94av2mypbdf62hs86b66ihrd2s9s69dnhrc1x6z5vi6"
     },
     "oil-nvim": {
       "type": "Git",
@@ -3319,9 +3319,9 @@
         "repo": "tagbar"
       },
       "branch": "master",
-      "revision": "1c5a358f0bb9a24abe8ee772552f5c64f622f699",
-      "url": "https://github.com/preservim/tagbar/archive/1c5a358f0bb9a24abe8ee772552f5c64f622f699.tar.gz",
-      "hash": "1nz0b2f30avkv39gdbr74y2ny1as3dk257nix42iig1zcdivfliz"
+      "revision": "4a1c46d8dc1e1c26015eff08cc74679e3f24a43b",
+      "url": "https://github.com/preservim/tagbar/archive/4a1c46d8dc1e1c26015eff08cc74679e3f24a43b.tar.gz",
+      "hash": "0h9zyxqf07ngcpmmqfr5y6h0wja5c55hkiq7y47800qx6rrsk4pl"
     },
     "telescope-cheat-nvim": {
       "type": "Git",
