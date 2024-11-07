@@ -44,9 +44,9 @@
         "repo": "SchemaStore.nvim"
       },
       "branch": "main",
-      "revision": "3d2412ee76de350ac13b42e84876b2184d8847a5",
-      "url": "https://github.com/b0o/SchemaStore.nvim/archive/3d2412ee76de350ac13b42e84876b2184d8847a5.tar.gz",
-      "hash": "16m327ig75gss7qvr78q2fyi6j1byxi2vihfvm9mjik0mxnzsi27"
+      "revision": "5f0639d68cbea3ab8a9a24a51a5f984d86ea8438",
+      "url": "https://github.com/b0o/SchemaStore.nvim/archive/5f0639d68cbea3ab8a9a24a51a5f984d86ea8438.tar.gz",
+      "hash": "00w6as4j19rf2rwwpyf1qjks25yplri2s9qr1y4p5k2zl5iq8f96"
     },
     "alpha-nvim": {
       "type": "Git",
@@ -3607,9 +3607,9 @@
         "repo": "tint.nvim"
       },
       "branch": "master",
-      "revision": "02bd0527a315a80e4e25bb2dd7b6994fb0daae01",
-      "url": "https://github.com/levouh/tint.nvim/archive/02bd0527a315a80e4e25bb2dd7b6994fb0daae01.tar.gz",
-      "hash": "08bhm1p78xh692vjvg870k73kiaz523gffcs8dpzr2zqqa086jkg"
+      "revision": "586e87f00c8b0f5e857cefe10839e41f3e8c6d01",
+      "url": "https://github.com/levouh/tint.nvim/archive/586e87f00c8b0f5e857cefe10839e41f3e8c6d01.tar.gz",
+      "hash": "1jvj19bxsq8axv27mww7128pjssskdb6msg4b7nz9bk2y5plasw2"
     },
     "todo-comments-nvim": {
       "type": "Git",
