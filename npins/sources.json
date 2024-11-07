@@ -2011,9 +2011,9 @@
         "repo": "neogit"
       },
       "branch": "master",
-      "revision": "96b39f9cba39524e0a45cac5103980301b7a141f",
-      "url": "https://github.com/TimUntersberger/neogit/archive/96b39f9cba39524e0a45cac5103980301b7a141f.tar.gz",
-      "hash": "1zgdwahxnfby30r530nkjzm28hii1858n5lsy0rrbpzimdvfl4pr"
+      "revision": "8e1e301c2e33c60375850bcf22ba1fb77b684b97",
+      "url": "https://github.com/TimUntersberger/neogit/archive/8e1e301c2e33c60375850bcf22ba1fb77b684b97.tar.gz",
+      "hash": "1x9hkld6z16sxsj8wvykqyrnqw21dhvib965jzhpk4a106skczh9"
     },
     "neon": {
       "type": "Git",
@@ -3307,9 +3307,9 @@
         "repo": "statuscol.nvim"
       },
       "branch": "main",
-      "revision": "5998d16044159ad3779f62c45e756c555e3051f0",
-      "url": "https://github.com/luukvbaal/statuscol.nvim/archive/5998d16044159ad3779f62c45e756c555e3051f0.tar.gz",
-      "hash": "1irwr533hn5321wglrl08cvnk4jwdnyh1zs9433cffl0lzf86a1b"
+      "revision": "8822f76e105549620ef9c0d96e7b95aedf14c490",
+      "url": "https://github.com/luukvbaal/statuscol.nvim/archive/8822f76e105549620ef9c0d96e7b95aedf14c490.tar.gz",
+      "hash": "00rnxgmlj23fvrc2jwm9p2bwychhqmfl6bsab49c1y9l3z7kbp4w"
     },
     "tagbar": {
       "type": "Git",
