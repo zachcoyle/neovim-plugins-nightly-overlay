@@ -944,9 +944,9 @@
         "repo": "conjure"
       },
       "branch": "master",
-      "revision": "6d2bc7f7b24c2c43d54f263bee7b9b08aef5d1a1",
-      "url": "https://github.com/Olical/conjure/archive/6d2bc7f7b24c2c43d54f263bee7b9b08aef5d1a1.tar.gz",
-      "hash": "0gfk2b4cz8wisp5lpjlncf79may4c0sykgn7n9ibrmd8729ks43k"
+      "revision": "34abca54d962e082f111ed451f17062f27a7d356",
+      "url": "https://github.com/Olical/conjure/archive/34abca54d962e082f111ed451f17062f27a7d356.tar.gz",
+      "hash": "01dzkyv983cla0awy2wy29qd54ny0qdwjv9q4yxf3p10lzayv5rp"
     },
     "copilot-cmp": {
       "type": "Git",
@@ -1304,9 +1304,9 @@
         "repo": "git-conflict.nvim"
       },
       "branch": "main",
-      "revision": "ed1ca6dfd60bf609714f791cfa63aee33aef64ed",
-      "url": "https://github.com/akinsho/git-conflict.nvim/archive/ed1ca6dfd60bf609714f791cfa63aee33aef64ed.tar.gz",
-      "hash": "1qybpjynbmw341asjmc93mkc2k4jp054jh0zq620vc0vplhhx2wz"
+      "revision": "3c64b32a0e3c2f193703c0aa872252e6318c405f",
+      "url": "https://github.com/akinsho/git-conflict.nvim/archive/3c64b32a0e3c2f193703c0aa872252e6318c405f.tar.gz",
+      "hash": "1q6i44chzcagl60f4d08wfbasa0d2f6ws9pijai68f40wakppq2j"
     },
     "git-messenger-vim": {
       "type": "Git",
@@ -2383,9 +2383,9 @@
         "repo": "noice.nvim"
       },
       "branch": "main",
-      "revision": "4d48c360a19b3920a4041868530fd4b99919fa0c",
-      "url": "https://github.com/folke/noice.nvim/archive/4d48c360a19b3920a4041868530fd4b99919fa0c.tar.gz",
-      "hash": "0233g62x584yy05lwv16r2a03c335cgzqrr5fdgvh3k5llv2yzs6"
+      "revision": "81013884522c1715c370bb15a65831d3253813b9",
+      "url": "https://github.com/folke/noice.nvim/archive/81013884522c1715c370bb15a65831d3253813b9.tar.gz",
+      "hash": "09cjvbljfk6ic91wf6b1sdlaizbvsgl6qhndjxlsr13fxczakigj"
     },
     "none-ls-nvim": {
       "type": "Git",
