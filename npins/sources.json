@@ -944,9 +944,9 @@
         "repo": "conjure"
       },
       "branch": "master",
-      "revision": "34abca54d962e082f111ed451f17062f27a7d356",
-      "url": "https://github.com/Olical/conjure/archive/34abca54d962e082f111ed451f17062f27a7d356.tar.gz",
-      "hash": "01dzkyv983cla0awy2wy29qd54ny0qdwjv9q4yxf3p10lzayv5rp"
+      "revision": "ccec0904cadebba50dc92b39629af0f3df3ee09d",
+      "url": "https://github.com/Olical/conjure/archive/ccec0904cadebba50dc92b39629af0f3df3ee09d.tar.gz",
+      "hash": "02rfpp2cmsgy37nfpswqklvhjhlxbjsb5ky0m3bipshkpyfx6hrr"
     },
     "copilot-cmp": {
       "type": "Git",
