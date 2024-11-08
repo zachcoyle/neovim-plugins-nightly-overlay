@@ -1688,9 +1688,9 @@
         "repo": "lean.nvim"
       },
       "branch": "main",
-      "revision": "8ca94254e9d3160901af1b32bef69667b199faee",
-      "url": "https://github.com/Julian/lean.nvim/archive/8ca94254e9d3160901af1b32bef69667b199faee.tar.gz",
-      "hash": "15s1smq36k8ywlf2gpxgpvgxsnsw66plw0z4fvq0ils0n3ry322c"
+      "revision": "c9be5764764dd6896f93fd9e26aa51885a12f318",
+      "url": "https://github.com/Julian/lean.nvim/archive/c9be5764764dd6896f93fd9e26aa51885a12f318.tar.gz",
+      "hash": "0p7qhgycpanj1fd972i5a2nqmnpagcddmb8a5yf6931zfqlg18vv"
     },
     "leap-nvim": {
       "type": "Git",
@@ -1807,9 +1807,9 @@
         "repo": "lualine.nvim"
       },
       "branch": "master",
-      "revision": "ef3f2ee04140aeca037bdcabafab4339da4d5b5f",
-      "url": "https://github.com/nvim-lualine/lualine.nvim/archive/ef3f2ee04140aeca037bdcabafab4339da4d5b5f.tar.gz",
-      "hash": "13b4b63wqyl2lgf63yd3gydzkgn9pg6papadi1yd59xqx76gnyls"
+      "revision": "70fef2406909e6a7beaa98d529c8a8f7183dab9e",
+      "url": "https://github.com/nvim-lualine/lualine.nvim/archive/70fef2406909e6a7beaa98d529c8a8f7183dab9e.tar.gz",
+      "hash": "1zliwndkzzd4ir3h3yp93440237mcs0785vagvg13a25p36dfvay"
     },
     "luasnip": {
       "type": "Git",
