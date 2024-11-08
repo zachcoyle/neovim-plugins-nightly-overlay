@@ -1052,9 +1052,9 @@
         "repo": "debugprint.nvim"
       },
       "branch": "main",
-      "revision": "b97bd8afb54b91a2614b424116d742dac86a17f4",
-      "url": "https://github.com/andrewferrier/debugprint.nvim/archive/b97bd8afb54b91a2614b424116d742dac86a17f4.tar.gz",
-      "hash": "0bb30nhkmqb8izxp9xqxmw72i3rzffk6y16py2iyb51hf67gdrjm"
+      "revision": "7b7a02c76d372818ed21f9d0755e342a25a64d31",
+      "url": "https://github.com/andrewferrier/debugprint.nvim/archive/7b7a02c76d372818ed21f9d0755e342a25a64d31.tar.gz",
+      "hash": "083kx5d3md9cbcmym5ikfabnmjwvh4g9gs242dz03cr0ni2s9dka"
     },
     "diffview-nvim": {
       "type": "Git",
@@ -1688,9 +1688,9 @@
         "repo": "lean.nvim"
       },
       "branch": "main",
-      "revision": "decc49e456601b2d91f2d20ad1af9b670acd0490",
-      "url": "https://github.com/Julian/lean.nvim/archive/decc49e456601b2d91f2d20ad1af9b670acd0490.tar.gz",
-      "hash": "0k5xz4w7b4kkd80w33yvq5r2bwy5x2cfcbyss6hnx3hg74q1dx69"
+      "revision": "330f82cd73655a6a485c17395ca41794a915ddae",
+      "url": "https://github.com/Julian/lean.nvim/archive/330f82cd73655a6a485c17395ca41794a915ddae.tar.gz",
+      "hash": "0vpzhmjawggfjbz3l7sf10c8iy49pcxjb9lii7r89q43b09kilc5"
     },
     "leap-nvim": {
       "type": "Git",
@@ -2551,9 +2551,9 @@
         "repo": "nvim-jdtls"
       },
       "branch": "master",
-      "revision": "75043270b6f3c7d6aa2fc9de5885bc65d371054d",
-      "url": "https://github.com/mfussenegger/nvim-jdtls/archive/75043270b6f3c7d6aa2fc9de5885bc65d371054d.tar.gz",
-      "hash": "1bj0mxrg2c0qr2gqxjb52bjp9g2fnsa2bzddcccs6w4dr1bmz5gj"
+      "revision": "c4279b8ffce9b64eb302056d78dfebc2968a49bc",
+      "url": "https://github.com/mfussenegger/nvim-jdtls/archive/c4279b8ffce9b64eb302056d78dfebc2968a49bc.tar.gz",
+      "hash": "0xcixaanisvg1rhfcgypa7jc6ndp8hmsvwqkcjz1xfypssa99qhy"
     },
     "nvim-lastplace": {
       "type": "Git",
@@ -3199,9 +3199,9 @@
         "repo": "smart-splits.nvim"
       },
       "branch": "master",
-      "revision": "11600d75e1b57e9fe1f3ca880a917485fc399e8c",
-      "url": "https://github.com/mrjones2014/smart-splits.nvim/archive/11600d75e1b57e9fe1f3ca880a917485fc399e8c.tar.gz",
-      "hash": "1xhhzcywlig49av0r01b4qlk21yjd7a2qzxc9yvqymlqa7sp0phx"
+      "revision": "ea4702652cb1d18811d60f2e206787602a2e946c",
+      "url": "https://github.com/mrjones2014/smart-splits.nvim/archive/ea4702652cb1d18811d60f2e206787602a2e946c.tar.gz",
+      "hash": "07im00a9ff9b6qj6m6r2vvpjr0qw93xgqk7bba0fdv7ws3ivzmmw"
     },
     "smartcolumn-nvim": {
       "type": "Git",
