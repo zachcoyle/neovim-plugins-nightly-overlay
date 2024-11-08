@@ -1028,9 +1028,9 @@
         "repo": "cyberdream.nvim"
       },
       "branch": "main",
-      "revision": "7e6feb49d2ec47a742215754ec0ecc51eebba55a",
-      "url": "https://github.com/scottmckendry/cyberdream.nvim/archive/7e6feb49d2ec47a742215754ec0ecc51eebba55a.tar.gz",
-      "hash": "0ilv916j4wf110fapy25glc99qyps9dajvb1397xz95r6cyqc7ld"
+      "revision": "28cde1cf8b792e6dffe51f0d98632b361baa972b",
+      "url": "https://github.com/scottmckendry/cyberdream.nvim/archive/28cde1cf8b792e6dffe51f0d98632b361baa972b.tar.gz",
+      "hash": "1yrk85wmrksbislmgvp170b9cl7d59lw9gfp2h6lnpvvx1n2rjg7"
     },
     "dashboard-nvim": {
       "type": "Git",
@@ -1688,9 +1688,9 @@
         "repo": "lean.nvim"
       },
       "branch": "main",
-      "revision": "07c9dc1279b63fe500bcb16329e91a30854f3ce0",
-      "url": "https://github.com/Julian/lean.nvim/archive/07c9dc1279b63fe500bcb16329e91a30854f3ce0.tar.gz",
-      "hash": "1rvabd8l61gx26r271z8n8dfg5zbp73byq73j4ggnvy34iiz63c3"
+      "revision": "8ca94254e9d3160901af1b32bef69667b199faee",
+      "url": "https://github.com/Julian/lean.nvim/archive/8ca94254e9d3160901af1b32bef69667b199faee.tar.gz",
+      "hash": "15s1smq36k8ywlf2gpxgpvgxsnsw66plw0z4fvq0ils0n3ry322c"
     },
     "leap-nvim": {
       "type": "Git",
@@ -2383,9 +2383,9 @@
         "repo": "noice.nvim"
       },
       "branch": "main",
-      "revision": "73d38cc939db6553b87e5f72ff732447046bced1",
-      "url": "https://github.com/folke/noice.nvim/archive/73d38cc939db6553b87e5f72ff732447046bced1.tar.gz",
-      "hash": "0inszrrq9jc4djx55w6k3250kfwdnxdix9msv320kh6lii3hdpii"
+      "revision": "4d48c360a19b3920a4041868530fd4b99919fa0c",
+      "url": "https://github.com/folke/noice.nvim/archive/4d48c360a19b3920a4041868530fd4b99919fa0c.tar.gz",
+      "hash": "0233g62x584yy05lwv16r2a03c335cgzqrr5fdgvh3k5llv2yzs6"
     },
     "none-ls-nvim": {
       "type": "Git",
@@ -3115,9 +3115,9 @@
         "repo": "rainbow-delimiters.nvim"
       },
       "branch": "master",
-      "revision": "e0f9b3efe150724af2d2ed59997d5ece373840e3",
-      "url": "https://github.com/HiPhish/rainbow-delimiters.nvim/archive/e0f9b3efe150724af2d2ed59997d5ece373840e3.tar.gz",
-      "hash": "0nzljcl5knmk462ryi621qf90m1mbnn4nylqd8rybvn2w7qyvnhf"
+      "revision": "a25248a9e5cbfa117043f6740b10248dd596b576",
+      "url": "https://github.com/HiPhish/rainbow-delimiters.nvim/archive/a25248a9e5cbfa117043f6740b10248dd596b576.tar.gz",
+      "hash": "0fpkbqnfmn01rz24yb9448cbv6wkcfkhcr8h12q687h7xgg9gmbh"
     },
     "refactoring-nvim": {
       "type": "Git",
