@@ -308,9 +308,9 @@
         "repo": "cmake-tools.nvim"
       },
       "branch": "master",
-      "revision": "d8eb4372fff47028c36f6bec6a8318b166092ed0",
-      "url": "https://github.com/Civitasv/cmake-tools.nvim/archive/d8eb4372fff47028c36f6bec6a8318b166092ed0.tar.gz",
-      "hash": "13k9x6arank1760wmi9rz8rjcbc3qlalsb8krzn3xf1g34ikbq1l"
+      "revision": "15a095c151364baa4cddc553f121e8df087983a6",
+      "url": "https://github.com/Civitasv/cmake-tools.nvim/archive/15a095c151364baa4cddc553f121e8df087983a6.tar.gz",
+      "hash": "1zd0pvlgv4nn6c2f1vvnv3f7wrap6bb6bzz8v5jm4fy5zlcminyw"
     },
     "cmp-async-path": {
       "type": "Git",
@@ -1915,9 +1915,9 @@
         "repo": "mini.nvim"
       },
       "branch": "main",
-      "revision": "3875a2d352fa13f9d0468c4ce26cad8a3c794507",
-      "url": "https://github.com/echasnovski/mini.nvim/archive/3875a2d352fa13f9d0468c4ce26cad8a3c794507.tar.gz",
-      "hash": "0gzq2hinqsp5pad4vxn4zwz82myfzbrip3c43cdmgavam89d8w7l"
+      "revision": "7b4d5d48b6b5a75009d63f8f3e4ef4819b7e8139",
+      "url": "https://github.com/echasnovski/mini.nvim/archive/7b4d5d48b6b5a75009d63f8f3e4ef4819b7e8139.tar.gz",
+      "hash": "1kxpvi3flyxr1zyn2akhd7c3gf1ayq1fzn97czpvkp8af459xm2w"
     },
     "mkdnflow-nvim": {
       "type": "Git",
