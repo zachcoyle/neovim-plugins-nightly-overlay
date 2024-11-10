@@ -1592,9 +1592,9 @@
         "repo": "indent-blankline.nvim"
       },
       "branch": "master",
-      "revision": "04e44b09ee3ff189c69ab082edac1ef7ae2e256c",
-      "url": "https://github.com/lukas-reineke/indent-blankline.nvim/archive/04e44b09ee3ff189c69ab082edac1ef7ae2e256c.tar.gz",
-      "hash": "08vf6k69p6gnciawabgy11sd5vy94i8087jxwch07plr9kfginx1"
+      "revision": "e51b651ca26cba250ef3a1150c8d35045eee2a84",
+      "url": "https://github.com/lukas-reineke/indent-blankline.nvim/archive/e51b651ca26cba250ef3a1150c8d35045eee2a84.tar.gz",
+      "hash": "1qy9d5gnkszw48h9j21hn490783y65pr21mi3qz6k1ppgff227fi"
     },
     "indent-o-matic": {
       "type": "Git",
@@ -2935,9 +2935,9 @@
         "repo": "overseer.nvim"
       },
       "branch": "master",
-      "revision": "c416be50c2715a7f631d67e21154b8e6cd873ca3",
-      "url": "https://github.com/stevearc/overseer.nvim/archive/c416be50c2715a7f631d67e21154b8e6cd873ca3.tar.gz",
-      "hash": "0iincr9z0k9jy7j46vwgf1f2v16z74mm0z4m6hqx6w8rjaiiv3s0"
+      "revision": "25a9c6439a37b680ff4b3c02554f4173c197c18b",
+      "url": "https://github.com/stevearc/overseer.nvim/archive/25a9c6439a37b680ff4b3c02554f4173c197c18b.tar.gz",
+      "hash": "0pz0nhlb4cgigyc09fpgrhd5kszd3sdx5s8gxpwhia08smpk0d6d"
     },
     "oxocarbon-nvim": {
       "type": "Git",
