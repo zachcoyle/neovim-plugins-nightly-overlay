@@ -1915,9 +1915,9 @@
         "repo": "mini.nvim"
       },
       "branch": "main",
-      "revision": "998cfcf1fdd0a6830d0fc35f1c054a6f55de1e7f",
-      "url": "https://github.com/echasnovski/mini.nvim/archive/998cfcf1fdd0a6830d0fc35f1c054a6f55de1e7f.tar.gz",
-      "hash": "0ns5a3vinpy661v4dv5vldr8gpicxx4zfvzq0d9iyjr6pp0m40d0"
+      "revision": "3875a2d352fa13f9d0468c4ce26cad8a3c794507",
+      "url": "https://github.com/echasnovski/mini.nvim/archive/3875a2d352fa13f9d0468c4ce26cad8a3c794507.tar.gz",
+      "hash": "0gzq2hinqsp5pad4vxn4zwz82myfzbrip3c43cdmgavam89d8w7l"
     },
     "mkdnflow-nvim": {
       "type": "Git",
@@ -2059,9 +2059,9 @@
         "repo": "neoscroll.nvim"
       },
       "branch": "master",
-      "revision": "840497953c97f44367d0d407ee442fb47d4783d2",
-      "url": "https://github.com/karb94/neoscroll.nvim/archive/840497953c97f44367d0d407ee442fb47d4783d2.tar.gz",
-      "hash": "0mljw58gwmhxvj12pnj4ilwpb3lhpx53dp9wibz0hzrly41y4khz"
+      "revision": "e58ecc61e38f348dcc8f2af037fe7031f8a6ef7c",
+      "url": "https://github.com/karb94/neoscroll.nvim/archive/e58ecc61e38f348dcc8f2af037fe7031f8a6ef7c.tar.gz",
+      "hash": "08bq6adrafkkczbd314rbi0yzk66fpqk3z0g2j52sq7fff2v8fgm"
     },
     "neotest": {
       "type": "Git",
