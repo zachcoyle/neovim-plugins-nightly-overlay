@@ -1592,9 +1592,9 @@
         "repo": "indent-blankline.nvim"
       },
       "branch": "master",
-      "revision": "e51b651ca26cba250ef3a1150c8d35045eee2a84",
-      "url": "https://github.com/lukas-reineke/indent-blankline.nvim/archive/e51b651ca26cba250ef3a1150c8d35045eee2a84.tar.gz",
-      "hash": "1qy9d5gnkszw48h9j21hn490783y65pr21mi3qz6k1ppgff227fi"
+      "revision": "796c91f10b2e0c22b518daf5878f700527b8532b",
+      "url": "https://github.com/lukas-reineke/indent-blankline.nvim/archive/796c91f10b2e0c22b518daf5878f700527b8532b.tar.gz",
+      "hash": "1spwkrr22yqkj2sdfwfixdph3m4wgv1sm81f6n1a05czfi6rhh7l"
     },
     "indent-o-matic": {
       "type": "Git",
@@ -1664,9 +1664,9 @@
         "repo": "lazy.nvim"
       },
       "branch": "main",
-      "revision": "60cf258a9ae7fffe04bb31141141a91845158dcc",
-      "url": "https://github.com/folke/lazy.nvim/archive/60cf258a9ae7fffe04bb31141141a91845158dcc.tar.gz",
-      "hash": "1zy501wip9lcrs880wp037531z11f4j17s9mffawbnqv44y6pg8n"
+      "revision": "7967abe55752aa90532e6bb4bd4663fe27a264cb",
+      "url": "https://github.com/folke/lazy.nvim/archive/7967abe55752aa90532e6bb4bd4663fe27a264cb.tar.gz",
+      "hash": "0s1cx99z9irgf7pxixgqi9z5k98lsx5in1i8i3wv71w3dnx7j6bz"
     },
     "lazygit-nvim": {
       "type": "Git",
