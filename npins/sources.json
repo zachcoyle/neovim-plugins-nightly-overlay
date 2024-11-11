@@ -1819,9 +1819,9 @@
         "repo": "LuaSnip"
       },
       "branch": "master",
-      "revision": "2737edc9e674e537dc0a97e3405658d57d2d31ed",
-      "url": "https://github.com/L3MON4D3/LuaSnip/archive/2737edc9e674e537dc0a97e3405658d57d2d31ed.tar.gz",
-      "hash": "1a1ka4l5p51ja8c1lf878nbcz4c45357fvbnsh69g9p1g6f2xgjm"
+      "revision": "48a02259693cb7bbbd1092993406773d5ce14664",
+      "url": "https://github.com/L3MON4D3/LuaSnip/archive/48a02259693cb7bbbd1092993406773d5ce14664.tar.gz",
+      "hash": "1xcy6gbh2490ppvyhrj2f8nnngpbxbcwvx5ybkivxrxza983x8bw"
     },
     "lz-n": {
       "type": "Git",
@@ -3139,9 +3139,9 @@
         "repo": "render-markdown.nvim"
       },
       "branch": "main",
-      "revision": "d69a885e1bf21cb329d2eafe56fd80b6de627216",
-      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/d69a885e1bf21cb329d2eafe56fd80b6de627216.tar.gz",
-      "hash": "1dj868q41w1sds4lxgn5sj6vx60zv34hbv5svh2nndhsmjsrz7j4"
+      "revision": "78a2eb7fc273f36790aa390262f390a3265eedff",
+      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/78a2eb7fc273f36790aa390262f390a3265eedff.tar.gz",
+      "hash": "09l8wk1irhv4kbp5caw4dp45dam4wasikich8kn6y6fj07w30b9f"
     },
     "rest-nvim": {
       "type": "Git",
