@@ -1112,9 +1112,9 @@
         "repo": "dropbar.nvim"
       },
       "branch": "master",
-      "revision": "e998e4383a84301c0b0aee9f9cf11af7553cb297",
-      "url": "https://github.com/Bekaboo/dropbar.nvim/archive/e998e4383a84301c0b0aee9f9cf11af7553cb297.tar.gz",
-      "hash": "0fnjg1mjda5i9rjgripr5p9nrbyi7clvsllqp7hzljjvwvwy6rsd"
+      "revision": "4714dae1933b57f99e9a0e83b666023ee8591cd6",
+      "url": "https://github.com/Bekaboo/dropbar.nvim/archive/4714dae1933b57f99e9a0e83b666023ee8591cd6.tar.gz",
+      "hash": "155sp381azsz1sbb97fg038kwxysh4c8z6xfrnh8fjgiwivjbrlx"
     },
     "earthly-vim": {
       "type": "Git",
@@ -2935,9 +2935,9 @@
         "repo": "overseer.nvim"
       },
       "branch": "master",
-      "revision": "25a9c6439a37b680ff4b3c02554f4173c197c18b",
-      "url": "https://github.com/stevearc/overseer.nvim/archive/25a9c6439a37b680ff4b3c02554f4173c197c18b.tar.gz",
-      "hash": "0pz0nhlb4cgigyc09fpgrhd5kszd3sdx5s8gxpwhia08smpk0d6d"
+      "revision": "c136856c7556c0eeb0554839ddcd499b02f66832",
+      "url": "https://github.com/stevearc/overseer.nvim/archive/c136856c7556c0eeb0554839ddcd499b02f66832.tar.gz",
+      "hash": "0ln0xx2zqary6gixnz2d4hrwfih25dl7mbz04ls7bvk9zl3ppgzx"
     },
     "oxocarbon-nvim": {
       "type": "Git",
