@@ -3319,9 +3319,9 @@
         "repo": "tagbar"
       },
       "branch": "master",
-      "revision": "1d22809dbe4cd8b833ec4359e53bd843fd29de47",
-      "url": "https://github.com/preservim/tagbar/archive/1d22809dbe4cd8b833ec4359e53bd843fd29de47.tar.gz",
-      "hash": "1x42bk26035vmqv9c81bvmkjj1kg9adc67rb29kpl30lpjkjd4c9"
+      "revision": "5e090da54bf999c657608b6c8ec841ef968d923d",
+      "url": "https://github.com/preservim/tagbar/archive/5e090da54bf999c657608b6c8ec841ef968d923d.tar.gz",
+      "hash": "15r15lpf7nf1axha4fzssffigc561k35i4kfgk63s7zv6p385z0k"
     },
     "telescope-cheat-nvim": {
       "type": "Git",
