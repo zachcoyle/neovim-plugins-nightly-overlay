@@ -1592,9 +1592,9 @@
         "repo": "indent-blankline.nvim"
       },
       "branch": "master",
-      "revision": "796c91f10b2e0c22b518daf5878f700527b8532b",
-      "url": "https://github.com/lukas-reineke/indent-blankline.nvim/archive/796c91f10b2e0c22b518daf5878f700527b8532b.tar.gz",
-      "hash": "1spwkrr22yqkj2sdfwfixdph3m4wgv1sm81f6n1a05czfi6rhh7l"
+      "revision": "7871a88056f7144defca9c931e311a3134c5d509",
+      "url": "https://github.com/lukas-reineke/indent-blankline.nvim/archive/7871a88056f7144defca9c931e311a3134c5d509.tar.gz",
+      "hash": "1di5dk855m90l6lblh97sr2c4w4rwv6k6cs67hhll6r8zj5wsl2r"
     },
     "indent-o-matic": {
       "type": "Git",
@@ -3139,9 +3139,9 @@
         "repo": "render-markdown.nvim"
       },
       "branch": "main",
-      "revision": "3da1bfc4bd3a13fee57551f0b705ebcf2614d7a2",
-      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/3da1bfc4bd3a13fee57551f0b705ebcf2614d7a2.tar.gz",
-      "hash": "1rjnc129c85icp3fkfqd41799sxrzclixb1fib2irb17jysan4fk"
+      "revision": "d69a885e1bf21cb329d2eafe56fd80b6de627216",
+      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/d69a885e1bf21cb329d2eafe56fd80b6de627216.tar.gz",
+      "hash": "1dj868q41w1sds4lxgn5sj6vx60zv34hbv5svh2nndhsmjsrz7j4"
     },
     "rest-nvim": {
       "type": "Git",
