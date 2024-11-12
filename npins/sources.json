@@ -932,9 +932,9 @@
         "repo": "conform.nvim"
       },
       "branch": "master",
-      "revision": "8c354323201d04530727d8bdcc4669791ee082ef",
-      "url": "https://github.com/stevearc/conform.nvim/archive/8c354323201d04530727d8bdcc4669791ee082ef.tar.gz",
-      "hash": "006bmh299ni1h33gr9kpvf0gajdygswa04wq95vhgwvcx15qwzlb"
+      "revision": "1a7ff54dcfbe1af139b11829c6d58f5ffab87707",
+      "url": "https://github.com/stevearc/conform.nvim/archive/1a7ff54dcfbe1af139b11829c6d58f5ffab87707.tar.gz",
+      "hash": "1gid1ms9g959wag2lzxvb544xhjrd9zpic2i022a6npfs7jf0f6q"
     },
     "conjure": {
       "type": "Git",
@@ -3871,9 +3871,9 @@
         "repo": "vim-godot"
       },
       "branch": "master",
-      "revision": "d21e110ee09b5030e55adda660a4ff58db40a329",
-      "url": "https://github.com/habamax/vim-godot/archive/d21e110ee09b5030e55adda660a4ff58db40a329.tar.gz",
-      "hash": "0fx6j7q9cyspghpnv9iy4ba99pcyjkq23rbyrd95i5dxlhzgj5q3"
+      "revision": "1c8385789f7f4558bdbbf6e75033b34b4727944b",
+      "url": "https://github.com/habamax/vim-godot/archive/1c8385789f7f4558bdbbf6e75033b34b4727944b.tar.gz",
+      "hash": "1jql0s2lnch6fn5iiv0fav2dyw9dhgw9p4rzwifsw37jhzkvv9xs"
     },
     "vim-helm": {
       "type": "Git",
