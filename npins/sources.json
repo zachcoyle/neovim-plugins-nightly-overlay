@@ -1999,9 +1999,9 @@
         "repo": "neogen"
       },
       "branch": "main",
-      "revision": "e932ba918b56723436b77aa3efb844a11b2851ab",
-      "url": "https://github.com/danymat/neogen/archive/e932ba918b56723436b77aa3efb844a11b2851ab.tar.gz",
-      "hash": "1mwa20fvj6k7jzaw0lv0h2b9hr62i48i487mrxqf2nnwxiad7xfk"
+      "revision": "e3b8f6dca1c67c73ae2817418d39c061fdb65064",
+      "url": "https://github.com/danymat/neogen/archive/e3b8f6dca1c67c73ae2817418d39c061fdb65064.tar.gz",
+      "hash": "0gxw0ya2hhha05nrvxxqygyi3p2fxv3lw2ysx2c6nn9sd83yncgq"
     },
     "neogit": {
       "type": "Git",
@@ -2875,9 +2875,9 @@
         "repo": "oil.nvim"
       },
       "branch": "master",
-      "revision": "c23fe08e0546d9efc242e19f0d829efa7e7b2743",
-      "url": "https://github.com/stevearc/oil.nvim/archive/c23fe08e0546d9efc242e19f0d829efa7e7b2743.tar.gz",
-      "hash": "0gk9wsrcl5ksk3l7rbppij039xz96iriqsarb9ag3l4f8xbb2n8q"
+      "revision": "8735d185b37457bd899cd4e47a4517b899407949",
+      "url": "https://github.com/stevearc/oil.nvim/archive/8735d185b37457bd899cd4e47a4517b899407949.tar.gz",
+      "hash": "07wq5hgllbw8fchwvh4fwyqsijbga8b4xyl9jr19skx0q3y1cw2c"
     },
     "ollama-nvim": {
       "type": "Git",
