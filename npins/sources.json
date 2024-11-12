@@ -308,9 +308,9 @@
         "repo": "cmake-tools.nvim"
       },
       "branch": "master",
-      "revision": "15a095c151364baa4cddc553f121e8df087983a6",
-      "url": "https://github.com/Civitasv/cmake-tools.nvim/archive/15a095c151364baa4cddc553f121e8df087983a6.tar.gz",
-      "hash": "1zd0pvlgv4nn6c2f1vvnv3f7wrap6bb6bzz8v5jm4fy5zlcminyw"
+      "revision": "53bc5261e1e0b0d28be465d2b2b07a6f0646e1eb",
+      "url": "https://github.com/Civitasv/cmake-tools.nvim/archive/53bc5261e1e0b0d28be465d2b2b07a6f0646e1eb.tar.gz",
+      "hash": "15z0zla1af3sp1hafhjhn82pglsdlaqd1iawif2mk9b2ij5r2z82"
     },
     "cmp-async-path": {
       "type": "Git",
@@ -1819,9 +1819,9 @@
         "repo": "LuaSnip"
       },
       "branch": "master",
-      "revision": "48a02259693cb7bbbd1092993406773d5ce14664",
-      "url": "https://github.com/L3MON4D3/LuaSnip/archive/48a02259693cb7bbbd1092993406773d5ce14664.tar.gz",
-      "hash": "1xcy6gbh2490ppvyhrj2f8nnngpbxbcwvx5ybkivxrxza983x8bw"
+      "revision": "659c4479529a05cc9b05ef762639a09d366cc690",
+      "url": "https://github.com/L3MON4D3/LuaSnip/archive/659c4479529a05cc9b05ef762639a09d366cc690.tar.gz",
+      "hash": "1x080hp7m316l9af9bjfq3mlnr93jv1m35hffh1yiricld6na60h"
     },
     "lz-n": {
       "type": "Git",
@@ -4207,9 +4207,9 @@
         "repo": "yanky.nvim"
       },
       "branch": "main",
-      "revision": "73215b77d22ebb179cef98e7e1235825431d10e4",
-      "url": "https://github.com/gbprod/yanky.nvim/archive/73215b77d22ebb179cef98e7e1235825431d10e4.tar.gz",
-      "hash": "03qdr72nssiwm12fmvmi3x579d4rxkfhscphsr107l3widc5a7j0"
+      "revision": "a86d33912017878a4cb18758cd863dd335873bf8",
+      "url": "https://github.com/gbprod/yanky.nvim/archive/a86d33912017878a4cb18758cd863dd335873bf8.tar.gz",
+      "hash": "00p189rwvjank92dzc6j13fbj0zsn7z1nsa74bgsh9z5bs20ycy6"
     },
     "yazi-nvim": {
       "type": "Git",
