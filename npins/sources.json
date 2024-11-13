@@ -1100,9 +1100,9 @@
         "repo": "dressing.nvim"
       },
       "branch": "master",
-      "revision": "43b8f74e0b1e3f41e51f640f8efa3bcd401cea0d",
-      "url": "https://github.com/stevearc/dressing.nvim/archive/43b8f74e0b1e3f41e51f640f8efa3bcd401cea0d.tar.gz",
-      "hash": "0ha8fiyblv0yy61lqgd7rrfsgpcy3j40ga0ghiszbp9cmr4j1fhf"
+      "revision": "fc78a3ca96f4db9f8893bb7e2fd9823e0780451b",
+      "url": "https://github.com/stevearc/dressing.nvim/archive/fc78a3ca96f4db9f8893bb7e2fd9823e0780451b.tar.gz",
+      "hash": "0zvjnzj3y3q6c67mjah97g34rac2d7q23fbhkqjpfhlr9z2isjrv"
     },
     "dropbar-nvim": {
       "type": "Git",
