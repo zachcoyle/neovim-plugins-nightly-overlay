@@ -932,9 +932,9 @@
         "repo": "conform.nvim"
       },
       "branch": "master",
-      "revision": "1a7ff54dcfbe1af139b11829c6d58f5ffab87707",
-      "url": "https://github.com/stevearc/conform.nvim/archive/1a7ff54dcfbe1af139b11829c6d58f5ffab87707.tar.gz",
-      "hash": "1gid1ms9g959wag2lzxvb544xhjrd9zpic2i022a6npfs7jf0f6q"
+      "revision": "023f795dbcf32d4351b6a9ed2e613d471b5bb812",
+      "url": "https://github.com/stevearc/conform.nvim/archive/023f795dbcf32d4351b6a9ed2e613d471b5bb812.tar.gz",
+      "hash": "1my0wda7786yf634pz0m84lii71dk9442l4jlzhjimlxai517rs5"
     },
     "conjure": {
       "type": "Git",
@@ -2875,9 +2875,9 @@
         "repo": "oil.nvim"
       },
       "branch": "master",
-      "revision": "8735d185b37457bd899cd4e47a4517b899407949",
-      "url": "https://github.com/stevearc/oil.nvim/archive/8735d185b37457bd899cd4e47a4517b899407949.tar.gz",
-      "hash": "07wq5hgllbw8fchwvh4fwyqsijbga8b4xyl9jr19skx0q3y1cw2c"
+      "revision": "0472d9296ace2d57769eb3e022a918803f096ea4",
+      "url": "https://github.com/stevearc/oil.nvim/archive/0472d9296ace2d57769eb3e022a918803f096ea4.tar.gz",
+      "hash": "05vw8dhvxsg5s3q2bfk3qdjgwhyghzwzryxmc2fp851nm7adhln6"
     },
     "ollama-nvim": {
       "type": "Git",
@@ -3643,9 +3643,9 @@
         "repo": "tokyonight.nvim"
       },
       "branch": "main",
-      "revision": "ce91ba480070c95f40753e4663e32b4632ac6db3",
-      "url": "https://github.com/folke/tokyonight.nvim/archive/ce91ba480070c95f40753e4663e32b4632ac6db3.tar.gz",
-      "hash": "1dv0a17grpmgg2vqch5wysh2rkfvmfldazcclhqk2w0asl5s8i06"
+      "revision": "9758827c3b380ba89da4a2212b6255d01afbcf08",
+      "url": "https://github.com/folke/tokyonight.nvim/archive/9758827c3b380ba89da4a2212b6255d01afbcf08.tar.gz",
+      "hash": "1hdy7fc9qyydhqf232jrg4d3ip63a89mgfsl8swzsa5brw39yjd8"
     },
     "transparent-nvim": {
       "type": "Git",
@@ -4219,9 +4219,9 @@
         "repo": "yazi.nvim"
       },
       "branch": "main",
-      "revision": "caaebf12464d80d479be497c97d92c1c71b16e94",
-      "url": "https://github.com/mikavilpas/yazi.nvim/archive/caaebf12464d80d479be497c97d92c1c71b16e94.tar.gz",
-      "hash": "12gaxx3cmk40idslgxjq7l5mx7jh2gyfdhfpv0rngkqxgcv0s485"
+      "revision": "d83466fc9dd0fb9b84ad95faa87de610cfd01754",
+      "url": "https://github.com/mikavilpas/yazi.nvim/archive/d83466fc9dd0fb9b84ad95faa87de610cfd01754.tar.gz",
+      "hash": "0h71i3cx62mslvfyd4a1kgkjn02pbifyl549z5fm7y7h8qn0v0fa"
     },
     "yuck-vim": {
       "type": "Git",
