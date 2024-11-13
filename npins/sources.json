@@ -3799,9 +3799,9 @@
         "repo": "vim-dadbod-ui"
       },
       "branch": "master",
-      "revision": "f29c85ab42861c6ef683289b0c6a51e0d436dcf6",
-      "url": "https://github.com/kristijanhusak/vim-dadbod-ui/archive/f29c85ab42861c6ef683289b0c6a51e0d436dcf6.tar.gz",
-      "hash": "04k271jzbgfxfr3c88fgkpfrgwaxqzdy45yw9sximwpgbayky1ls"
+      "revision": "39a5d69ff786ca43ca3785857c38e4e0515c6bf8",
+      "url": "https://github.com/kristijanhusak/vim-dadbod-ui/archive/39a5d69ff786ca43ca3785857c38e4e0515c6bf8.tar.gz",
+      "hash": "1dhav2d5jh1xpki5g7xg4cyrmx8sn2pjlybbf50rz1bc4hnqabjj"
     },
     "vim-devicons": {
       "type": "Git",
