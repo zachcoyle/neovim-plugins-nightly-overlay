@@ -1472,9 +1472,9 @@
         "repo": "heirline.nvim"
       },
       "branch": "master",
-      "revision": "7a79753c1a42c3f52e89a6c42429e7f871e560cd",
-      "url": "https://github.com/rebelot/heirline.nvim/archive/7a79753c1a42c3f52e89a6c42429e7f871e560cd.tar.gz",
-      "hash": "065llk3pbmyrgapa2k835rcf2k7s7b8qfx94jcbqg8v30r6s6ah3"
+      "revision": "cc359b628266cb9a84b2d71c883f2b99e16473a0",
+      "url": "https://github.com/rebelot/heirline.nvim/archive/cc359b628266cb9a84b2d71c883f2b99e16473a0.tar.gz",
+      "hash": "0gymrk7jjf6pi3nalyckcdyq28z8fkhi4a6wmqm3wqm2by1q5r4v"
     },
     "helpview-nvim": {
       "type": "Git",
