@@ -1951,9 +1951,9 @@
         "repo": "molten-nvim"
       },
       "branch": "main",
-      "revision": "bb3e3b29a7cb77919901f362b8e5c65e6519a683",
-      "url": "https://github.com/benlubas/molten-nvim/archive/bb3e3b29a7cb77919901f362b8e5c65e6519a683.tar.gz",
-      "hash": "1yvidyp8kxjagddnhjadj6l4ljj78kvccr737r2kjvjzallzjm8l"
+      "revision": "2f549c823b5564c87edb645bfc039a406c650e40",
+      "url": "https://github.com/benlubas/molten-nvim/archive/2f549c823b5564c87edb645bfc039a406c650e40.tar.gz",
+      "hash": "1gp6y58br1bnp8hvp7kpb7i9kxmhgcr8501fanj0dr66gz69yzj0"
     },
     "multicursors-nvim": {
       "type": "Git",
@@ -2935,9 +2935,9 @@
         "repo": "overseer.nvim"
       },
       "branch": "master",
-      "revision": "ebaa10bbbff937ba4aeb29bbc8675875da6973cb",
-      "url": "https://github.com/stevearc/overseer.nvim/archive/ebaa10bbbff937ba4aeb29bbc8675875da6973cb.tar.gz",
-      "hash": "1r206frxvlgi1j3qw2yczbpqcr185l5mgh8zqlq6m4q0hw0506ik"
+      "revision": "e734140137cdd25b4c31c0fb9bf22faa9c115dcc",
+      "url": "https://github.com/stevearc/overseer.nvim/archive/e734140137cdd25b4c31c0fb9bf22faa9c115dcc.tar.gz",
+      "hash": "02paxcsmgjvy9zi1g5y2hp683v5d9z5bb0hn0f5sn1fzb9ly8sng"
     },
     "oxocarbon-nvim": {
       "type": "Git",
