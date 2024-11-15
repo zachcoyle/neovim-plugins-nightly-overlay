@@ -1004,9 +1004,9 @@
         "repo": "coq_nvim"
       },
       "branch": "coq",
-      "revision": "8c5c2ac9aa3cd67c68ded818023ce785535ea119",
-      "url": "https://github.com/ms-jpq/coq_nvim/archive/8c5c2ac9aa3cd67c68ded818023ce785535ea119.tar.gz",
-      "hash": "0b3i871799j5cp7z5k1zx0xcc24300shcw85jn6m5wrvragni7fy"
+      "revision": "5f8e6319be01fba0d9da296ebd07b774e68d7f20",
+      "url": "https://github.com/ms-jpq/coq_nvim/archive/5f8e6319be01fba0d9da296ebd07b774e68d7f20.tar.gz",
+      "hash": "0lrj41qjk14wi7hd77yfm5m9rry86dc2yrb4v4q6y3d3qj8qh7vx"
     },
     "crates-nvim": {
       "type": "Git",
@@ -1688,9 +1688,9 @@
         "repo": "lean.nvim"
       },
       "branch": "main",
-      "revision": "9b6a31e6163dd37eefb7c080d4a017458a445c92",
-      "url": "https://github.com/Julian/lean.nvim/archive/9b6a31e6163dd37eefb7c080d4a017458a445c92.tar.gz",
-      "hash": "0l01rp6kfgiwna5r3ahhqw3ycz0djvxd39ssngj1lkwjx910cari"
+      "revision": "97ab9af0e3b90b240ac2129857c557348c9a9580",
+      "url": "https://github.com/Julian/lean.nvim/archive/97ab9af0e3b90b240ac2129857c557348c9a9580.tar.gz",
+      "hash": "0jcxjc8vr1wi2x0813lqhckn9gm4vi6rca59i1226mhy7zpkszlp"
     },
     "leap-nvim": {
       "type": "Git",
