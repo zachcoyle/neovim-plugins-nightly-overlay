@@ -2923,9 +2923,9 @@
         "repo": "orgmode"
       },
       "branch": "master",
-      "revision": "fafb8f14d85a68d8f0fca812444cc0fd594f0168",
-      "url": "https://github.com/nvim-orgmode/orgmode/archive/fafb8f14d85a68d8f0fca812444cc0fd594f0168.tar.gz",
-      "hash": "149fd4hyng6g3phg3d3fl3fbwkg5yv9kkzdw80jxm329x63fmps6"
+      "revision": "1d8c9b9417f8c8e9fb146d4f54fb1e90a4f7e534",
+      "url": "https://github.com/nvim-orgmode/orgmode/archive/1d8c9b9417f8c8e9fb146d4f54fb1e90a4f7e534.tar.gz",
+      "hash": "012jzd53s1si62r4qa3vada116nspd5xaw8n6xvxi1ahrhk6x8mq"
     },
     "overseer-nvim": {
       "type": "Git",
@@ -4099,9 +4099,9 @@
         "repo": "vim-wakatime"
       },
       "branch": "master",
-      "revision": "f699e30ca1ba0c7f316847316fd0ba19d3ee51c1",
-      "url": "https://github.com/wakatime/vim-wakatime/archive/f699e30ca1ba0c7f316847316fd0ba19d3ee51c1.tar.gz",
-      "hash": "0v21r1yj6s28vhqym200n33qgdrjwxjrpzjzkax81cbmmp6a6fbc"
+      "revision": "cf51327a9e08935569614d1cb24e779ee9f45519",
+      "url": "https://github.com/wakatime/vim-wakatime/archive/cf51327a9e08935569614d1cb24e779ee9f45519.tar.gz",
+      "hash": "10d59w48h1n744l9w406msghncdl7i2nxg98dsd8siy6mycb5d2b"
     },
     "vim-which-key": {
       "type": "Git",
