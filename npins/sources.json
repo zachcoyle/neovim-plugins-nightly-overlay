@@ -1004,9 +1004,9 @@
         "repo": "coq_nvim"
       },
       "branch": "coq",
-      "revision": "b952006259f7ca4a9406627713e05017d9260aab",
-      "url": "https://github.com/ms-jpq/coq_nvim/archive/b952006259f7ca4a9406627713e05017d9260aab.tar.gz",
-      "hash": "17kkw4z4srnyyy8qlwpirvjhyi20k8gya8y9ff5dirci6qlqhwr4"
+      "revision": "a25baafdf9f1b1a6f9e847bc9da087e18cd31865",
+      "url": "https://github.com/ms-jpq/coq_nvim/archive/a25baafdf9f1b1a6f9e847bc9da087e18cd31865.tar.gz",
+      "hash": "00cvn7vyjr5b3bharygcvv33269x59lv0qk3fcmwi2siss4fhrqn"
     },
     "crates-nvim": {
       "type": "Git",
@@ -2527,9 +2527,9 @@
         "repo": "nvim-dap"
       },
       "branch": "master",
-      "revision": "6bf4de67dbe90271608e1c81797e5edc79ec6335",
-      "url": "https://github.com/mfussenegger/nvim-dap/archive/6bf4de67dbe90271608e1c81797e5edc79ec6335.tar.gz",
-      "hash": "066430wxdg0vqav2s2p60i6fbmlbv9nqmx6c4gk4hcmxikdmx5ii"
+      "revision": "29d1f8814fa4fcc194ec574de998a42a22ebbe4a",
+      "url": "https://github.com/mfussenegger/nvim-dap/archive/29d1f8814fa4fcc194ec574de998a42a22ebbe4a.tar.gz",
+      "hash": "1jcyg0k1vi053nif6r46bxjyn3p59x91k76rk9h4slvbzdv6wiwm"
     },
     "nvim-dap-virtual-text": {
       "type": "Git",
