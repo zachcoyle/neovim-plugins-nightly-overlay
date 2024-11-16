@@ -896,9 +896,9 @@
         "repo": "competitest.nvim"
       },
       "branch": "master",
-      "revision": "20ce9ba1b2f7502291a23ad06096e6650917f0c2",
-      "url": "https://github.com/xeluxee/competitest.nvim/archive/20ce9ba1b2f7502291a23ad06096e6650917f0c2.tar.gz",
-      "hash": "0a4s1i294nm27n23crx0sqwzac8q8cnz9ddwmdh01fbk9i7w1ffr"
+      "revision": "e397635d212605a3fa0e2d06f3e6209085189e3f",
+      "url": "https://github.com/xeluxee/competitest.nvim/archive/e397635d212605a3fa0e2d06f3e6209085189e3f.tar.gz",
+      "hash": "16wpq64zm2n708lqd2hbrjizd30v2fdazpmaqnjsp3ws5laghyvy"
     },
     "compiler-nvim": {
       "type": "Git",
@@ -2383,9 +2383,9 @@
         "repo": "noice.nvim"
       },
       "branch": "main",
-      "revision": "6e0c8dcc61282782ac7fa4b9b4b0c910fd3f83d9",
-      "url": "https://github.com/folke/noice.nvim/archive/6e0c8dcc61282782ac7fa4b9b4b0c910fd3f83d9.tar.gz",
-      "hash": "0cqq351v6bcs48rk5kwrmhpq6rhi35l6n5qbclpvdxjkg6b0kbhk"
+      "revision": "221ffbc499d322699ea079fcd878a2399529e775",
+      "url": "https://github.com/folke/noice.nvim/archive/221ffbc499d322699ea079fcd878a2399529e775.tar.gz",
+      "hash": "0hc9pkjx5pfgvngf5xsr6zk0km7ywj6287qnq0l77ff5radysj5d"
     },
     "none-ls-nvim": {
       "type": "Git",
