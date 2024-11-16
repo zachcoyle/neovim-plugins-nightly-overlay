@@ -116,9 +116,9 @@
         "repo": "avante.nvim"
       },
       "branch": "main",
-      "revision": "8bbcd64550fa4c5c709e9e5e1bf415e701b8f04e",
-      "url": "https://github.com/yetone/avante.nvim/archive/8bbcd64550fa4c5c709e9e5e1bf415e701b8f04e.tar.gz",
-      "hash": "1jf9yl1cs9847giz3j3gyxsxrlhxjdbj341kqh5z24662hm9046k"
+      "revision": "4acdcb6e8b262c68afa1e507ab985f38cb292207",
+      "url": "https://github.com/yetone/avante.nvim/archive/4acdcb6e8b262c68afa1e507ab985f38cb292207.tar.gz",
+      "hash": "1k29fllm3rdydlszdnv2idnd3a12dfqmdb8kilbmmds8x8cgvn1y"
     },
     "baleia-nvim": {
       "type": "Git",
@@ -1915,9 +1915,9 @@
         "repo": "mini.nvim"
       },
       "branch": "main",
-      "revision": "7b4d5d48b6b5a75009d63f8f3e4ef4819b7e8139",
-      "url": "https://github.com/echasnovski/mini.nvim/archive/7b4d5d48b6b5a75009d63f8f3e4ef4819b7e8139.tar.gz",
-      "hash": "1kxpvi3flyxr1zyn2akhd7c3gf1ayq1fzn97czpvkp8af459xm2w"
+      "revision": "eaa3bdb00d1070df7b7f14198a62b05f7dda7b27",
+      "url": "https://github.com/echasnovski/mini.nvim/archive/eaa3bdb00d1070df7b7f14198a62b05f7dda7b27.tar.gz",
+      "hash": "0d5zdhh4cr13m2n2b2y5wb2kf5jhxlfrg50dvlgb6ib5yripsnyb"
     },
     "mkdnflow-nvim": {
       "type": "Git",
