@@ -812,9 +812,9 @@
         "repo": "cmp_yanky"
       },
       "branch": "main",
-      "revision": "38c3cc53f6d0ae748a8f737a2ee20cea39fd93da",
-      "url": "https://github.com/chrisgrieser/cmp_yanky/archive/38c3cc53f6d0ae748a8f737a2ee20cea39fd93da.tar.gz",
-      "hash": "1vl8gql3hrsndaw0849jdb30idz4y365pval6gb78qyyqp2zcwyd"
+      "revision": "042cbc4ffc62fcc75d9f0c8d9252fde770ac6bd0",
+      "url": "https://github.com/chrisgrieser/cmp_yanky/archive/042cbc4ffc62fcc75d9f0c8d9252fde770ac6bd0.tar.gz",
+      "hash": "0ay1rhi7kkgcp1wgvwf36cg8xzz2wzm5yq7f9j7a1ds8hm5m6l3z"
     },
     "codeium-nvim": {
       "type": "Git",
@@ -1915,9 +1915,9 @@
         "repo": "mini.nvim"
       },
       "branch": "main",
-      "revision": "c520765241541e0c7d4bc6fd4a716f706b0d5de7",
-      "url": "https://github.com/echasnovski/mini.nvim/archive/c520765241541e0c7d4bc6fd4a716f706b0d5de7.tar.gz",
-      "hash": "18h6zr5xrx969i6hcyj9nskgqwin8lcbm40zpx85d0aq0ansy29g"
+      "revision": "b07157c51e52a1b004ec7959f9618e9bc24686d3",
+      "url": "https://github.com/echasnovski/mini.nvim/archive/b07157c51e52a1b004ec7959f9618e9bc24686d3.tar.gz",
+      "hash": "1kc14cw0zwzfzrq73ip6nnirmj13acf73vgsicrp1igxscagzgnd"
     },
     "mkdnflow-nvim": {
       "type": "Git",
@@ -2719,9 +2719,9 @@
         "repo": "nvim-spider"
       },
       "branch": "main",
-      "revision": "f35bcdbd89a560e9a450ee1929bcef7aedf3ace5",
-      "url": "https://github.com/chrisgrieser/nvim-spider/archive/f35bcdbd89a560e9a450ee1929bcef7aedf3ace5.tar.gz",
-      "hash": "01q5jdh5xwzly5m5878aaqc200cw33k1d3b4l76axfxvjc6z60y3"
+      "revision": "485215c02335901ddf4a5dfd7b05d77d3c5ac901",
+      "url": "https://github.com/chrisgrieser/nvim-spider/archive/485215c02335901ddf4a5dfd7b05d77d3c5ac901.tar.gz",
+      "hash": "0ji4chq1ark6z6mg58bxrxji611mkw0l8l0g1wm3x3yig874pgl6"
     },
     "nvim-surround": {
       "type": "Git",
