@@ -2599,9 +2599,9 @@
         "repo": "nvim-lspconfig"
       },
       "branch": "master",
-      "revision": "d875cb79973d403b10e02d0df4df0cf42428987c",
-      "url": "https://github.com/neovim/nvim-lspconfig/archive/d875cb79973d403b10e02d0df4df0cf42428987c.tar.gz",
-      "hash": "1kymzzp3iig13vkpqgm0rprvg2cdw1k8wwgc2sb7knrij8rc994i"
+      "revision": "f012c1b176f0e3c71f40eb309bdec0316689462e",
+      "url": "https://github.com/neovim/nvim-lspconfig/archive/f012c1b176f0e3c71f40eb309bdec0316689462e.tar.gz",
+      "hash": "1lxfsgbmd0wmrdvkd21plg6vjf0jsghqy6985n5qzbd66dv94frx"
     },
     "nvim-navbuddy": {
       "type": "Git",
@@ -2863,9 +2863,9 @@
         "repo": "octo.nvim"
       },
       "branch": "master",
-      "revision": "3f9f945401f4dbbeb7ecee5a5585e26ef743105c",
-      "url": "https://github.com/pwntester/octo.nvim/archive/3f9f945401f4dbbeb7ecee5a5585e26ef743105c.tar.gz",
-      "hash": "1mr6rh0h6g2gbdh9xhy6335jarfnpy3qa9fy4ga3r50l4rr5s9k8"
+      "revision": "51f18085561805732e0306cf7300f773ec86872c",
+      "url": "https://github.com/pwntester/octo.nvim/archive/51f18085561805732e0306cf7300f773ec86872c.tar.gz",
+      "hash": "1w1z43m1r6imcmbxgwd40895bkkaqs19826f2higj8plp59x6bx3"
     },
     "oil-nvim": {
       "type": "Git",
