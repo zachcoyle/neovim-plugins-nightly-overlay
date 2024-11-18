@@ -3715,9 +3715,9 @@
         "repo": "typescript-tools.nvim"
       },
       "branch": "master",
-      "revision": "f8c2e0b36b651c85f52ad5c5373ff8b07adc15a7",
-      "url": "https://github.com/pmizio/typescript-tools.nvim/archive/f8c2e0b36b651c85f52ad5c5373ff8b07adc15a7.tar.gz",
-      "hash": "1ha0mmzqhmhrs2y0llrqfnsq46p9xrdn9cx7an1mimnz4xwgyqgi"
+      "revision": "1edc5dcba8cb46e71feddde91c9c3d4bce77bec5",
+      "url": "https://github.com/pmizio/typescript-tools.nvim/archive/1edc5dcba8cb46e71feddde91c9c3d4bce77bec5.tar.gz",
+      "hash": "1vwbrnimp1vnvprbvqbwfn5f97saxcni6b049i9zzw0qhfc96vac"
     },
     "typst-vim": {
       "type": "Git",
