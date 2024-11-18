@@ -1915,9 +1915,9 @@
         "repo": "mini.nvim"
       },
       "branch": "main",
-      "revision": "b07157c51e52a1b004ec7959f9618e9bc24686d3",
-      "url": "https://github.com/echasnovski/mini.nvim/archive/b07157c51e52a1b004ec7959f9618e9bc24686d3.tar.gz",
-      "hash": "1kc14cw0zwzfzrq73ip6nnirmj13acf73vgsicrp1igxscagzgnd"
+      "revision": "6714e738555b1cfbef646a23af29aa113f91f4fe",
+      "url": "https://github.com/echasnovski/mini.nvim/archive/6714e738555b1cfbef646a23af29aa113f91f4fe.tar.gz",
+      "hash": "0lm9n13a71jfxl9z94zzrj7vs0rs6xvqc5yfp490y6fcynvryrmw"
     },
     "mkdnflow-nvim": {
       "type": "Git",
@@ -2491,9 +2491,9 @@
         "repo": "nvim-colorizer.lua"
       },
       "branch": "master",
-      "revision": "f134063618a65cad4d7415fddbd96ff7e0c5b4ae",
-      "url": "https://github.com/NvChad/nvim-colorizer.lua/archive/f134063618a65cad4d7415fddbd96ff7e0c5b4ae.tar.gz",
-      "hash": "1chwg1pbiykpp9d96zvis7xlvqk5jh507brdw6z5d5gc9h6x6fcc"
+      "revision": "22a3b4c70641802587a6a0994894225e7815398b",
+      "url": "https://github.com/NvChad/nvim-colorizer.lua/archive/22a3b4c70641802587a6a0994894225e7815398b.tar.gz",
+      "hash": "16fg83zpal4qh7bqvggv3n36hmf4xc4ki83qqzv0g58islfj0qra"
     },
     "nvim-coverage": {
       "type": "Git",
@@ -3199,9 +3199,9 @@
         "repo": "smart-splits.nvim"
       },
       "branch": "master",
-      "revision": "ea4702652cb1d18811d60f2e206787602a2e946c",
-      "url": "https://github.com/mrjones2014/smart-splits.nvim/archive/ea4702652cb1d18811d60f2e206787602a2e946c.tar.gz",
-      "hash": "07im00a9ff9b6qj6m6r2vvpjr0qw93xgqk7bba0fdv7ws3ivzmmw"
+      "revision": "5910b386aca2ea7adb63812ba43815b1d97b37ad",
+      "url": "https://github.com/mrjones2014/smart-splits.nvim/archive/5910b386aca2ea7adb63812ba43815b1d97b37ad.tar.gz",
+      "hash": "08dqsjxvpd6l1vq6pyvy4s4k6czy7bgzl1xbi1yp9sncigsgd9wc"
     },
     "smartcolumn-nvim": {
       "type": "Git",
