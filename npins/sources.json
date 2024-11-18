@@ -2383,9 +2383,9 @@
         "repo": "noice.nvim"
       },
       "branch": "main",
-      "revision": "221ffbc499d322699ea079fcd878a2399529e775",
-      "url": "https://github.com/folke/noice.nvim/archive/221ffbc499d322699ea079fcd878a2399529e775.tar.gz",
-      "hash": "0hc9pkjx5pfgvngf5xsr6zk0km7ywj6287qnq0l77ff5radysj5d"
+      "revision": "2626b4a49340e4eae24a388468ac98680fc24532",
+      "url": "https://github.com/folke/noice.nvim/archive/2626b4a49340e4eae24a388468ac98680fc24532.tar.gz",
+      "hash": "1kzp0lkmz0cd2q6qii0xz8bx988h0vaa3jqbz3xbshq6yaf6llmk"
     },
     "none-ls-nvim": {
       "type": "Git",
@@ -3139,9 +3139,9 @@
         "repo": "render-markdown.nvim"
       },
       "branch": "main",
-      "revision": "82184c4a3c3580a7a859b2cb7e58f16c10fd29ef",
-      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/82184c4a3c3580a7a859b2cb7e58f16c10fd29ef.tar.gz",
-      "hash": "1j9g1bcxlw3lx8pid07h9jsx0k1wahx18rkda8vwba2d6xp7c6zk"
+      "revision": "48a52dd5c847c59eac6ae5b96ff0123acd1a394d",
+      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/48a52dd5c847c59eac6ae5b96ff0123acd1a394d.tar.gz",
+      "hash": "0bhxhph135y0wy9k877zb3qdxn43dpyj9vqx0d6lwckbr5n9h03l"
     },
     "rest-nvim": {
       "type": "Git",
