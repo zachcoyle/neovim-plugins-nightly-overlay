@@ -2527,9 +2527,9 @@
         "repo": "nvim-dap"
       },
       "branch": "master",
-      "revision": "29d1f8814fa4fcc194ec574de998a42a22ebbe4a",
-      "url": "https://github.com/mfussenegger/nvim-dap/archive/29d1f8814fa4fcc194ec574de998a42a22ebbe4a.tar.gz",
-      "hash": "1jcyg0k1vi053nif6r46bxjyn3p59x91k76rk9h4slvbzdv6wiwm"
+      "revision": "cc92b054720a96170eca6bd9bdedd43d2b0a7a8a",
+      "url": "https://github.com/mfussenegger/nvim-dap/archive/cc92b054720a96170eca6bd9bdedd43d2b0a7a8a.tar.gz",
+      "hash": "12c6c9m2p3lbg7b49mzid91yk64p3jnvdj8lmydk4wy5vlcm8k8h"
     },
     "nvim-dap-virtual-text": {
       "type": "Git",
@@ -2587,9 +2587,9 @@
         "repo": "nvim-lint"
       },
       "branch": "master",
-      "revision": "36da8dd0ddc4f88e0beae234c20e75397326f143",
-      "url": "https://github.com/mfussenegger/nvim-lint/archive/36da8dd0ddc4f88e0beae234c20e75397326f143.tar.gz",
-      "hash": "0f51lxbwqwns60gb32g6ck1vmd6ap5f396v7im0r4v17rx2k5fxw"
+      "revision": "8e9562de7261e5b862c631958df616e1a65552cd",
+      "url": "https://github.com/mfussenegger/nvim-lint/archive/8e9562de7261e5b862c631958df616e1a65552cd.tar.gz",
+      "hash": "13x9s3gj223salynz6yilpm5d58fpsfmsp03p2mcvk3l68d74bqc"
     },
     "nvim-lspconfig": {
       "type": "Git",
