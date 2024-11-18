@@ -92,9 +92,9 @@
         "repo": "auto-session"
       },
       "branch": "main",
-      "revision": "542d338ec5ee027638c8e076110b188a465b45d2",
-      "url": "https://github.com/rmagatti/auto-session/archive/542d338ec5ee027638c8e076110b188a465b45d2.tar.gz",
-      "hash": "1v7gkbir6zm69h9annaln54i8qrpack9qxm44jz0sjjvrrqd4ni2"
+      "revision": "8d2eddb14ef66ed1019c92251e2d31bb7a2a2f87",
+      "url": "https://github.com/rmagatti/auto-session/archive/8d2eddb14ef66ed1019c92251e2d31bb7a2a2f87.tar.gz",
+      "hash": "1mkrxc7smp56dqzayl2h8ls6p2ymwrpdr1dccdlli2mkv8wcwa9z"
     },
     "autoclose-nvim": {
       "type": "Git",
@@ -116,9 +116,9 @@
         "repo": "avante.nvim"
       },
       "branch": "main",
-      "revision": "cf2312abbca9838d68134d58e18a765671157176",
-      "url": "https://github.com/yetone/avante.nvim/archive/cf2312abbca9838d68134d58e18a765671157176.tar.gz",
-      "hash": "1rki6wnq7rmcfypckrlh376gzlr9g7m56q9clvbh91w4bw1djlyz"
+      "revision": "e65be50a0a2c64f40ded872f68c6413e7cd49926",
+      "url": "https://github.com/yetone/avante.nvim/archive/e65be50a0a2c64f40ded872f68c6413e7cd49926.tar.gz",
+      "hash": "0k2pwpmfzvgn8ska84sq92kii3l3bpswgpjdvr68vhwl5xh1ykka"
     },
     "baleia-nvim": {
       "type": "Git",
