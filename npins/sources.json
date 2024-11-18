@@ -2755,9 +2755,9 @@
         "repo": "nvim-treesitter"
       },
       "branch": "master",
-      "revision": "1c0cbdef44a2cc35c6436e0866a2a5282b339ffd",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/1c0cbdef44a2cc35c6436e0866a2a5282b339ffd.tar.gz",
-      "hash": "15zf8gq082b7mrkzlkh2r91245b575dp2dk94k3n0w77l1fda7ss"
+      "revision": "20b86032f005a71c0492644cc0c80347060b0f1d",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/20b86032f005a71c0492644cc0c80347060b0f1d.tar.gz",
+      "hash": "06wv9ck9aqv450gx2r2767zpqfwg0zslz028i0cxhvbpqw7rrp6f"
     },
     "nvim-treesitter-context": {
       "type": "Git",
@@ -3139,9 +3139,9 @@
         "repo": "render-markdown.nvim"
       },
       "branch": "main",
-      "revision": "48a52dd5c847c59eac6ae5b96ff0123acd1a394d",
-      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/48a52dd5c847c59eac6ae5b96ff0123acd1a394d.tar.gz",
-      "hash": "0bhxhph135y0wy9k877zb3qdxn43dpyj9vqx0d6lwckbr5n9h03l"
+      "revision": "7f0143e9adf7140c8e3fa33a5bdf193d7a8f0429",
+      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/7f0143e9adf7140c8e3fa33a5bdf193d7a8f0429.tar.gz",
+      "hash": "11bp2dcsr5b4j1pqz9jrnvn0k0if6dy2lk2ygjrgnhkqp22wkqpb"
     },
     "rest-nvim": {
       "type": "Git",
@@ -3799,9 +3799,9 @@
         "repo": "vim-dadbod-ui"
       },
       "branch": "master",
-      "revision": "39a5d69ff786ca43ca3785857c38e4e0515c6bf8",
-      "url": "https://github.com/kristijanhusak/vim-dadbod-ui/archive/39a5d69ff786ca43ca3785857c38e4e0515c6bf8.tar.gz",
-      "hash": "1dhav2d5jh1xpki5g7xg4cyrmx8sn2pjlybbf50rz1bc4hnqabjj"
+      "revision": "0da912428a69a3b757b29cd77b41964a03ecd50b",
+      "url": "https://github.com/kristijanhusak/vim-dadbod-ui/archive/0da912428a69a3b757b29cd77b41964a03ecd50b.tar.gz",
+      "hash": "1nlxbdm2wvqrlnhlxkyagy0i3x3k3v2cdmm89xf0ambpxsp9qm0v"
     },
     "vim-devicons": {
       "type": "Git",
