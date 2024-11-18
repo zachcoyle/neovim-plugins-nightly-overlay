@@ -2311,9 +2311,9 @@
         "repo": "neotest-rust"
       },
       "branch": "main",
-      "revision": "f2e0b3713d3559ce33be9aa32ace3a6051ec5593",
-      "url": "https://github.com/rouge8/neotest-rust/archive/f2e0b3713d3559ce33be9aa32ace3a6051ec5593.tar.gz",
-      "hash": "1nm03cb1vwak6qc3l9f3zj51iabsz6bh3x9sip5jy88rfxpxgp6l"
+      "revision": "eec7eaf8491e619fe99e620e2da3cd31b30e406b",
+      "url": "https://github.com/rouge8/neotest-rust/archive/eec7eaf8491e619fe99e620e2da3cd31b30e406b.tar.gz",
+      "hash": "1a3bcmgy4shpn10wx7nf5lv4zql9knlsw58ikz5ahpmm6i6c2vrn"
     },
     "neotest-scala": {
       "type": "Git",
@@ -2383,9 +2383,9 @@
         "repo": "noice.nvim"
       },
       "branch": "main",
-      "revision": "2626b4a49340e4eae24a388468ac98680fc24532",
-      "url": "https://github.com/folke/noice.nvim/archive/2626b4a49340e4eae24a388468ac98680fc24532.tar.gz",
-      "hash": "1kzp0lkmz0cd2q6qii0xz8bx988h0vaa3jqbz3xbshq6yaf6llmk"
+      "revision": "742610e9958ad4f1146983db2e7356c8105a441c",
+      "url": "https://github.com/folke/noice.nvim/archive/742610e9958ad4f1146983db2e7356c8105a441c.tar.gz",
+      "hash": "0473wn99grw89dxakbqay2xwzx250w9lnkjsclv267wxyymw1b0g"
     },
     "none-ls-nvim": {
       "type": "Git",
@@ -3751,9 +3751,9 @@
         "repo": "vim-airline"
       },
       "branch": "master",
-      "revision": "6c704f4b780e2b687dd21b24a19f598dde06dc22",
-      "url": "https://github.com/vim-airline/vim-airline/archive/6c704f4b780e2b687dd21b24a19f598dde06dc22.tar.gz",
-      "hash": "1pl473x7mjak5yidqg7kh53lclgibqlrr8j4mczzadn8jxbybkqz"
+      "revision": "25635ab50474e5ead1cea4f05ec16683438efc17",
+      "url": "https://github.com/vim-airline/vim-airline/archive/25635ab50474e5ead1cea4f05ec16683438efc17.tar.gz",
+      "hash": "0l21d51dnw0vh8ykr9aw64splbi287pkq76l5n86jls9h8sjpnzc"
     },
     "vim-bbye": {
       "type": "Git",
