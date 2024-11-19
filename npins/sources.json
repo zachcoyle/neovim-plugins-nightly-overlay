@@ -1688,9 +1688,9 @@
         "repo": "lean.nvim"
       },
       "branch": "main",
-      "revision": "fa2efc1dfd075cdfe35f5735dad45d72156464d7",
-      "url": "https://github.com/Julian/lean.nvim/archive/fa2efc1dfd075cdfe35f5735dad45d72156464d7.tar.gz",
-      "hash": "0vfbb9jhsnkalakzn4j24fs76x3ai5hwqkdwik75nrblhznnhbqp"
+      "revision": "3866a715a262f103232e9341bc6673e148aafa53",
+      "url": "https://github.com/Julian/lean.nvim/archive/3866a715a262f103232e9341bc6673e148aafa53.tar.gz",
+      "hash": "1wr58vpab9sa5kj5vhvq4z0ky17bc7paqhnyk4agg9lhzf8prz9f"
     },
     "leap-nvim": {
       "type": "Git",
@@ -2491,9 +2491,9 @@
         "repo": "nvim-colorizer.lua"
       },
       "branch": "master",
-      "revision": "e0b789cc8dca1fb2b881c03d2b5478061e8287b3",
-      "url": "https://github.com/NvChad/nvim-colorizer.lua/archive/e0b789cc8dca1fb2b881c03d2b5478061e8287b3.tar.gz",
-      "hash": "1ayygvqzv6ycbfcvc0kfs6hmyzjs1qfgxpl8c5h9r25zqfyplv5a"
+      "revision": "4b7fba6eae15668098ea8835da1edb670f612431",
+      "url": "https://github.com/NvChad/nvim-colorizer.lua/archive/4b7fba6eae15668098ea8835da1edb670f612431.tar.gz",
+      "hash": "04ckxckw3wb01w3xrjvivnpx9lh1lwkn30jgmaabi68s6hf2nqvw"
     },
     "nvim-coverage": {
       "type": "Git",
