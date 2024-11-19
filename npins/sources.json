@@ -2551,9 +2551,9 @@
         "repo": "nvim-jdtls"
       },
       "branch": "master",
-      "revision": "c4279b8ffce9b64eb302056d78dfebc2968a49bc",
-      "url": "https://github.com/mfussenegger/nvim-jdtls/archive/c4279b8ffce9b64eb302056d78dfebc2968a49bc.tar.gz",
-      "hash": "0xcixaanisvg1rhfcgypa7jc6ndp8hmsvwqkcjz1xfypssa99qhy"
+      "revision": "e129398e171e87c0d9e94dd5bea7eb4730473ffc",
+      "url": "https://github.com/mfussenegger/nvim-jdtls/archive/e129398e171e87c0d9e94dd5bea7eb4730473ffc.tar.gz",
+      "hash": "191yhwas3s0k59piq2ci2z1m0gf3ad7jkfxc96pzl5kvanibx98v"
     },
     "nvim-lastplace": {
       "type": "Git",
@@ -3859,9 +3859,9 @@
         "repo": "vim-fugitive"
       },
       "branch": "master",
-      "revision": "d4877e54cef67f5af4f950935b1ade19ed6b7370",
-      "url": "https://github.com/tpope/vim-fugitive/archive/d4877e54cef67f5af4f950935b1ade19ed6b7370.tar.gz",
-      "hash": "17cf21k77fwsl67m4f1ln17dadz5i5g8fjhsw1cc1y1c3jn1xdh2"
+      "revision": "320b18fba2a4f2fe3c8225c778c687e0d2620384",
+      "url": "https://github.com/tpope/vim-fugitive/archive/320b18fba2a4f2fe3c8225c778c687e0d2620384.tar.gz",
+      "hash": "1whwsz6sispx59pcqxv64890rb4gga35nd758kcm7f27md7vcr24"
     },
     "vim-godot": {
       "type": "Git",
