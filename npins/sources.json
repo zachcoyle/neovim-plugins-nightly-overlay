@@ -836,9 +836,9 @@
         "repo": "codeium.vim"
       },
       "branch": "main",
-      "revision": "8c01979323b2b480c8bf160d3ff85bd1668baa49",
-      "url": "https://github.com/Exafunction/codeium.vim/archive/8c01979323b2b480c8bf160d3ff85bd1668baa49.tar.gz",
-      "hash": "0hkmgfph4r2ayw5ch7yhiqffqccglksckgl5nb0dzsbpzvqk6g81"
+      "revision": "605ab06780c9c42a63fc8afa8c0bd02b3b51b66f",
+      "url": "https://github.com/Exafunction/codeium.vim/archive/605ab06780c9c42a63fc8afa8c0bd02b3b51b66f.tar.gz",
+      "hash": "07rcn46grv4y7zlgl8dd5c5vrvryzyndknlngnp4jlpxl6kcwk8b"
     },
     "codesnap-nvim": {
       "type": "Git",
@@ -1004,9 +1004,9 @@
         "repo": "coq_nvim"
       },
       "branch": "coq",
-      "revision": "4c2482909ca60d68084462c93f99f4b1849a9417",
-      "url": "https://github.com/ms-jpq/coq_nvim/archive/4c2482909ca60d68084462c93f99f4b1849a9417.tar.gz",
-      "hash": "1cya4789z72yrsmaw7irgj23w1y2zd3dq764s0d0jrsks01q2sl7"
+      "revision": "eb0222f2e456258b57d0514fbfff4064eb58fef6",
+      "url": "https://github.com/ms-jpq/coq_nvim/archive/eb0222f2e456258b57d0514fbfff4064eb58fef6.tar.gz",
+      "hash": "1xabirawj1kxcjz4di1012xvw72qgrd12sblvryg0z0wjjp4arcw"
     },
     "crates-nvim": {
       "type": "Git",
@@ -3511,9 +3511,9 @@
         "repo": "telescope-project.nvim"
       },
       "branch": "master",
-      "revision": "34dfa6daa88c132e9e297ff5bd515801a8195eeb",
-      "url": "https://github.com/nvim-telescope/telescope-project.nvim/archive/34dfa6daa88c132e9e297ff5bd515801a8195eeb.tar.gz",
-      "hash": "16xrli7965ccyxkakz6hy8aakqw5335083f90nzdz8ykhpg30d73"
+      "revision": "7dea0d37dc59f68cbd74459f74869ff740517a60",
+      "url": "https://github.com/nvim-telescope/telescope-project.nvim/archive/7dea0d37dc59f68cbd74459f74869ff740517a60.tar.gz",
+      "hash": "15jyram4d520lzvhydz31ifnh3s8dq2d3v8kk6v2234g7ayd4x0r"
     },
     "telescope-snippets-nvim": {
       "type": "Git",
