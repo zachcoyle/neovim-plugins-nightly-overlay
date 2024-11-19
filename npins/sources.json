@@ -116,9 +116,9 @@
         "repo": "avante.nvim"
       },
       "branch": "main",
-      "revision": "5dd42548d4b01fe97993e187b6c761fdb465c4e5",
-      "url": "https://github.com/yetone/avante.nvim/archive/5dd42548d4b01fe97993e187b6c761fdb465c4e5.tar.gz",
-      "hash": "05axpcximavqp9a3q9zs615favlfpgjjlcpj0q5x5zhaci1p4nwc"
+      "revision": "2863473bbf575bd7ae3836ed385602515e0fab12",
+      "url": "https://github.com/yetone/avante.nvim/archive/2863473bbf575bd7ae3836ed385602515e0fab12.tar.gz",
+      "hash": "1l8lkj9c3pvba8jy7vrpc2qp7gczkiziigh3yyq21jcx4v4bl70c"
     },
     "baleia-nvim": {
       "type": "Git",
@@ -932,9 +932,9 @@
         "repo": "conform.nvim"
       },
       "branch": "master",
-      "revision": "023f795dbcf32d4351b6a9ed2e613d471b5bb812",
-      "url": "https://github.com/stevearc/conform.nvim/archive/023f795dbcf32d4351b6a9ed2e613d471b5bb812.tar.gz",
-      "hash": "1my0wda7786yf634pz0m84lii71dk9442l4jlzhjimlxai517rs5"
+      "revision": "10fd7c1a6f10915093b7fd93001cf8daf93028a4",
+      "url": "https://github.com/stevearc/conform.nvim/archive/10fd7c1a6f10915093b7fd93001cf8daf93028a4.tar.gz",
+      "hash": "11ngjl18lxcvswzqwbcm8l4591wqc9zhmf5vp6ynzzf4xhzbr9bd"
     },
     "conjure": {
       "type": "Git",
