@@ -1664,9 +1664,9 @@
         "repo": "lazy.nvim"
       },
       "branch": "main",
-      "revision": "7967abe55752aa90532e6bb4bd4663fe27a264cb",
-      "url": "https://github.com/folke/lazy.nvim/archive/7967abe55752aa90532e6bb4bd4663fe27a264cb.tar.gz",
-      "hash": "0s1cx99z9irgf7pxixgqi9z5k98lsx5in1i8i3wv71w3dnx7j6bz"
+      "revision": "8e11d208d63de693127761cd9a5621117bf6c625",
+      "url": "https://github.com/folke/lazy.nvim/archive/8e11d208d63de693127761cd9a5621117bf6c625.tar.gz",
+      "hash": "084pa9wmin8hmzby1js7b84mil4yg3v66wg3yxilnizg5n8ffprc"
     },
     "lazygit-nvim": {
       "type": "Git",
@@ -3139,9 +3139,9 @@
         "repo": "render-markdown.nvim"
       },
       "branch": "main",
-      "revision": "430a671655ac84a63f41cd3e940caebdd0a99434",
-      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/430a671655ac84a63f41cd3e940caebdd0a99434.tar.gz",
-      "hash": "0rbqz78bni4mblbjzhwwl5d619i4hjghi6fd7w4800lnnz832zfb"
+      "revision": "d6a82d70765aa238b7ea48d257a1d57a92501423",
+      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/d6a82d70765aa238b7ea48d257a1d57a92501423.tar.gz",
+      "hash": "03s5kjgzdyjdkwnr9lck0whr3snwgij23dix7b0a0cabzwj2bxwm"
     },
     "rest-nvim": {
       "type": "Git",
