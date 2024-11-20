@@ -1664,9 +1664,9 @@
         "repo": "lazy.nvim"
       },
       "branch": "main",
-      "revision": "8e11d208d63de693127761cd9a5621117bf6c625",
-      "url": "https://github.com/folke/lazy.nvim/archive/8e11d208d63de693127761cd9a5621117bf6c625.tar.gz",
-      "hash": "084pa9wmin8hmzby1js7b84mil4yg3v66wg3yxilnizg5n8ffprc"
+      "revision": "56ead98e05bb37a4ec28930a54d836d033cf00f2",
+      "url": "https://github.com/folke/lazy.nvim/archive/56ead98e05bb37a4ec28930a54d836d033cf00f2.tar.gz",
+      "hash": "0fcb6zrxbrj0nnkbb7cilqsjr500rv43r5w9nbk9apvjcjx8rkg0"
     },
     "lazygit-nvim": {
       "type": "Git",
@@ -3715,9 +3715,9 @@
         "repo": "typescript-tools.nvim"
       },
       "branch": "master",
-      "revision": "1edc5dcba8cb46e71feddde91c9c3d4bce77bec5",
-      "url": "https://github.com/pmizio/typescript-tools.nvim/archive/1edc5dcba8cb46e71feddde91c9c3d4bce77bec5.tar.gz",
-      "hash": "1vwbrnimp1vnvprbvqbwfn5f97saxcni6b049i9zzw0qhfc96vac"
+      "revision": "d03a0a5e7bebe1b64ff971a6c4d10e5351734c85",
+      "url": "https://github.com/pmizio/typescript-tools.nvim/archive/d03a0a5e7bebe1b64ff971a6c4d10e5351734c85.tar.gz",
+      "hash": "0kfkw1q27wb76kxdbqy0fphkr860im0rfl6k3jxpd1vrcmxwa068"
     },
     "typst-vim": {
       "type": "Git",
