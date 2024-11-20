@@ -992,9 +992,9 @@
         "repo": "coq.thirdparty"
       },
       "branch": "3p",
-      "revision": "a827c2ab76d7c803976765cac597c79a2a5b34f6",
-      "url": "https://github.com/ms-jpq/coq.thirdparty/archive/a827c2ab76d7c803976765cac597c79a2a5b34f6.tar.gz",
-      "hash": "0f9r16kkqhm6pr78v0iq87g1jqkn2acz5ll90xjdi1qg6h16dmc8"
+      "revision": "25b860f8631b1d659f5fecef8ee382dce1aa957e",
+      "url": "https://github.com/ms-jpq/coq.thirdparty/archive/25b860f8631b1d659f5fecef8ee382dce1aa957e.tar.gz",
+      "hash": "1gand9mq66ym7igjnmp92x9hvd55ziwyyn2x5ldxsb7nhpjpbw4d"
     },
     "coq_nvim": {
       "type": "Git",
@@ -2599,9 +2599,9 @@
         "repo": "nvim-lspconfig"
       },
       "branch": "master",
-      "revision": "f012c1b176f0e3c71f40eb309bdec0316689462e",
-      "url": "https://github.com/neovim/nvim-lspconfig/archive/f012c1b176f0e3c71f40eb309bdec0316689462e.tar.gz",
-      "hash": "1lxfsgbmd0wmrdvkd21plg6vjf0jsghqy6985n5qzbd66dv94frx"
+      "revision": "291a8f1a319dc712db85bcc174b0cf406f0a5b69",
+      "url": "https://github.com/neovim/nvim-lspconfig/archive/291a8f1a319dc712db85bcc174b0cf406f0a5b69.tar.gz",
+      "hash": "1pkkn97qskvj9gd2wafqndwdi5kzrcvka3hgq5y8f9nhs4bqjav5"
     },
     "nvim-navbuddy": {
       "type": "Git",
@@ -4219,9 +4219,9 @@
         "repo": "yazi.nvim"
       },
       "branch": "main",
-      "revision": "faa03e9acb894533b91c811d0dafd816b995088f",
-      "url": "https://github.com/mikavilpas/yazi.nvim/archive/faa03e9acb894533b91c811d0dafd816b995088f.tar.gz",
-      "hash": "1k0hxp5hy20mvcbx6cm7fd3akpcawybdwi6rgaj1v6z0r853gj8w"
+      "revision": "2fc0827ebe33840aa10851d86c8f87e33949a2f8",
+      "url": "https://github.com/mikavilpas/yazi.nvim/archive/2fc0827ebe33840aa10851d86c8f87e33949a2f8.tar.gz",
+      "hash": "159paz68qq7hdh5zifb2iqmw8dqvgqyw60j3mk39a2m60ncsbirm"
     },
     "yuck-vim": {
       "type": "Git",
