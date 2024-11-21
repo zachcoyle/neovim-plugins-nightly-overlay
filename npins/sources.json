@@ -2011,9 +2011,9 @@
         "repo": "neogit"
       },
       "branch": "master",
-      "revision": "4b57b3ae8e204f9b184fbcdde975031af21199be",
-      "url": "https://github.com/TimUntersberger/neogit/archive/4b57b3ae8e204f9b184fbcdde975031af21199be.tar.gz",
-      "hash": "1m86n1zzzikykadqcihq524sjya77rm3d8w0wzqrf4ajrsb8yz9i"
+      "revision": "e32e5dcb99d65033408e9942a0ac0b239fa887e4",
+      "url": "https://github.com/TimUntersberger/neogit/archive/e32e5dcb99d65033408e9942a0ac0b239fa887e4.tar.gz",
+      "hash": "0rnv5nkzy5pnh1g7fh78gzj6n7kcazgb6jmxvcv3v50xzh6r5jzi"
     },
     "neon": {
       "type": "Git",
@@ -2743,9 +2743,9 @@
         "repo": "nvim-tree.lua"
       },
       "branch": "master",
-      "revision": "f7c65e11d695a084ca10b93df659bb7e68b71f9f",
-      "url": "https://github.com/nvim-tree/nvim-tree.lua/archive/f7c65e11d695a084ca10b93df659bb7e68b71f9f.tar.gz",
-      "hash": "18bhf0hprvg69gn5nv9rwwsgnpa3rhxdpq2p65awk2hb1imbl2mb"
+      "revision": "1f3ffd6af145af2a4930a61c50f763264922c3fe",
+      "url": "https://github.com/nvim-tree/nvim-tree.lua/archive/1f3ffd6af145af2a4930a61c50f763264922c3fe.tar.gz",
+      "hash": "127fa3b3a2f6f54vkhv1l3p2p2d05qsphps4hlxys1jwa6rk2kih"
     },
     "nvim-treesitter": {
       "type": "Git",
@@ -4123,9 +4123,9 @@
         "repo": "vimtex"
       },
       "branch": "master",
-      "revision": "6ee92c7ed2cdc876f499bd5561a65d04dee10d1f",
-      "url": "https://github.com/lervag/vimtex/archive/6ee92c7ed2cdc876f499bd5561a65d04dee10d1f.tar.gz",
-      "hash": "10lc6n6917cna88j56sz2yar351428qjqcpmaxp2skza42lp3y35"
+      "revision": "879f8906a677e2ee77f62f3b66ce7b86aafb0cec",
+      "url": "https://github.com/lervag/vimtex/archive/879f8906a677e2ee77f62f3b66ce7b86aafb0cec.tar.gz",
+      "hash": "1mm7xlmxaaxv6f2iv0gvavv9bj2xknrb3788wb43kp2bpbpq4zfm"
     },
     "virt-column-nvim": {
       "type": "Git",
