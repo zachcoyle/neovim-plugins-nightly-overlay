@@ -2491,9 +2491,9 @@
         "repo": "nvim-colorizer.lua"
       },
       "branch": "master",
-      "revision": "2f546ad923563f4c44d47b9cb1c3c336a4325e82",
-      "url": "https://github.com/NvChad/nvim-colorizer.lua/archive/2f546ad923563f4c44d47b9cb1c3c336a4325e82.tar.gz",
-      "hash": "1rfjn0873ckpi238i91a1mgk38hd2q3hd015xljy4vc7nj1qk3f1"
+      "revision": "486212f8ef9c427d3bb3d48be43756e23c8cdc61",
+      "url": "https://github.com/NvChad/nvim-colorizer.lua/archive/486212f8ef9c427d3bb3d48be43756e23c8cdc61.tar.gz",
+      "hash": "0jkil9f84a63dgjw3yiwcsbcp009zz2pyz59d40l0xs02mb78cq7"
     },
     "nvim-coverage": {
       "type": "Git",
@@ -3667,9 +3667,9 @@
         "repo": "trim.nvim"
       },
       "branch": "master",
-      "revision": "7dc35b9e61b9f77f475807a2be6fe8115a12d81c",
-      "url": "https://github.com/cappyzawa/trim.nvim/archive/7dc35b9e61b9f77f475807a2be6fe8115a12d81c.tar.gz",
-      "hash": "07bi6y2pc7kh02v5497a6wji7qj7si2wjf3khi5bmgqyj9iqlp95"
+      "revision": "84a1016c7484943e9fbb961f807c3745342b2462",
+      "url": "https://github.com/cappyzawa/trim.nvim/archive/84a1016c7484943e9fbb961f807c3745342b2462.tar.gz",
+      "hash": "08w5rkjvqppnhr0xj20bbwc7zw62sbzfng14y85d8y7p0fvfscj7"
     },
     "trouble-nvim": {
       "type": "Git",
