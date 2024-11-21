@@ -2011,9 +2011,9 @@
         "repo": "neogit"
       },
       "branch": "master",
-      "revision": "419f08bbdfedcd7a85c7f96b3367eb2a63366ea0",
-      "url": "https://github.com/TimUntersberger/neogit/archive/419f08bbdfedcd7a85c7f96b3367eb2a63366ea0.tar.gz",
-      "hash": "0w79y3n70bj4pipydbrnhjbc7wny281cy45m5mpfz61gm57nj0yg"
+      "revision": "4b57b3ae8e204f9b184fbcdde975031af21199be",
+      "url": "https://github.com/TimUntersberger/neogit/archive/4b57b3ae8e204f9b184fbcdde975031af21199be.tar.gz",
+      "hash": "1m86n1zzzikykadqcihq524sjya77rm3d8w0wzqrf4ajrsb8yz9i"
     },
     "neon": {
       "type": "Git",
@@ -2839,9 +2839,9 @@
         "repo": "nvim-web-devicons"
       },
       "branch": "master",
-      "revision": "e87554285f581047b1bf236794b0eb812b444b87",
-      "url": "https://github.com/kyazdani42/nvim-web-devicons/archive/e87554285f581047b1bf236794b0eb812b444b87.tar.gz",
-      "hash": "1q6zzdn2q43mx1cmv06nha4ra58jyqdhjli1cjzf4kayq5fn41k7"
+      "revision": "f09be61d05bebcba85bb47be1931322d51b95644",
+      "url": "https://github.com/kyazdani42/nvim-web-devicons/archive/f09be61d05bebcba85bb47be1931322d51b95644.tar.gz",
+      "hash": "0dvg80ihz57qdha3av5f6jwc1vh7a72vdyaih7wfgwmlix1kmx1y"
     },
     "obsidian-nvim": {
       "type": "Git",
