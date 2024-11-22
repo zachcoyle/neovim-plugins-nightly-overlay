@@ -3835,9 +3835,9 @@
         "repo": "vim-endwise"
       },
       "branch": "master",
-      "revision": "3719ffddb5e42bf67b55b2183d7a6fb8d3e5a2b8",
-      "url": "https://github.com/tpope/vim-endwise/archive/3719ffddb5e42bf67b55b2183d7a6fb8d3e5a2b8.tar.gz",
-      "hash": "0r888mpcn3fpzxl4dwvdj2khdy27djpdkbldwvqp0z7aqj0lci8v"
+      "revision": "1d42c830d8a81958a6703cee8f4caece4b1b8423",
+      "url": "https://github.com/tpope/vim-endwise/archive/1d42c830d8a81958a6703cee8f4caece4b1b8423.tar.gz",
+      "hash": "1bg42ks9i60g255s3di11asqsywhdm1ag7k9nn16m6nghvbdrflz"
     },
     "vim-floaterm": {
       "type": "Git",
