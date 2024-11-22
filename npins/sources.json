@@ -140,9 +140,9 @@
         "repo": "barbar.nvim"
       },
       "branch": "master",
-      "revision": "20f26c940991c528c5e3c6d0d82a6dc1a82b9d4c",
-      "url": "https://github.com/romgrk/barbar.nvim/archive/20f26c940991c528c5e3c6d0d82a6dc1a82b9d4c.tar.gz",
-      "hash": "0fx2yyg5wwi9j7j3mirfmq1pfy22py9irc1r24ri4jp71p4yfaa3"
+      "revision": "508864eb63178187faa06c59b283fd0a266d2844",
+      "url": "https://github.com/romgrk/barbar.nvim/archive/508864eb63178187faa06c59b283fd0a266d2844.tar.gz",
+      "hash": "01z8iyyxjgwqyaq2xg310qddgpylaqmpdcv6z5fcx6gvqv6rcnnp"
     },
     "barbecue-nvim": {
       "type": "Git",
@@ -2755,9 +2755,9 @@
         "repo": "nvim-treesitter"
       },
       "branch": "master",
-      "revision": "2d5c122af9c3c842d74a137446dae8ff349206ac",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/2d5c122af9c3c842d74a137446dae8ff349206ac.tar.gz",
-      "hash": "0lc11djyqpsd4fvdgahdqg6z5rf44g1aks3jmwygbm0gvmfsna6r"
+      "revision": "fcd2a5fea91deac818f26a6412a624798af45033",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/fcd2a5fea91deac818f26a6412a624798af45033.tar.gz",
+      "hash": "07fgi3zl2rnl8ykj3r79yiib8xd51i5lj22b1m49dlx2xqwvimab"
     },
     "nvim-treesitter-context": {
       "type": "Git",
