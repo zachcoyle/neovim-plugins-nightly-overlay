@@ -1688,9 +1688,9 @@
         "repo": "lean.nvim"
       },
       "branch": "main",
-      "revision": "3866a715a262f103232e9341bc6673e148aafa53",
-      "url": "https://github.com/Julian/lean.nvim/archive/3866a715a262f103232e9341bc6673e148aafa53.tar.gz",
-      "hash": "1wr58vpab9sa5kj5vhvq4z0ky17bc7paqhnyk4agg9lhzf8prz9f"
+      "revision": "217d6f9eeb6e9c926e886c5c174f52e9443c48ec",
+      "url": "https://github.com/Julian/lean.nvim/archive/217d6f9eeb6e9c926e886c5c174f52e9443c48ec.tar.gz",
+      "hash": "1lczcy1x2jl87x52blnzwrkh9j6ljl6irj9pbhpf58bs84wfal1j"
     },
     "leap-nvim": {
       "type": "Git",
@@ -2491,9 +2491,9 @@
         "repo": "nvim-colorizer.lua"
       },
       "branch": "master",
-      "revision": "486212f8ef9c427d3bb3d48be43756e23c8cdc61",
-      "url": "https://github.com/NvChad/nvim-colorizer.lua/archive/486212f8ef9c427d3bb3d48be43756e23c8cdc61.tar.gz",
-      "hash": "0jkil9f84a63dgjw3yiwcsbcp009zz2pyz59d40l0xs02mb78cq7"
+      "revision": "a040f4d7b21c780a81eac437690a09781cadd2dd",
+      "url": "https://github.com/NvChad/nvim-colorizer.lua/archive/a040f4d7b21c780a81eac437690a09781cadd2dd.tar.gz",
+      "hash": "0wrd5k0fqcvfihgv7bf8gmhlcv2c9mnrh7mhvsqz8cqz18z98vh2"
     },
     "nvim-coverage": {
       "type": "Git",
@@ -2755,9 +2755,9 @@
         "repo": "nvim-treesitter"
       },
       "branch": "master",
-      "revision": "8a74ac9aead72ef7a870908f1517b48f2bb25ac7",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/8a74ac9aead72ef7a870908f1517b48f2bb25ac7.tar.gz",
-      "hash": "1akqp7rgmx88fwbfxkslbvgc626m1i0dx0hdqsr8wddysaiw0chm"
+      "revision": "1249b4cfce166f26fe52e46ed36bda907d6bb577",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/1249b4cfce166f26fe52e46ed36bda907d6bb577.tar.gz",
+      "hash": "14sjfbiriqxyhmrgi9j5hvxw0vv58qazda3frisnhbiay77vpcfk"
     },
     "nvim-treesitter-context": {
       "type": "Git",
@@ -2875,9 +2875,9 @@
         "repo": "oil.nvim"
       },
       "branch": "master",
-      "revision": "bf81e2a79a33d829226760781eaeeb553b8d0e4e",
-      "url": "https://github.com/stevearc/oil.nvim/archive/bf81e2a79a33d829226760781eaeeb553b8d0e4e.tar.gz",
-      "hash": "166w29yqvdc5hhml70gh7r97vzjrvf3s2grccycq6szx615d3dgs"
+      "revision": "3fa3161aa9515ff6a7cf7e44458b6a2114262870",
+      "url": "https://github.com/stevearc/oil.nvim/archive/3fa3161aa9515ff6a7cf7e44458b6a2114262870.tar.gz",
+      "hash": "03nf30vdnhprrfmlih1sqw63qlh05am3bxag0clp0qki2x9lvnbm"
     },
     "ollama-nvim": {
       "type": "Git",
