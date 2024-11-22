@@ -2011,9 +2011,9 @@
         "repo": "neogit"
       },
       "branch": "master",
-      "revision": "776e37a6684df71d33acadd73b2254f7968aec2e",
-      "url": "https://github.com/TimUntersberger/neogit/archive/776e37a6684df71d33acadd73b2254f7968aec2e.tar.gz",
-      "hash": "0ms9zansy32h6ghffsdz6bc9k3zwjpf46d0k631gw1wfbna3bsd3"
+      "revision": "efd2a182024e422a4c4061683b9264c782eb684a",
+      "url": "https://github.com/TimUntersberger/neogit/archive/efd2a182024e422a4c4061683b9264c782eb684a.tar.gz",
+      "hash": "11nm35zig85ab4mjri8fzvy2gzfbv0xmsxj3glh8dlzp83wbybss"
     },
     "neon": {
       "type": "Git",
@@ -2491,9 +2491,9 @@
         "repo": "nvim-colorizer.lua"
       },
       "branch": "master",
-      "revision": "a040f4d7b21c780a81eac437690a09781cadd2dd",
-      "url": "https://github.com/NvChad/nvim-colorizer.lua/archive/a040f4d7b21c780a81eac437690a09781cadd2dd.tar.gz",
-      "hash": "0wrd5k0fqcvfihgv7bf8gmhlcv2c9mnrh7mhvsqz8cqz18z98vh2"
+      "revision": "6059927ee649f02fcc819efc213ea78ee9eb2a7d",
+      "url": "https://github.com/NvChad/nvim-colorizer.lua/archive/6059927ee649f02fcc819efc213ea78ee9eb2a7d.tar.gz",
+      "hash": "09ix7kk5zij31vcgis06wbqw5jr1rdngj1ysg98rgsqlaxf8wri0"
     },
     "nvim-coverage": {
       "type": "Git",
