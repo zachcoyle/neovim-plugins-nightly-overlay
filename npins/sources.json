@@ -1052,9 +1052,9 @@
         "repo": "debugprint.nvim"
       },
       "branch": "main",
-      "revision": "dd4f5babadd45603f1b8506229717aa21e6bbebf",
-      "url": "https://github.com/andrewferrier/debugprint.nvim/archive/dd4f5babadd45603f1b8506229717aa21e6bbebf.tar.gz",
-      "hash": "1mi3vab1iqi7yhcslzil5ygfgll1yr1ab4f0ksi1yingd5hj8asq"
+      "revision": "6a36a350ff6a3818255f84d926478564f95c5f62",
+      "url": "https://github.com/andrewferrier/debugprint.nvim/archive/6a36a350ff6a3818255f84d926478564f95c5f62.tar.gz",
+      "hash": "0vc7smk87887gfixj9dkfn0m6m5h1wbf5vpzv0rlpfjvadq2ycvb"
     },
     "diffview-nvim": {
       "type": "Git",
@@ -2875,9 +2875,9 @@
         "repo": "oil.nvim"
       },
       "branch": "master",
-      "revision": "740b8fd425a2b77f7f40eb5ac155ebe66ff9515c",
-      "url": "https://github.com/stevearc/oil.nvim/archive/740b8fd425a2b77f7f40eb5ac155ebe66ff9515c.tar.gz",
-      "hash": "1sqh4l41kxk1avk0k1sw81x0s0bqn3fpa5gazqb6r195phz652cx"
+      "revision": "60e68967e51ff1ecd264c29e3de0d52bfff22df3",
+      "url": "https://github.com/stevearc/oil.nvim/archive/60e68967e51ff1ecd264c29e3de0d52bfff22df3.tar.gz",
+      "hash": "0fz9hb6cvn9fxz0fs56aqsy2128kjp0j2gyk2gb3bm5xphhz2hi8"
     },
     "ollama-nvim": {
       "type": "Git",
