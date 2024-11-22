@@ -2827,9 +2827,9 @@
         "repo": "nvim-ufo"
       },
       "branch": "main",
-      "revision": "c070ee849bfedb2ed778f60419a1eae8c8544be8",
-      "url": "https://github.com/kevinhwang91/nvim-ufo/archive/c070ee849bfedb2ed778f60419a1eae8c8544be8.tar.gz",
-      "hash": "1z8hcf7svw1xlay8ibimnl919j4vj6cghrqwm9b1i9kmkzfd0wn8"
+      "revision": "e9886b2b3381b49cadb11ef62a8c51f662927232",
+      "url": "https://github.com/kevinhwang91/nvim-ufo/archive/e9886b2b3381b49cadb11ef62a8c51f662927232.tar.gz",
+      "hash": "11svvrgal2mv8hidjz3sa1alndq3jq2qf32031f586qlm8j0fmiq"
     },
     "nvim-web-devicons": {
       "type": "Git",
@@ -2875,9 +2875,9 @@
         "repo": "oil.nvim"
       },
       "branch": "master",
-      "revision": "3fa3161aa9515ff6a7cf7e44458b6a2114262870",
-      "url": "https://github.com/stevearc/oil.nvim/archive/3fa3161aa9515ff6a7cf7e44458b6a2114262870.tar.gz",
-      "hash": "03nf30vdnhprrfmlih1sqw63qlh05am3bxag0clp0qki2x9lvnbm"
+      "revision": "5fa528f5528bf04a2d255108e59ed9cf53e85ae6",
+      "url": "https://github.com/stevearc/oil.nvim/archive/5fa528f5528bf04a2d255108e59ed9cf53e85ae6.tar.gz",
+      "hash": "1j7h5b58p3fx7pqndi848rziyqg90gd4s2yjg8hxfp5lgdzih4g0"
     },
     "ollama-nvim": {
       "type": "Git",
