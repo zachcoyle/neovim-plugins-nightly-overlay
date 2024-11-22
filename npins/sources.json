@@ -44,9 +44,9 @@
         "repo": "SchemaStore.nvim"
       },
       "branch": "main",
-      "revision": "291b15c6a03d8f859da8d83f46ed41ae6bb0ea8d",
-      "url": "https://github.com/b0o/SchemaStore.nvim/archive/291b15c6a03d8f859da8d83f46ed41ae6bb0ea8d.tar.gz",
-      "hash": "1ip9cz8xz22wmsbyqcyg5v1m3b55jslhfmbgx8j14bh661dchlli"
+      "revision": "44bc6bc398fa59738eaf9535000424457e3e1f6b",
+      "url": "https://github.com/b0o/SchemaStore.nvim/archive/44bc6bc398fa59738eaf9535000424457e3e1f6b.tar.gz",
+      "hash": "1nkjjkjng2w7jqfz12pysh662xk0qk0r02zd7ww3cn59ib74bxck"
     },
     "alpha-nvim": {
       "type": "Git",
@@ -2047,9 +2047,9 @@
         "repo": "neorg"
       },
       "branch": "main",
-      "revision": "2d8ed7ee68f9b33a75324d92dbc706d93bb258a2",
-      "url": "https://github.com/vhyrro/neorg/archive/2d8ed7ee68f9b33a75324d92dbc706d93bb258a2.tar.gz",
-      "hash": "0m313msh1i67d75wbxw4qkhv2pajxrflq8gzci5czgf2hfq86i0v"
+      "revision": "7a893a176a7d9c074a5371865b53c6aa4e223991",
+      "url": "https://github.com/vhyrro/neorg/archive/7a893a176a7d9c074a5371865b53c6aa4e223991.tar.gz",
+      "hash": "1giwqsz28zh8p3hh64y5b26mzzffzsngw0cl6kl36wn8b4y3w57i"
     },
     "neoscroll-nvim": {
       "type": "Git",
@@ -2587,9 +2587,9 @@
         "repo": "nvim-lint"
       },
       "branch": "master",
-      "revision": "8e9562de7261e5b862c631958df616e1a65552cd",
-      "url": "https://github.com/mfussenegger/nvim-lint/archive/8e9562de7261e5b862c631958df616e1a65552cd.tar.gz",
-      "hash": "13x9s3gj223salynz6yilpm5d58fpsfmsp03p2mcvk3l68d74bqc"
+      "revision": "6b46370d02cd001509a765591a3ffc481b538794",
+      "url": "https://github.com/mfussenegger/nvim-lint/archive/6b46370d02cd001509a765591a3ffc481b538794.tar.gz",
+      "hash": "1gjz74g3d148j9l7a5n0mygnayflzs5i44ygl6gmd69dcmvp45d1"
     },
     "nvim-lspconfig": {
       "type": "Git",
@@ -2875,9 +2875,9 @@
         "repo": "oil.nvim"
       },
       "branch": "master",
-      "revision": "5fa528f5528bf04a2d255108e59ed9cf53e85ae6",
-      "url": "https://github.com/stevearc/oil.nvim/archive/5fa528f5528bf04a2d255108e59ed9cf53e85ae6.tar.gz",
-      "hash": "1j7h5b58p3fx7pqndi848rziyqg90gd4s2yjg8hxfp5lgdzih4g0"
+      "revision": "740b8fd425a2b77f7f40eb5ac155ebe66ff9515c",
+      "url": "https://github.com/stevearc/oil.nvim/archive/740b8fd425a2b77f7f40eb5ac155ebe66ff9515c.tar.gz",
+      "hash": "1sqh4l41kxk1avk0k1sw81x0s0bqn3fpa5gazqb6r195phz652cx"
     },
     "ollama-nvim": {
       "type": "Git",
@@ -3199,9 +3199,9 @@
         "repo": "smart-splits.nvim"
       },
       "branch": "master",
-      "revision": "00fba7a0e912a8d82da91a3b6b11d641fa500bd8",
-      "url": "https://github.com/mrjones2014/smart-splits.nvim/archive/00fba7a0e912a8d82da91a3b6b11d641fa500bd8.tar.gz",
-      "hash": "126gj8w55vna0n0v7r5dvlgslc67rf87dp9zqifv33nlxixf3rg5"
+      "revision": "d8b0e772a0244169534b1fd57c1660c9bf323d26",
+      "url": "https://github.com/mrjones2014/smart-splits.nvim/archive/d8b0e772a0244169534b1fd57c1660c9bf323d26.tar.gz",
+      "hash": "0qrfgml81pfsnk9hn835qdacscqy8m9xbaxikb8ikqwk87s52lqv"
     },
     "smartcolumn-nvim": {
       "type": "Git",
