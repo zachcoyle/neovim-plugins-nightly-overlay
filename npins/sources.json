@@ -1148,9 +1148,9 @@
         "repo": "efmls-configs-nvim"
       },
       "branch": "main",
-      "revision": "e44e39c962dc1629a341fc71cfc8feaa09cefa6f",
-      "url": "https://github.com/creativenull/efmls-configs-nvim/archive/e44e39c962dc1629a341fc71cfc8feaa09cefa6f.tar.gz",
-      "hash": "1ca5wrkkdf1p0lzj6h34mxvk55gy416zy153ksk6rlcf2ci5hg69"
+      "revision": "96371caa55b50a7ba4881604f12e8cefedc7b67b",
+      "url": "https://github.com/creativenull/efmls-configs-nvim/archive/96371caa55b50a7ba4881604f12e8cefedc7b67b.tar.gz",
+      "hash": "145jbv2jw2iw8xhpk53cbh9nay10hw65klfhn5shncijns751nwl"
     },
     "emmet-vim": {
       "type": "Git",
@@ -2599,9 +2599,9 @@
         "repo": "nvim-lspconfig"
       },
       "branch": "master",
-      "revision": "3002276159bf7cd0f3db070507f8bbb60fcda393",
-      "url": "https://github.com/neovim/nvim-lspconfig/archive/3002276159bf7cd0f3db070507f8bbb60fcda393.tar.gz",
-      "hash": "18r64xivz0d8bx97aa126kr797nrfsicvq1sn4ah1pcg4dwf2dlf"
+      "revision": "ac936a66fba9a58613bed95d7615cff2c5bf0387",
+      "url": "https://github.com/neovim/nvim-lspconfig/archive/ac936a66fba9a58613bed95d7615cff2c5bf0387.tar.gz",
+      "hash": "1qyplxxy4q6wbi7d4y4gq9lh35mafyr3wm4400a4g1pq4fl0h4x2"
     },
     "nvim-navbuddy": {
       "type": "Git",
