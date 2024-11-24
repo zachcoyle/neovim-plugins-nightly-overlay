@@ -1052,9 +1052,9 @@
         "repo": "debugprint.nvim"
       },
       "branch": "main",
-      "revision": "336fd58cd5d306077a508f9e60d9bac7caea63d9",
-      "url": "https://github.com/andrewferrier/debugprint.nvim/archive/336fd58cd5d306077a508f9e60d9bac7caea63d9.tar.gz",
-      "hash": "01262y24h3lsn296cmmnv4jsj1hzkpylraa4gx92g47dqmxm97h0"
+      "revision": "6c9f29c403aa4fea8d9f343a5b377e80cac80e40",
+      "url": "https://github.com/andrewferrier/debugprint.nvim/archive/6c9f29c403aa4fea8d9f343a5b377e80cac80e40.tar.gz",
+      "hash": "0brajis5p0mxwk1v6c2dw1hfqm5jzwnv5srxvnxks2pb8zvcqrkc"
     },
     "diffview-nvim": {
       "type": "Git",
@@ -4123,9 +4123,9 @@
         "repo": "vimtex"
       },
       "branch": "master",
-      "revision": "879f8906a677e2ee77f62f3b66ce7b86aafb0cec",
-      "url": "https://github.com/lervag/vimtex/archive/879f8906a677e2ee77f62f3b66ce7b86aafb0cec.tar.gz",
-      "hash": "1mm7xlmxaaxv6f2iv0gvavv9bj2xknrb3788wb43kp2bpbpq4zfm"
+      "revision": "44a2f1203ce2b6fcf1ff2b03aeca52c45f8a157e",
+      "url": "https://github.com/lervag/vimtex/archive/44a2f1203ce2b6fcf1ff2b03aeca52c45f8a157e.tar.gz",
+      "hash": "1wzhz2kd75vymy88y6l1mc6w3vkrysil5vfc5jv1809x33g0s6bl"
     },
     "virt-column-nvim": {
       "type": "Git",
