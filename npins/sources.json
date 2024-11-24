@@ -236,9 +236,9 @@
         "repo": "nvim"
       },
       "branch": "main",
-      "revision": "a4c64d7605f6eb95674e322bbbedfaa00aab7904",
-      "url": "https://github.com/catppuccin/nvim/archive/a4c64d7605f6eb95674e322bbbedfaa00aab7904.tar.gz",
-      "hash": "059krnh9x4mj03c68cf96axhjcsffxgzmhzqfikwrldb10yinxqk"
+      "revision": "faf15ab0201b564b6368ffa47b56feefc92ce3f4",
+      "url": "https://github.com/catppuccin/nvim/archive/faf15ab0201b564b6368ffa47b56feefc92ce3f4.tar.gz",
+      "hash": "0b5bygd3zx1pazq6mxq2kg5xrp9azbx16ky9n3riz4wq17kk121s"
     },
     "ccc-nvim": {
       "type": "Git",
@@ -2743,9 +2743,9 @@
         "repo": "nvim-tree.lua"
       },
       "branch": "master",
-      "revision": "1f3ffd6af145af2a4930a61c50f763264922c3fe",
-      "url": "https://github.com/nvim-tree/nvim-tree.lua/archive/1f3ffd6af145af2a4930a61c50f763264922c3fe.tar.gz",
-      "hash": "127fa3b3a2f6f54vkhv1l3p2p2d05qsphps4hlxys1jwa6rk2kih"
+      "revision": "ca7c4c33cac2ad66ec69d45e465379716ef0cc97",
+      "url": "https://github.com/nvim-tree/nvim-tree.lua/archive/ca7c4c33cac2ad66ec69d45e465379716ef0cc97.tar.gz",
+      "hash": "1gkv2qhk4ag1822wyxdbclw0j64cw5c2nkjvv0ppi6znl7nh4y0w"
     },
     "nvim-treesitter": {
       "type": "Git",
