@@ -2191,9 +2191,9 @@
         "repo": "neotest-haskell"
       },
       "branch": "master",
-      "revision": "e3d6f8583e74ecb7d49bd8003c5e950bccab0390",
-      "url": "https://github.com/mrcjkb/neotest-haskell/archive/e3d6f8583e74ecb7d49bd8003c5e950bccab0390.tar.gz",
-      "hash": "1hl9craww96c3a7mdk15xmmi0vvv511dgci16y4vl4y3c4z2y3wr"
+      "revision": "e93f3fa0b9655c523cbbba99278e0ac41027686d",
+      "url": "https://github.com/mrcjkb/neotest-haskell/archive/e93f3fa0b9655c523cbbba99278e0ac41027686d.tar.gz",
+      "hash": "0ami5zvk1a1pzs6amnpqfpf5j8ygpl3kajkv702gixap3j85isrk"
     },
     "neotest-java": {
       "type": "Git",
@@ -2599,9 +2599,9 @@
         "repo": "nvim-lspconfig"
       },
       "branch": "master",
-      "revision": "c646154d6e4db9b2979eeb517d0b817ad00c9c47",
-      "url": "https://github.com/neovim/nvim-lspconfig/archive/c646154d6e4db9b2979eeb517d0b817ad00c9c47.tar.gz",
-      "hash": "1apm66sxlcfc5mqhcsxarx51ld0rljfdbxpwypzvhrn9zx7qp8g8"
+      "revision": "3002276159bf7cd0f3db070507f8bbb60fcda393",
+      "url": "https://github.com/neovim/nvim-lspconfig/archive/3002276159bf7cd0f3db070507f8bbb60fcda393.tar.gz",
+      "hash": "18r64xivz0d8bx97aa126kr797nrfsicvq1sn4ah1pcg4dwf2dlf"
     },
     "nvim-navbuddy": {
       "type": "Git",
