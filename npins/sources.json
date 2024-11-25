@@ -1939,9 +1939,9 @@
         "repo": "modus-themes.nvim"
       },
       "branch": "master",
-      "revision": "ad9910a0e5055a00b1e14b507902b2a7a7fe449e",
-      "url": "https://github.com/miikanissi/modus-themes.nvim/archive/ad9910a0e5055a00b1e14b507902b2a7a7fe449e.tar.gz",
-      "hash": "1mvygazsj0pvpxmcdqqp7r0khcxjqdyq124qk5r4dnlvdz8r445i"
+      "revision": "35980f19daef4745c96f1cb292d484fb1f33f822",
+      "url": "https://github.com/miikanissi/modus-themes.nvim/archive/35980f19daef4745c96f1cb292d484fb1f33f822.tar.gz",
+      "hash": "1l04r63bs5l87wrcccknlczbdn21w532hqcq34kyzwprwnr3z46y"
     },
     "molten-nvim": {
       "type": "Git",
@@ -2479,9 +2479,9 @@
         "repo": "nvim-cmp"
       },
       "branch": "main",
-      "revision": "746896cb28f596623b167040993290a08852c908",
-      "url": "https://github.com/hrsh7th/nvim-cmp/archive/746896cb28f596623b167040993290a08852c908.tar.gz",
-      "hash": "1nklqp0lhfvyssvhfqwna0qsvzxndd9yb9s8w83inb31cmkg1flh"
+      "revision": "ed31156aa2cc14e3bc066c59357cc91536a2bc01",
+      "url": "https://github.com/hrsh7th/nvim-cmp/archive/ed31156aa2cc14e3bc066c59357cc91536a2bc01.tar.gz",
+      "hash": "08r7yry0xa2az0j7c6ipydnppyd36wzpwl1kbzwcwhh5ysngb5j6"
     },
     "nvim-colorizer-lua": {
       "type": "Git",
