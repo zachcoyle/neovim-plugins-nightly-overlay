@@ -2875,9 +2875,9 @@
         "repo": "oil.nvim"
       },
       "branch": "master",
-      "revision": "da93d55e32d73a17c447067d168d80290ae96590",
-      "url": "https://github.com/stevearc/oil.nvim/archive/da93d55e32d73a17c447067d168d80290ae96590.tar.gz",
-      "hash": "0q2qbr92jx7a06z7ah6wdrql7na6n4574cmhz6fws68gf2pnqzib"
+      "revision": "3c2de37accead0240fbe812f5ccdedfe0b973557",
+      "url": "https://github.com/stevearc/oil.nvim/archive/3c2de37accead0240fbe812f5ccdedfe0b973557.tar.gz",
+      "hash": "0jwqazdmcr4s1pdv8jjs2a51g6hjmvbsd9d1gsm3afzini5glbi6"
     },
     "ollama-nvim": {
       "type": "Git",
@@ -3139,9 +3139,9 @@
         "repo": "render-markdown.nvim"
       },
       "branch": "main",
-      "revision": "e1879e0ea3d5cee295b48335fc90e76ae8a63081",
-      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/e1879e0ea3d5cee295b48335fc90e76ae8a63081.tar.gz",
-      "hash": "0ky4fdz116l19cawg5h32w2nr1pmp26v7prgnqarfdajmkhyyh85"
+      "revision": "6096cf3608b576a38fd1396227dbc0473091714d",
+      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/6096cf3608b576a38fd1396227dbc0473091714d.tar.gz",
+      "hash": "1ssfi9lvvfkx7dqmmcz5995kjwy7i71abzi38x0qpp2l3hwxdz3g"
     },
     "rest-nvim": {
       "type": "Git",
