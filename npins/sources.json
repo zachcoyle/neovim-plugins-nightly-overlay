@@ -2011,9 +2011,9 @@
         "repo": "neogit"
       },
       "branch": "master",
-      "revision": "26c5550016b20e4f47b376192f12a54be8897aaa",
-      "url": "https://github.com/TimUntersberger/neogit/archive/26c5550016b20e4f47b376192f12a54be8897aaa.tar.gz",
-      "hash": "07ssj7vwbnsvgj0lgb9fgfmg5wb4mzn2zsnbbg24qmmvkhazrkk0"
+      "revision": "aaf7365b0b928fd3ace072932be2782e56ceced6",
+      "url": "https://github.com/TimUntersberger/neogit/archive/aaf7365b0b928fd3ace072932be2782e56ceced6.tar.gz",
+      "hash": "0rqhgw6clv12azshydrnw182n5xjy70agpdlx8ipb0c1m5fx0xmf"
     },
     "neon": {
       "type": "Git",
@@ -2599,9 +2599,9 @@
         "repo": "nvim-lspconfig"
       },
       "branch": "master",
-      "revision": "16008a64f6ab9309641f30b8a7c9a432f1649b9a",
-      "url": "https://github.com/neovim/nvim-lspconfig/archive/16008a64f6ab9309641f30b8a7c9a432f1649b9a.tar.gz",
-      "hash": "0qviz4n73b3zd59fcvqx07z2vvdh3l0qz9xr1msfb6m150342qqv"
+      "revision": "830ec3893eeb2b21d182864b56931ca6d23d3e29",
+      "url": "https://github.com/neovim/nvim-lspconfig/archive/830ec3893eeb2b21d182864b56931ca6d23d3e29.tar.gz",
+      "hash": "0462s282n0aqdlwqf5dp9llyf79finf91hn4zhwvphl7v67rwh6b"
     },
     "nvim-navbuddy": {
       "type": "Git",
@@ -3679,9 +3679,9 @@
         "repo": "trouble.nvim"
       },
       "branch": "main",
-      "revision": "b4b9355ccb2aa02043d830c37ceba71b3cdf375f",
-      "url": "https://github.com/folke/trouble.nvim/archive/b4b9355ccb2aa02043d830c37ceba71b3cdf375f.tar.gz",
-      "hash": "0db8y0s400nwngllg9yjssb2ng2inhq25q2cw6m2i06fa33i0j5s"
+      "revision": "c633e8559adf529b85167a4cb489d7358e9efb1a",
+      "url": "https://github.com/folke/trouble.nvim/archive/c633e8559adf529b85167a4cb489d7358e9efb1a.tar.gz",
+      "hash": "002zkf78w00mzzcyncrkif1ars7knsibg7j0q0jkz8i5k0cd4cqk"
     },
     "ts-comments-nvim": {
       "type": "Git",
