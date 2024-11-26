@@ -2383,9 +2383,9 @@
         "repo": "noice.nvim"
       },
       "branch": "main",
-      "revision": "5af819a250f6b73727e10bab09df61673e5db7f2",
-      "url": "https://github.com/folke/noice.nvim/archive/5af819a250f6b73727e10bab09df61673e5db7f2.tar.gz",
-      "hash": "1wlwbbqy19knbac9i5qxjsgv9ywklfsgzc9csbbp6kcqdagzr784"
+      "revision": "16ddc5650f14b3025b7ccabaf708e615042b8a84",
+      "url": "https://github.com/folke/noice.nvim/archive/16ddc5650f14b3025b7ccabaf708e615042b8a84.tar.gz",
+      "hash": "036sd4drjz6a01wcjlai24zn6shvy8sxbkdbrd8w9bk6pr91pjjs"
     },
     "none-ls-nvim": {
       "type": "Git",
@@ -2719,9 +2719,9 @@
         "repo": "nvim-spider"
       },
       "branch": "main",
-      "revision": "0ed015db59e2e07647d9f08aa7fc090c760f3947",
-      "url": "https://github.com/chrisgrieser/nvim-spider/archive/0ed015db59e2e07647d9f08aa7fc090c760f3947.tar.gz",
-      "hash": "09csziqx52fqbh404bysnwc01pbhv6fa2v2yf2bn6sr0mqhyfv7k"
+      "revision": "643a755b09b749f730f7bddef8bbcf71f2dddeac",
+      "url": "https://github.com/chrisgrieser/nvim-spider/archive/643a755b09b749f730f7bddef8bbcf71f2dddeac.tar.gz",
+      "hash": "0n54hq2s60ipv54l837xas8jgrwz2l5h82aksnmxc3hl2v2n6xmf"
     },
     "nvim-surround": {
       "type": "Git",
@@ -4159,9 +4159,9 @@
         "repo": "which-key.nvim"
       },
       "branch": "main",
-      "revision": "68e37e12913a66b60073906f5d3f14dee0de19f2",
-      "url": "https://github.com/folke/which-key.nvim/archive/68e37e12913a66b60073906f5d3f14dee0de19f2.tar.gz",
-      "hash": "134k8p7d69mg4k1cnb432bxl8sm7kf2y3hlzwz0jby7nwff99pp6"
+      "revision": "b9684c6ec54d8a8452bdcf0d613c7ad0223fc3fe",
+      "url": "https://github.com/folke/which-key.nvim/archive/b9684c6ec54d8a8452bdcf0d613c7ad0223fc3fe.tar.gz",
+      "hash": "09rlc8m6l49ws10kvz3sfzfy3fmailhq11c4nmxns63962wr7q31"
     },
     "wilder-nvim": {
       "type": "Git",
