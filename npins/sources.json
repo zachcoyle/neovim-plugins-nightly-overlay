@@ -140,9 +140,9 @@
         "repo": "barbar.nvim"
       },
       "branch": "master",
-      "revision": "508864eb63178187faa06c59b283fd0a266d2844",
-      "url": "https://github.com/romgrk/barbar.nvim/archive/508864eb63178187faa06c59b283fd0a266d2844.tar.gz",
-      "hash": "01z8iyyxjgwqyaq2xg310qddgpylaqmpdcv6z5fcx6gvqv6rcnnp"
+      "revision": "5c0abe2331837dcd3830f7429ddb9b8340c9fa93",
+      "url": "https://github.com/romgrk/barbar.nvim/archive/5c0abe2331837dcd3830f7429ddb9b8340c9fa93.tar.gz",
+      "hash": "1famzg92g7h6ffd586017gm08zzm7zj7n5br96nmprlp513w5rc9"
     },
     "barbecue-nvim": {
       "type": "Git",
@@ -2671,9 +2671,9 @@
         "repo": "nvim-scrollview"
       },
       "branch": "main",
-      "revision": "9e30464f452dd61ed9ffe42b4965ef7b96f5b7e8",
-      "url": "https://github.com/dstein64/nvim-scrollview/archive/9e30464f452dd61ed9ffe42b4965ef7b96f5b7e8.tar.gz",
-      "hash": "0izhkm0pr3ngx7ndn3sy12097f2q275rsk90xcc5g0ylf7qcli7y"
+      "revision": "4d60c594d78e97189c1e38720e74f13c6f5c311f",
+      "url": "https://github.com/dstein64/nvim-scrollview/archive/4d60c594d78e97189c1e38720e74f13c6f5c311f.tar.gz",
+      "hash": "0x7w1y95pz3f3jy97qrj2vww00n2drxw5g2hxs0x9s2vzqcxi42p"
     },
     "nvim-snippets": {
       "type": "Git",
