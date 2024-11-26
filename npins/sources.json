@@ -2443,9 +2443,9 @@
         "repo": "nvim-bacon"
       },
       "branch": "main",
-      "revision": "e843501a3311105db7ce885ea54123b07fe31a1f",
-      "url": "https://github.com/Canop/nvim-bacon/archive/e843501a3311105db7ce885ea54123b07fe31a1f.tar.gz",
-      "hash": "0yf9pj2pj9l38pj0f6yn4m07b7xgp8nsj2mvrizwx2fmg6rh7vri"
+      "revision": "25eaf9daa29ef7c335578bd9600e2c6349f16ed1",
+      "url": "https://github.com/Canop/nvim-bacon/archive/25eaf9daa29ef7c335578bd9600e2c6349f16ed1.tar.gz",
+      "hash": "0b8hqbzamw7bsgag9wriayz08fyidis6h4c7gldavnam00p8hjcr"
     },
     "nvim-blame-line": {
       "type": "Git",
@@ -2755,9 +2755,9 @@
         "repo": "nvim-treesitter"
       },
       "branch": "master",
-      "revision": "d14bc4bd15a7b9b5a9e7977c6a28f2cab6c4ad4a",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/d14bc4bd15a7b9b5a9e7977c6a28f2cab6c4ad4a.tar.gz",
-      "hash": "1hwlvw8imjh1w7y62rm9i17p13aw07i803xn5yavaqxlky65zf5w"
+      "revision": "28591731d84c2fc18ddda60e1d53da24c31c4987",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/28591731d84c2fc18ddda60e1d53da24c31c4987.tar.gz",
+      "hash": "0nxj4jz00p1bch9ji4acksiilc2kglsvixwf57wgiq8nlkwnsp6l"
     },
     "nvim-treesitter-context": {
       "type": "Git",
