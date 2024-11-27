@@ -2599,9 +2599,9 @@
         "repo": "nvim-lspconfig"
       },
       "branch": "master",
-      "revision": "65f02d8e4b66db9ec99618c43233963545b70298",
-      "url": "https://github.com/neovim/nvim-lspconfig/archive/65f02d8e4b66db9ec99618c43233963545b70298.tar.gz",
-      "hash": "000j5yz9g0rmh6lw75kavl505nmk1n98gmyj0xr64vc31z14sxr3"
+      "revision": "5d8288c794de811d41490ed6f616d6271e2c1c98",
+      "url": "https://github.com/neovim/nvim-lspconfig/archive/5d8288c794de811d41490ed6f616d6271e2c1c98.tar.gz",
+      "hash": "0v4vvpc7v5fqs09av7ca8hql4d4g6d8krs2zjilsw3j8sq5025nb"
     },
     "nvim-navbuddy": {
       "type": "Git",
@@ -2827,9 +2827,9 @@
         "repo": "nvim-ufo"
       },
       "branch": "main",
-      "revision": "e9886b2b3381b49cadb11ef62a8c51f662927232",
-      "url": "https://github.com/kevinhwang91/nvim-ufo/archive/e9886b2b3381b49cadb11ef62a8c51f662927232.tar.gz",
-      "hash": "11svvrgal2mv8hidjz3sa1alndq3jq2qf32031f586qlm8j0fmiq"
+      "revision": "07f7ea35fe233ab99b5a9137d01140615cdfb4c9",
+      "url": "https://github.com/kevinhwang91/nvim-ufo/archive/07f7ea35fe233ab99b5a9137d01140615cdfb4c9.tar.gz",
+      "hash": "17l8k6gxcxlkfdk0sh0g86g3y4bqkqm04y4hxjrzlqwjdmgiw2zz"
     },
     "nvim-web-devicons": {
       "type": "Git",
