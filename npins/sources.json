@@ -44,9 +44,9 @@
         "repo": "SchemaStore.nvim"
       },
       "branch": "main",
-      "revision": "bbd005a56daab7a19ceea22360a836957ac2c42c",
-      "url": "https://github.com/b0o/SchemaStore.nvim/archive/bbd005a56daab7a19ceea22360a836957ac2c42c.tar.gz",
-      "hash": "0jixj9m0k0cwqv0lr3h4jq36ryzjkpm4418jj3qdva8d87l5lp06"
+      "revision": "3944983d4194a29730742c908e58b48ad1f51cbf",
+      "url": "https://github.com/b0o/SchemaStore.nvim/archive/3944983d4194a29730742c908e58b48ad1f51cbf.tar.gz",
+      "hash": "1kf1srvqb7q81x2vgjs64kr04sgkwkp8zf48v6acy6wyk9h0xgrl"
     },
     "alpha-nvim": {
       "type": "Git",
@@ -1268,9 +1268,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "0fb913b299d22375cf6cfb930825231420c4d5f2",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/0fb913b299d22375cf6cfb930825231420c4d5f2.tar.gz",
-      "hash": "09px1zf3di9gsvkhci41v2a0d4yxpl7gcvh61gngkjdswxs8h18c"
+      "revision": "4678ab09af8c7f37890750938040b2f9fca9a15e",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/4678ab09af8c7f37890750938040b2f9fca9a15e.tar.gz",
+      "hash": "1nwqg687z799lv9rp7ppjzs6jvwpmd2pln05gk9q7jr2d9c4gwpv"
     },
     "galaxyline-nvim": {
       "type": "Git",
