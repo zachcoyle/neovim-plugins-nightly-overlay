@@ -2011,9 +2011,9 @@
         "repo": "neogit"
       },
       "branch": "master",
-      "revision": "8104dcf87a0e8095f694c8ed24575695871e8ebb",
-      "url": "https://github.com/TimUntersberger/neogit/archive/8104dcf87a0e8095f694c8ed24575695871e8ebb.tar.gz",
-      "hash": "0ir0x33ndrbzbbhlf7rf198mm1r6hrwsjfimi3y83dyyzfk368m2"
+      "revision": "30b53e3c8562111474c446ce7d176ddc8dabe130",
+      "url": "https://github.com/TimUntersberger/neogit/archive/30b53e3c8562111474c446ce7d176ddc8dabe130.tar.gz",
+      "hash": "11b1yzg6jd4x3hmzdp45xy22gbzj8gf43s7qf8d69yr8j23flqkd"
     },
     "neon": {
       "type": "Git",
@@ -3139,9 +3139,9 @@
         "repo": "render-markdown.nvim"
       },
       "branch": "main",
-      "revision": "3a319cdbefebf0079a7012dab6b1bfc18ca5b97f",
-      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/3a319cdbefebf0079a7012dab6b1bfc18ca5b97f.tar.gz",
-      "hash": "1fzc25wvxb92mc7y9chgbk13rm6yp2wdhxdmgp64zxay8cafgngx"
+      "revision": "634acd5da964c32f6947cd0c7802d7a116662665",
+      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/634acd5da964c32f6947cd0c7802d7a116662665.tar.gz",
+      "hash": "1ydmc1ky3wk7jdb6q5zkgl6v0kw8j4m21fdcjwvp9gsim7r3dz76"
     },
     "rest-nvim": {
       "type": "Git",
