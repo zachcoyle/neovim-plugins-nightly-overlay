@@ -2011,9 +2011,9 @@
         "repo": "neogit"
       },
       "branch": "master",
-      "revision": "aaf7365b0b928fd3ace072932be2782e56ceced6",
-      "url": "https://github.com/TimUntersberger/neogit/archive/aaf7365b0b928fd3ace072932be2782e56ceced6.tar.gz",
-      "hash": "0rqhgw6clv12azshydrnw182n5xjy70agpdlx8ipb0c1m5fx0xmf"
+      "revision": "a394568d88d3aab9289c96308796e882b7646645",
+      "url": "https://github.com/TimUntersberger/neogit/archive/a394568d88d3aab9289c96308796e882b7646645.tar.gz",
+      "hash": "1wfcph946jd4a2ldjcvqdspprxwzl2cp9xpgk7905p60nknh6mp4"
     },
     "neon": {
       "type": "Git",
@@ -2527,9 +2527,9 @@
         "repo": "nvim-dap"
       },
       "branch": "master",
-      "revision": "cc92b054720a96170eca6bd9bdedd43d2b0a7a8a",
-      "url": "https://github.com/mfussenegger/nvim-dap/archive/cc92b054720a96170eca6bd9bdedd43d2b0a7a8a.tar.gz",
-      "hash": "12c6c9m2p3lbg7b49mzid91yk64p3jnvdj8lmydk4wy5vlcm8k8h"
+      "revision": "d0ac996fe4e703844d341a754109948ea5888e23",
+      "url": "https://github.com/mfussenegger/nvim-dap/archive/d0ac996fe4e703844d341a754109948ea5888e23.tar.gz",
+      "hash": "1v0mard4y1ma6q64f16ngkp9jx214h49p1il0n3cq1plqjp5r35i"
     },
     "nvim-dap-virtual-text": {
       "type": "Git",
@@ -2599,9 +2599,9 @@
         "repo": "nvim-lspconfig"
       },
       "branch": "master",
-      "revision": "718f3c7a0f9026e79bb9a79dc6ca48ba5b32c1c0",
-      "url": "https://github.com/neovim/nvim-lspconfig/archive/718f3c7a0f9026e79bb9a79dc6ca48ba5b32c1c0.tar.gz",
-      "hash": "0cwp3anhkmmcffqrbj3jpmqynpc07jvd2d7z68xki0pr9s5av36z"
+      "revision": "d651732cecfc77be1b3727512bec0438c22410d1",
+      "url": "https://github.com/neovim/nvim-lspconfig/archive/d651732cecfc77be1b3727512bec0438c22410d1.tar.gz",
+      "hash": "0vbv9vpbqrjwbczv16dp2mgn2sph22zjcqvs1xlpc5hvvach65qy"
     },
     "nvim-navbuddy": {
       "type": "Git",
