@@ -2059,9 +2059,9 @@
         "repo": "neoscroll.nvim"
       },
       "branch": "master",
-      "revision": "e58ecc61e38f348dcc8f2af037fe7031f8a6ef7c",
-      "url": "https://github.com/karb94/neoscroll.nvim/archive/e58ecc61e38f348dcc8f2af037fe7031f8a6ef7c.tar.gz",
-      "hash": "08bq6adrafkkczbd314rbi0yzk66fpqk3z0g2j52sq7fff2v8fgm"
+      "revision": "81c47f9d111c00d13111b65bfd13cc81b7b347a1",
+      "url": "https://github.com/karb94/neoscroll.nvim/archive/81c47f9d111c00d13111b65bfd13cc81b7b347a1.tar.gz",
+      "hash": "120jxrn3lsm5y13zx6kjnxiaf0jx0wqinpn3k2ii1ryaf6055yhv"
     },
     "neotest": {
       "type": "Git",
@@ -3139,9 +3139,9 @@
         "repo": "render-markdown.nvim"
       },
       "branch": "main",
-      "revision": "6096cf3608b576a38fd1396227dbc0473091714d",
-      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/6096cf3608b576a38fd1396227dbc0473091714d.tar.gz",
-      "hash": "1ssfi9lvvfkx7dqmmcz5995kjwy7i71abzi38x0qpp2l3hwxdz3g"
+      "revision": "3a319cdbefebf0079a7012dab6b1bfc18ca5b97f",
+      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/3a319cdbefebf0079a7012dab6b1bfc18ca5b97f.tar.gz",
+      "hash": "1fzc25wvxb92mc7y9chgbk13rm6yp2wdhxdmgp64zxay8cafgngx"
     },
     "rest-nvim": {
       "type": "Git",
