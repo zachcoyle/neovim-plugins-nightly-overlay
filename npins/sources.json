@@ -812,9 +812,9 @@
         "repo": "cmp_yanky"
       },
       "branch": "main",
-      "revision": "042cbc4ffc62fcc75d9f0c8d9252fde770ac6bd0",
-      "url": "https://github.com/chrisgrieser/cmp_yanky/archive/042cbc4ffc62fcc75d9f0c8d9252fde770ac6bd0.tar.gz",
-      "hash": "0ay1rhi7kkgcp1wgvwf36cg8xzz2wzm5yq7f9j7a1ds8hm5m6l3z"
+      "revision": "fcd2e221f072ef917ed45583de0ee34d43685347",
+      "url": "https://github.com/chrisgrieser/cmp_yanky/archive/fcd2e221f072ef917ed45583de0ee34d43685347.tar.gz",
+      "hash": "0404bqwarm86f0d6ryagvyfzi0gf2z5ap4hn1wlhqzr5zv9x55nn"
     },
     "codeium-nvim": {
       "type": "Git",
@@ -2719,9 +2719,9 @@
         "repo": "nvim-spider"
       },
       "branch": "main",
-      "revision": "fc7857bbda37b5f76c47baf4d609e393ee742eeb",
-      "url": "https://github.com/chrisgrieser/nvim-spider/archive/fc7857bbda37b5f76c47baf4d609e393ee742eeb.tar.gz",
-      "hash": "0j9w5a5620ln955kwfjf8cpz9jvkvzsnsfidzyvakg3a2nx00dq4"
+      "revision": "77a74131775f7d427f148c65a6119966a0b3da25",
+      "url": "https://github.com/chrisgrieser/nvim-spider/archive/77a74131775f7d427f148c65a6119966a0b3da25.tar.gz",
+      "hash": "1naz9h6620jh6grx71cd6sbd1dabgi611wq6gjjp6vd6ia52vsmg"
     },
     "nvim-surround": {
       "type": "Git",
