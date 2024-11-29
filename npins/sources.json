@@ -2011,9 +2011,9 @@
         "repo": "neogit"
       },
       "branch": "master",
-      "revision": "25dda3895e6dbbd982b32f6213b6de61f07e9252",
-      "url": "https://github.com/TimUntersberger/neogit/archive/25dda3895e6dbbd982b32f6213b6de61f07e9252.tar.gz",
-      "hash": "0k9gdmyzick6642cf7rmcghbygl6fmzgx3l8q7w0y9zwklsf7dgh"
+      "revision": "d7772bca4ac00c02282b0d02623f2f8316c21f32",
+      "url": "https://github.com/TimUntersberger/neogit/archive/d7772bca4ac00c02282b0d02623f2f8316c21f32.tar.gz",
+      "hash": "1vjw130p3rwxm0b7xc3mhflq74m9arlkaqczjm501rqi3xjnqila"
     },
     "neon": {
       "type": "Git",
@@ -3199,9 +3199,9 @@
         "repo": "smart-splits.nvim"
       },
       "branch": "master",
-      "revision": "d8b0e772a0244169534b1fd57c1660c9bf323d26",
-      "url": "https://github.com/mrjones2014/smart-splits.nvim/archive/d8b0e772a0244169534b1fd57c1660c9bf323d26.tar.gz",
-      "hash": "0qrfgml81pfsnk9hn835qdacscqy8m9xbaxikb8ikqwk87s52lqv"
+      "revision": "07f9614f5b9405392d3b22fca9f51a9857f2d9b3",
+      "url": "https://github.com/mrjones2014/smart-splits.nvim/archive/07f9614f5b9405392d3b22fca9f51a9857f2d9b3.tar.gz",
+      "hash": "0rn4vhvcm0cqwb8srhwkzyrlw9vaiji7rb8084z1z4wxmm41rlsy"
     },
     "smartcolumn-nvim": {
       "type": "Git",
