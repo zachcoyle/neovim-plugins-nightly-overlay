@@ -2299,9 +2299,9 @@
         "repo": "neotest-rspec"
       },
       "branch": "main",
-      "revision": "53fc108a06ae43d7f873d42ee5189c2301e33623",
-      "url": "https://github.com/olimorris/neotest-rspec/archive/53fc108a06ae43d7f873d42ee5189c2301e33623.tar.gz",
-      "hash": "0z8vh5miw3ysn4y45i4ckyc7s1k104l4m4yrpf7rx2wbd5gmkshw"
+      "revision": "a7910019d723a214d95400dd59317cf15561dba1",
+      "url": "https://github.com/olimorris/neotest-rspec/archive/a7910019d723a214d95400dd59317cf15561dba1.tar.gz",
+      "hash": "0j0z73b52asz403vmacl6hjjkm5j7dl03npc0w7ihc9v5kwl30j9"
     },
     "neotest-rust": {
       "type": "Git",
@@ -2527,9 +2527,9 @@
         "repo": "nvim-dap"
       },
       "branch": "master",
-      "revision": "3c00a6016892625b4477bd95be4d5d0cebc7d9c5",
-      "url": "https://github.com/mfussenegger/nvim-dap/archive/3c00a6016892625b4477bd95be4d5d0cebc7d9c5.tar.gz",
-      "hash": "0rqfcjsjpjp82y3y84khcj0n538y8vs2f8fq4j0c5r3xpafxk7rw"
+      "revision": "2f193363fe61222bbf937974341a353e0d3f33ff",
+      "url": "https://github.com/mfussenegger/nvim-dap/archive/2f193363fe61222bbf937974341a353e0d3f33ff.tar.gz",
+      "hash": "05qscs1179a8akb3nv2ccy6aqanishbz7sznvpbw29qq0m7pa6ri"
     },
     "nvim-dap-virtual-text": {
       "type": "Git",
