@@ -1819,9 +1819,9 @@
         "repo": "LuaSnip"
       },
       "branch": "master",
-      "revision": "0f7bbce41ea152a94d12aea286f2ce98e63c0f58",
-      "url": "https://github.com/L3MON4D3/LuaSnip/archive/0f7bbce41ea152a94d12aea286f2ce98e63c0f58.tar.gz",
-      "hash": "18pqzkrd2ibjdfssqzjpsv1q3qsh572818p4faxapvzlfb77jpv2"
+      "revision": "4e584350cacddfccc137e9c828343eeaa4a57899",
+      "url": "https://github.com/L3MON4D3/LuaSnip/archive/4e584350cacddfccc137e9c828343eeaa4a57899.tar.gz",
+      "hash": "0aplz55827lwsd7ypkj58cnanbd4820qpglxwp7d4w2bgnpp0bhp"
     },
     "lz-n": {
       "type": "Git",
@@ -2755,9 +2755,9 @@
         "repo": "nvim-treesitter"
       },
       "branch": "master",
-      "revision": "f6f159a293876792dbd72db33c36c6fcf8d40e42",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/f6f159a293876792dbd72db33c36c6fcf8d40e42.tar.gz",
-      "hash": "06ixbm6i2c11p72p0a0ajznb38gl7syjjkxgnaqpa09hmkbq6jw2"
+      "revision": "454354e5998edb448111574e58d5f5f2d6a940bd",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/454354e5998edb448111574e58d5f5f2d6a940bd.tar.gz",
+      "hash": "0drz3yvmvjnw5kyhnybm6v5rakbn28jvf2sn7r3n7m3axy2sz8di"
     },
     "nvim-treesitter-context": {
       "type": "Git",
