@@ -1915,9 +1915,9 @@
         "repo": "mini.nvim"
       },
       "branch": "main",
-      "revision": "c8922aef8207137e66c80acdb9523668599ba62a",
-      "url": "https://github.com/echasnovski/mini.nvim/archive/c8922aef8207137e66c80acdb9523668599ba62a.tar.gz",
-      "hash": "0syc3gwnspbncx7lbg0zd5m9wdpd4cwsghzzlp5dqzjlzk0c6s6m"
+      "revision": "ad46fda7862153107124f95d4ea0e510eafc1dd8",
+      "url": "https://github.com/echasnovski/mini.nvim/archive/ad46fda7862153107124f95d4ea0e510eafc1dd8.tar.gz",
+      "hash": "17hpxcnvc3jrk140clbl0wcj3zfzk35rnnmp0qx9qvryq4m6hd4f"
     },
     "mkdnflow-nvim": {
       "type": "Git",
@@ -2827,9 +2827,9 @@
         "repo": "nvim-ufo"
       },
       "branch": "main",
-      "revision": "1ebb9ea3507f3a40ce8b0489fb259ab32b1b5877",
-      "url": "https://github.com/kevinhwang91/nvim-ufo/archive/1ebb9ea3507f3a40ce8b0489fb259ab32b1b5877.tar.gz",
-      "hash": "1kqmf7wc47fl1x8wnj1dynvqvg45n2iwa58s0skxazmcx8db1yzm"
+      "revision": "9afe89f9323c67584bfc7bfa216e0df1b745c5cc",
+      "url": "https://github.com/kevinhwang91/nvim-ufo/archive/9afe89f9323c67584bfc7bfa216e0df1b745c5cc.tar.gz",
+      "hash": "0qasfvb9mjz1zihly79q4bn1fpibnvksk69v4pjnqb6z8ixklbl3"
     },
     "nvim-web-devicons": {
       "type": "Git",
@@ -3139,9 +3139,9 @@
         "repo": "render-markdown.nvim"
       },
       "branch": "main",
-      "revision": "1b5d11734122d9451d2e5e2e567fd61a62822293",
-      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/1b5d11734122d9451d2e5e2e567fd61a62822293.tar.gz",
-      "hash": "02fddrl1lz4j090wbdk3pngzbjngmjlr87m651zw51w05zvdnb7y"
+      "revision": "f3cda24c71261f6a52f5ddafb95786684d862d87",
+      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/f3cda24c71261f6a52f5ddafb95786684d862d87.tar.gz",
+      "hash": "1ivvczs1yxi6cy0n0ihlaj4r97l7pld1qq90rx6rps8190di036z"
     },
     "rest-nvim": {
       "type": "Git",
