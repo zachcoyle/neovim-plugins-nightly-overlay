@@ -20,9 +20,9 @@
         "repo": "CopilotChat.nvim"
       },
       "branch": "main",
-      "revision": "e1e1a54c69eed2fed9baf7fadb05f791ce3f5939",
-      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/e1e1a54c69eed2fed9baf7fadb05f791ce3f5939.tar.gz",
-      "hash": "0841650fa8xvfr8mhfhn6r5s3hwaflmqj5vqyg6wrl54brx3l5bg"
+      "revision": "4c60726a58ef4d744c150d13ffef186d00edf4ed",
+      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/4c60726a58ef4d744c150d13ffef186d00edf4ed.tar.gz",
+      "hash": "1zkm2ll707zjg5465c41p7zndg7xzqminh4fz308k7bhm6q3p2sv"
     },
     "Preview-nvim": {
       "type": "Git",
@@ -2299,9 +2299,9 @@
         "repo": "neotest-rspec"
       },
       "branch": "main",
-      "revision": "a7910019d723a214d95400dd59317cf15561dba1",
-      "url": "https://github.com/olimorris/neotest-rspec/archive/a7910019d723a214d95400dd59317cf15561dba1.tar.gz",
-      "hash": "0j0z73b52asz403vmacl6hjjkm5j7dl03npc0w7ihc9v5kwl30j9"
+      "revision": "840745b692be013dbefdbc3b155da8f81a180299",
+      "url": "https://github.com/olimorris/neotest-rspec/archive/840745b692be013dbefdbc3b155da8f81a180299.tar.gz",
+      "hash": "1rpb5y3j0cr3yb9acyrq8dg5954dl2byza77c7j0pqcbb4jnazza"
     },
     "neotest-rust": {
       "type": "Git",
@@ -2755,9 +2755,9 @@
         "repo": "nvim-treesitter"
       },
       "branch": "master",
-      "revision": "70d44dad700512460aa76e9299ed00e0f53f3164",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/70d44dad700512460aa76e9299ed00e0f53f3164.tar.gz",
-      "hash": "0pylrishh6p531dlmz6x92d9nvk8bqwdj67sknkyq2x32bfjxm6d"
+      "revision": "69170c93149ddb71a22bd954514806395c430c02",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/69170c93149ddb71a22bd954514806395c430c02.tar.gz",
+      "hash": "1hr1n8jmb930y7m01mn6lp0b2z3nglg0c7h33xndxvbzb52pvfm2"
     },
     "nvim-treesitter-context": {
       "type": "Git",
@@ -3139,9 +3139,9 @@
         "repo": "render-markdown.nvim"
       },
       "branch": "main",
-      "revision": "f3cda24c71261f6a52f5ddafb95786684d862d87",
-      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/f3cda24c71261f6a52f5ddafb95786684d862d87.tar.gz",
-      "hash": "1ivvczs1yxi6cy0n0ihlaj4r97l7pld1qq90rx6rps8190di036z"
+      "revision": "61850bf7df4af8398e97559a35b62378ba8435b1",
+      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/61850bf7df4af8398e97559a35b62378ba8435b1.tar.gz",
+      "hash": "0d38m572yr8mx42xj9lrh543054rka0gyv59254bg7828lzawfxp"
     },
     "rest-nvim": {
       "type": "Git",
