@@ -824,9 +824,9 @@
         "repo": "codeium.nvim"
       },
       "branch": "main",
-      "revision": "dddaee0d1e9a1d0bcaea66f08a8103b3cdf26604",
-      "url": "https://github.com/Exafunction/codeium.nvim/archive/dddaee0d1e9a1d0bcaea66f08a8103b3cdf26604.tar.gz",
-      "hash": "17wrbhlm9zrskrxn78pin54qp9q8vdn6yahfdmr9763vzjf88cml"
+      "revision": "27d2b1ce8c7ba14dbf6e4504bdea8e5548be5476",
+      "url": "https://github.com/Exafunction/codeium.nvim/archive/27d2b1ce8c7ba14dbf6e4504bdea8e5548be5476.tar.gz",
+      "hash": "15ng0dx1ly78svmpzk29ssqr4bg6jg4gzxj6gvfrwzpg3cd4fd4a"
     },
     "codeium-vim": {
       "type": "Git",
@@ -1052,9 +1052,9 @@
         "repo": "debugprint.nvim"
       },
       "branch": "main",
-      "revision": "2bc4a89e94643ad0c42f4a8743cf97f8ed2a0b41",
-      "url": "https://github.com/andrewferrier/debugprint.nvim/archive/2bc4a89e94643ad0c42f4a8743cf97f8ed2a0b41.tar.gz",
-      "hash": "1br2m7xg5q8ddgj7jmb34ji8s19cfsxbl3s3nbaw9a5nqmy238zs"
+      "revision": "db9a1447c21499a695f333c317fda206aa9840b8",
+      "url": "https://github.com/andrewferrier/debugprint.nvim/archive/db9a1447c21499a695f333c317fda206aa9840b8.tar.gz",
+      "hash": "1s8cw433wbz7jni9vs2mxmpbxv7d4xah7kbpwrx7kv6hbaps1ph4"
     },
     "diffview-nvim": {
       "type": "Git",
@@ -2011,9 +2011,9 @@
         "repo": "neogit"
       },
       "branch": "master",
-      "revision": "446197d90d179d579fa9c6970d4f98d494a2090b",
-      "url": "https://github.com/TimUntersberger/neogit/archive/446197d90d179d579fa9c6970d4f98d494a2090b.tar.gz",
-      "hash": "0glq28dlmxrz1jc4x1s1j5538h0s6pfrwca56azd02zv83az1wn5"
+      "revision": "9b40f4057694b560d2c167172172cc4ff8903870",
+      "url": "https://github.com/TimUntersberger/neogit/archive/9b40f4057694b560d2c167172172cc4ff8903870.tar.gz",
+      "hash": "1jz54z97z50ydngkjgbv022i2asw7wnghhx62fgnmjjgkymwxsjl"
     },
     "neon": {
       "type": "Git",
@@ -2299,9 +2299,9 @@
         "repo": "neotest-rspec"
       },
       "branch": "main",
-      "revision": "840745b692be013dbefdbc3b155da8f81a180299",
-      "url": "https://github.com/olimorris/neotest-rspec/archive/840745b692be013dbefdbc3b155da8f81a180299.tar.gz",
-      "hash": "1rpb5y3j0cr3yb9acyrq8dg5954dl2byza77c7j0pqcbb4jnazza"
+      "revision": "64287b022b68038ec2ffeecb9decd33fa36a0878",
+      "url": "https://github.com/olimorris/neotest-rspec/archive/64287b022b68038ec2ffeecb9decd33fa36a0878.tar.gz",
+      "hash": "038a7i544jb70lfq5ih5ifziq6qzqq1pfd1wwcn2g23s9gvbj4mc"
     },
     "neotest-rust": {
       "type": "Git",
@@ -2803,9 +2803,9 @@
         "repo": "nvim-ts-autotag"
       },
       "branch": "main",
-      "revision": "f2d24aca1bcbbd2c0306fd93d52e3697027b77ff",
-      "url": "https://github.com/windwp/nvim-ts-autotag/archive/f2d24aca1bcbbd2c0306fd93d52e3697027b77ff.tar.gz",
-      "hash": "19xlrarp17p4rblq8wlzgs4fm2ba273xazh3r4wf2wmxnmm79l8y"
+      "revision": "1cca23c9da708047922d3895a71032bc0449c52d",
+      "url": "https://github.com/windwp/nvim-ts-autotag/archive/1cca23c9da708047922d3895a71032bc0449c52d.tar.gz",
+      "hash": "0fp8q08giyf4vi25hylsjmawcx56l5xhgmj3rli3ca9k28a56qxz"
     },
     "nvim-ts-context-commentstring": {
       "type": "Git",
