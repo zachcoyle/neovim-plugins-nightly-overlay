@@ -20,9 +20,9 @@
         "repo": "CopilotChat.nvim"
       },
       "branch": "main",
-      "revision": "4c60726a58ef4d744c150d13ffef186d00edf4ed",
-      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/4c60726a58ef4d744c150d13ffef186d00edf4ed.tar.gz",
-      "hash": "1zkm2ll707zjg5465c41p7zndg7xzqminh4fz308k7bhm6q3p2sv"
+      "revision": "86bdee82848955641e14930e0593820cf9b161bf",
+      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/86bdee82848955641e14930e0593820cf9b161bf.tar.gz",
+      "hash": "015vbn3q9d4a09baqbll49qfiahiwdqk2rgwipanyq11g7h5q5vn"
     },
     "Preview-nvim": {
       "type": "Git",
@@ -3643,9 +3643,9 @@
         "repo": "tokyonight.nvim"
       },
       "branch": "main",
-      "revision": "c2725eb6d086c8c9624456d734bd365194660017",
-      "url": "https://github.com/folke/tokyonight.nvim/archive/c2725eb6d086c8c9624456d734bd365194660017.tar.gz",
-      "hash": "02662k6kxaf19w17fq71zc6hv4yylgzzmrrhhzid0sz0ghafb9dw"
+      "revision": "3d02469b98396dc03e87a4f4b64e109801ef6890",
+      "url": "https://github.com/folke/tokyonight.nvim/archive/3d02469b98396dc03e87a4f4b64e109801ef6890.tar.gz",
+      "hash": "0xa137nlic3djn8ld2mlhgsa8cgdl779qkx8brdhkvh01wjkkqx9"
     },
     "transparent-nvim": {
       "type": "Git",
