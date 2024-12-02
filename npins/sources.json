@@ -20,9 +20,9 @@
         "repo": "CopilotChat.nvim"
       },
       "branch": "main",
-      "revision": "b99aabf5138f3949f139df334828d0eb7859cc27",
-      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/b99aabf5138f3949f139df334828d0eb7859cc27.tar.gz",
-      "hash": "04c20igpdcvxlq0qvsdha699d8zhzcq19zy9z249dwkffdsyra5r"
+      "revision": "6c7a6871e32bbd7afdc01597fc5605d8991bfbc3",
+      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/6c7a6871e32bbd7afdc01597fc5605d8991bfbc3.tar.gz",
+      "hash": "1pl5x04z03d8qyr2cvwd8z8w8b5aclpgpl989vnk3s44v73j28yc"
     },
     "Preview-nvim": {
       "type": "Git",
@@ -1244,9 +1244,9 @@
         "repo": "friendly-snippets"
       },
       "branch": "main",
-      "revision": "59c18134ac92bb9444f9e37fd52ea428b4065e9f",
-      "url": "https://github.com/rafamadriz/friendly-snippets/archive/59c18134ac92bb9444f9e37fd52ea428b4065e9f.tar.gz",
-      "hash": "0qrjdkfjxq2wal9x4psz2h59x3w7ahxv4aphww4pps47c4ivv2af"
+      "revision": "efff286dd74c22f731cdec26a70b46e5b203c619",
+      "url": "https://github.com/rafamadriz/friendly-snippets/archive/efff286dd74c22f731cdec26a70b46e5b203c619.tar.gz",
+      "hash": "1vb5l8ipfjwsrqffbq8v2z5p1cpg035b3gk57692wd7835kr3i13"
     },
     "fzf-lsp-nvim": {
       "type": "Git",
