@@ -932,9 +932,9 @@
         "repo": "conform.nvim"
       },
       "branch": "master",
-      "revision": "7a3d99eb151e636670ce4842ab073d7485f7bc61",
-      "url": "https://github.com/stevearc/conform.nvim/archive/7a3d99eb151e636670ce4842ab073d7485f7bc61.tar.gz",
-      "hash": "1fbm1wy1ianmm4bz5n84rq4d5ib64m08sdylwpkn5cr3wqq9nqi3"
+      "revision": "d2fdcc3fa48cf2f2696f13730a5c74f97a7e9677",
+      "url": "https://github.com/stevearc/conform.nvim/archive/d2fdcc3fa48cf2f2696f13730a5c74f97a7e9677.tar.gz",
+      "hash": "011kvwasyygp1mw4nfl0fw5jzy3xaa276325lpc9vslw1h25i0sk"
     },
     "conjure": {
       "type": "Git",
@@ -2119,9 +2119,9 @@
         "repo": "neotest-dotnet"
       },
       "branch": "main",
-      "revision": "03509791912eaeac9f993f7cf49e170eca06a8bc",
-      "url": "https://github.com/Issafalcon/neotest-dotnet/archive/03509791912eaeac9f993f7cf49e170eca06a8bc.tar.gz",
-      "hash": "0kz7k26047mzyzsldm8ai1i4wyr7wx0rwpfqj3zh3nncns40b4nl"
+      "revision": "14087e68ff208b4fe7ff577f317ec5013148ea85",
+      "url": "https://github.com/Issafalcon/neotest-dotnet/archive/14087e68ff208b4fe7ff577f317ec5013148ea85.tar.gz",
+      "hash": "00bisybd53bfqqh0lifw5v6nciwgkjlhd6l8nyrwpk5adhd30sw7"
     },
     "neotest-elixir": {
       "type": "Git",
