@@ -2227,9 +2227,9 @@
         "repo": "neotest-minitest"
       },
       "branch": "main",
-      "revision": "5623b9a7b2b27314e5c336b385315d2ab7d4ccba",
-      "url": "https://github.com/zidhuss/neotest-minitest/archive/5623b9a7b2b27314e5c336b385315d2ab7d4ccba.tar.gz",
-      "hash": "0rv4nhvlxl693d4q9jd9a6ym3ib1fwsjzl0911pqjwf9kmnqx4w7"
+      "revision": "7ff057de8ab2c27491ff27c7be9826b8f3bb5ec1",
+      "url": "https://github.com/zidhuss/neotest-minitest/archive/7ff057de8ab2c27491ff27c7be9826b8f3bb5ec1.tar.gz",
+      "hash": "1fxhvnffhci2cfnksf26k6lwnl346rp6pm4fpb30p4xzh4jpvan8"
     },
     "neotest-pest": {
       "type": "Git",
@@ -2719,9 +2719,9 @@
         "repo": "nvim-spider"
       },
       "branch": "main",
-      "revision": "77a74131775f7d427f148c65a6119966a0b3da25",
-      "url": "https://github.com/chrisgrieser/nvim-spider/archive/77a74131775f7d427f148c65a6119966a0b3da25.tar.gz",
-      "hash": "1naz9h6620jh6grx71cd6sbd1dabgi611wq6gjjp6vd6ia52vsmg"
+      "revision": "8b9dc30243336655699179fd095841adb29434cd",
+      "url": "https://github.com/chrisgrieser/nvim-spider/archive/8b9dc30243336655699179fd095841adb29434cd.tar.gz",
+      "hash": "0hy0q443s9lfaln001rr0z1lka9agaczppmx9mjcwwycq2x35k70"
     },
     "nvim-surround": {
       "type": "Git",
@@ -2875,9 +2875,9 @@
         "repo": "oil.nvim"
       },
       "branch": "master",
-      "revision": "3c2de37accead0240fbe812f5ccdedfe0b973557",
-      "url": "https://github.com/stevearc/oil.nvim/archive/3c2de37accead0240fbe812f5ccdedfe0b973557.tar.gz",
-      "hash": "0jwqazdmcr4s1pdv8jjs2a51g6hjmvbsd9d1gsm3afzini5glbi6"
+      "revision": "9a59256c8e88b29d2150e99b5960b2f111e51f75",
+      "url": "https://github.com/stevearc/oil.nvim/archive/9a59256c8e88b29d2150e99b5960b2f111e51f75.tar.gz",
+      "hash": "06b0j6vrih5nh5hw52vc55pywzi01m57v2r6p52p783aqbpp22p9"
     },
     "ollama-nvim": {
       "type": "Git",
