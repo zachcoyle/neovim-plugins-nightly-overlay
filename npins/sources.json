@@ -20,9 +20,9 @@
         "repo": "CopilotChat.nvim"
       },
       "branch": "main",
-      "revision": "86bdee82848955641e14930e0593820cf9b161bf",
-      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/86bdee82848955641e14930e0593820cf9b161bf.tar.gz",
-      "hash": "015vbn3q9d4a09baqbll49qfiahiwdqk2rgwipanyq11g7h5q5vn"
+      "revision": "b82e90ba740d97c525bcd06ff1275daff35637cc",
+      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/b82e90ba740d97c525bcd06ff1275daff35637cc.tar.gz",
+      "hash": "0mrdaqcfs1pyaaxmy3lk9id4acqc288iphk2ps447lzi22r3w2iv"
     },
     "Preview-nvim": {
       "type": "Git",
@@ -1112,9 +1112,9 @@
         "repo": "dropbar.nvim"
       },
       "branch": "master",
-      "revision": "f3b1b03cb717186c3789e8e8a509fd18df4a2d10",
-      "url": "https://github.com/Bekaboo/dropbar.nvim/archive/f3b1b03cb717186c3789e8e8a509fd18df4a2d10.tar.gz",
-      "hash": "04yp8i89ivpia1gz1xz0byckg3yqijp7q6lly4qldr4yafq2i69v"
+      "revision": "d9e19895c856da0cae137d33c114750af2fbab24",
+      "url": "https://github.com/Bekaboo/dropbar.nvim/archive/d9e19895c856da0cae137d33c114750af2fbab24.tar.gz",
+      "hash": "0alhilsn74400gakr84aiqqjish3ngfah41z4p0dwa7r2hv25vvd"
     },
     "earthly-vim": {
       "type": "Git",
