@@ -932,9 +932,9 @@
         "repo": "conform.nvim"
       },
       "branch": "master",
-      "revision": "d2fdcc3fa48cf2f2696f13730a5c74f97a7e9677",
-      "url": "https://github.com/stevearc/conform.nvim/archive/d2fdcc3fa48cf2f2696f13730a5c74f97a7e9677.tar.gz",
-      "hash": "011kvwasyygp1mw4nfl0fw5jzy3xaa276325lpc9vslw1h25i0sk"
+      "revision": "02fd64fb3d4b18ec029c0e0683c3dc3ec6d2c5b8",
+      "url": "https://github.com/stevearc/conform.nvim/archive/02fd64fb3d4b18ec029c0e0683c3dc3ec6d2c5b8.tar.gz",
+      "hash": "05c5mqxrcx6w6llcdr019638rkmppynblmi3rg1zd4j7xb60xawz"
     },
     "conjure": {
       "type": "Git",
@@ -1112,9 +1112,9 @@
         "repo": "dropbar.nvim"
       },
       "branch": "master",
-      "revision": "d9e19895c856da0cae137d33c114750af2fbab24",
-      "url": "https://github.com/Bekaboo/dropbar.nvim/archive/d9e19895c856da0cae137d33c114750af2fbab24.tar.gz",
-      "hash": "0alhilsn74400gakr84aiqqjish3ngfah41z4p0dwa7r2hv25vvd"
+      "revision": "8645c47cad39dd39d9959ce0ebe155865d41f805",
+      "url": "https://github.com/Bekaboo/dropbar.nvim/archive/8645c47cad39dd39d9959ce0ebe155865d41f805.tar.gz",
+      "hash": "12hz08as9lljcn5cb5nssqfr3h3wbl16y47kyfidv4rirnxnb8z8"
     },
     "earthly-vim": {
       "type": "Git",
@@ -3139,9 +3139,9 @@
         "repo": "render-markdown.nvim"
       },
       "branch": "main",
-      "revision": "61850bf7df4af8398e97559a35b62378ba8435b1",
-      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/61850bf7df4af8398e97559a35b62378ba8435b1.tar.gz",
-      "hash": "0d38m572yr8mx42xj9lrh543054rka0gyv59254bg7828lzawfxp"
+      "revision": "8790a384b3be4bfa6cd596d7c8b7f47a0e338a88",
+      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/8790a384b3be4bfa6cd596d7c8b7f47a0e338a88.tar.gz",
+      "hash": "0czb43x5d1r7swb60gdkr00759kgx6f5sq1z0yk1psys5lb3b7xq"
     },
     "rest-nvim": {
       "type": "Git",
