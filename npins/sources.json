@@ -932,9 +932,9 @@
         "repo": "conform.nvim"
       },
       "branch": "master",
-      "revision": "a203480a350b03092e473bf3001733d547160a73",
-      "url": "https://github.com/stevearc/conform.nvim/archive/a203480a350b03092e473bf3001733d547160a73.tar.gz",
-      "hash": "1bxaidj11lfd26w0ijczch7797q31vk42bw6j615msxhfmns2qhs"
+      "revision": "7a3d99eb151e636670ce4842ab073d7485f7bc61",
+      "url": "https://github.com/stevearc/conform.nvim/archive/7a3d99eb151e636670ce4842ab073d7485f7bc61.tar.gz",
+      "hash": "1fbm1wy1ianmm4bz5n84rq4d5ib64m08sdylwpkn5cr3wqq9nqi3"
     },
     "conjure": {
       "type": "Git",
@@ -1004,9 +1004,9 @@
         "repo": "coq_nvim"
       },
       "branch": "coq",
-      "revision": "eb81b7ad6b1863d1eacfca380716980ee78b624a",
-      "url": "https://github.com/ms-jpq/coq_nvim/archive/eb81b7ad6b1863d1eacfca380716980ee78b624a.tar.gz",
-      "hash": "0gb5i3wwk3n845s4l4kh32g1ifbb2357wq020rzm2mb8fgwj8zgv"
+      "revision": "e41271746c87ada02a7f99e967ad5780f0688ebe",
+      "url": "https://github.com/ms-jpq/coq_nvim/archive/e41271746c87ada02a7f99e967ad5780f0688ebe.tar.gz",
+      "hash": "0mifd2nixggbd422ssandvfwcqdfg61rhh3qavmsfvnpij49qh5l"
     },
     "crates-nvim": {
       "type": "Git",
@@ -4111,9 +4111,9 @@
         "repo": "vim-which-key"
       },
       "branch": "master",
-      "revision": "470cd19ce11b616e0640f2b38fb845c42b31a106",
-      "url": "https://github.com/liuchengxu/vim-which-key/archive/470cd19ce11b616e0640f2b38fb845c42b31a106.tar.gz",
-      "hash": "1fargy2zk4j62irslr9gs8h8lwhkh6hj0f5q9aq03skh0p8y0413"
+      "revision": "4843811d6f2104fe2140d4cddbb49352976647df",
+      "url": "https://github.com/liuchengxu/vim-which-key/archive/4843811d6f2104fe2140d4cddbb49352976647df.tar.gz",
+      "hash": "18x3ijp2llw3jzh7c4gj67f9371sw3w7s6r8hs0b08kwkygqfvvh"
     },
     "vimtex": {
       "type": "Git",
