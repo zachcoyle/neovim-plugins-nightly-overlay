@@ -1268,9 +1268,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "175ddbb9bbe28eef006516f38b126215de1fef57",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/175ddbb9bbe28eef006516f38b126215de1fef57.tar.gz",
-      "hash": "0s0r87hw8f6hcrpwfmavvsibaacvvvm356wfcyafgy3610cvx748"
+      "revision": "9c3d2990e819cfc882cba033f656a24ebed39783",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/9c3d2990e819cfc882cba033f656a24ebed39783.tar.gz",
+      "hash": "13lclbm5cribghyp7c1sw4xw29bf4dxfdzb4ahcm50aamr8b1qa6"
     },
     "galaxyline-nvim": {
       "type": "Git",
@@ -2347,8 +2347,8 @@
         "repo": "netman.nvim"
       },
       "branch": "main",
-      "revision": "68eecb29d913d4f35efa9bd0e8636046f70f998f",
-      "url": "https://github.com/miversen33/netman.nvim/archive/68eecb29d913d4f35efa9bd0e8636046f70f998f.tar.gz",
+      "revision": "99c2e1e4e98b5d0b05eeea89f54f801b63f4cbfe",
+      "url": "https://github.com/miversen33/netman.nvim/archive/99c2e1e4e98b5d0b05eeea89f54f801b63f4cbfe.tar.gz",
       "hash": "1102gyjcj2hb7lfsqgpp2aflhf61qk61l45zka8zcyg7xwlbbhav"
     },
     "nightfox-nvim": {
