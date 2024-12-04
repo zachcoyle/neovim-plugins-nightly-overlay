@@ -1004,9 +1004,9 @@
         "repo": "coq_nvim"
       },
       "branch": "coq",
-      "revision": "806feff372041a339b69011e7846950720073d89",
-      "url": "https://github.com/ms-jpq/coq_nvim/archive/806feff372041a339b69011e7846950720073d89.tar.gz",
-      "hash": "0cfb7lakczfcz0vfnwmlcy87af23axlcbpiaj9qwss615vh6zlwq"
+      "revision": "02559185fe8d23dcf562c596e1586cd225330211",
+      "url": "https://github.com/ms-jpq/coq_nvim/archive/02559185fe8d23dcf562c596e1586cd225330211.tar.gz",
+      "hash": "0qjkgnbc6khgsfhypp00zal0rglf307z8a2bgfimsm8x8ay5rjxh"
     },
     "crates-nvim": {
       "type": "Git",
@@ -2755,9 +2755,9 @@
         "repo": "nvim-treesitter"
       },
       "branch": "master",
-      "revision": "b0fc560c758eeaa53b099c0843f82bcd762a9235",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/b0fc560c758eeaa53b099c0843f82bcd762a9235.tar.gz",
-      "hash": "0hzgc5s0i5ljh1a860mz61qwjvwvrpqcaswdcyn0k8v18ahl4s1s"
+      "revision": "0aaf146590f3edd1dfa64fbfa2ad1cdca65afa6f",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/0aaf146590f3edd1dfa64fbfa2ad1cdca65afa6f.tar.gz",
+      "hash": "09r8ymjfwpwlnjd24c5xvcrg9wmzysyin4d3kmw7vh27dmn5xhs3"
     },
     "nvim-treesitter-context": {
       "type": "Git",
