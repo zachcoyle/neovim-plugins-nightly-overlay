@@ -1052,9 +1052,9 @@
         "repo": "debugprint.nvim"
       },
       "branch": "main",
-      "revision": "9d1d703edd8bd6550174dd21d9ecdddc98065758",
-      "url": "https://github.com/andrewferrier/debugprint.nvim/archive/9d1d703edd8bd6550174dd21d9ecdddc98065758.tar.gz",
-      "hash": "0lp4sim5ac5dmvr7rfvizhk6yczq0rp9f0jkhc9pslykvwjgd2qg"
+      "revision": "56e1dd0d13a372f58aa9eb3de5b4075514d70eed",
+      "url": "https://github.com/andrewferrier/debugprint.nvim/archive/56e1dd0d13a372f58aa9eb3de5b4075514d70eed.tar.gz",
+      "hash": "1g9i20lqda4nml82zgxc3v5px4f3wx2kn7q8jv2gp9gqbg2xrb8s"
     },
     "diffview-nvim": {
       "type": "Git",
@@ -1148,9 +1148,9 @@
         "repo": "efmls-configs-nvim"
       },
       "branch": "main",
-      "revision": "96371caa55b50a7ba4881604f12e8cefedc7b67b",
-      "url": "https://github.com/creativenull/efmls-configs-nvim/archive/96371caa55b50a7ba4881604f12e8cefedc7b67b.tar.gz",
-      "hash": "145jbv2jw2iw8xhpk53cbh9nay10hw65klfhn5shncijns751nwl"
+      "revision": "6123245ae82a51b2facd45e712f0028ba6294a56",
+      "url": "https://github.com/creativenull/efmls-configs-nvim/archive/6123245ae82a51b2facd45e712f0028ba6294a56.tar.gz",
+      "hash": "12fdsmbb39m0w302wkpakda4qg88gqvr7yb6w1c2zdchwry8js3k"
     },
     "emmet-vim": {
       "type": "Git",
