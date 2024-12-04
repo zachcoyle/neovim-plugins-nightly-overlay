@@ -1268,9 +1268,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "e74eea025b24a89db326cddbf3ef1790cc5229db",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/e74eea025b24a89db326cddbf3ef1790cc5229db.tar.gz",
-      "hash": "0lkydwbhk9m54rxmxcbdlfk102y8mw42vk532px4k2h7a28gmgar"
+      "revision": "3bd795ab8536435a1d61b8f394d83c88d1494403",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/3bd795ab8536435a1d61b8f394d83c88d1494403.tar.gz",
+      "hash": "15vizy1p9fjspqrss5y5ziqkycllgp4c28r0sa27smwardikdwj5"
     },
     "galaxyline-nvim": {
       "type": "Git",
@@ -1592,9 +1592,9 @@
         "repo": "indent-blankline.nvim"
       },
       "branch": "master",
-      "revision": "7871a88056f7144defca9c931e311a3134c5d509",
-      "url": "https://github.com/lukas-reineke/indent-blankline.nvim/archive/7871a88056f7144defca9c931e311a3134c5d509.tar.gz",
-      "hash": "1di5dk855m90l6lblh97sr2c4w4rwv6k6cs67hhll6r8zj5wsl2r"
+      "revision": "259357fa4097e232730341fa60988087d189193a",
+      "url": "https://github.com/lukas-reineke/indent-blankline.nvim/archive/259357fa4097e232730341fa60988087d189193a.tar.gz",
+      "hash": "1q9fgqvr84lynhy2vcyzp9xhzrl80g2pin14v7d3v0pgj10m8y8z"
     },
     "indent-o-matic": {
       "type": "Git",
@@ -2755,9 +2755,9 @@
         "repo": "nvim-treesitter"
       },
       "branch": "master",
-      "revision": "b31188671d8a060022dbbeb6905019e69e310108",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/b31188671d8a060022dbbeb6905019e69e310108.tar.gz",
-      "hash": "1i75pr8hqzkms9ax1kasdw1i51ricdaws6b2751j576f5l4fiizw"
+      "revision": "3edea87978b2ee93b197513e5cdf86012d33b7fa",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/3edea87978b2ee93b197513e5cdf86012d33b7fa.tar.gz",
+      "hash": "0xidffn5pzs4blf0mklhqd1lma01dilhvhpmp3m82fcnm6qhi9j5"
     },
     "nvim-treesitter-context": {
       "type": "Git",
@@ -3715,9 +3715,9 @@
         "repo": "typescript-tools.nvim"
       },
       "branch": "master",
-      "revision": "346062e8cd06e82776b60785a040dfbbdcb6de77",
-      "url": "https://github.com/pmizio/typescript-tools.nvim/archive/346062e8cd06e82776b60785a040dfbbdcb6de77.tar.gz",
-      "hash": "1y7fyw9c6jx2mm23s95w8jmyaikpwy1nnhx1jz35yglsc0ckmzr4"
+      "revision": "35e397ce467bedbbbb5bfcd0aa79727b59a08d4a",
+      "url": "https://github.com/pmizio/typescript-tools.nvim/archive/35e397ce467bedbbbb5bfcd0aa79727b59a08d4a.tar.gz",
+      "hash": "1wxs4rfaqqpdjl5grapl8k8h1xks1mpxvi2vpslaqaq5jv6qszf7"
     },
     "typst-vim": {
       "type": "Git",
