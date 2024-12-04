@@ -44,9 +44,9 @@
         "repo": "SchemaStore.nvim"
       },
       "branch": "main",
-      "revision": "80b0243371163258e6eb3f0932f717b2d732b64e",
-      "url": "https://github.com/b0o/SchemaStore.nvim/archive/80b0243371163258e6eb3f0932f717b2d732b64e.tar.gz",
-      "hash": "01p2xh2ixbrlmwfb76nj2ffj0z8jd6i1ncgkll0l91k3kb6vqaak"
+      "revision": "51644f296db488d20ecb84f4d9a050c46d5b4dfc",
+      "url": "https://github.com/b0o/SchemaStore.nvim/archive/51644f296db488d20ecb84f4d9a050c46d5b4dfc.tar.gz",
+      "hash": "01p0lkl609k16yhvx3fs85nicpwik205bjsrcs39bgfzb45qa1lw"
     },
     "alpha-nvim": {
       "type": "Git",
@@ -1004,9 +1004,9 @@
         "repo": "coq_nvim"
       },
       "branch": "coq",
-      "revision": "673433a607766caad95c0d9ecf4a254b442785c8",
-      "url": "https://github.com/ms-jpq/coq_nvim/archive/673433a607766caad95c0d9ecf4a254b442785c8.tar.gz",
-      "hash": "1psb7hlcqjwxin4r6h9nznp6nz55bjarb2xc7mhr9rlf1mghj1sl"
+      "revision": "3938f342a727de1ca81676e5aed7ce400031188c",
+      "url": "https://github.com/ms-jpq/coq_nvim/archive/3938f342a727de1ca81676e5aed7ce400031188c.tar.gz",
+      "hash": "1854030dwc8jwpvd4ayx1b5q9902lmhv5l84z0jchhmjv68bp4l7"
     },
     "crates-nvim": {
       "type": "Git",
@@ -1268,9 +1268,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "0f092f5bca8ddbb5651c9883e6b3dc8cb87256e6",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/0f092f5bca8ddbb5651c9883e6b3dc8cb87256e6.tar.gz",
-      "hash": "07vhhi1z12vq9ss65wijjac681fs3d9kbm8pgdja2mbx3irsnxjz"
+      "revision": "d9db3b684384bcfd1393914b76f89f0205f183a3",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/d9db3b684384bcfd1393914b76f89f0205f183a3.tar.gz",
+      "hash": "1v4l0c0aw9a4ahlbnzn76biak2yx0pq9yqsaa5cwa7s10dr9i9gv"
     },
     "galaxyline-nvim": {
       "type": "Git",
