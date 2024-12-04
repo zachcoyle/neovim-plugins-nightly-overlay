@@ -968,9 +968,9 @@
         "repo": "copilot.lua"
       },
       "branch": "master",
-      "revision": "f8d8d872bb319f640d5177dad5fbf01f7a16d7d0",
-      "url": "https://github.com/zbirenbaum/copilot.lua/archive/f8d8d872bb319f640d5177dad5fbf01f7a16d7d0.tar.gz",
-      "hash": "1yzfkvqjcmnbkxsdjy81cjal8zqqs9x6ai44ky11z0ly1zcqv3ji"
+      "revision": "c810500b69cb8bcea58f2be635cb1340011714b5",
+      "url": "https://github.com/zbirenbaum/copilot.lua/archive/c810500b69cb8bcea58f2be635cb1340011714b5.tar.gz",
+      "hash": "0i5sclaa5dicyadfs7g8waclvv3lhh1a163gs7a9cd7c9md24v6h"
     },
     "copilot-vim": {
       "type": "Git",
@@ -1676,9 +1676,9 @@
         "repo": "lazygit.nvim"
       },
       "branch": "main",
-      "revision": "56760339a81cd1540d5a72fd9d93010a2677b55d",
-      "url": "https://github.com/kdheepak/lazygit.nvim/archive/56760339a81cd1540d5a72fd9d93010a2677b55d.tar.gz",
-      "hash": "0ijnvccjhdg0fqc61xr7h9f5k6ishx15z45w3h2c4b82bklihc3n"
+      "revision": "cc07dc1599f3443ee73d7e85afc45598923ef113",
+      "url": "https://github.com/kdheepak/lazygit.nvim/archive/cc07dc1599f3443ee73d7e85afc45598923ef113.tar.gz",
+      "hash": "09zdjw3p7h8v0bwh9m6s6m6byhczqly3qn3v2f9fdyniim5w302p"
     },
     "lean-nvim": {
       "type": "Git",
