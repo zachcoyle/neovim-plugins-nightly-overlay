@@ -1004,9 +1004,9 @@
         "repo": "coq_nvim"
       },
       "branch": "coq",
-      "revision": "3938f342a727de1ca81676e5aed7ce400031188c",
-      "url": "https://github.com/ms-jpq/coq_nvim/archive/3938f342a727de1ca81676e5aed7ce400031188c.tar.gz",
-      "hash": "1854030dwc8jwpvd4ayx1b5q9902lmhv5l84z0jchhmjv68bp4l7"
+      "revision": "191648502412e6ea32e2d5ac3b1c2ba8eb023242",
+      "url": "https://github.com/ms-jpq/coq_nvim/archive/191648502412e6ea32e2d5ac3b1c2ba8eb023242.tar.gz",
+      "hash": "0s4fc6clschxgq23s97mxqcc0daq0y37hv4h2bf5r9z8r9xr7kqh"
     },
     "crates-nvim": {
       "type": "Git",
@@ -3115,9 +3115,9 @@
         "repo": "rainbow-delimiters.nvim"
       },
       "branch": "master",
-      "revision": "d803ba7668ba390aa4cfd3580183c982cac36fd8",
-      "url": "https://github.com/HiPhish/rainbow-delimiters.nvim/archive/d803ba7668ba390aa4cfd3580183c982cac36fd8.tar.gz",
-      "hash": "08n452lplzd4030nwsi2i70d2lpwx4daijmi23xgq9z5ndfkh24w"
+      "revision": "e9dfb4582b9ca0ab7e987c65999f662242bd6f61",
+      "url": "https://github.com/HiPhish/rainbow-delimiters.nvim/archive/e9dfb4582b9ca0ab7e987c65999f662242bd6f61.tar.gz",
+      "hash": "0g9cbmnj744zycaxxj28dwvjv32vsa1dl4y73cbq3jfvd962n1rq"
     },
     "refactoring-nvim": {
       "type": "Git",
