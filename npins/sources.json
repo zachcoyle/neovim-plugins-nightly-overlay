@@ -80,9 +80,9 @@
         "repo": "auto-save.nvim"
       },
       "branch": "main",
-      "revision": "5fbcaac0a2698c87a9a1bd2083cb6949505cca12",
-      "url": "https://github.com/okuuva/auto-save.nvim/archive/5fbcaac0a2698c87a9a1bd2083cb6949505cca12.tar.gz",
-      "hash": "1ncp19p7glgwjy372kmiffk5l78xd2byjmk3l87a4vxjf5d3gp9l"
+      "revision": "b58948445c43e6903987a9bb97c82e66fdcc0786",
+      "url": "https://github.com/okuuva/auto-save.nvim/archive/b58948445c43e6903987a9bb97c82e66fdcc0786.tar.gz",
+      "hash": "1fp30vgdn2bvq2bd6567j64w858c19r6vypm6y1q33sn444k2940"
     },
     "auto-session": {
       "type": "Git",
@@ -1268,9 +1268,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "9c3d2990e819cfc882cba033f656a24ebed39783",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/9c3d2990e819cfc882cba033f656a24ebed39783.tar.gz",
-      "hash": "13lclbm5cribghyp7c1sw4xw29bf4dxfdzb4ahcm50aamr8b1qa6"
+      "revision": "e74eea025b24a89db326cddbf3ef1790cc5229db",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/e74eea025b24a89db326cddbf3ef1790cc5229db.tar.gz",
+      "hash": "0lkydwbhk9m54rxmxcbdlfk102y8mw42vk532px4k2h7a28gmgar"
     },
     "galaxyline-nvim": {
       "type": "Git",
@@ -2599,9 +2599,9 @@
         "repo": "nvim-lspconfig"
       },
       "branch": "master",
-      "revision": "1aa9f36b6d542dafc0b4a38c48969d036003b00a",
-      "url": "https://github.com/neovim/nvim-lspconfig/archive/1aa9f36b6d542dafc0b4a38c48969d036003b00a.tar.gz",
-      "hash": "1nhvsi0y4fb514ji3zw5d04qwidalajsv51j7748fsr023nnvfzs"
+      "revision": "6e385d2fe5da6714f00142afbd8d3591d330ffd7",
+      "url": "https://github.com/neovim/nvim-lspconfig/archive/6e385d2fe5da6714f00142afbd8d3591d330ffd7.tar.gz",
+      "hash": "0y5caiq7m8if4fgficbsa7dyihxpmyab6w0z47n1igbd4ny9w7as"
     },
     "nvim-navbuddy": {
       "type": "Git",
