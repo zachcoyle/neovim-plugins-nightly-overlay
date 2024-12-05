@@ -1556,9 +1556,9 @@
         "repo": "image.nvim"
       },
       "branch": "master",
-      "revision": "5f8fceca2d1be96a45b81de21c2f98bf6084fb34",
-      "url": "https://github.com/3rd/image.nvim/archive/5f8fceca2d1be96a45b81de21c2f98bf6084fb34.tar.gz",
-      "hash": "0mzkrgm1k60f8m4r7xhwc9pprsjk78y5nzjm6v3xn3mzfn4f6gq3"
+      "revision": "a45e2cdcaeed2bf86e1524a1ebfd7c36c428faa2",
+      "url": "https://github.com/3rd/image.nvim/archive/a45e2cdcaeed2bf86e1524a1ebfd7c36c428faa2.tar.gz",
+      "hash": "1w364vp7fk3sm21p60mfplvdp9szrgdwp73k36djrz0h8a5658gi"
     },
     "improved-search-nvim": {
       "type": "Git",
@@ -2011,9 +2011,9 @@
         "repo": "neogit"
       },
       "branch": "master",
-      "revision": "b5f925e507c8ebaa51545c93b10fa552cda14dd0",
-      "url": "https://github.com/TimUntersberger/neogit/archive/b5f925e507c8ebaa51545c93b10fa552cda14dd0.tar.gz",
-      "hash": "0wwfygabl7qww5napkd3rlqpkgdqkqw54iscjp07719d5m0r7ijg"
+      "revision": "11e14b67eb19bada54c9eb8bc70a581f358cd175",
+      "url": "https://github.com/TimUntersberger/neogit/archive/11e14b67eb19bada54c9eb8bc70a581f358cd175.tar.gz",
+      "hash": "0jd335cnbjz0sb42rqqhf10264bqvvd3zlh0720d9lxk3vxzm0cp"
     },
     "neon": {
       "type": "Git",
