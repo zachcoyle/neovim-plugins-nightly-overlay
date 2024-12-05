@@ -1148,9 +1148,9 @@
         "repo": "efmls-configs-nvim"
       },
       "branch": "main",
-      "revision": "6123245ae82a51b2facd45e712f0028ba6294a56",
-      "url": "https://github.com/creativenull/efmls-configs-nvim/archive/6123245ae82a51b2facd45e712f0028ba6294a56.tar.gz",
-      "hash": "12fdsmbb39m0w302wkpakda4qg88gqvr7yb6w1c2zdchwry8js3k"
+      "revision": "8d7ede48afa7d0344fa62fefb95132c0dad41e97",
+      "url": "https://github.com/creativenull/efmls-configs-nvim/archive/8d7ede48afa7d0344fa62fefb95132c0dad41e97.tar.gz",
+      "hash": "1clbxz96z9s8iw29lxlwrfpqxn5kw1p00rljd5hj2m6bfkimlzlz"
     },
     "emmet-vim": {
       "type": "Git",
@@ -2767,9 +2767,9 @@
         "repo": "nvim-treesitter-context"
       },
       "branch": "master",
-      "revision": "8ebcf62cf48dd97b3d121884ecb6bc4c00f1b069",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter-context/archive/8ebcf62cf48dd97b3d121884ecb6bc4c00f1b069.tar.gz",
-      "hash": "02ihbsv5v7cxi1zd0n7ba1kmlbgyh5r401m4667gd48fzhzhzdfx"
+      "revision": "9ff7a5e23f8fa9e19c9570e1696849fdff8805ea",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter-context/archive/9ff7a5e23f8fa9e19c9570e1696849fdff8805ea.tar.gz",
+      "hash": "1m29431gpi45gv6f4k4sh5lrcj04gqjdh4dclalcvi6a63ww5vp7"
     },
     "nvim-treesitter-refactor": {
       "type": "Git",
