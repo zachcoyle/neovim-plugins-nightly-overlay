@@ -20,9 +20,9 @@
         "repo": "CopilotChat.nvim"
       },
       "branch": "main",
-      "revision": "caf387f82f6c1c2d0ce26a0104accf08000e4e34",
-      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/caf387f82f6c1c2d0ce26a0104accf08000e4e34.tar.gz",
-      "hash": "0kvjzzd1pzv8nd7n0jvg4i13c9lcciqrsk10ryjdj8jb18zilsgv"
+      "revision": "d8db2c630b41cfd449e63d46f44cd827dd8aa435",
+      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/d8db2c630b41cfd449e63d46f44cd827dd8aa435.tar.gz",
+      "hash": "0jfcqhwl36spcx8vh00axdrrjhrsi3y1wajhnsvaa70pjm9xq8lg"
     },
     "Preview-nvim": {
       "type": "Git",
@@ -1664,9 +1664,9 @@
         "repo": "lazy.nvim"
       },
       "branch": "main",
-      "revision": "56ead98e05bb37a4ec28930a54d836d033cf00f2",
-      "url": "https://github.com/folke/lazy.nvim/archive/56ead98e05bb37a4ec28930a54d836d033cf00f2.tar.gz",
-      "hash": "0fcb6zrxbrj0nnkbb7cilqsjr500rv43r5w9nbk9apvjcjx8rkg0"
+      "revision": "3388a26417c48b15d5266d954f62a4d47fe99490",
+      "url": "https://github.com/folke/lazy.nvim/archive/3388a26417c48b15d5266d954f62a4d47fe99490.tar.gz",
+      "hash": "15is61zfs4nkhjcdcg036fvv6rdd1kgyr6k704rcn77717m6ix6s"
     },
     "lazygit-nvim": {
       "type": "Git",
@@ -2383,9 +2383,9 @@
         "repo": "noice.nvim"
       },
       "branch": "main",
-      "revision": "c6f6fb178ebe9b4fd90383de743c3399f8c3a37c",
-      "url": "https://github.com/folke/noice.nvim/archive/c6f6fb178ebe9b4fd90383de743c3399f8c3a37c.tar.gz",
-      "hash": "0s0ggyg68rr4hdprqk4drlwvgkh1g97cf2pmc8qs04ss728wq4ni"
+      "revision": "d5451b0d0e166e79aaabd79a04fc1cf185cc5b4d",
+      "url": "https://github.com/folke/noice.nvim/archive/d5451b0d0e166e79aaabd79a04fc1cf185cc5b4d.tar.gz",
+      "hash": "1p9yd6lvh0khi1b81i0pyi1jdaakdgdvi6alzg04k5vn1plyhrhj"
     },
     "none-ls-nvim": {
       "type": "Git",
