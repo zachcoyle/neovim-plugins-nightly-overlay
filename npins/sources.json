@@ -1268,9 +1268,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "d9db3b684384bcfd1393914b76f89f0205f183a3",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/d9db3b684384bcfd1393914b76f89f0205f183a3.tar.gz",
-      "hash": "1v4l0c0aw9a4ahlbnzn76biak2yx0pq9yqsaa5cwa7s10dr9i9gv"
+      "revision": "ed6539e018a522f176ad1f1ee6cb2e0172e8379a",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/ed6539e018a522f176ad1f1ee6cb2e0172e8379a.tar.gz",
+      "hash": "0srgkc8f72l915kicnjd9369am419p4l84p6l3m2i9h75380sh85"
     },
     "galaxyline-nvim": {
       "type": "Git",
@@ -1987,9 +1987,9 @@
         "repo": "neocord"
       },
       "branch": "main",
-      "revision": "587e03390a355e9c364d48638e0e0db2a8431d73",
-      "url": "https://github.com/IogaMaster/neocord/archive/587e03390a355e9c364d48638e0e0db2a8431d73.tar.gz",
-      "hash": "13b290yd74w23p6mng225nh14pi030ap7ah8lsby7w895335mmg1"
+      "revision": "4d55d8dab2d5f2f272192add7a2c21982039c699",
+      "url": "https://github.com/IogaMaster/neocord/archive/4d55d8dab2d5f2f272192add7a2c21982039c699.tar.gz",
+      "hash": "18d84bd5242a3khpsk0iya3i75bc65mc2xc9kjldpvb827m6myl3"
     },
     "neogen": {
       "type": "Git",
@@ -2527,9 +2527,9 @@
         "repo": "nvim-dap"
       },
       "branch": "master",
-      "revision": "ab55b6c1fbde793c5cee2df9dbbdff85c4698c5c",
-      "url": "https://github.com/mfussenegger/nvim-dap/archive/ab55b6c1fbde793c5cee2df9dbbdff85c4698c5c.tar.gz",
-      "hash": "0vdx02vq74m9slqrhklw07avslj5zxqiign8ipdgmziy88lv7g4r"
+      "revision": "6fd05c6ee98b08a2c6ee7d81e1927a152990df05",
+      "url": "https://github.com/mfussenegger/nvim-dap/archive/6fd05c6ee98b08a2c6ee7d81e1927a152990df05.tar.gz",
+      "hash": "16cki8jqgq8j86sv3fyscp0bcxyscc8afb8pbsdr3bq7yrsciy1k"
     },
     "nvim-dap-virtual-text": {
       "type": "Git",
