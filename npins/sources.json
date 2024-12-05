@@ -20,9 +20,9 @@
         "repo": "CopilotChat.nvim"
       },
       "branch": "main",
-      "revision": "d8db2c630b41cfd449e63d46f44cd827dd8aa435",
-      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/d8db2c630b41cfd449e63d46f44cd827dd8aa435.tar.gz",
-      "hash": "0jfcqhwl36spcx8vh00axdrrjhrsi3y1wajhnsvaa70pjm9xq8lg"
+      "revision": "1fe19d1fdbf9edcda8bad9b7b2d5e11aa95c1672",
+      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/1fe19d1fdbf9edcda8bad9b7b2d5e11aa95c1672.tar.gz",
+      "hash": "1fz4mls0ixqjgc5112740nd5k3rw7f48in6q4b9l1xkif2kjks90"
     },
     "Preview-nvim": {
       "type": "Git",
@@ -1520,9 +1520,9 @@
         "repo": "hop.nvim"
       },
       "branch": "master",
-      "revision": "08ddca799089ab96a6d1763db0b8adc5320bf050",
-      "url": "https://github.com/smoka7/hop.nvim/archive/08ddca799089ab96a6d1763db0b8adc5320bf050.tar.gz",
-      "hash": "07mydcm3x7xc7x6wg5l6kcx8yrrv9bwy2p44y17ajyx37c5lmwwn"
+      "revision": "efe58182f71fbe592f82fb211ab026f2819e855d",
+      "url": "https://github.com/smoka7/hop.nvim/archive/efe58182f71fbe592f82fb211ab026f2819e855d.tar.gz",
+      "hash": "1s22i0x84rbkpmac87jjchbyf0mywhmhk7fnyis7xi9jpbfhga42"
     },
     "hydra-nvim": {
       "type": "Git",
@@ -2527,9 +2527,9 @@
         "repo": "nvim-dap"
       },
       "branch": "master",
-      "revision": "0a0daa796a5919a51e5e5019ffa91219c94c4fef",
-      "url": "https://github.com/mfussenegger/nvim-dap/archive/0a0daa796a5919a51e5e5019ffa91219c94c4fef.tar.gz",
-      "hash": "155m2xvmrpaiv9sqvszspwnwn4fy0kh68cfjw7hhc07jscqj1nva"
+      "revision": "02a94747784f64c95dc389dff215e00b2814d2e0",
+      "url": "https://github.com/mfussenegger/nvim-dap/archive/02a94747784f64c95dc389dff215e00b2814d2e0.tar.gz",
+      "hash": "1jyjzx02qs5k8r0f1yzw955rp2dxkhwkvlssyshiz4fq0h4xaaa8"
     },
     "nvim-dap-virtual-text": {
       "type": "Git",
