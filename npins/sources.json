@@ -140,9 +140,9 @@
         "repo": "barbar.nvim"
       },
       "branch": "master",
-      "revision": "5c0abe2331837dcd3830f7429ddb9b8340c9fa93",
-      "url": "https://github.com/romgrk/barbar.nvim/archive/5c0abe2331837dcd3830f7429ddb9b8340c9fa93.tar.gz",
-      "hash": "1famzg92g7h6ffd586017gm08zzm7zj7n5br96nmprlp513w5rc9"
+      "revision": "a26bae6c51899db530de19ce3c2f4307e37a869e",
+      "url": "https://github.com/romgrk/barbar.nvim/archive/a26bae6c51899db530de19ce3c2f4307e37a869e.tar.gz",
+      "hash": "0gpzwypn9cyppd61mz9dgq76g6wzdzian9054d6yzy281ki2lxmz"
     },
     "barbecue-nvim": {
       "type": "Git",
@@ -1268,9 +1268,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "ed6539e018a522f176ad1f1ee6cb2e0172e8379a",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/ed6539e018a522f176ad1f1ee6cb2e0172e8379a.tar.gz",
-      "hash": "0srgkc8f72l915kicnjd9369am419p4l84p6l3m2i9h75380sh85"
+      "revision": "865a46f949aeaf958edfa37597d0d2375e64ac0c",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/865a46f949aeaf958edfa37597d0d2375e64ac0c.tar.gz",
+      "hash": "1rqlj9vqjhd70cmjwg77ib6zyvrsy227krqsn2jq5lbk3gjxpxgd"
     },
     "galaxyline-nvim": {
       "type": "Git",
