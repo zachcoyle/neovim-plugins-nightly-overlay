@@ -3751,9 +3751,9 @@
         "repo": "vim-airline"
       },
       "branch": "master",
-      "revision": "25635ab50474e5ead1cea4f05ec16683438efc17",
-      "url": "https://github.com/vim-airline/vim-airline/archive/25635ab50474e5ead1cea4f05ec16683438efc17.tar.gz",
-      "hash": "0l21d51dnw0vh8ykr9aw64splbi287pkq76l5n86jls9h8sjpnzc"
+      "revision": "7a552f415c48aed33bf7eaa3c50e78504d417913",
+      "url": "https://github.com/vim-airline/vim-airline/archive/7a552f415c48aed33bf7eaa3c50e78504d417913.tar.gz",
+      "hash": "1akzrx1wdfgk626vjwym0z3al1df6nwack7wafmp5hb5cc8ypg14"
     },
     "vim-bbye": {
       "type": "Git",
