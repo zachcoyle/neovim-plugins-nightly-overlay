@@ -1004,9 +1004,9 @@
         "repo": "coq_nvim"
       },
       "branch": "coq",
-      "revision": "0958f39d17454826beefa58acf87e2d3e7f5110c",
-      "url": "https://github.com/ms-jpq/coq_nvim/archive/0958f39d17454826beefa58acf87e2d3e7f5110c.tar.gz",
-      "hash": "0s4fc6clschxgq23s97mxqcc0daq0y37hv4h2bf5r9z8r9xr7kqh"
+      "revision": "d2bcbb8021ac09a434f944faed693c4622a4db46",
+      "url": "https://github.com/ms-jpq/coq_nvim/archive/d2bcbb8021ac09a434f944faed693c4622a4db46.tar.gz",
+      "hash": "138hy4s3zhbcd2l323pam7ms4kj19gl51ypf0scqpzfbis7kmbbs"
     },
     "crates-nvim": {
       "type": "Git",
@@ -1915,9 +1915,9 @@
         "repo": "mini.nvim"
       },
       "branch": "main",
-      "revision": "690a3b4c78c4956f7ecf770124b522d32084b872",
-      "url": "https://github.com/echasnovski/mini.nvim/archive/690a3b4c78c4956f7ecf770124b522d32084b872.tar.gz",
-      "hash": "0yn6yssak386cqhxa29lyymi87fzavaw2wdaf9p4ni3zrcxql2di"
+      "revision": "73bbcbfa7839c4b00a64965fb504f87461abefbd",
+      "url": "https://github.com/echasnovski/mini.nvim/archive/73bbcbfa7839c4b00a64965fb504f87461abefbd.tar.gz",
+      "hash": "06qm171xsgyykahpdsshdz1wmy6fa9423rr8msp3i0y1xqjzw535"
     },
     "mkdnflow-nvim": {
       "type": "Git",
