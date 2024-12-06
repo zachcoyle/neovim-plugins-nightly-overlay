@@ -1688,9 +1688,9 @@
         "repo": "lean.nvim"
       },
       "branch": "main",
-      "revision": "fff4f10ce647cd98de9d4355cb693b698e4e81bd",
-      "url": "https://github.com/Julian/lean.nvim/archive/fff4f10ce647cd98de9d4355cb693b698e4e81bd.tar.gz",
-      "hash": "0dvxwia696b1r8lnhqkwcq8qsiq4g6ssagsvrrwgf1aivn921ifq"
+      "revision": "202513a398e780dac32d36159181a8299d9cfd12",
+      "url": "https://github.com/Julian/lean.nvim/archive/202513a398e780dac32d36159181a8299d9cfd12.tar.gz",
+      "hash": "1abdlqfd3r9mp7dls6nl20znwixzmavy4m5yg04j2incjzpn298d"
     },
     "leap-nvim": {
       "type": "Git",
@@ -2059,9 +2059,9 @@
         "repo": "neoscroll.nvim"
       },
       "branch": "master",
-      "revision": "881b885fb598d1bdaddc834536341ac8a60b6612",
-      "url": "https://github.com/karb94/neoscroll.nvim/archive/881b885fb598d1bdaddc834536341ac8a60b6612.tar.gz",
-      "hash": "1sn47v9f8nh4bxkahinz30jcsz8maz392xw6fbz901vqmvjkqv6l"
+      "revision": "f957373912e88579e26fdaea4735450ff2ef5c9c",
+      "url": "https://github.com/karb94/neoscroll.nvim/archive/f957373912e88579e26fdaea4735450ff2ef5c9c.tar.gz",
+      "hash": "0vqbag9iislq0w3w2nq3mp3302j7c4yv4ssrc1ccrylj54hr9si4"
     },
     "neotest": {
       "type": "Git",
