@@ -1676,9 +1676,9 @@
         "repo": "lazygit.nvim"
       },
       "branch": "main",
-      "revision": "cc07dc1599f3443ee73d7e85afc45598923ef113",
-      "url": "https://github.com/kdheepak/lazygit.nvim/archive/cc07dc1599f3443ee73d7e85afc45598923ef113.tar.gz",
-      "hash": "09zdjw3p7h8v0bwh9m6s6m6byhczqly3qn3v2f9fdyniim5w302p"
+      "revision": "02a7a2789fe9e660ef72bec27df342b15bcca6b7",
+      "url": "https://github.com/kdheepak/lazygit.nvim/archive/02a7a2789fe9e660ef72bec27df342b15bcca6b7.tar.gz",
+      "hash": "066x3bxjbpxn83zz97xxifvvwdz652f97j8ygi38lmsmc3scwg1i"
     },
     "lean-nvim": {
       "type": "Git",
@@ -2059,9 +2059,9 @@
         "repo": "neoscroll.nvim"
       },
       "branch": "master",
-      "revision": "81c47f9d111c00d13111b65bfd13cc81b7b347a1",
-      "url": "https://github.com/karb94/neoscroll.nvim/archive/81c47f9d111c00d13111b65bfd13cc81b7b347a1.tar.gz",
-      "hash": "120jxrn3lsm5y13zx6kjnxiaf0jx0wqinpn3k2ii1ryaf6055yhv"
+      "revision": "881b885fb598d1bdaddc834536341ac8a60b6612",
+      "url": "https://github.com/karb94/neoscroll.nvim/archive/881b885fb598d1bdaddc834536341ac8a60b6612.tar.gz",
+      "hash": "1sn47v9f8nh4bxkahinz30jcsz8maz392xw6fbz901vqmvjkqv6l"
     },
     "neotest": {
       "type": "Git",
