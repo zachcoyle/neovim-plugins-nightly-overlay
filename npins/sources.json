@@ -2527,9 +2527,9 @@
         "repo": "nvim-dap"
       },
       "branch": "master",
-      "revision": "cc8787d834028ed0a43aa05a7a53af5d93c69c86",
-      "url": "https://github.com/mfussenegger/nvim-dap/archive/cc8787d834028ed0a43aa05a7a53af5d93c69c86.tar.gz",
-      "hash": "1nz2pzmirf9knvrniw0mlc77v6y9axfrp7nsc7qpjkxry300j8zq"
+      "revision": "580d6e526358afd0e4bba053e68fd59cf581a161",
+      "url": "https://github.com/mfussenegger/nvim-dap/archive/580d6e526358afd0e4bba053e68fd59cf581a161.tar.gz",
+      "hash": "1mbh8fa2iigjhm1nzdy2xlxpy0nkdjkvlk3g1l3xgijh4l40i147"
     },
     "nvim-dap-virtual-text": {
       "type": "Git",
