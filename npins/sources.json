@@ -1268,9 +1268,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "14e8ac0173009035e975f8582cfae817b455a700",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/14e8ac0173009035e975f8582cfae817b455a700.tar.gz",
-      "hash": "0zgnm2chp8by97bd3dmkylxq1rq37v6q79rhfig5pl4l9ix182vs"
+      "revision": "a5698761ff2b12a0d04cd0be0b60ae6970b0c539",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/a5698761ff2b12a0d04cd0be0b60ae6970b0c539.tar.gz",
+      "hash": "1hvsq733vfc20c928wrgv3v27nk69anaqvyn15n3vz6ipcnxchkl"
     },
     "galaxyline-nvim": {
       "type": "Git",
@@ -2047,9 +2047,9 @@
         "repo": "neorg"
       },
       "branch": "main",
-      "revision": "c1bade17d313909031703c8587d6841fef457ebb",
-      "url": "https://github.com/vhyrro/neorg/archive/c1bade17d313909031703c8587d6841fef457ebb.tar.gz",
-      "hash": "0zswfckqkwk6w2by6fqm2z61d9978di269aw6gwpankmynxfrbh2"
+      "revision": "708aba142d384ae53cd0ee1de34134d0477f3666",
+      "url": "https://github.com/vhyrro/neorg/archive/708aba142d384ae53cd0ee1de34134d0477f3666.tar.gz",
+      "hash": "1pwxbh5jmdicis092nlkr34akdqqxxp5kv80xr4z2hnjrq5sfh3a"
     },
     "neoscroll-nvim": {
       "type": "Git",
@@ -2767,9 +2767,9 @@
         "repo": "nvim-treesitter-context"
       },
       "branch": "master",
-      "revision": "9ff7a5e23f8fa9e19c9570e1696849fdff8805ea",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter-context/archive/9ff7a5e23f8fa9e19c9570e1696849fdff8805ea.tar.gz",
-      "hash": "1m29431gpi45gv6f4k4sh5lrcj04gqjdh4dclalcvi6a63ww5vp7"
+      "revision": "b9e30333ece125297cfc5d652465cbc9a23b4916",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter-context/archive/b9e30333ece125297cfc5d652465cbc9a23b4916.tar.gz",
+      "hash": "0rpqfhakdqb70qwfjsyiww5jv11mqf9c6njiz77v16wifffkpavq"
     },
     "nvim-treesitter-refactor": {
       "type": "Git",
