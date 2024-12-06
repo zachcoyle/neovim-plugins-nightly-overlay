@@ -1664,9 +1664,9 @@
         "repo": "lazy.nvim"
       },
       "branch": "main",
-      "revision": "3388a26417c48b15d5266d954f62a4d47fe99490",
-      "url": "https://github.com/folke/lazy.nvim/archive/3388a26417c48b15d5266d954f62a4d47fe99490.tar.gz",
-      "hash": "15is61zfs4nkhjcdcg036fvv6rdd1kgyr6k704rcn77717m6ix6s"
+      "revision": "ee64abc76be2b237b95d241a924b0323005b868a",
+      "url": "https://github.com/folke/lazy.nvim/archive/ee64abc76be2b237b95d241a924b0323005b868a.tar.gz",
+      "hash": "0qbn72c3ywxddl3fm4l5scpissj03g441gfyjkicpmdc9qg64sv5"
     },
     "lazygit-nvim": {
       "type": "Git",
@@ -2527,9 +2527,9 @@
         "repo": "nvim-dap"
       },
       "branch": "master",
-      "revision": "9712adfb1c6a61509515eb76973f596979da61f7",
-      "url": "https://github.com/mfussenegger/nvim-dap/archive/9712adfb1c6a61509515eb76973f596979da61f7.tar.gz",
-      "hash": "1i3qq45l1503j36m4ds0nxhaaz26l5x0gpna81gr9kkd05qxi6r5"
+      "revision": "cc8787d834028ed0a43aa05a7a53af5d93c69c86",
+      "url": "https://github.com/mfussenegger/nvim-dap/archive/cc8787d834028ed0a43aa05a7a53af5d93c69c86.tar.gz",
+      "hash": "1nz2pzmirf9knvrniw0mlc77v6y9axfrp7nsc7qpjkxry300j8zq"
     },
     "nvim-dap-virtual-text": {
       "type": "Git",
@@ -2923,9 +2923,9 @@
         "repo": "orgmode"
       },
       "branch": "master",
-      "revision": "73f32639f3fb3060564a619410719d0e41c1da2b",
-      "url": "https://github.com/nvim-orgmode/orgmode/archive/73f32639f3fb3060564a619410719d0e41c1da2b.tar.gz",
-      "hash": "0x42vgsna2fzzi9r5dwx2ga09w5yigzcb3g0s9sfl9rs5fxhzagv"
+      "revision": "6c394695343cd1af048ce5f308f53908d097b1e8",
+      "url": "https://github.com/nvim-orgmode/orgmode/archive/6c394695343cd1af048ce5f308f53908d097b1e8.tar.gz",
+      "hash": "1qkgi1m0ip1xwgrf7nss1k7qhj2cjbbclpxnfjd9ybn5fbnrlk5x"
     },
     "overseer-nvim": {
       "type": "Git",
