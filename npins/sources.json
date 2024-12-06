@@ -1268,9 +1268,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "1726049e3724d6499ab12baba5ff082f122a3e88",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/1726049e3724d6499ab12baba5ff082f122a3e88.tar.gz",
-      "hash": "1rhi1bypznh76di4kp0y327y7d8snf27ap9sjjd9d0c7bb5wcrqg"
+      "revision": "5e8f0e299cd57fa5ff370d87a74c9f9ca4b021d4",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/5e8f0e299cd57fa5ff370d87a74c9f9ca4b021d4.tar.gz",
+      "hash": "0w065j7zqkizdf83bp015s2qbccfnhd16x5ya1f5c6rdll7f765z"
     },
     "galaxyline-nvim": {
       "type": "Git",
@@ -1688,9 +1688,9 @@
         "repo": "lean.nvim"
       },
       "branch": "main",
-      "revision": "7a029736236d90f7a25d1f0fc18b987439604660",
-      "url": "https://github.com/Julian/lean.nvim/archive/7a029736236d90f7a25d1f0fc18b987439604660.tar.gz",
-      "hash": "0gp1nrdh8g64m1pqd31s9a1i19vxd62q1a9dwma8n7xa8h8g49av"
+      "revision": "fff4f10ce647cd98de9d4355cb693b698e4e81bd",
+      "url": "https://github.com/Julian/lean.nvim/archive/fff4f10ce647cd98de9d4355cb693b698e4e81bd.tar.gz",
+      "hash": "0dvxwia696b1r8lnhqkwcq8qsiq4g6ssagsvrrwgf1aivn921ifq"
     },
     "leap-nvim": {
       "type": "Git",
