@@ -1004,9 +1004,9 @@
         "repo": "coq_nvim"
       },
       "branch": "coq",
-      "revision": "d2bcbb8021ac09a434f944faed693c4622a4db46",
-      "url": "https://github.com/ms-jpq/coq_nvim/archive/d2bcbb8021ac09a434f944faed693c4622a4db46.tar.gz",
-      "hash": "138hy4s3zhbcd2l323pam7ms4kj19gl51ypf0scqpzfbis7kmbbs"
+      "revision": "976012b0c13763a47edbd55492ba53b03b498cdd",
+      "url": "https://github.com/ms-jpq/coq_nvim/archive/976012b0c13763a47edbd55492ba53b03b498cdd.tar.gz",
+      "hash": "18lhxhx3xj6vmdalar89rkhyzj4kwdha222hdq04d9z366g91hzv"
     },
     "crates-nvim": {
       "type": "Git",
