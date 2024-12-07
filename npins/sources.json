@@ -2839,9 +2839,9 @@
         "repo": "nvim-web-devicons"
       },
       "branch": "master",
-      "revision": "203da76ecfbb4b192cf830665b03eb651b635c94",
-      "url": "https://github.com/kyazdani42/nvim-web-devicons/archive/203da76ecfbb4b192cf830665b03eb651b635c94.tar.gz",
-      "hash": "14ljgk5b8p9kmakrvdq86crvlm2d4hhlp9nkwqiss8skibksn7sa"
+      "revision": "21417212f640a1dad28a1408f04468819848f5e7",
+      "url": "https://github.com/kyazdani42/nvim-web-devicons/archive/21417212f640a1dad28a1408f04468819848f5e7.tar.gz",
+      "hash": "04v54g2q1y1bq5zcd1n48wyhfynv27qylk09kg2frzwbryg3gar5"
     },
     "obsidian-nvim": {
       "type": "Git",
@@ -3139,9 +3139,9 @@
         "repo": "render-markdown.nvim"
       },
       "branch": "main",
-      "revision": "a7097f372ba8f8866cda5e98d5bc828f2856c96c",
-      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/a7097f372ba8f8866cda5e98d5bc828f2856c96c.tar.gz",
-      "hash": "18slbg9vz4i60ysmfw27paqmb7wszbj9yykz52hd7rc3xnqkyj5a"
+      "revision": "c89e5e0719d07e1e2c0d3942b564ac916b6ffe9c",
+      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/c89e5e0719d07e1e2c0d3942b564ac916b6ffe9c.tar.gz",
+      "hash": "1sgj5yql0zdjw0qg4ss5fydrgmwspcmf5rffxp7pai8a2394klsj"
     },
     "rest-nvim": {
       "type": "Git",
