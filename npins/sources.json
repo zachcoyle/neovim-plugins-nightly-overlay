@@ -3727,9 +3727,9 @@
         "repo": "typst.vim"
       },
       "branch": "main",
-      "revision": "50e89f481102d5c9ef6990b9f8086c0c7d64bff6",
-      "url": "https://github.com/kaarmu/typst.vim/archive/50e89f481102d5c9ef6990b9f8086c0c7d64bff6.tar.gz",
-      "hash": "150fzqjk8c95vk0a0ryxi8nr7s1r5fdqskhxys6lrl1hasbp1z3m"
+      "revision": "8ce752f1ba1277046429cb469c17ff2e1abc718f",
+      "url": "https://github.com/kaarmu/typst.vim/archive/8ce752f1ba1277046429cb469c17ff2e1abc718f.tar.gz",
+      "hash": "04an0d3lmf662lhq14bh2837l7qv5khwj1hdcjljvds63czfnkhr"
     },
     "undotree": {
       "type": "Git",
