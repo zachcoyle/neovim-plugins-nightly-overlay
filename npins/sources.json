@@ -1664,9 +1664,9 @@
         "repo": "lazy.nvim"
       },
       "branch": "main",
-      "revision": "b08dba8107b5bdaaa007f18cf6c0cc0e0fd576aa",
-      "url": "https://github.com/folke/lazy.nvim/archive/b08dba8107b5bdaaa007f18cf6c0cc0e0fd576aa.tar.gz",
-      "hash": "1pzfsfbslzi157wqpz0bf7mrig18pl7cfiwgxzvaap5cn1bqz4z0"
+      "revision": "656cf4309396b7b8b62984e923bf8d8a0013f7d7",
+      "url": "https://github.com/folke/lazy.nvim/archive/656cf4309396b7b8b62984e923bf8d8a0013f7d7.tar.gz",
+      "hash": "0lxblxrl8r7wyfra2jk7qb9fqg6kxc5ksrmczwqkg78iccdjacf8"
     },
     "lazygit-nvim": {
       "type": "Git",
@@ -2863,9 +2863,9 @@
         "repo": "octo.nvim"
       },
       "branch": "master",
-      "revision": "14d412f517a3cbea4cd4299207ee067fde542062",
-      "url": "https://github.com/pwntester/octo.nvim/archive/14d412f517a3cbea4cd4299207ee067fde542062.tar.gz",
-      "hash": "1likkjkqgyb36ly44mpzdir1a4kk79c4s43v2i56kvl1axc5jxf9"
+      "revision": "111979671dd0aa9281f50867901cef9792a7b2d6",
+      "url": "https://github.com/pwntester/octo.nvim/archive/111979671dd0aa9281f50867901cef9792a7b2d6.tar.gz",
+      "hash": "1fvc4sfjpiq0klyngzmck1c0bvym74f369rxw1z1hvzp1jh1153i"
     },
     "oil-nvim": {
       "type": "Git",
