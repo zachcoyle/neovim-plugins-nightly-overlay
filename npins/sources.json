@@ -1268,9 +1268,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "e9f87c69161e29cb18d780840dc315a041424777",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/e9f87c69161e29cb18d780840dc315a041424777.tar.gz",
-      "hash": "1cf072iyn307sdz7cgwcvqmddyma17asgrd7dzzs56cip5b0rwsx"
+      "revision": "d7aadd469efc0290459b6b6300f2143b8a5cbb5a",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/d7aadd469efc0290459b6b6300f2143b8a5cbb5a.tar.gz",
+      "hash": "123548ddgwk8i30k2dg74j1s7vi7rzz59w5dq6k2nig8c5knmzal"
     },
     "galaxyline-nvim": {
       "type": "Git",
