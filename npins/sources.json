@@ -1268,9 +1268,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "fca198e2abd2db6600b25443bc70ee7f342aa217",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/fca198e2abd2db6600b25443bc70ee7f342aa217.tar.gz",
-      "hash": "0mclh30w0jfidll6hqiq62ssyk2qv0gk40raq7zrkbxkad91yra8"
+      "revision": "b0b6ca4b3607db4cbc74e7e8199cd628cb6fbeee",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/b0b6ca4b3607db4cbc74e7e8199cd628cb6fbeee.tar.gz",
+      "hash": "0apx774dlbxlbznr41qc0kywjrv1yig7p0cccag17bm2lrbfj5cm"
     },
     "galaxyline-nvim": {
       "type": "Git",
@@ -2011,9 +2011,9 @@
         "repo": "neogit"
       },
       "branch": "master",
-      "revision": "a38945a585794c716b2ff9b25668bb5c089e8cd7",
-      "url": "https://github.com/TimUntersberger/neogit/archive/a38945a585794c716b2ff9b25668bb5c089e8cd7.tar.gz",
-      "hash": "1n5yp8rd663vnqgizb383m82bgc7q4kd4ri5mqbww14xdg387ppw"
+      "revision": "683ee5d02b3b223a5c39953d700c252187fc5be9",
+      "url": "https://github.com/TimUntersberger/neogit/archive/683ee5d02b3b223a5c39953d700c252187fc5be9.tar.gz",
+      "hash": "0nic9f4m84bmklv0zw0dl3y69csxzy4pcn724x1vnlsv75k51xhl"
     },
     "neon": {
       "type": "Git",
