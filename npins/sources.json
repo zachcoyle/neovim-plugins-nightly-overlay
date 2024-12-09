@@ -1268,9 +1268,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "0063769312e913b5de9f2db21285d806dcf4efcb",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/0063769312e913b5de9f2db21285d806dcf4efcb.tar.gz",
-      "hash": "14awics36c15g7gzv0059xwppn7isxk2fsn9bma519pl80zqpzn8"
+      "revision": "498459cfca20f339014665c22a2322c8f8c01449",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/498459cfca20f339014665c22a2322c8f8c01449.tar.gz",
+      "hash": "1grh1fills1hfb30dggfnafykjybs8bx21knlvah3sz830a8qrrx"
     },
     "galaxyline-nvim": {
       "type": "Git",
@@ -1664,9 +1664,9 @@
         "repo": "lazy.nvim"
       },
       "branch": "main",
-      "revision": "014d1d6d78df4e58f962158e6e00261d8632612c",
-      "url": "https://github.com/folke/lazy.nvim/archive/014d1d6d78df4e58f962158e6e00261d8632612c.tar.gz",
-      "hash": "022x4b6lz52dpscqrdw7l70z8m42w5gz2rzr386a1s7c9qq8lii8"
+      "revision": "703be1dda35e142e76e94e7503cf67d6b98a1d35",
+      "url": "https://github.com/folke/lazy.nvim/archive/703be1dda35e142e76e94e7503cf67d6b98a1d35.tar.gz",
+      "hash": "1i376sl427crmzipqnlk1dhmnbds3zzjmjk3x1bnci4vpl255dyk"
     },
     "lazygit-nvim": {
       "type": "Git",
