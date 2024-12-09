@@ -44,9 +44,9 @@
         "repo": "SchemaStore.nvim"
       },
       "branch": "main",
-      "revision": "e2444a23307f869d7f8005eb27f5003c41b34ea8",
-      "url": "https://github.com/b0o/SchemaStore.nvim/archive/e2444a23307f869d7f8005eb27f5003c41b34ea8.tar.gz",
-      "hash": "1pwpmnnfsgd48dd0szvk2m0kay5n55jnqga2j2381pgrj3d6q8w0"
+      "revision": "5ae27f22db2a77ffe4479dbf15f77a6b3b896e0e",
+      "url": "https://github.com/b0o/SchemaStore.nvim/archive/5ae27f22db2a77ffe4479dbf15f77a6b3b896e0e.tar.gz",
+      "hash": "00xq5c5nii4w9mv9wbqdafdbnj1l4l1ki5vl3kwm5cihmj4i82jn"
     },
     "alpha-nvim": {
       "type": "Git",
@@ -1052,9 +1052,9 @@
         "repo": "debugprint.nvim"
       },
       "branch": "main",
-      "revision": "56e1dd0d13a372f58aa9eb3de5b4075514d70eed",
-      "url": "https://github.com/andrewferrier/debugprint.nvim/archive/56e1dd0d13a372f58aa9eb3de5b4075514d70eed.tar.gz",
-      "hash": "1g9i20lqda4nml82zgxc3v5px4f3wx2kn7q8jv2gp9gqbg2xrb8s"
+      "revision": "2cd3ebaaabc1a88c61aaf63f15794f28d56b07bc",
+      "url": "https://github.com/andrewferrier/debugprint.nvim/archive/2cd3ebaaabc1a88c61aaf63f15794f28d56b07bc.tar.gz",
+      "hash": "0f2zqqihrlnkbgbm809wzys0iz1fj2l3ia6bfik4i6br322163nz"
     },
     "diffview-nvim": {
       "type": "Git",
@@ -2311,9 +2311,9 @@
         "repo": "neotest-rust"
       },
       "branch": "main",
-      "revision": "eec7eaf8491e619fe99e620e2da3cd31b30e406b",
-      "url": "https://github.com/rouge8/neotest-rust/archive/eec7eaf8491e619fe99e620e2da3cd31b30e406b.tar.gz",
-      "hash": "1a3bcmgy4shpn10wx7nf5lv4zql9knlsw58ikz5ahpmm6i6c2vrn"
+      "revision": "826436d8e79fbcfb46904ee932c9688418c8df07",
+      "url": "https://github.com/rouge8/neotest-rust/archive/826436d8e79fbcfb46904ee932c9688418c8df07.tar.gz",
+      "hash": "1fin0n1rlhdzwxcfz6d081pnjcl068mzs272h6h1hpic7g0d44sa"
     },
     "neotest-scala": {
       "type": "Git",
@@ -3139,9 +3139,9 @@
         "repo": "render-markdown.nvim"
       },
       "branch": "main",
-      "revision": "198d003492bca8158b0a814ccd19230ebe37a4d1",
-      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/198d003492bca8158b0a814ccd19230ebe37a4d1.tar.gz",
-      "hash": "05bvg76s70s9hgjqzfdmkf51as0bp1553k0rabqxw2pyafpxrngh"
+      "revision": "e41b0002fe4196825450ab5a6343300c40791d51",
+      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/e41b0002fe4196825450ab5a6343300c40791d51.tar.gz",
+      "hash": "03mf3x0jgw1vm5y94l4i3d4rgidh7gys75xf42abcrrbp73qlq70"
     },
     "rest-nvim": {
       "type": "Git",
