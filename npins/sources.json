@@ -3379,9 +3379,9 @@
         "repo": "telescope-frecency.nvim"
       },
       "branch": "master",
-      "revision": "872602fad676f735424341bb8e2064a191083423",
-      "url": "https://github.com/nvim-telescope/telescope-frecency.nvim/archive/872602fad676f735424341bb8e2064a191083423.tar.gz",
-      "hash": "11akvqpahpdsi7xd3sgzyahqmzsrbr058knckb47s6z6z3ah55xn"
+      "revision": "a358728043a429d69ecfb317937df66f7cec40d5",
+      "url": "https://github.com/nvim-telescope/telescope-frecency.nvim/archive/a358728043a429d69ecfb317937df66f7cec40d5.tar.gz",
+      "hash": "062fqd3yhhi7vsy1b07z2m0rc53qxncvpkxxwmh29bdkwyabzzp2"
     },
     "telescope-fzf-native-nvim": {
       "type": "Git",
