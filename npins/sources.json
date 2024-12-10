@@ -1052,9 +1052,9 @@
         "repo": "debugprint.nvim"
       },
       "branch": "main",
-      "revision": "2cd3ebaaabc1a88c61aaf63f15794f28d56b07bc",
-      "url": "https://github.com/andrewferrier/debugprint.nvim/archive/2cd3ebaaabc1a88c61aaf63f15794f28d56b07bc.tar.gz",
-      "hash": "0f2zqqihrlnkbgbm809wzys0iz1fj2l3ia6bfik4i6br322163nz"
+      "revision": "684846f982d2fb2833c5815f5de3152a7da9e98b",
+      "url": "https://github.com/andrewferrier/debugprint.nvim/archive/684846f982d2fb2833c5815f5de3152a7da9e98b.tar.gz",
+      "hash": "0w1s17n7xgbpjap42cyfrg7y089qxc8vzg13r2idr3lnmg78533z"
     },
     "diffview-nvim": {
       "type": "Git",
@@ -4219,9 +4219,9 @@
         "repo": "yazi.nvim"
       },
       "branch": "main",
-      "revision": "a084a008c1479b9e50259995fe0192714d641c44",
-      "url": "https://github.com/mikavilpas/yazi.nvim/archive/a084a008c1479b9e50259995fe0192714d641c44.tar.gz",
-      "hash": "0gfhyl67hllavmkyii9anjk9f80f3kvf079gm2hkkalcgj40ax55"
+      "revision": "da849feb7a66becdb3a94e197fe6ae4c9e3cdc2a",
+      "url": "https://github.com/mikavilpas/yazi.nvim/archive/da849feb7a66becdb3a94e197fe6ae4c9e3cdc2a.tar.gz",
+      "hash": "1rglxmshjlgg3zwi4cs618y2ap3dblwms8yjf227izag5fm534kx"
     },
     "yuck-vim": {
       "type": "Git",
