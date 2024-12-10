@@ -932,9 +932,9 @@
         "repo": "conform.nvim"
       },
       "branch": "master",
-      "revision": "e76afe8f7976071fae308e31bf426f557a8ef339",
-      "url": "https://github.com/stevearc/conform.nvim/archive/e76afe8f7976071fae308e31bf426f557a8ef339.tar.gz",
-      "hash": "1k3q9gqx78snggi28rly3y0zdbm5naxh75m9wy0zlpbrzb19878k"
+      "revision": "0e915ff2c9bee21df34980777cd47667473b3cc1",
+      "url": "https://github.com/stevearc/conform.nvim/archive/0e915ff2c9bee21df34980777cd47667473b3cc1.tar.gz",
+      "hash": "0cg4hbdwcrwnww9zkbhirb9ycbjwj0xjlgv2glwm4yj1s9fckdlv"
     },
     "conjure": {
       "type": "Git",
@@ -2395,9 +2395,9 @@
         "repo": "none-ls.nvim"
       },
       "branch": "main",
-      "revision": "58866c670d68ef80397c317a3a1ee5f53ca646fd",
-      "url": "https://github.com/nvimtools/none-ls.nvim/archive/58866c670d68ef80397c317a3a1ee5f53ca646fd.tar.gz",
-      "hash": "11jcq0c2azqrdkfqmmh9p2six8bjgy5izj5plmjw770a9j9avlf2"
+      "revision": "c279e541f73a2deea9deb5231b9c037678dd6353",
+      "url": "https://github.com/nvimtools/none-ls.nvim/archive/c279e541f73a2deea9deb5231b9c037678dd6353.tar.gz",
+      "hash": "1v706by8chq3gyzyfqmc58s3q7csyrjvmglamkadpvjcwi0ixh0l"
     },
     "nord-nvim": {
       "type": "Git",
@@ -2875,9 +2875,9 @@
         "repo": "oil.nvim"
       },
       "branch": "master",
-      "revision": "9a59256c8e88b29d2150e99b5960b2f111e51f75",
-      "url": "https://github.com/stevearc/oil.nvim/archive/9a59256c8e88b29d2150e99b5960b2f111e51f75.tar.gz",
-      "hash": "06b0j6vrih5nh5hw52vc55pywzi01m57v2r6p52p783aqbpp22p9"
+      "revision": "7a55ede5e745e31ea8e4cb5483221524922294bf",
+      "url": "https://github.com/stevearc/oil.nvim/archive/7a55ede5e745e31ea8e4cb5483221524922294bf.tar.gz",
+      "hash": "0w9rdcq25sf5455k0a5p4adfz5jlflhdgvhz0cm08b00kllkmk4z"
     },
     "ollama-nvim": {
       "type": "Git",
@@ -3163,9 +3163,9 @@
         "repo": "neovim"
       },
       "branch": "main",
-      "revision": "07a887a7bef4aacea8c7caebaf8cbf808cdc7a8e",
-      "url": "https://github.com/rose-pine/neovim/archive/07a887a7bef4aacea8c7caebaf8cbf808cdc7a8e.tar.gz",
-      "hash": "00gyn9s5c76fk1sqyg48aldbq2d8m33xia48vik8grj9wp12kbpx"
+      "revision": "91548dca53b36dbb9d36c10f114385f759731be1",
+      "url": "https://github.com/rose-pine/neovim/archive/91548dca53b36dbb9d36c10f114385f759731be1.tar.gz",
+      "hash": "00zhx2j5lm27pcfaimzbkil61gfc6cxyy1dcgc4cyb8vfi8psf3s"
     },
     "scope-nvim": {
       "type": "Git",
@@ -3643,9 +3643,9 @@
         "repo": "tokyonight.nvim"
       },
       "branch": "main",
-      "revision": "355e2842291dbf51b2c5878e9e37281bbef09783",
-      "url": "https://github.com/folke/tokyonight.nvim/archive/355e2842291dbf51b2c5878e9e37281bbef09783.tar.gz",
-      "hash": "18684yf56vkli162m9hs0j197hwiignw0jsmr8lhsh9svnai2bv2"
+      "revision": "1446446ed06b65987b7afee0f483b513c572e14d",
+      "url": "https://github.com/folke/tokyonight.nvim/archive/1446446ed06b65987b7afee0f483b513c572e14d.tar.gz",
+      "hash": "006vv6z0sa4q5f5p5j3mx30kbd38dnlzlqlhdgjrh3bcbch5jz1p"
     },
     "transparent-nvim": {
       "type": "Git",
