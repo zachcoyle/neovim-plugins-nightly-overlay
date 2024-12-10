@@ -1975,9 +1975,9 @@
         "repo": "neo-tree.nvim"
       },
       "branch": "main",
-      "revision": "ca340e0747a85a05c08a5ba5e183c70c0a355a7c",
-      "url": "https://github.com/nvim-neo-tree/neo-tree.nvim/archive/ca340e0747a85a05c08a5ba5e183c70c0a355a7c.tar.gz",
-      "hash": "0hyaj1j94ymkn2xsk6y3rg5khr6xg5i5dwcbdxj6m4inkvcb12p6"
+      "revision": "395ce4675a54828f9fd730d78f7910c114ab0a49",
+      "url": "https://github.com/nvim-neo-tree/neo-tree.nvim/archive/395ce4675a54828f9fd730d78f7910c114ab0a49.tar.gz",
+      "hash": "1j9fvlrci3y7aqr5hwr5y9zkgz7j2wvwlxc19dknlwdz7813a5c5"
     },
     "neocord": {
       "type": "Git",
@@ -2839,9 +2839,9 @@
         "repo": "nvim-web-devicons"
       },
       "branch": "master",
-      "revision": "87c34abe5d1dc7c1c0a95aaaf888059c614c68ac",
-      "url": "https://github.com/kyazdani42/nvim-web-devicons/archive/87c34abe5d1dc7c1c0a95aaaf888059c614c68ac.tar.gz",
-      "hash": "1kkrnsxja92kvrk5lh8sldad4wcnhwgpcpiqhwzn2pg2xda14a08"
+      "revision": "e73d2774d12d0ecf9e05578d692ba1ea50508cf2",
+      "url": "https://github.com/kyazdani42/nvim-web-devicons/archive/e73d2774d12d0ecf9e05578d692ba1ea50508cf2.tar.gz",
+      "hash": "15y3967a19g0aqigfqk6fsrq5qqiwc23kgdpz3lpr71y831byrpf"
     },
     "obsidian-nvim": {
       "type": "Git",
@@ -4219,9 +4219,9 @@
         "repo": "yazi.nvim"
       },
       "branch": "main",
-      "revision": "da849feb7a66becdb3a94e197fe6ae4c9e3cdc2a",
-      "url": "https://github.com/mikavilpas/yazi.nvim/archive/da849feb7a66becdb3a94e197fe6ae4c9e3cdc2a.tar.gz",
-      "hash": "1rglxmshjlgg3zwi4cs618y2ap3dblwms8yjf227izag5fm534kx"
+      "revision": "ce6b5b249cde9e4a27dfce18a6adb57c170d4325",
+      "url": "https://github.com/mikavilpas/yazi.nvim/archive/ce6b5b249cde9e4a27dfce18a6adb57c170d4325.tar.gz",
+      "hash": "0n4bz8iv5nxfm1gmn02jy0ixfj7lfb8rkli7l95c81h7v84wrxga"
     },
     "yuck-vim": {
       "type": "Git",
