@@ -1664,9 +1664,9 @@
         "repo": "lazy.nvim"
       },
       "branch": "main",
-      "revision": "703be1dda35e142e76e94e7503cf67d6b98a1d35",
-      "url": "https://github.com/folke/lazy.nvim/archive/703be1dda35e142e76e94e7503cf67d6b98a1d35.tar.gz",
-      "hash": "1i376sl427crmzipqnlk1dhmnbds3zzjmjk3x1bnci4vpl255dyk"
+      "revision": "b97ee167f594c69656f985f919a00435a7bc7045",
+      "url": "https://github.com/folke/lazy.nvim/archive/b97ee167f594c69656f985f919a00435a7bc7045.tar.gz",
+      "hash": "0fq36fx2g23gskisd6fr9dgl5i10g2s1m9wxlcbi00nw54ixfw1l"
     },
     "lazygit-nvim": {
       "type": "Git",
@@ -1783,9 +1783,9 @@
         "repo": "lspsaga.nvim"
       },
       "branch": "main",
-      "revision": "aa1a9ef63a6baa37b2e59c08c78bdd4b8b22ac6f",
-      "url": "https://github.com/nvimdev/lspsaga.nvim/archive/aa1a9ef63a6baa37b2e59c08c78bdd4b8b22ac6f.tar.gz",
-      "hash": "1mbzklvd6qrl2wp7psrlv97z7rw7n43zbi32jqfbfmb69wn2dwfl"
+      "revision": "2710a0ad97b5aaff404cd4756c296df454b3f726",
+      "url": "https://github.com/nvimdev/lspsaga.nvim/archive/2710a0ad97b5aaff404cd4756c296df454b3f726.tar.gz",
+      "hash": "09jn5h90zn7vn32w5hsh035r9ngscqbvwzz14ss6yca3ry1xgakr"
     },
     "ltex_extra-nvim": {
       "type": "Git",
@@ -2599,9 +2599,9 @@
         "repo": "nvim-lspconfig"
       },
       "branch": "master",
-      "revision": "b8b725659fa60d2c5f5bd7459bcfee1d8b34acd5",
-      "url": "https://github.com/neovim/nvim-lspconfig/archive/b8b725659fa60d2c5f5bd7459bcfee1d8b34acd5.tar.gz",
-      "hash": "151kwlsx22pm8cg8l5a1bjdnsz4k17zsakbgy0h4p25m4dl5ci0w"
+      "revision": "5a812abc65d529ea7673059a348814c21d7f87ff",
+      "url": "https://github.com/neovim/nvim-lspconfig/archive/5a812abc65d529ea7673059a348814c21d7f87ff.tar.gz",
+      "hash": "1gafy0clndv4g09na2p7sja2amavyr3hckqk73f3sk0rn1l73lq1"
     },
     "nvim-navbuddy": {
       "type": "Git",
