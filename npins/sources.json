@@ -2047,9 +2047,9 @@
         "repo": "neorg"
       },
       "branch": "main",
-      "revision": "0460ccd3b97bc100ca1af0270588b4c76d29c4c4",
-      "url": "https://github.com/vhyrro/neorg/archive/0460ccd3b97bc100ca1af0270588b4c76d29c4c4.tar.gz",
-      "hash": "0r6n5690n772lh5kp0ngvfh2c3i99v5aa8l7ijy1r5pd8rz13kf4"
+      "revision": "62671a7b03a1f38a6e5e03b006a9b6f8d804be0e",
+      "url": "https://github.com/vhyrro/neorg/archive/62671a7b03a1f38a6e5e03b006a9b6f8d804be0e.tar.gz",
+      "hash": "0ab5s0xpbhvlqdw0gaw8zgdf7fd1kvv0cfv5l29kkl89zdck15ga"
     },
     "neoscroll-nvim": {
       "type": "Git",
@@ -3115,9 +3115,9 @@
         "repo": "rainbow-delimiters.nvim"
       },
       "branch": "master",
-      "revision": "c7e489756b5455f922ce79ac374a4ede594f4a20",
-      "url": "https://github.com/HiPhish/rainbow-delimiters.nvim/archive/c7e489756b5455f922ce79ac374a4ede594f4a20.tar.gz",
-      "hash": "1rvbaydwnycq8hbhr1vl1ma68gk41pmskysnby79z8kw77a46sri"
+      "revision": "dc788723f717bdd3041838b8db34cce53c9aa920",
+      "url": "https://github.com/HiPhish/rainbow-delimiters.nvim/archive/dc788723f717bdd3041838b8db34cce53c9aa920.tar.gz",
+      "hash": "1m5pg4g01vqpskkq6k663wsc1r5nwlvpm1kjf27s66s5w3bl8hz3"
     },
     "refactoring-nvim": {
       "type": "Git",
