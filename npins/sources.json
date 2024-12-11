@@ -1424,9 +1424,9 @@
         "repo": "hardtime.nvim"
       },
       "branch": "main",
-      "revision": "38a38ffd0c0ce7e47c2baede3e20bfeceb3f97e0",
-      "url": "https://github.com/m4xshen/hardtime.nvim/archive/38a38ffd0c0ce7e47c2baede3e20bfeceb3f97e0.tar.gz",
-      "hash": "1q1zlr807hjxwlaxdi71jbn64aps0nhr7hz7bmcxmrp4r7anbxlm"
+      "revision": "1cf87aaa3ec4b7014daaafc009f7d37ae56153c9",
+      "url": "https://github.com/m4xshen/hardtime.nvim/archive/1cf87aaa3ec4b7014daaafc009f7d37ae56153c9.tar.gz",
+      "hash": "0v7nqvbc8y93j4d39qrlhqi4jbvb6dadqz0wxipc4ijv32drrlna"
     },
     "harpoon": {
       "type": "Git",
@@ -4219,9 +4219,9 @@
         "repo": "yazi.nvim"
       },
       "branch": "main",
-      "revision": "ce6b5b249cde9e4a27dfce18a6adb57c170d4325",
-      "url": "https://github.com/mikavilpas/yazi.nvim/archive/ce6b5b249cde9e4a27dfce18a6adb57c170d4325.tar.gz",
-      "hash": "0n4bz8iv5nxfm1gmn02jy0ixfj7lfb8rkli7l95c81h7v84wrxga"
+      "revision": "3c8cac1b431735aceed6b9987db032c9941979f5",
+      "url": "https://github.com/mikavilpas/yazi.nvim/archive/3c8cac1b431735aceed6b9987db032c9941979f5.tar.gz",
+      "hash": "00i5b9znx0b92zfs2shfmms07ki34ghsbd19h71mzcspg4f16a8v"
     },
     "yuck-vim": {
       "type": "Git",
