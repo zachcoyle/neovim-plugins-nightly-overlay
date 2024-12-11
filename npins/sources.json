@@ -1424,9 +1424,9 @@
         "repo": "hardtime.nvim"
       },
       "branch": "main",
-      "revision": "1cf87aaa3ec4b7014daaafc009f7d37ae56153c9",
-      "url": "https://github.com/m4xshen/hardtime.nvim/archive/1cf87aaa3ec4b7014daaafc009f7d37ae56153c9.tar.gz",
-      "hash": "0v7nqvbc8y93j4d39qrlhqi4jbvb6dadqz0wxipc4ijv32drrlna"
+      "revision": "2b609c27c0a050e43022f8aaf2fea7ed036df5ef",
+      "url": "https://github.com/m4xshen/hardtime.nvim/archive/2b609c27c0a050e43022f8aaf2fea7ed036df5ef.tar.gz",
+      "hash": "1y5xn33y5hizd4ad1wdnbf2ycin7r1wcyja4768jwfnnzq19yn1b"
     },
     "harpoon": {
       "type": "Git",
@@ -2767,9 +2767,9 @@
         "repo": "nvim-treesitter-context"
       },
       "branch": "master",
-      "revision": "3288c5af7d3820d716272f1d05ab661cc540a5d6",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter-context/archive/3288c5af7d3820d716272f1d05ab661cc540a5d6.tar.gz",
-      "hash": "11jsm6xqflzjrv0n60sqgdaq6i02135q1k46wybxgq407l7n4i6l"
+      "revision": "da77fd1e93c89c02e231736d3dff7b6ea43acc7a",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter-context/archive/da77fd1e93c89c02e231736d3dff7b6ea43acc7a.tar.gz",
+      "hash": "1j3a65m5nglyglw743dnwmv0i0l49zf6mgsa6ns0bpxqjkr4i7ls"
     },
     "nvim-treesitter-refactor": {
       "type": "Git",
