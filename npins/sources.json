@@ -4255,9 +4255,9 @@
         "repo": "zen-mode.nvim"
       },
       "branch": "main",
-      "revision": "29b292bdc58b76a6c8f294c961a8bf92c5a6ebd6",
-      "url": "https://github.com/folke/zen-mode.nvim/archive/29b292bdc58b76a6c8f294c961a8bf92c5a6ebd6.tar.gz",
-      "hash": "0cbdj5wwx582yqlpjdfg1snxxx3z2wn6v2gzvyling5ma6faqwc8"
+      "revision": "863f150ca321b3dd8aa1a2b69b5f411a220e144f",
+      "url": "https://github.com/folke/zen-mode.nvim/archive/863f150ca321b3dd8aa1a2b69b5f411a220e144f.tar.gz",
+      "hash": "1yfvlf6fdir7bs9avfvda5f5mc1d53fsy2xaspzpsb3yivbd11sf"
     },
     "zig-vim": {
       "type": "Git",
