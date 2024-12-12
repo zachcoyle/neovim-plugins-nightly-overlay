@@ -2599,9 +2599,9 @@
         "repo": "nvim-lspconfig"
       },
       "branch": "master",
-      "revision": "b1729954329236f59d075bec79fdee7a6f3ce88b",
-      "url": "https://github.com/neovim/nvim-lspconfig/archive/b1729954329236f59d075bec79fdee7a6f3ce88b.tar.gz",
-      "hash": "1421zkzlnzw0yj6bbpcllg72gnnhp5fzxq7pimvff4fb3f34k5mg"
+      "revision": "124be12d782d656b3c75b513a44d9e4728406078",
+      "url": "https://github.com/neovim/nvim-lspconfig/archive/124be12d782d656b3c75b513a44d9e4728406078.tar.gz",
+      "hash": "043m41x55l9q71lcd36bhgrbgp4r4iivmnw502kgkgamq90159fd"
     },
     "nvim-navbuddy": {
       "type": "Git",
