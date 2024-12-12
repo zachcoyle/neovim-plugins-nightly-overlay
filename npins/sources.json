@@ -1915,9 +1915,9 @@
         "repo": "mini.nvim"
       },
       "branch": "main",
-      "revision": "d084df4d6bf58abcc768b9bb326241ff0c502793",
-      "url": "https://github.com/echasnovski/mini.nvim/archive/d084df4d6bf58abcc768b9bb326241ff0c502793.tar.gz",
-      "hash": "14hnp8cp8qbdzmkpdh2iskjndly3gcsyk1q8kcxcia1xl5wzbhdp"
+      "revision": "e78a98ac2f984fb30e31c016f97d57e2d60a3ee7",
+      "url": "https://github.com/echasnovski/mini.nvim/archive/e78a98ac2f984fb30e31c016f97d57e2d60a3ee7.tar.gz",
+      "hash": "0ycnba29kl5algd4j5326vdky6x8dz8r12mr7gdpl183x2kyfnss"
     },
     "mkdnflow-nvim": {
       "type": "Git",
@@ -2383,9 +2383,9 @@
         "repo": "noice.nvim"
       },
       "branch": "main",
-      "revision": "29a0adb0b21b087a7209ee3b131cb16af9f60fd4",
-      "url": "https://github.com/folke/noice.nvim/archive/29a0adb0b21b087a7209ee3b131cb16af9f60fd4.tar.gz",
-      "hash": "1y3jqyii0gpnw3w49zkq81r5j35zlvlimb407pibx3jxxns5ilfj"
+      "revision": "eaed6cc9c06aa2013b5255349e4f26a6b17ab70f",
+      "url": "https://github.com/folke/noice.nvim/archive/eaed6cc9c06aa2013b5255349e4f26a6b17ab70f.tar.gz",
+      "hash": "0imw4ls3vqh8bg358y8ckxcbylhczr297zxhcfx6r7mf64sj171s"
     },
     "none-ls-nvim": {
       "type": "Git",
