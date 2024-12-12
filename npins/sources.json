@@ -1052,9 +1052,9 @@
         "repo": "debugprint.nvim"
       },
       "branch": "main",
-      "revision": "684846f982d2fb2833c5815f5de3152a7da9e98b",
-      "url": "https://github.com/andrewferrier/debugprint.nvim/archive/684846f982d2fb2833c5815f5de3152a7da9e98b.tar.gz",
-      "hash": "0w1s17n7xgbpjap42cyfrg7y089qxc8vzg13r2idr3lnmg78533z"
+      "revision": "2bc3333d6cebd8b396a4b067164633f750c06175",
+      "url": "https://github.com/andrewferrier/debugprint.nvim/archive/2bc3333d6cebd8b396a4b067164633f750c06175.tar.gz",
+      "hash": "1vsi2dykr1f7wgzfm8m5k7ma1czqd5pyswpyj9rk5qwc0vbzgzn2"
     },
     "diffview-nvim": {
       "type": "Git",
@@ -2383,9 +2383,9 @@
         "repo": "noice.nvim"
       },
       "branch": "main",
-      "revision": "7b1960c48078a8b2fb44a89db82f4fa637b2d7c8",
-      "url": "https://github.com/folke/noice.nvim/archive/7b1960c48078a8b2fb44a89db82f4fa637b2d7c8.tar.gz",
-      "hash": "11pkjv3i24anz6pz55239mzllf7g4vx376iwxgp63fnlm7i5b2yj"
+      "revision": "29a0adb0b21b087a7209ee3b131cb16af9f60fd4",
+      "url": "https://github.com/folke/noice.nvim/archive/29a0adb0b21b087a7209ee3b131cb16af9f60fd4.tar.gz",
+      "hash": "1y3jqyii0gpnw3w49zkq81r5j35zlvlimb407pibx3jxxns5ilfj"
     },
     "none-ls-nvim": {
       "type": "Git",
