@@ -2671,9 +2671,9 @@
         "repo": "nvim-scrollview"
       },
       "branch": "main",
-      "revision": "4d60c594d78e97189c1e38720e74f13c6f5c311f",
-      "url": "https://github.com/dstein64/nvim-scrollview/archive/4d60c594d78e97189c1e38720e74f13c6f5c311f.tar.gz",
-      "hash": "0x7w1y95pz3f3jy97qrj2vww00n2drxw5g2hxs0x9s2vzqcxi42p"
+      "revision": "183468ff56fbade55790ca79f5df2a405ee94a8b",
+      "url": "https://github.com/dstein64/nvim-scrollview/archive/183468ff56fbade55790ca79f5df2a405ee94a8b.tar.gz",
+      "hash": "0giwc299ifl72anhxyaicwz9rnzvj52cz41piwmxdj6584yiq21f"
     },
     "nvim-snippets": {
       "type": "Git",
@@ -3391,9 +3391,9 @@
         "repo": "telescope-fzf-native.nvim"
       },
       "branch": "main",
-      "revision": "cf48d4dfce44e0b9a2e19a008d6ec6ea6f01a83b",
-      "url": "https://github.com/nvim-telescope/telescope-fzf-native.nvim/archive/cf48d4dfce44e0b9a2e19a008d6ec6ea6f01a83b.tar.gz",
-      "hash": "0h741m7rcm5kl0mq9kkzw6za2h53chavpkai1qp433plaxzlyj0q"
+      "revision": "dae2eac9d91464448b584c7949a31df8faefec56",
+      "url": "https://github.com/nvim-telescope/telescope-fzf-native.nvim/archive/dae2eac9d91464448b584c7949a31df8faefec56.tar.gz",
+      "hash": "0gm67j7gcs2a02b7nj15l6acy3dxjqd8cy6mx8nfkdlmq2fij5k4"
     },
     "telescope-fzf-writer-nvim": {
       "type": "Git",
@@ -3799,9 +3799,9 @@
         "repo": "vim-dadbod-ui"
       },
       "branch": "master",
-      "revision": "7f89265a84fc003ccfa500fd99b9fea9db2c75c7",
-      "url": "https://github.com/kristijanhusak/vim-dadbod-ui/archive/7f89265a84fc003ccfa500fd99b9fea9db2c75c7.tar.gz",
-      "hash": "1z0ppjjqvw19daa7ssfynpq55p0qvb9p76b76qk4ph3g9nj6qdqn"
+      "revision": "0fec59e3e1e619e302198cd491b7d27f8d398b7c",
+      "url": "https://github.com/kristijanhusak/vim-dadbod-ui/archive/0fec59e3e1e619e302198cd491b7d27f8d398b7c.tar.gz",
+      "hash": "1gf03lg5lp34rjpkvbni5jzkxbcq50ckx8gim9ja7gpw1mf8siq6"
     },
     "vim-devicons": {
       "type": "Git",
