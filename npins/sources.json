@@ -2839,9 +2839,9 @@
         "repo": "nvim-web-devicons"
       },
       "branch": "master",
-      "revision": "e73d2774d12d0ecf9e05578d692ba1ea50508cf2",
-      "url": "https://github.com/kyazdani42/nvim-web-devicons/archive/e73d2774d12d0ecf9e05578d692ba1ea50508cf2.tar.gz",
-      "hash": "15y3967a19g0aqigfqk6fsrq5qqiwc23kgdpz3lpr71y831byrpf"
+      "revision": "dd0c15170f9ab2ffac695d90212318c05078751d",
+      "url": "https://github.com/kyazdani42/nvim-web-devicons/archive/dd0c15170f9ab2ffac695d90212318c05078751d.tar.gz",
+      "hash": "0wzw4imk7vcmrf5h4xz66plr97glbqccy173zijvg2yzjfab0mp4"
     },
     "obsidian-nvim": {
       "type": "Git",
