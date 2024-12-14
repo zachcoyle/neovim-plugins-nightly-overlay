@@ -2755,9 +2755,9 @@
         "repo": "nvim-treesitter"
       },
       "branch": "master",
-      "revision": "33d27173876499a0f037cb9edff90d583711b6ae",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/33d27173876499a0f037cb9edff90d583711b6ae.tar.gz",
-      "hash": "13yylk0z0z97c6qa0flz0p4p3nc701m5hlc5b2kp4n8gyij9w6jk"
+      "revision": "cfbbdd5effbde3d47d2d662e67cfcd62a93b783f",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/cfbbdd5effbde3d47d2d662e67cfcd62a93b783f.tar.gz",
+      "hash": "1d2dl2hrjz6hgm4hx9c4dd1l01i7lz6wad275kl1497bnccvjnj2"
     },
     "nvim-treesitter-context": {
       "type": "Git",
@@ -3691,9 +3691,9 @@
         "repo": "ts-comments.nvim"
       },
       "branch": "main",
-      "revision": "2002692ad1d3f6518d016550c20c2a890f0cbf0e",
-      "url": "https://github.com/folke/ts-comments.nvim/archive/2002692ad1d3f6518d016550c20c2a890f0cbf0e.tar.gz",
-      "hash": "1fwscqdqcza46zhbm76bfhfmz5x92cpl1hl5myfm8zkqax9kxk3l"
+      "revision": "872dcfa0418f4a33b7437fb4d9f4e89f2f000d74",
+      "url": "https://github.com/folke/ts-comments.nvim/archive/872dcfa0418f4a33b7437fb4d9f4e89f2f000d74.tar.gz",
+      "hash": "1jnxhj25x9mzm2m8sqgp8viwd8kswyrc1k4s4yqxh457m8xj6yn1"
     },
     "twilight-nvim": {
       "type": "Git",
