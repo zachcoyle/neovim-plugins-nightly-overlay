@@ -2047,9 +2047,9 @@
         "repo": "neorg"
       },
       "branch": "main",
-      "revision": "62671a7b03a1f38a6e5e03b006a9b6f8d804be0e",
-      "url": "https://github.com/vhyrro/neorg/archive/62671a7b03a1f38a6e5e03b006a9b6f8d804be0e.tar.gz",
-      "hash": "0ab5s0xpbhvlqdw0gaw8zgdf7fd1kvv0cfv5l29kkl89zdck15ga"
+      "revision": "6b945909d84b5aeadc875f9b3f529ec44b9bc60f",
+      "url": "https://github.com/vhyrro/neorg/archive/6b945909d84b5aeadc875f9b3f529ec44b9bc60f.tar.gz",
+      "hash": "0dm8s47w57gh77vaarmz64yvmv68f9ybygq65zbblya4miqknzy4"
     },
     "neoscroll-nvim": {
       "type": "Git",
@@ -2839,9 +2839,9 @@
         "repo": "nvim-web-devicons"
       },
       "branch": "master",
-      "revision": "8a8e0668b8ad6124813a44a626afdf850dd24874",
-      "url": "https://github.com/kyazdani42/nvim-web-devicons/archive/8a8e0668b8ad6124813a44a626afdf850dd24874.tar.gz",
-      "hash": "0xp3vsvfsayj9yi30llcw8c4qg47k9pgwaw3q59ygkarqppv0mrf"
+      "revision": "1736cb81bdc42e1ee206081a161bdb2af68fb7a1",
+      "url": "https://github.com/kyazdani42/nvim-web-devicons/archive/1736cb81bdc42e1ee206081a161bdb2af68fb7a1.tar.gz",
+      "hash": "16qx72yx3nl9hdx31j1fw32dx18gh5yca4vmgnxji653xr7x7gym"
     },
     "obsidian-nvim": {
       "type": "Git",
@@ -4123,9 +4123,9 @@
         "repo": "vimtex"
       },
       "branch": "master",
-      "revision": "3de8ca5434807359030f4331ae6421553afb78ea",
-      "url": "https://github.com/lervag/vimtex/archive/3de8ca5434807359030f4331ae6421553afb78ea.tar.gz",
-      "hash": "0sfljsw38j34wv51kj3m79fk0ib2gxfanzrvi7ci3rksvmk08z2y"
+      "revision": "b8bb79b5fb27e9030ade92e75cd9375416f2c666",
+      "url": "https://github.com/lervag/vimtex/archive/b8bb79b5fb27e9030ade92e75cd9375416f2c666.tar.gz",
+      "hash": "0xfflns91x5yigbkybd8phj5hbs0i6fry3ll2mp6r6azcgzcppjg"
     },
     "virt-column-nvim": {
       "type": "Git",
