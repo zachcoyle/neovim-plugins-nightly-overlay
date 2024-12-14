@@ -2599,9 +2599,9 @@
         "repo": "nvim-lspconfig"
       },
       "branch": "master",
-      "revision": "4761665b4be82c46612cdfb4ea9c90de25875c4f",
-      "url": "https://github.com/neovim/nvim-lspconfig/archive/4761665b4be82c46612cdfb4ea9c90de25875c4f.tar.gz",
-      "hash": "0540ly5zbqjlkv3cwm6ii0v3scyscx5bvik3y3prc4h0l5dggkq6"
+      "revision": "3cb6c05779459eb5fe9cddbb47675593594f0415",
+      "url": "https://github.com/neovim/nvim-lspconfig/archive/3cb6c05779459eb5fe9cddbb47675593594f0415.tar.gz",
+      "hash": "09vsawbf9s29bw8anp3i9lawjs3225f3fb7n85mz3h81fffhs1by"
     },
     "nvim-navbuddy": {
       "type": "Git",
@@ -2839,9 +2839,9 @@
         "repo": "nvim-web-devicons"
       },
       "branch": "master",
-      "revision": "dd0c15170f9ab2ffac695d90212318c05078751d",
-      "url": "https://github.com/kyazdani42/nvim-web-devicons/archive/dd0c15170f9ab2ffac695d90212318c05078751d.tar.gz",
-      "hash": "0wzw4imk7vcmrf5h4xz66plr97glbqccy173zijvg2yzjfab0mp4"
+      "revision": "8a8e0668b8ad6124813a44a626afdf850dd24874",
+      "url": "https://github.com/kyazdani42/nvim-web-devicons/archive/8a8e0668b8ad6124813a44a626afdf850dd24874.tar.gz",
+      "hash": "0xp3vsvfsayj9yi30llcw8c4qg47k9pgwaw3q59ygkarqppv0mrf"
     },
     "obsidian-nvim": {
       "type": "Git",
@@ -3139,9 +3139,9 @@
         "repo": "render-markdown.nvim"
       },
       "branch": "main",
-      "revision": "e41b0002fe4196825450ab5a6343300c40791d51",
-      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/e41b0002fe4196825450ab5a6343300c40791d51.tar.gz",
-      "hash": "03mf3x0jgw1vm5y94l4i3d4rgidh7gys75xf42abcrrbp73qlq70"
+      "revision": "0022a579ac7355966be5ade77699b88c76b6a549",
+      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/0022a579ac7355966be5ade77699b88c76b6a549.tar.gz",
+      "hash": "1yz61sbldqrnfj5wd2q77vz0hybl8x1h2zs9krkhp7p963d4a22f"
     },
     "rest-nvim": {
       "type": "Git",
