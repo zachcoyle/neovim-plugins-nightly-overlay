@@ -1196,9 +1196,9 @@
         "repo": "firenvim"
       },
       "branch": "master",
-      "revision": "af68897a5257f20f50e9dd6d08cf7250a069b3ef",
-      "url": "https://github.com/glacambre/firenvim/archive/af68897a5257f20f50e9dd6d08cf7250a069b3ef.tar.gz",
-      "hash": "1rnilzi71cvhw2wfpmfnrsg4cd8nflx0yvwrq8qk62a1q2vrc4za"
+      "revision": "dd2d6f6b3b87b3726d5ef59adfe8a6c444889dda",
+      "url": "https://github.com/glacambre/firenvim/archive/dd2d6f6b3b87b3726d5ef59adfe8a6c444889dda.tar.gz",
+      "hash": "0hp7gl0vmmfr5kzmjwljalbh6cn4k15a8il2yc7irrp7ak58nzfs"
     },
     "flash-nvim": {
       "type": "Git",
