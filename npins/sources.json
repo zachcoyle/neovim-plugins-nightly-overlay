@@ -3943,9 +3943,9 @@
         "repo": "vim-matchup"
       },
       "branch": "master",
-      "revision": "5fb083de1e06fdd134c6ad8d007d4b5576b25ba7",
-      "url": "https://github.com/andymass/vim-matchup/archive/5fb083de1e06fdd134c6ad8d007d4b5576b25ba7.tar.gz",
-      "hash": "1913gqqhza5nhcmxh0bdrn0bzsizk6ymlrv303dd5s1mp8k44mzn"
+      "revision": "3ed08b05cc31cf4939cc8fd53b67e9b78285a2d1",
+      "url": "https://github.com/andymass/vim-matchup/archive/3ed08b05cc31cf4939cc8fd53b67e9b78285a2d1.tar.gz",
+      "hash": "06153y8lxn1938v5c3k9nfw8c2xny7byfzig96ss7l1yn3gngqxc"
     },
     "vim-nix": {
       "type": "Git",
@@ -4219,9 +4219,9 @@
         "repo": "yazi.nvim"
       },
       "branch": "main",
-      "revision": "89e011ee7df170e681a112bb293c2599b3b97853",
-      "url": "https://github.com/mikavilpas/yazi.nvim/archive/89e011ee7df170e681a112bb293c2599b3b97853.tar.gz",
-      "hash": "0iw866bj3vxnhl0dh4q5xisl4kng15lxx70y765bdywnf645g00q"
+      "revision": "e7e0a1d8de1466546efc8e5e8fa7b436d3088ba7",
+      "url": "https://github.com/mikavilpas/yazi.nvim/archive/e7e0a1d8de1466546efc8e5e8fa7b436d3088ba7.tar.gz",
+      "hash": "1q5w2yb6zy5a8x4w23isnbyfzh0mixqj56nsjprwr378kmsz9ynp"
     },
     "yuck-vim": {
       "type": "Git",
