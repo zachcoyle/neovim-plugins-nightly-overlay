@@ -1196,9 +1196,9 @@
         "repo": "firenvim"
       },
       "branch": "master",
-      "revision": "64f9389b88c8b0c7667d45c171a5f25c42d852fb",
-      "url": "https://github.com/glacambre/firenvim/archive/64f9389b88c8b0c7667d45c171a5f25c42d852fb.tar.gz",
-      "hash": "11c5fxpnmfqan5rjwzljz23n47g4iik4rphsknb05hycl4baapfs"
+      "revision": "af68897a5257f20f50e9dd6d08cf7250a069b3ef",
+      "url": "https://github.com/glacambre/firenvim/archive/af68897a5257f20f50e9dd6d08cf7250a069b3ef.tar.gz",
+      "hash": "1rnilzi71cvhw2wfpmfnrsg4cd8nflx0yvwrq8qk62a1q2vrc4za"
     },
     "flash-nvim": {
       "type": "Git",
@@ -4159,9 +4159,9 @@
         "repo": "which-key.nvim"
       },
       "branch": "main",
-      "revision": "4ab3bbe976e63b5390d3fca74a52a092a041cd30",
-      "url": "https://github.com/folke/which-key.nvim/archive/4ab3bbe976e63b5390d3fca74a52a092a041cd30.tar.gz",
-      "hash": "1mhlfkqj09cqkzabgs0amyyyr8z1m9mjqbjv2wncir8ahlpmgm56"
+      "revision": "aa0220bf3510d7692cae084f282e5c11951b6a4c",
+      "url": "https://github.com/folke/which-key.nvim/archive/aa0220bf3510d7692cae084f282e5c11951b6a4c.tar.gz",
+      "hash": "1rq85cvhy4z6qgaqyjbgdxi07jgrj05a34d4x21vf0mc2c59wdn1"
     },
     "wilder-nvim": {
       "type": "Git",
