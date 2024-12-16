@@ -44,9 +44,9 @@
         "repo": "SchemaStore.nvim"
       },
       "branch": "main",
-      "revision": "f8c2a0f5d51b800ea4625808e243d9e8f7c5e1df",
-      "url": "https://github.com/b0o/SchemaStore.nvim/archive/f8c2a0f5d51b800ea4625808e243d9e8f7c5e1df.tar.gz",
-      "hash": "12x27klj4bv23llgv5h9dpnqyg9a74vid0j72if8yd8p2w63dzbs"
+      "revision": "a5678ede14f8ebf92728fb45abb71824c6b3a657",
+      "url": "https://github.com/b0o/SchemaStore.nvim/archive/a5678ede14f8ebf92728fb45abb71824c6b3a657.tar.gz",
+      "hash": "16ixi5jhv6iwcgyks0xv7agc2427x0am599h27dxshggabm3ysnn"
     },
     "alpha-nvim": {
       "type": "Git",
@@ -2839,9 +2839,9 @@
         "repo": "nvim-web-devicons"
       },
       "branch": "master",
-      "revision": "1736cb81bdc42e1ee206081a161bdb2af68fb7a1",
-      "url": "https://github.com/kyazdani42/nvim-web-devicons/archive/1736cb81bdc42e1ee206081a161bdb2af68fb7a1.tar.gz",
-      "hash": "16qx72yx3nl9hdx31j1fw32dx18gh5yca4vmgnxji653xr7x7gym"
+      "revision": "0eb18da56e2ba6ba24de7130a12bcc4e31ad11cb",
+      "url": "https://github.com/kyazdani42/nvim-web-devicons/archive/0eb18da56e2ba6ba24de7130a12bcc4e31ad11cb.tar.gz",
+      "hash": "0xhd4wyr0g6r0hpjlsplclx36yndgj4b7q6shfjfdp68sbqw6hir"
     },
     "obsidian-nvim": {
       "type": "Git",
