@@ -1052,9 +1052,9 @@
         "repo": "debugprint.nvim"
       },
       "branch": "main",
-      "revision": "915116e96b373e663788778bec56d2d81ec6fa72",
-      "url": "https://github.com/andrewferrier/debugprint.nvim/archive/915116e96b373e663788778bec56d2d81ec6fa72.tar.gz",
-      "hash": "0cq8kaxy3n8wq505vkh6nc93mqh8crdksawsb2954mp38gzbmg1c"
+      "revision": "29a802d4f2009a825471a9d16571c20b6a2f2944",
+      "url": "https://github.com/andrewferrier/debugprint.nvim/archive/29a802d4f2009a825471a9d16571c20b6a2f2944.tar.gz",
+      "hash": "0kdxfxxn46hpzws0lwhwnnxb3ymy2aj7s01qzp3zlg0n4rnj4x4f"
     },
     "diffview-nvim": {
       "type": "Git",
@@ -2719,9 +2719,9 @@
         "repo": "nvim-spider"
       },
       "branch": "main",
-      "revision": "d9c53d19b8c489c78bab710efd8b5545725ad9ba",
-      "url": "https://github.com/chrisgrieser/nvim-spider/archive/d9c53d19b8c489c78bab710efd8b5545725ad9ba.tar.gz",
-      "hash": "0ylfh9dqc4phxv4f05fz9z8rwlfs3xfh1b5kqi8y46q1bwxb78jq"
+      "revision": "c61aca1d9541e1d14083e1e23e20c01c53c98668",
+      "url": "https://github.com/chrisgrieser/nvim-spider/archive/c61aca1d9541e1d14083e1e23e20c01c53c98668.tar.gz",
+      "hash": "0vnccv7zvh96nbn01l33nhdsl1fcwxjl21kp1r0fnz7idwd0yrl9"
     },
     "nvim-surround": {
       "type": "Git",
