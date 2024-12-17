@@ -2311,9 +2311,9 @@
         "repo": "neotest-rust"
       },
       "branch": "main",
-      "revision": "826436d8e79fbcfb46904ee932c9688418c8df07",
-      "url": "https://github.com/rouge8/neotest-rust/archive/826436d8e79fbcfb46904ee932c9688418c8df07.tar.gz",
-      "hash": "1fin0n1rlhdzwxcfz6d081pnjcl068mzs272h6h1hpic7g0d44sa"
+      "revision": "42288ef2abc73df708bc3c93cb256e382f8e08c7",
+      "url": "https://github.com/rouge8/neotest-rust/archive/42288ef2abc73df708bc3c93cb256e382f8e08c7.tar.gz",
+      "hash": "1yhi3kk4ni2d3nk0wbmpxb974zqannam37k83l235xlna1541cxq"
     },
     "neotest-scala": {
       "type": "Git",
