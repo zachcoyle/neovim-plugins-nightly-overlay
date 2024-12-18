@@ -1448,9 +1448,9 @@
         "repo": "haskell-scope-highlighting.nvim"
       },
       "branch": "master",
-      "revision": "9f0f9ee26a011c3567865cdcc0443318de281ad3",
-      "url": "https://github.com/kiyoon/haskell-scope-highlighting.nvim/archive/9f0f9ee26a011c3567865cdcc0443318de281ad3.tar.gz",
-      "hash": "1npaanvvgnqpra4wbnxjffjdvw3mks8si42pnl5pj5snascbigv5"
+      "revision": "0b6238e1c5b2a53093e7d99a433ecdd4efff5db1",
+      "url": "https://github.com/kiyoon/haskell-scope-highlighting.nvim/archive/0b6238e1c5b2a53093e7d99a433ecdd4efff5db1.tar.gz",
+      "hash": "013fa6vdjgw5jl7h9yvi68v8awg2zznrxz5gfgl6i1cv9ry2l900"
     },
     "headlines-nvim": {
       "type": "Git",
@@ -2827,9 +2827,9 @@
         "repo": "nvim-ufo"
       },
       "branch": "main",
-      "revision": "88733c30223c68800b277be49980754e4d61f760",
-      "url": "https://github.com/kevinhwang91/nvim-ufo/archive/88733c30223c68800b277be49980754e4d61f760.tar.gz",
-      "hash": "01yf6675gd0chlpzwpcm7j1693hb57jwjs92cw6nkmhm33p7zpsf"
+      "revision": "270ca542dae992ffe40274718c63645217ebc8bf",
+      "url": "https://github.com/kevinhwang91/nvim-ufo/archive/270ca542dae992ffe40274718c63645217ebc8bf.tar.gz",
+      "hash": "1rw5mj9yfmmyfhdn2ac1zq5vys027sbj8dfwlq42y9z250gh30nc"
     },
     "nvim-web-devicons": {
       "type": "Git",
