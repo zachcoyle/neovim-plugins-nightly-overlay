@@ -1268,9 +1268,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "21849312a3eae7d8115a83b7a3f9c54a4e29c611",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/21849312a3eae7d8115a83b7a3f9c54a4e29c611.tar.gz",
-      "hash": "1db0s867ijscia0ci76bzasbj4ga31qcvgz3l1q0hhl19qj7nfvh"
+      "revision": "aa5b00209a3cb127ba57b62cd868dfabb87d1862",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/aa5b00209a3cb127ba57b62cd868dfabb87d1862.tar.gz",
+      "hash": "1avipnqyga0zybrdfldqlczvdc572i4baqp80i3ck0figs79xcq5"
     },
     "galaxyline-nvim": {
       "type": "Git",
@@ -2311,9 +2311,9 @@
         "repo": "neotest-rust"
       },
       "branch": "main",
-      "revision": "7ef1e34a518f5d997880deb8074f90ab3b0a81a7",
-      "url": "https://github.com/rouge8/neotest-rust/archive/7ef1e34a518f5d997880deb8074f90ab3b0a81a7.tar.gz",
-      "hash": "19wc7a38na4ykk07ih4sskva2x4yg2v47ngrx3lkdch4ma4iph02"
+      "revision": "017cd75664392e2643d2251ba35cb9b4e849106e",
+      "url": "https://github.com/rouge8/neotest-rust/archive/017cd75664392e2643d2251ba35cb9b4e849106e.tar.gz",
+      "hash": "0j8b369fxxpm5f49kyhy0xr3w1r1kdpa3m350m0hwcg0sh2n9kyn"
     },
     "neotest-scala": {
       "type": "Git",
