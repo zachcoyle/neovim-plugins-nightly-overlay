@@ -2311,9 +2311,9 @@
         "repo": "neotest-rust"
       },
       "branch": "main",
-      "revision": "017cd75664392e2643d2251ba35cb9b4e849106e",
-      "url": "https://github.com/rouge8/neotest-rust/archive/017cd75664392e2643d2251ba35cb9b4e849106e.tar.gz",
-      "hash": "0j8b369fxxpm5f49kyhy0xr3w1r1kdpa3m350m0hwcg0sh2n9kyn"
+      "revision": "e1cb22ecf0341fb894ef2ebde344389fe6e6fc8e",
+      "url": "https://github.com/rouge8/neotest-rust/archive/e1cb22ecf0341fb894ef2ebde344389fe6e6fc8e.tar.gz",
+      "hash": "1l5rpl63dnsl1ys6h5fv4an6qndyk2bd55r1n6xhlgfns3amabk5"
     },
     "neotest-scala": {
       "type": "Git",
@@ -2755,9 +2755,9 @@
         "repo": "nvim-treesitter"
       },
       "branch": "master",
-      "revision": "c47d8d27d047634d00a07ca80a1b694624743b38",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/c47d8d27d047634d00a07ca80a1b694624743b38.tar.gz",
-      "hash": "01287iqm64z2x3s7fg0wlh7bs0l9yxnia446223zc7b35kzi96lb"
+      "revision": "981ca7e353da6ea69eaafe4348fda5e800f9e1d8",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/981ca7e353da6ea69eaafe4348fda5e800f9e1d8.tar.gz",
+      "hash": "1qriwp96canilfb9l95db67xlqy68krz2ypbvbsn1f4713ifjxlq"
     },
     "nvim-treesitter-context": {
       "type": "Git",
@@ -3943,9 +3943,9 @@
         "repo": "vim-matchup"
       },
       "branch": "master",
-      "revision": "3ed08b05cc31cf4939cc8fd53b67e9b78285a2d1",
-      "url": "https://github.com/andymass/vim-matchup/archive/3ed08b05cc31cf4939cc8fd53b67e9b78285a2d1.tar.gz",
-      "hash": "06153y8lxn1938v5c3k9nfw8c2xny7byfzig96ss7l1yn3gngqxc"
+      "revision": "aca23ce53ebfe34e02c4fe07e29e9133a2026481",
+      "url": "https://github.com/andymass/vim-matchup/archive/aca23ce53ebfe34e02c4fe07e29e9133a2026481.tar.gz",
+      "hash": "1ishy555bs2r3sr7bjrr70hc25ms5iyq76660y2vhyjrndqfranx"
     },
     "vim-nix": {
       "type": "Git",
