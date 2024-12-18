@@ -2503,9 +2503,9 @@
         "repo": "nvim-coverage"
       },
       "branch": "main",
-      "revision": "ce50194a09c97afda6cc41a9a8f22c8f18063bb5",
-      "url": "https://github.com/andythigpen/nvim-coverage/archive/ce50194a09c97afda6cc41a9a8f22c8f18063bb5.tar.gz",
-      "hash": "074w8kfng23wpqpdc0v3d4ik5a9hlir1nym8sb2cgq3hn4wyxyzq"
+      "revision": "a939e425e363319d952a6c35fb3f38b34041ded2",
+      "url": "https://github.com/andythigpen/nvim-coverage/archive/a939e425e363319d952a6c35fb3f38b34041ded2.tar.gz",
+      "hash": "0v2j3wixhfnalnzp0pxnynzfkvj47mfllxl6a4bj7p2lm1fm61i5"
     },
     "nvim-cursorline": {
       "type": "Git",
