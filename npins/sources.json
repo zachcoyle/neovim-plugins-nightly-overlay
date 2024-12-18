@@ -1268,9 +1268,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "d51d93337e06c289ca1a0f31249b15e982170843",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/d51d93337e06c289ca1a0f31249b15e982170843.tar.gz",
-      "hash": "09i6r3ir76ma1i4gcidn6ic0n48f3wf9744dd9wc1w9011vi5cll"
+      "revision": "026ee1f7210ea132ab59783eb8919eea970aa476",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/026ee1f7210ea132ab59783eb8919eea970aa476.tar.gz",
+      "hash": "0pdirhbbbr2fwhh0pangc0xqdq0vvknqygr2mzxlsps74p2ilz21"
     },
     "galaxyline-nvim": {
       "type": "Git",
@@ -4027,9 +4027,9 @@
         "repo": "vim-slime"
       },
       "branch": "main",
-      "revision": "3b39203a720c908813e5b2e8dbecaba7066d0e21",
-      "url": "https://github.com/jpalardy/vim-slime/archive/3b39203a720c908813e5b2e8dbecaba7066d0e21.tar.gz",
-      "hash": "0y9gbr2p727n6qdc49v49kwrldmqz6l1i2mfwr6b25px94fd8a0m"
+      "revision": "5280fdf24888b1e31409198f284ad2d3a88c692e",
+      "url": "https://github.com/jpalardy/vim-slime/archive/5280fdf24888b1e31409198f284ad2d3a88c692e.tar.gz",
+      "hash": "1qns7hmvwn9w7hpbzy8hj09gfwik7bl1p55gn1hjq1yila6yn799"
     },
     "vim-startify": {
       "type": "Git",
