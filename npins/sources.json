@@ -1088,9 +1088,9 @@
         "repo": "dracula.nvim"
       },
       "branch": "main",
-      "revision": "e6128ec3923b92bb2b16e81b4a0f04ed0308038e",
-      "url": "https://github.com/Mofiqul/dracula.nvim/archive/e6128ec3923b92bb2b16e81b4a0f04ed0308038e.tar.gz",
-      "hash": "19cdiibzwmmlw6m1k24d9jypjf1hy8vb63rjila885v8xgx68ffx"
+      "revision": "515acae4fd294fcefa5b15237a333c2606e958d1",
+      "url": "https://github.com/Mofiqul/dracula.nvim/archive/515acae4fd294fcefa5b15237a333c2606e958d1.tar.gz",
+      "hash": "1sr09v6q07q111pbcm8nc12mvgzb5f5n7bg8frrwb6dpspj4h97n"
     },
     "dressing-nvim": {
       "type": "Git",
