@@ -3271,9 +3271,9 @@
         "repo": "sql.nvim"
       },
       "branch": "master",
-      "revision": "d0ffd703b56d090d213b497ed4eb840495f14a11",
-      "url": "https://github.com/tami5/sql.nvim/archive/d0ffd703b56d090d213b497ed4eb840495f14a11.tar.gz",
-      "hash": "1nj0yqrr8dzjva14irp10g0c6xbnv3wm1igkl2cc7c8f3bddrfwx"
+      "revision": "cf482586c4f24e197375235a6e310b9b9e80ba83",
+      "url": "https://github.com/tami5/sql.nvim/archive/cf482586c4f24e197375235a6e310b9b9e80ba83.tar.gz",
+      "hash": "0jljfarfkvfx6ik99lrkgr4ajrm595gkd8lm5885ca9mmyaysh0b"
     },
     "sqlite-lua": {
       "type": "Git",
@@ -3283,9 +3283,9 @@
         "repo": "sqlite.lua"
       },
       "branch": "master",
-      "revision": "d0ffd703b56d090d213b497ed4eb840495f14a11",
-      "url": "https://github.com/kkharji/sqlite.lua/archive/d0ffd703b56d090d213b497ed4eb840495f14a11.tar.gz",
-      "hash": "1nj0yqrr8dzjva14irp10g0c6xbnv3wm1igkl2cc7c8f3bddrfwx"
+      "revision": "cf482586c4f24e197375235a6e310b9b9e80ba83",
+      "url": "https://github.com/kkharji/sqlite.lua/archive/cf482586c4f24e197375235a6e310b9b9e80ba83.tar.gz",
+      "hash": "0jljfarfkvfx6ik99lrkgr4ajrm595gkd8lm5885ca9mmyaysh0b"
     },
     "startup-nvim": {
       "type": "Git",
