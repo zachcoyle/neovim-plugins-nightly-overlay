@@ -2923,9 +2923,9 @@
         "repo": "orgmode"
       },
       "branch": "master",
-      "revision": "07c479c993d7e3d40166b2cfa0e27b8b7a3604d1",
-      "url": "https://github.com/nvim-orgmode/orgmode/archive/07c479c993d7e3d40166b2cfa0e27b8b7a3604d1.tar.gz",
-      "hash": "1mpn9ivn6wi8d9ywlkrrr6b5rhla1hrf6lllihqd5979l8i3lcim"
+      "revision": "db7f04435eae7191cb0ffb0e0cf2a1e9484f4a8b",
+      "url": "https://github.com/nvim-orgmode/orgmode/archive/db7f04435eae7191cb0ffb0e0cf2a1e9484f4a8b.tar.gz",
+      "hash": "05hxq1i3fqvj8cic144gxaqa78n0lbfffdcdjf5sawgm1ym0jha0"
     },
     "overseer-nvim": {
       "type": "Git",
@@ -3211,9 +3211,9 @@
         "repo": "smartcolumn.nvim"
       },
       "branch": "main",
-      "revision": "cefb17be095ad5526030a21bb2a80553cae09127",
-      "url": "https://github.com/m4xshen/smartcolumn.nvim/archive/cefb17be095ad5526030a21bb2a80553cae09127.tar.gz",
-      "hash": "1lddpzrqcvq4vqjqcc89zi851kn1r247m5c1sxn7zxh5sl61wwhc"
+      "revision": "f14fbea6f86cd29df5042897ca9e3ba10ba4d27f",
+      "url": "https://github.com/m4xshen/smartcolumn.nvim/archive/f14fbea6f86cd29df5042897ca9e3ba10ba4d27f.tar.gz",
+      "hash": "1d0p906dr4wzc73zsm1pyc3fl9a6ns8i6hkl0ynvx72hj01is6p9"
     },
     "snippets-nvim": {
       "type": "Git",
