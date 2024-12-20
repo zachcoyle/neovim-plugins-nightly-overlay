@@ -2467,9 +2467,9 @@
         "repo": "nvim-bqf"
       },
       "branch": "main",
-      "revision": "1b24dc6050c34e8cd377b6b4cd6abe40509e0187",
-      "url": "https://github.com/kevinhwang91/nvim-bqf/archive/1b24dc6050c34e8cd377b6b4cd6abe40509e0187.tar.gz",
-      "hash": "0y7hmx2am89lphx9bnszrbxm2s7y12vv3ksnr6i03nvhbx1xzgwk"
+      "revision": "68d3c20f6bee49105dcfde3df1f7ec972529f2a3",
+      "url": "https://github.com/kevinhwang91/nvim-bqf/archive/68d3c20f6bee49105dcfde3df1f7ec972529f2a3.tar.gz",
+      "hash": "0nfaw2kdlk7209h8hrk2v46qa4d9q5q81118sq5pm45rdj6bgwli"
     },
     "nvim-cmp": {
       "type": "Git",
