@@ -1747,9 +1747,9 @@
         "url": "https://git.sr.ht/~whynothugo/lsp_lines.nvim"
       },
       "branch": "main",
-      "revision": "f7f18b85360b8e85cd6a5418c9fbccb6a2ff4b1b",
+      "revision": "a92c755f182b89ea91bd8a6a2227208026f27b4d",
       "url": null,
-      "hash": "1c2fjv5gqi8ydal78imq9abmj10xk3kams180agvypaxrva09avk"
+      "hash": "14ym4d8vgvw2vhsaxik8612wyvszd895q69n9h100yd7x5jqhy4c"
     },
     "lsp_signature-nvim": {
       "type": "Git",
@@ -2599,9 +2599,9 @@
         "repo": "nvim-lspconfig"
       },
       "branch": "master",
-      "revision": "040001d85e9190a904d0e35ef5774633e14d8475",
-      "url": "https://github.com/neovim/nvim-lspconfig/archive/040001d85e9190a904d0e35ef5774633e14d8475.tar.gz",
-      "hash": "16380yk3q4w6w9xs0lmjaf03p7jplaqa7mn9dgqld00536mv1qwr"
+      "revision": "5f35efe61095997ea185bc4e20704b47e339e24c",
+      "url": "https://github.com/neovim/nvim-lspconfig/archive/5f35efe61095997ea185bc4e20704b47e339e24c.tar.gz",
+      "hash": "137ndls066wlz5dw4i25ilijndxzqjxvwcqrvq3ash9rnvqixkvm"
     },
     "nvim-navbuddy": {
       "type": "Git",
