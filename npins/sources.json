@@ -3175,9 +3175,9 @@
         "repo": "scope.nvim"
       },
       "branch": "main",
-      "revision": "932102696ead2b7ab9ff65017767b57e2722fdde",
-      "url": "https://github.com/tiagovla/scope.nvim/archive/932102696ead2b7ab9ff65017767b57e2722fdde.tar.gz",
-      "hash": "1ma6rrh8dhbm8wwky6pybczy19ziy98wsy55flfamsq5gclkxqyr"
+      "revision": "e1799fa37178382fc228245c41af5547e3f95182",
+      "url": "https://github.com/tiagovla/scope.nvim/archive/e1799fa37178382fc228245c41af5547e3f95182.tar.gz",
+      "hash": "1cbgnlrbwsf2jfn5jg3qkjpgiq0k3ls93qpcdd1c8x3lvw6q9sxc"
     },
     "scrollbar-nvim": {
       "type": "Git",
