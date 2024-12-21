@@ -2011,9 +2011,9 @@
         "repo": "neogit"
       },
       "branch": "master",
-      "revision": "0820552997dd4dda4faa147228f0e61ea88290a3",
-      "url": "https://github.com/TimUntersberger/neogit/archive/0820552997dd4dda4faa147228f0e61ea88290a3.tar.gz",
-      "hash": "1bz8nh1cqz8hjyfvf2xsrxxj82rihj2pia28ycz14qzlmlv2b6kf"
+      "revision": "9d5ac8f375a76e4ffc6b4deadd56d0d8a4594dc7",
+      "url": "https://github.com/TimUntersberger/neogit/archive/9d5ac8f375a76e4ffc6b4deadd56d0d8a4594dc7.tar.gz",
+      "hash": "0iyhwhmpa1clcxdxkhd7wq2h5w85ahh8zix8glj2gbgaz1q88lc0"
     },
     "neon": {
       "type": "Git",
@@ -4219,9 +4219,9 @@
         "repo": "yazi.nvim"
       },
       "branch": "main",
-      "revision": "2d6e9b9e2bda2294a978f60367598b75ea5b59d0",
-      "url": "https://github.com/mikavilpas/yazi.nvim/archive/2d6e9b9e2bda2294a978f60367598b75ea5b59d0.tar.gz",
-      "hash": "10ry4r7w6xfr8f6b8z6x05gas04d4b7v51i1gd9js0bd6vny3kx8"
+      "revision": "bdb872496a8eb3af205b801f36b8f7c186713786",
+      "url": "https://github.com/mikavilpas/yazi.nvim/archive/bdb872496a8eb3af205b801f36b8f7c186713786.tar.gz",
+      "hash": "0q2pw06jpc5h2jn0hdspfmy5hqclysqr1qc4ajlc3a9dnasgiylp"
     },
     "yuck-vim": {
       "type": "Git",
