@@ -2923,9 +2923,9 @@
         "repo": "orgmode"
       },
       "branch": "master",
-      "revision": "db7f04435eae7191cb0ffb0e0cf2a1e9484f4a8b",
-      "url": "https://github.com/nvim-orgmode/orgmode/archive/db7f04435eae7191cb0ffb0e0cf2a1e9484f4a8b.tar.gz",
-      "hash": "05hxq1i3fqvj8cic144gxaqa78n0lbfffdcdjf5sawgm1ym0jha0"
+      "revision": "bf657742f7cb56211f99946ff64f5f87d7d7f0d0",
+      "url": "https://github.com/nvim-orgmode/orgmode/archive/bf657742f7cb56211f99946ff64f5f87d7d7f0d0.tar.gz",
+      "hash": "074493jfhgihp5zyyl86f9hfa2j6qdgw35q87vvdbmmj6rwhjmhk"
     },
     "overseer-nvim": {
       "type": "Git",
@@ -3379,9 +3379,9 @@
         "repo": "telescope-frecency.nvim"
       },
       "branch": "master",
-      "revision": "a358728043a429d69ecfb317937df66f7cec40d5",
-      "url": "https://github.com/nvim-telescope/telescope-frecency.nvim/archive/a358728043a429d69ecfb317937df66f7cec40d5.tar.gz",
-      "hash": "062fqd3yhhi7vsy1b07z2m0rc53qxncvpkxxwmh29bdkwyabzzp2"
+      "revision": "77829eda3451ef81200b9c61696af0d64372ea85",
+      "url": "https://github.com/nvim-telescope/telescope-frecency.nvim/archive/77829eda3451ef81200b9c61696af0d64372ea85.tar.gz",
+      "hash": "1hcbndw58l02bw21xccnl12ql7gi2wa8zm85sxiv678k8w1mmmcw"
     },
     "telescope-fzf-native-nvim": {
       "type": "Git",
