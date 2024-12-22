@@ -308,9 +308,9 @@
         "repo": "cmake-tools.nvim"
       },
       "branch": "master",
-      "revision": "53bc5261e1e0b0d28be465d2b2b07a6f0646e1eb",
-      "url": "https://github.com/Civitasv/cmake-tools.nvim/archive/53bc5261e1e0b0d28be465d2b2b07a6f0646e1eb.tar.gz",
-      "hash": "15z0zla1af3sp1hafhjhn82pglsdlaqd1iawif2mk9b2ij5r2z82"
+      "revision": "0d2e24d0fcc0986e9f3c44b8fe77077ddc7b2dfa",
+      "url": "https://github.com/Civitasv/cmake-tools.nvim/archive/0d2e24d0fcc0986e9f3c44b8fe77077ddc7b2dfa.tar.gz",
+      "hash": "14maijnks5q6jnl797kqidgymgirdzsmvp19gn7p5m6bbw2jlbhb"
     },
     "cmp-async-path": {
       "type": "Git",
@@ -1424,9 +1424,9 @@
         "repo": "hardtime.nvim"
       },
       "branch": "main",
-      "revision": "511e98c3e8c782b2b4e4795568a878d813547d06",
-      "url": "https://github.com/m4xshen/hardtime.nvim/archive/511e98c3e8c782b2b4e4795568a878d813547d06.tar.gz",
-      "hash": "1lp1dvxgv298jxs8dpk1iqxmdyy4bqbs8p2pdcfvrgh1yn4chhs7"
+      "revision": "7f50be73e393fd98e426537dbc69c324fe24faa8",
+      "url": "https://github.com/m4xshen/hardtime.nvim/archive/7f50be73e393fd98e426537dbc69c324fe24faa8.tar.gz",
+      "hash": "028psbg4i8ksn22vifrzg4h2dn2gp6y6n0q0pc8ph9kd994yg60s"
     },
     "harpoon": {
       "type": "Git",
@@ -1939,9 +1939,9 @@
         "repo": "modus-themes.nvim"
       },
       "branch": "master",
-      "revision": "35980f19daef4745c96f1cb292d484fb1f33f822",
-      "url": "https://github.com/miikanissi/modus-themes.nvim/archive/35980f19daef4745c96f1cb292d484fb1f33f822.tar.gz",
-      "hash": "1l04r63bs5l87wrcccknlczbdn21w532hqcq34kyzwprwnr3z46y"
+      "revision": "9f0343bcb3be4dd5545624db135f2b1c369e7ce4",
+      "url": "https://github.com/miikanissi/modus-themes.nvim/archive/9f0343bcb3be4dd5545624db135f2b1c369e7ce4.tar.gz",
+      "hash": "0pswimi14m2srr1njvyg0wbmzsr3g039xvwwwsm5v77zvq71nmyl"
     },
     "molten-nvim": {
       "type": "Git",
