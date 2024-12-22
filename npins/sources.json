@@ -1112,9 +1112,9 @@
         "repo": "dropbar.nvim"
       },
       "branch": "master",
-      "revision": "18f9e05ef9ffa0c289fe0e3376a127a149b5b396",
-      "url": "https://github.com/Bekaboo/dropbar.nvim/archive/18f9e05ef9ffa0c289fe0e3376a127a149b5b396.tar.gz",
-      "hash": "1sbjkxh3lkhannzqb76xinns7q456mzax19wnfa20aap8160f298"
+      "revision": "1af54fc328f5c32ff40f5d1370fea3381bf69566",
+      "url": "https://github.com/Bekaboo/dropbar.nvim/archive/1af54fc328f5c32ff40f5d1370fea3381bf69566.tar.gz",
+      "hash": "0c7dsj56vxcd6zp0d94yw9l09d5ydlac6pnaryy6r1gmpkbwfl3m"
     },
     "earthly-vim": {
       "type": "Git",
@@ -2635,9 +2635,9 @@
         "repo": "nvim-neoclip.lua"
       },
       "branch": "main",
-      "revision": "32e05f2d23dc5b6a284a688c0535a83d1bfc633f",
-      "url": "https://github.com/AckslD/nvim-neoclip.lua/archive/32e05f2d23dc5b6a284a688c0535a83d1bfc633f.tar.gz",
-      "hash": "0z6rfbl02ddazfrmczb34hspgshqvxpi3ga4q7srhpz0cch16y8q"
+      "revision": "5e5e010251281f4aea69cfc1d4976ffe6065cf0f",
+      "url": "https://github.com/AckslD/nvim-neoclip.lua/archive/5e5e010251281f4aea69cfc1d4976ffe6065cf0f.tar.gz",
+      "hash": "1fdm1k6gdhgi8vz4kfi2v40fjp4c1rnc6fb4bmmr3x6ca25ij8s4"
     },
     "nvim-notify": {
       "type": "Git",
@@ -4219,9 +4219,9 @@
         "repo": "yazi.nvim"
       },
       "branch": "main",
-      "revision": "bdb872496a8eb3af205b801f36b8f7c186713786",
-      "url": "https://github.com/mikavilpas/yazi.nvim/archive/bdb872496a8eb3af205b801f36b8f7c186713786.tar.gz",
-      "hash": "0q2pw06jpc5h2jn0hdspfmy5hqclysqr1qc4ajlc3a9dnasgiylp"
+      "revision": "28ebf7eceb08ae47dbc988f0e93593c4c9f15a05",
+      "url": "https://github.com/mikavilpas/yazi.nvim/archive/28ebf7eceb08ae47dbc988f0e93593c4c9f15a05.tar.gz",
+      "hash": "0l69xc9h4wa2nzw4pm6j1c4f51h4iz1zlmida4dnpgkqcy26agmw"
     },
     "yuck-vim": {
       "type": "Git",
