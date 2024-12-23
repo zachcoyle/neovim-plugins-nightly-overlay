@@ -1268,9 +1268,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "2ab648faf877914ec762827fb96232c7cad57455",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/2ab648faf877914ec762827fb96232c7cad57455.tar.gz",
-      "hash": "0iqy3wqj6wdwv01f90k9qxhm14vnn9wdagv5xi93w34h42r5an8m"
+      "revision": "7022b5b002bb7488e1be4470bad2342bcc8d4d99",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/7022b5b002bb7488e1be4470bad2342bcc8d4d99.tar.gz",
+      "hash": "0i5a0gwy9r9dk4a3cq0k5vh38ixk69wps455545lc7g43s27b0ik"
     },
     "galaxyline-nvim": {
       "type": "Git",
@@ -1975,9 +1975,9 @@
         "repo": "neo-tree.nvim"
       },
       "branch": "main",
-      "revision": "385270ea21a53e06d7fff4730996bd0bb220255d",
-      "url": "https://github.com/nvim-neo-tree/neo-tree.nvim/archive/385270ea21a53e06d7fff4730996bd0bb220255d.tar.gz",
-      "hash": "1cx1p41zcbzrxr182zm17pa32v20r651crfk6y1k715369pccdsn"
+      "revision": "45c75e5f31e3581fb4b4883a81c7d7c4f3578b70",
+      "url": "https://github.com/nvim-neo-tree/neo-tree.nvim/archive/45c75e5f31e3581fb4b4883a81c7d7c4f3578b70.tar.gz",
+      "hash": "1sn2s0ylp307f18l6faj3j0058mh1qhlvjnwm3yv54jadz9gz1v0"
     },
     "neocord": {
       "type": "Git",
@@ -2911,9 +2911,9 @@
         "repo": "openscad.nvim"
       },
       "branch": "main",
-      "revision": "bf99a48bff318ceb28646d27f29f925ba0b10af0",
-      "url": "https://github.com/salkin-mada/openscad.nvim/archive/bf99a48bff318ceb28646d27f29f925ba0b10af0.tar.gz",
-      "hash": "1b90bfwwnz9iwwr89whpqn939m5bvw8cpiysc8yaq3yy46gzvkw7"
+      "revision": "58baf76fd2f9e2fe2ca83ea120d56084edb8871e",
+      "url": "https://github.com/salkin-mada/openscad.nvim/archive/58baf76fd2f9e2fe2ca83ea120d56084edb8871e.tar.gz",
+      "hash": "1rd2ppv5qwfp6ndk0mgizpmh3lhldmvwliifadykrz5vh2a7ix0p"
     },
     "orgmode": {
       "type": "Git",
