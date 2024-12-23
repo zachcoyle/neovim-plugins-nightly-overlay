@@ -308,9 +308,9 @@
         "repo": "cmake-tools.nvim"
       },
       "branch": "master",
-      "revision": "88ebb7de00f45195ae4f509fb2ad79cf452b74d0",
-      "url": "https://github.com/Civitasv/cmake-tools.nvim/archive/88ebb7de00f45195ae4f509fb2ad79cf452b74d0.tar.gz",
-      "hash": "1q2yk7fh6pwfm8ic1wxfc69apisxwyn46wzy9srglhpg9zrz67s7"
+      "revision": "4e134ed5532e5fc3c0331d1b38b7acaa4bb31894",
+      "url": "https://github.com/Civitasv/cmake-tools.nvim/archive/4e134ed5532e5fc3c0331d1b38b7acaa4bb31894.tar.gz",
+      "hash": "0yrgxpjl7qw2rphksaqhkq6c4y62qcnqdc1kjryr6kxk64hiz5rz"
     },
     "cmp-async-path": {
       "type": "Git",
@@ -1268,9 +1268,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "c3cfa2b59ad1903f79a5a431ce3133300dd6e072",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/c3cfa2b59ad1903f79a5a431ce3133300dd6e072.tar.gz",
-      "hash": "1mvzhns06i8sic1iqlw7m8xqwnh7jls1kk8gfq5dy74yyv50k9fp"
+      "revision": "a4f1644efaa0e3be884096711fcd5f7bf90c494c",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/a4f1644efaa0e3be884096711fcd5f7bf90c494c.tar.gz",
+      "hash": "1bqxdh9i900g3rkvac153kx928lap5an50avs0rda7g2j8854kmm"
     },
     "galaxyline-nvim": {
       "type": "Git",
@@ -2599,9 +2599,9 @@
         "repo": "nvim-lspconfig"
       },
       "branch": "master",
-      "revision": "9204642002ba91f9e0b7d0e5989f373657fe754a",
-      "url": "https://github.com/neovim/nvim-lspconfig/archive/9204642002ba91f9e0b7d0e5989f373657fe754a.tar.gz",
-      "hash": "07jm6r8sb8bk3wp4l19h4bp7f9k9bwdl7clibr3kbnwkm4vd496w"
+      "revision": "b54abeb8b90af1cb4592ce937ee95ed8cb457801",
+      "url": "https://github.com/neovim/nvim-lspconfig/archive/b54abeb8b90af1cb4592ce937ee95ed8cb457801.tar.gz",
+      "hash": "0g0rkyg1pmliy0ax5dmg8hc8k634q53l35irzdccjypnfkj035ki"
     },
     "nvim-navbuddy": {
       "type": "Git",
