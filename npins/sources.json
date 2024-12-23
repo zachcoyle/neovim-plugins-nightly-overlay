@@ -1652,9 +1652,9 @@
         "repo": "kanagawa.nvim"
       },
       "branch": "master",
-      "revision": "ad3dddecd606746374ba4807324a08331dfca23c",
-      "url": "https://github.com/rebelot/kanagawa.nvim/archive/ad3dddecd606746374ba4807324a08331dfca23c.tar.gz",
-      "hash": "1lfa6ib45xpfvqkd97n2kf6cizgmilvi3pqv1i8iq3cj3499wvr0"
+      "revision": "2d54b56242a6f03c74864d118d61afa1acb5918e",
+      "url": "https://github.com/rebelot/kanagawa.nvim/archive/2d54b56242a6f03c74864d118d61afa1acb5918e.tar.gz",
+      "hash": "0kb4szw2h8qabv6f4n1ky7lshrhq1833f8137n15ifnna998di90"
     },
     "lazy-nvim": {
       "type": "Git",
@@ -1975,9 +1975,9 @@
         "repo": "neo-tree.nvim"
       },
       "branch": "main",
-      "revision": "2d4094b885ea642f590997e92ffe6415fdc60185",
-      "url": "https://github.com/nvim-neo-tree/neo-tree.nvim/archive/2d4094b885ea642f590997e92ffe6415fdc60185.tar.gz",
-      "hash": "127ws1kbs3kv7rq40ygc3jn2q4gzijr0nzb3i12gvk7w84ynppwp"
+      "revision": "385270ea21a53e06d7fff4730996bd0bb220255d",
+      "url": "https://github.com/nvim-neo-tree/neo-tree.nvim/archive/385270ea21a53e06d7fff4730996bd0bb220255d.tar.gz",
+      "hash": "1cx1p41zcbzrxr182zm17pa32v20r651crfk6y1k715369pccdsn"
     },
     "neocord": {
       "type": "Git",
