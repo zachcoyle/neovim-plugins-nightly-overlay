@@ -932,9 +932,9 @@
         "repo": "conform.nvim"
       },
       "branch": "master",
-      "revision": "339b3e4519ec49312d34fcfa275aa15bfaa67025",
-      "url": "https://github.com/stevearc/conform.nvim/archive/339b3e4519ec49312d34fcfa275aa15bfaa67025.tar.gz",
-      "hash": "10mm48z39kcwnnq2plm9is5v42ss9dsrg2d95k7fkmsip0jgizvv"
+      "revision": "edafd10efeda659dd3ad8f1edb7e47a1bd111fb9",
+      "url": "https://github.com/stevearc/conform.nvim/archive/edafd10efeda659dd3ad8f1edb7e47a1bd111fb9.tar.gz",
+      "hash": "0arfa4xzw4qbivrk9p0653g0rx1alcx3wfh7ir3dzbd32cjcffaz"
     },
     "conjure": {
       "type": "Git",
@@ -1688,9 +1688,9 @@
         "repo": "lean.nvim"
       },
       "branch": "main",
-      "revision": "bda928a682b53c904ce89b80fd9b1437eb61344b",
-      "url": "https://github.com/Julian/lean.nvim/archive/bda928a682b53c904ce89b80fd9b1437eb61344b.tar.gz",
-      "hash": "1fkqvr69arycldsy3d2nm1581rdp8jsni5c40i3s9kgp3014gxdi"
+      "revision": "44cd9c2a60fbb3e557c39e5f7cfc037f90130210",
+      "url": "https://github.com/Julian/lean.nvim/archive/44cd9c2a60fbb3e557c39e5f7cfc037f90130210.tar.gz",
+      "hash": "1frblw12kxvg4r2b0zknswis20di19i7jnrk96v8iq20lvgxpdll"
     },
     "leap-nvim": {
       "type": "Git",
