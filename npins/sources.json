@@ -2575,9 +2575,9 @@
         "repo": "nvim-lightbulb"
       },
       "branch": "master",
-      "revision": "33d4c95e0e853956bc9468b70b3064c87d5abaca",
-      "url": "https://github.com/kosayoda/nvim-lightbulb/archive/33d4c95e0e853956bc9468b70b3064c87d5abaca.tar.gz",
-      "hash": "1njf3f3jw1ynpac20rf688g1gais7ca71wzwzh3iijvhw2wd5x95"
+      "revision": "3ac0791be37ba9cc7939f1ad90ebc5e75abf4eea",
+      "url": "https://github.com/kosayoda/nvim-lightbulb/archive/3ac0791be37ba9cc7939f1ad90ebc5e75abf4eea.tar.gz",
+      "hash": "0qc1rl45ykh9552dx5fmhdg0ncfsk2vpcmj5i7hrmdzgkd2f0avg"
     },
     "nvim-lint": {
       "type": "Git",
