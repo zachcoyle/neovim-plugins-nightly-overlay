@@ -1268,9 +1268,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "72e25cc0bf4e47c5bef33f65e1943c4cc7dc27a1",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/72e25cc0bf4e47c5bef33f65e1943c4cc7dc27a1.tar.gz",
-      "hash": "02sh0hrin7qqgmvrrvzz9jgs09w5p0xbw0rhv8sxn5zk06dl0hj9"
+      "revision": "8595c6073d7dfcf84263ffd86ab9373940034397",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/8595c6073d7dfcf84263ffd86ab9373940034397.tar.gz",
+      "hash": "1bysxkrkmnn2lnj4y8iwax1yv5qhmkmyhbbs2rppbggx3qxr8h2d"
     },
     "galaxyline-nvim": {
       "type": "Git",
@@ -2011,9 +2011,9 @@
         "repo": "neogit"
       },
       "branch": "master",
-      "revision": "5ec2bf32bc3622f882cd0fcd70ef1b729db32fbd",
-      "url": "https://github.com/TimUntersberger/neogit/archive/5ec2bf32bc3622f882cd0fcd70ef1b729db32fbd.tar.gz",
-      "hash": "18vwr3jy1pz9835lzjvl2dqzs8hpn1nc35clh0xjsf49y2q0b58w"
+      "revision": "9ea60f79e370d8f4847efc145e53afe4b0613fc1",
+      "url": "https://github.com/TimUntersberger/neogit/archive/9ea60f79e370d8f4847efc145e53afe4b0613fc1.tar.gz",
+      "hash": "11rk1mjb8sx5b43qrbpy3qmmxsdk1rs2agxzrpidvnxvrqwjzmh4"
     },
     "neon": {
       "type": "Git",
@@ -2491,9 +2491,9 @@
         "repo": "nvim-colorizer.lua"
       },
       "branch": "master",
-      "revision": "b8ed35bf2c5c350ee84699adb2f797a453d60c5f",
-      "url": "https://github.com/NvChad/nvim-colorizer.lua/archive/b8ed35bf2c5c350ee84699adb2f797a453d60c5f.tar.gz",
-      "hash": "1c1lshqhvxmkzwr1rm22dzhbgcv61j6bbrwiwf52sw32ww62ry3l"
+      "revision": "cbbd548dd0d4412cff9f9e8a251f711d1d0f16a9",
+      "url": "https://github.com/NvChad/nvim-colorizer.lua/archive/cbbd548dd0d4412cff9f9e8a251f711d1d0f16a9.tar.gz",
+      "hash": "0fgc7ss4zxfmhllrdgq19bk9amqj5wlzagji3w23pjgfvpyya5k9"
     },
     "nvim-coverage": {
       "type": "Git",
