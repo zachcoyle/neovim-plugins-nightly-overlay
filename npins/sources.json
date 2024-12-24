@@ -236,9 +236,9 @@
         "repo": "nvim"
       },
       "branch": "main",
-      "revision": "faf15ab0201b564b6368ffa47b56feefc92ce3f4",
-      "url": "https://github.com/catppuccin/nvim/archive/faf15ab0201b564b6368ffa47b56feefc92ce3f4.tar.gz",
-      "hash": "0b5bygd3zx1pazq6mxq2kg5xrp9azbx16ky9n3riz4wq17kk121s"
+      "revision": "bd80c256606770395b901f7c0b849517957da882",
+      "url": "https://github.com/catppuccin/nvim/archive/bd80c256606770395b901f7c0b849517957da882.tar.gz",
+      "hash": "14wj256gxs2z7wg5jk2qmx9914z708gsgslj118sk19nqmr08qhf"
     },
     "ccc-nvim": {
       "type": "Git",
@@ -2527,9 +2527,9 @@
         "repo": "nvim-dap"
       },
       "branch": "master",
-      "revision": "a6070b4e9e9a8ff1bc513c3748eff27080b0f44a",
-      "url": "https://github.com/mfussenegger/nvim-dap/archive/a6070b4e9e9a8ff1bc513c3748eff27080b0f44a.tar.gz",
-      "hash": "17v4n51lda3zy0lbmviy4a5srj05xx5v92hab26748db4cpkj6yn"
+      "revision": "3b796163591a300a433e25384f2574419e51da1a",
+      "url": "https://github.com/mfussenegger/nvim-dap/archive/3b796163591a300a433e25384f2574419e51da1a.tar.gz",
+      "hash": "199avjvanyznrg0i289v709hgbr2gmpih2bb8gh9i2klr31lxz2s"
     },
     "nvim-dap-virtual-text": {
       "type": "Git",
