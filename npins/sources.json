@@ -1951,9 +1951,9 @@
         "repo": "molten-nvim"
       },
       "branch": "main",
-      "revision": "2f549c823b5564c87edb645bfc039a406c650e40",
-      "url": "https://github.com/benlubas/molten-nvim/archive/2f549c823b5564c87edb645bfc039a406c650e40.tar.gz",
-      "hash": "1gp6y58br1bnp8hvp7kpb7i9kxmhgcr8501fanj0dr66gz69yzj0"
+      "revision": "8117716aa08156dcdee7233c0fc34f79f597bc75",
+      "url": "https://github.com/benlubas/molten-nvim/archive/8117716aa08156dcdee7233c0fc34f79f597bc75.tar.gz",
+      "hash": "0vmjywbhrygmx26ckq7avjk338l9g7yll4gkmydq91nlr9d5926x"
     },
     "multicursors-nvim": {
       "type": "Git",
@@ -4219,9 +4219,9 @@
         "repo": "yazi.nvim"
       },
       "branch": "main",
-      "revision": "28ebf7eceb08ae47dbc988f0e93593c4c9f15a05",
-      "url": "https://github.com/mikavilpas/yazi.nvim/archive/28ebf7eceb08ae47dbc988f0e93593c4c9f15a05.tar.gz",
-      "hash": "0l69xc9h4wa2nzw4pm6j1c4f51h4iz1zlmida4dnpgkqcy26agmw"
+      "revision": "229e12bc1791a4050bf7e43f6b16608eeaf8d2a8",
+      "url": "https://github.com/mikavilpas/yazi.nvim/archive/229e12bc1791a4050bf7e43f6b16608eeaf8d2a8.tar.gz",
+      "hash": "1gjs1hm5l70cr8pbsasia4ykl8dhfwky234pr0k0hfiry3rlmck6"
     },
     "yuck-vim": {
       "type": "Git",
