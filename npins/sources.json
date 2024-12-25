@@ -932,9 +932,9 @@
         "repo": "conform.nvim"
       },
       "branch": "master",
-      "revision": "edafd10efeda659dd3ad8f1edb7e47a1bd111fb9",
-      "url": "https://github.com/stevearc/conform.nvim/archive/edafd10efeda659dd3ad8f1edb7e47a1bd111fb9.tar.gz",
-      "hash": "0arfa4xzw4qbivrk9p0653g0rx1alcx3wfh7ir3dzbd32cjcffaz"
+      "revision": "9180320205d250429f0f80e073326c674e2a7149",
+      "url": "https://github.com/stevearc/conform.nvim/archive/9180320205d250429f0f80e073326c674e2a7149.tar.gz",
+      "hash": "128dby40rlzm6sy9ga0xbb9534rla1nc8k4apjsb8kyir40bgbi7"
     },
     "conjure": {
       "type": "Git",
