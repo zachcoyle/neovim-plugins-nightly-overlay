@@ -2599,9 +2599,9 @@
         "repo": "nvim-lspconfig"
       },
       "branch": "master",
-      "revision": "c580f34bc5fdca8aaf737a9ab8a5d775cb940e57",
-      "url": "https://github.com/neovim/nvim-lspconfig/archive/c580f34bc5fdca8aaf737a9ab8a5d775cb940e57.tar.gz",
-      "hash": "12mgb4kxwagcbdmjfw6vpwz0h5wq0lhkci88i9k1d06ax7dbfiai"
+      "revision": "ff2b85abaa810f6611233dbe6d31c07510ebf43d",
+      "url": "https://github.com/neovim/nvim-lspconfig/archive/ff2b85abaa810f6611233dbe6d31c07510ebf43d.tar.gz",
+      "hash": "035sly6x5a8f9h3gw1cnacm4d0wdn5iabn3ck7hzas0y6av28vym"
     },
     "nvim-navbuddy": {
       "type": "Git",
@@ -2719,9 +2719,9 @@
         "repo": "nvim-spider"
       },
       "branch": "main",
-      "revision": "a1140b6d006816bfe90aa196f74cfc037788e2e7",
-      "url": "https://github.com/chrisgrieser/nvim-spider/archive/a1140b6d006816bfe90aa196f74cfc037788e2e7.tar.gz",
-      "hash": "1a77gci3k0xws99jfkf9r6y0ninfmz03rr81b35jv1ym4ryycdw9"
+      "revision": "4055f3c82ec3e712b83d8149cbc5489e442b826e",
+      "url": "https://github.com/chrisgrieser/nvim-spider/archive/4055f3c82ec3e712b83d8149cbc5489e442b826e.tar.gz",
+      "hash": "134nq8wn92pjkl4syqlszk691sf34p7bn541wki5vqycbnblw2gw"
     },
     "nvim-surround": {
       "type": "Git",
