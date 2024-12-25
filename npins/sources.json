@@ -1028,9 +1028,9 @@
         "repo": "cyberdream.nvim"
       },
       "branch": "main",
-      "revision": "c872aca1268b68a8de98d78bd64951db6d679640",
-      "url": "https://github.com/scottmckendry/cyberdream.nvim/archive/c872aca1268b68a8de98d78bd64951db6d679640.tar.gz",
-      "hash": "131zijl4faamxmdjs0g0i84lsnjb7wn2dw4qlk2zw3kwxa0nidd3"
+      "revision": "8db57c2d42dfa0b5906d48c5c69fb0ac5d40fc0a",
+      "url": "https://github.com/scottmckendry/cyberdream.nvim/archive/8db57c2d42dfa0b5906d48c5c69fb0ac5d40fc0a.tar.gz",
+      "hash": "1879fbkm1d76vznd50rn62j4nxmizkdakhxwdmj2is6xyc35miwc"
     },
     "dashboard-nvim": {
       "type": "Git",
@@ -1112,9 +1112,9 @@
         "repo": "dropbar.nvim"
       },
       "branch": "master",
-      "revision": "b2f778a9ad153a1c222c8b5dc6df9fe1375eeea4",
-      "url": "https://github.com/Bekaboo/dropbar.nvim/archive/b2f778a9ad153a1c222c8b5dc6df9fe1375eeea4.tar.gz",
-      "hash": "1dyq8277w6nz2li0f6w1zavpls2wqnq0r2n7968a9qscrswxdzcb"
+      "revision": "34a29fe385232b30383c6abfbf34643b2a964d08",
+      "url": "https://github.com/Bekaboo/dropbar.nvim/archive/34a29fe385232b30383c6abfbf34643b2a964d08.tar.gz",
+      "hash": "1nkg1f1x1jdsxfgv8n7hgxfgqyqxf9gk4y1vidc4iph79nhvhrpl"
     },
     "earthly-vim": {
       "type": "Git",
@@ -2827,9 +2827,9 @@
         "repo": "nvim-ufo"
       },
       "branch": "main",
-      "revision": "7a70163417a47b0ad80c1facb5600426f9adb732",
-      "url": "https://github.com/kevinhwang91/nvim-ufo/archive/7a70163417a47b0ad80c1facb5600426f9adb732.tar.gz",
-      "hash": "02jdn732rcxjs8pap4bk383fxap7fnskc9q21bdxrdqbsb9h33ai"
+      "revision": "32cb247b893a384f1888b9cd737264159ecf183c",
+      "url": "https://github.com/kevinhwang91/nvim-ufo/archive/32cb247b893a384f1888b9cd737264159ecf183c.tar.gz",
+      "hash": "0p2f5p1nky56m666lbl8g111pf6h4piv8a29z86kdhm9hadrzp3s"
     },
     "nvim-web-devicons": {
       "type": "Git",
