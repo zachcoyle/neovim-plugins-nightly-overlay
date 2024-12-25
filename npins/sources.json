@@ -1028,9 +1028,9 @@
         "repo": "cyberdream.nvim"
       },
       "branch": "main",
-      "revision": "f16ddd792775cec5039c8199865da97650dfb59a",
-      "url": "https://github.com/scottmckendry/cyberdream.nvim/archive/f16ddd792775cec5039c8199865da97650dfb59a.tar.gz",
-      "hash": "0if2vcj50syvhf4xl59xnja3javchzn935109nwlimfshy3q1ysa"
+      "revision": "e46e958729a29492cc1681dac7bd8fd640a4d15b",
+      "url": "https://github.com/scottmckendry/cyberdream.nvim/archive/e46e958729a29492cc1681dac7bd8fd640a4d15b.tar.gz",
+      "hash": "1sxhzgdwlsspxayx8q5yyr3q1p8flgk166a9a4bajrmfl3nq32n2"
     },
     "dashboard-nvim": {
       "type": "Git",
@@ -1268,9 +1268,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "8595c6073d7dfcf84263ffd86ab9373940034397",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/8595c6073d7dfcf84263ffd86ab9373940034397.tar.gz",
-      "hash": "1bysxkrkmnn2lnj4y8iwax1yv5qhmkmyhbbs2rppbggx3qxr8h2d"
+      "revision": "7307943791d7531a8a04f6ccbc5ac8e3292ea467",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/7307943791d7531a8a04f6ccbc5ac8e3292ea467.tar.gz",
+      "hash": "1hkb85wz6h1wjj9acxdxn20ar3fnca8pdpcxqi7j8hmac0h83ykn"
     },
     "galaxyline-nvim": {
       "type": "Git",
