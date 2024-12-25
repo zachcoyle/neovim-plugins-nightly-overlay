@@ -2491,9 +2491,9 @@
         "repo": "nvim-colorizer.lua"
       },
       "branch": "master",
-      "revision": "cbbd548dd0d4412cff9f9e8a251f711d1d0f16a9",
-      "url": "https://github.com/NvChad/nvim-colorizer.lua/archive/cbbd548dd0d4412cff9f9e8a251f711d1d0f16a9.tar.gz",
-      "hash": "0fgc7ss4zxfmhllrdgq19bk9amqj5wlzagji3w23pjgfvpyya5k9"
+      "revision": "c36f6738165fec1d8e239d5c8c628cc45c58bcb3",
+      "url": "https://github.com/NvChad/nvim-colorizer.lua/archive/c36f6738165fec1d8e239d5c8c628cc45c58bcb3.tar.gz",
+      "hash": "126sikmjy6mcklpz7v8ph7cy03b1x0k42s4a1h417brkchhdk3d4"
     },
     "nvim-coverage": {
       "type": "Git",
@@ -3595,9 +3595,9 @@
         "repo": "texpresso.vim"
       },
       "branch": "main",
-      "revision": "1cc949fde8ed3220968039b6b1b6ccdd9f475087",
-      "url": "https://github.com/let-def/texpresso.vim/archive/1cc949fde8ed3220968039b6b1b6ccdd9f475087.tar.gz",
-      "hash": "15il903x1li60ys6ni77qs4xfsqkwrkwkxijda5j166xb2gq89wr"
+      "revision": "907838c08bbf99ad6bed3c908f1d0551a92ab4e0",
+      "url": "https://github.com/let-def/texpresso.vim/archive/907838c08bbf99ad6bed3c908f1d0551a92ab4e0.tar.gz",
+      "hash": "1s971w5794cf3maa0rqdbkz7j4ndnm4haabvj6fhrd0d827x21ky"
     },
     "tint-nvim": {
       "type": "Git",
