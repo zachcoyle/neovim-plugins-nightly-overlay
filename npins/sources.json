@@ -1112,9 +1112,9 @@
         "repo": "dropbar.nvim"
       },
       "branch": "master",
-      "revision": "91b53b2392a910d4c26b74bda1619f6acc83a82c",
-      "url": "https://github.com/Bekaboo/dropbar.nvim/archive/91b53b2392a910d4c26b74bda1619f6acc83a82c.tar.gz",
-      "hash": "0f5grnz2xik014qwjhp508w2v8v1rkg1bsb858m07z5dnc17sr2s"
+      "revision": "62ac5719110f03e5d77681a62bacf3c72c2eb178",
+      "url": "https://github.com/Bekaboo/dropbar.nvim/archive/62ac5719110f03e5d77681a62bacf3c72c2eb178.tar.gz",
+      "hash": "1b80r8v6a07i624izw17mha694hzr8y80wgqyy4gvnphj6zzqzjq"
     },
     "earthly-vim": {
       "type": "Git",
@@ -4279,9 +4279,9 @@
         "repo": "zk-nvim"
       },
       "branch": "main",
-      "revision": "42dc341d897ac4da3d4a9c5c506a36153473f021",
-      "url": "https://github.com/zk-org/zk-nvim/archive/42dc341d897ac4da3d4a9c5c506a36153473f021.tar.gz",
-      "hash": "1yrw8841khd4bapmcz5i99kw4xwpvz2kzda1i1n71fnhidjr1fhx"
+      "revision": "c37f5e02d26318ee76d95d57a766b3ecfc889627",
+      "url": "https://github.com/zk-org/zk-nvim/archive/c37f5e02d26318ee76d95d57a766b3ecfc889627.tar.gz",
+      "hash": "0ax5ls87w2czgfjk4syam6piqfkphpkgghpm1cdmfrv96ppd5dpz"
     }
   },
   "version": 3
