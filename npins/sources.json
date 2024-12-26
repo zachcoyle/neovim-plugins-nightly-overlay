@@ -1052,9 +1052,9 @@
         "repo": "debugprint.nvim"
       },
       "branch": "main",
-      "revision": "29a802d4f2009a825471a9d16571c20b6a2f2944",
-      "url": "https://github.com/andrewferrier/debugprint.nvim/archive/29a802d4f2009a825471a9d16571c20b6a2f2944.tar.gz",
-      "hash": "0kdxfxxn46hpzws0lwhwnnxb3ymy2aj7s01qzp3zlg0n4rnj4x4f"
+      "revision": "e868398f314a74407208fefdecb747fb65dd770b",
+      "url": "https://github.com/andrewferrier/debugprint.nvim/archive/e868398f314a74407208fefdecb747fb65dd770b.tar.gz",
+      "hash": "0zdpsifmrmz1nfn5n05qj9xphmrcnbhvvdyfyh75dy3lvv5p21q9"
     },
     "diffview-nvim": {
       "type": "Git",
@@ -2839,9 +2839,9 @@
         "repo": "nvim-web-devicons"
       },
       "branch": "master",
-      "revision": "c1a86a2c386c55efc02fa2ec2c3a914af653d954",
-      "url": "https://github.com/kyazdani42/nvim-web-devicons/archive/c1a86a2c386c55efc02fa2ec2c3a914af653d954.tar.gz",
-      "hash": "09xqzjsaklic12av1x79blvyjfi3falrxc1q4mnwpyb0f0angv05"
+      "revision": "63f552a7f59badc6e6b6d22e603150f0d5abebb7",
+      "url": "https://github.com/kyazdani42/nvim-web-devicons/archive/63f552a7f59badc6e6b6d22e603150f0d5abebb7.tar.gz",
+      "hash": "04yr85zz9b04lgxl9gfda52l0p82a1lc891s921mll3bx48i1xb2"
     },
     "obsidian-nvim": {
       "type": "Git",
