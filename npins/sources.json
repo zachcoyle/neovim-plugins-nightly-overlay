@@ -1112,9 +1112,9 @@
         "repo": "dropbar.nvim"
       },
       "branch": "master",
-      "revision": "d226c7028b66b9ae56e7055c89d90f7c8f6c89c1",
-      "url": "https://github.com/Bekaboo/dropbar.nvim/archive/d226c7028b66b9ae56e7055c89d90f7c8f6c89c1.tar.gz",
-      "hash": "1mimpls7sjvy7dpm56rdb80zm6v1rbiqm4p5mrwpyly6gphdsz69"
+      "revision": "91b53b2392a910d4c26b74bda1619f6acc83a82c",
+      "url": "https://github.com/Bekaboo/dropbar.nvim/archive/91b53b2392a910d4c26b74bda1619f6acc83a82c.tar.gz",
+      "hash": "0f5grnz2xik014qwjhp508w2v8v1rkg1bsb858m07z5dnc17sr2s"
     },
     "earthly-vim": {
       "type": "Git",
@@ -1532,9 +1532,9 @@
         "repo": "hydra.nvim"
       },
       "branch": "main",
-      "revision": "7f5341643107d05a8d7d4fdea00b29af28517380",
-      "url": "https://github.com/nvimtools/hydra.nvim/archive/7f5341643107d05a8d7d4fdea00b29af28517380.tar.gz",
-      "hash": "0f9vxv0lxzd4qpikdjinh62vfxg55dm0drcm2ms17igsfjn4myd0"
+      "revision": "983852960cd4e4e9a1b272df0bd1447495aae755",
+      "url": "https://github.com/nvimtools/hydra.nvim/archive/983852960cd4e4e9a1b272df0bd1447495aae755.tar.gz",
+      "hash": "1igym59zjdgg0kzrbc1xdykw5k9kfqn34p4gz1sgh9fww72j834j"
     },
     "idris2-nvim": {
       "type": "Git",
@@ -1951,9 +1951,9 @@
         "repo": "molten-nvim"
       },
       "branch": "main",
-      "revision": "8117716aa08156dcdee7233c0fc34f79f597bc75",
-      "url": "https://github.com/benlubas/molten-nvim/archive/8117716aa08156dcdee7233c0fc34f79f597bc75.tar.gz",
-      "hash": "0vmjywbhrygmx26ckq7avjk338l9g7yll4gkmydq91nlr9d5926x"
+      "revision": "c621baf53459a6c45dfd98dcc11cbba7a7ae9470",
+      "url": "https://github.com/benlubas/molten-nvim/archive/c621baf53459a6c45dfd98dcc11cbba7a7ae9470.tar.gz",
+      "hash": "170ks2rcd7sv22inf3adbxk7ylr2ap04yg2xnjscx7ndg6m7i1lp"
     },
     "multicursors-nvim": {
       "type": "Git",
@@ -4063,9 +4063,9 @@
         "repo": "vim-tmux-navigator"
       },
       "branch": "master",
-      "revision": "424b5caa154bff34dc258ee53cec5a8e36cf7ea8",
-      "url": "https://github.com/christoomey/vim-tmux-navigator/archive/424b5caa154bff34dc258ee53cec5a8e36cf7ea8.tar.gz",
-      "hash": "02rgmzpgrmnq15916cvqilb1mh37g1hpjiz5ys84gnqgdl26w0k7"
+      "revision": "d847ea942a5bb4d4fab6efebc9f30d787fd96e65",
+      "url": "https://github.com/christoomey/vim-tmux-navigator/archive/d847ea942a5bb4d4fab6efebc9f30d787fd96e65.tar.gz",
+      "hash": "1zfvy2qwrrl370p4j9hmn6pav8l6mqf2mlad8smnqjnimsa80jqj"
     },
     "vim-vsnip": {
       "type": "Git",
