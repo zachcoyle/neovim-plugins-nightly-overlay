@@ -1304,9 +1304,9 @@
         "repo": "git-conflict.nvim"
       },
       "branch": "main",
-      "revision": "4dc906855751096aaeba2edde7c2cdc7bb881c98",
-      "url": "https://github.com/akinsho/git-conflict.nvim/archive/4dc906855751096aaeba2edde7c2cdc7bb881c98.tar.gz",
-      "hash": "17j8aaf0m8rc93zcnxd34y1g5k0aylhy7s5zgkk39a0sjkafsf3a"
+      "revision": "a1badcd070d176172940eb55d9d59029dad1c5a6",
+      "url": "https://github.com/akinsho/git-conflict.nvim/archive/a1badcd070d176172940eb55d9d59029dad1c5a6.tar.gz",
+      "hash": "05rnwhm1fmg3yb7j2xc9nmw262jc687qxhwabn97qarrk2da0r0a"
     },
     "git-messenger-vim": {
       "type": "Git",
@@ -3631,9 +3631,9 @@
         "repo": "toggleterm.nvim"
       },
       "branch": "main",
-      "revision": "87b2d6a3cab8e2bd9a0255427074285f0365398d",
-      "url": "https://github.com/akinsho/toggleterm.nvim/archive/87b2d6a3cab8e2bd9a0255427074285f0365398d.tar.gz",
-      "hash": "0iiwh2baldc9nkss26c0xki3h8pr202d4ns3jddc2srp4y070lc3"
+      "revision": "344fc1810292785b3d962ddac2de57669e1a7ff9",
+      "url": "https://github.com/akinsho/toggleterm.nvim/archive/344fc1810292785b3d962ddac2de57669e1a7ff9.tar.gz",
+      "hash": "0awj2kj3lam2j48bgld5wyb4m1v09gpxmzww35rgysq7wipliqx1"
     },
     "tokyonight-nvim": {
       "type": "Git",
