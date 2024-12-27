@@ -1112,9 +1112,9 @@
         "repo": "dropbar.nvim"
       },
       "branch": "master",
-      "revision": "62ac5719110f03e5d77681a62bacf3c72c2eb178",
-      "url": "https://github.com/Bekaboo/dropbar.nvim/archive/62ac5719110f03e5d77681a62bacf3c72c2eb178.tar.gz",
-      "hash": "1b80r8v6a07i624izw17mha694hzr8y80wgqyy4gvnphj6zzqzjq"
+      "revision": "8377472d910526640820e8def802e050931ec145",
+      "url": "https://github.com/Bekaboo/dropbar.nvim/archive/8377472d910526640820e8def802e050931ec145.tar.gz",
+      "hash": "1w2hmxapxpjlq3v27cw2njmrcwmcfkl5ck024ljdqcwml47i9xgk"
     },
     "earthly-vim": {
       "type": "Git",
@@ -2491,9 +2491,9 @@
         "repo": "nvim-colorizer.lua"
       },
       "branch": "master",
-      "revision": "078d5aa3b7a12ee44b45107f16119c085b720316",
-      "url": "https://github.com/NvChad/nvim-colorizer.lua/archive/078d5aa3b7a12ee44b45107f16119c085b720316.tar.gz",
-      "hash": "08zxbmqj3y7iq0xhsln5gqi4gbkl3lqg3j6xrr3h2j2szl5gn5lf"
+      "revision": "3437b6bdf8301b84dafa6088d06ec2751e09ea9b",
+      "url": "https://github.com/NvChad/nvim-colorizer.lua/archive/3437b6bdf8301b84dafa6088d06ec2751e09ea9b.tar.gz",
+      "hash": "16dy5shqzd4b30nwpz1xlifl61gm7fs3ks3rcfrarwsgjp5r8hzw"
     },
     "nvim-coverage": {
       "type": "Git",
