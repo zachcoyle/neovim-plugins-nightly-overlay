@@ -2119,9 +2119,9 @@
         "repo": "neotest-dotnet"
       },
       "branch": "main",
-      "revision": "256eeb5347aec14f7f79f6c07a61feb1e3274541",
-      "url": "https://github.com/Issafalcon/neotest-dotnet/archive/256eeb5347aec14f7f79f6c07a61feb1e3274541.tar.gz",
-      "hash": "03cgh4kqhh3jyrjzwvhsrs7l5sr2h0hddi2p07p12ayfhrdncnrf"
+      "revision": "5a2fa35c3c6a72cfd3fc6a28b3d1af6e68e6c3a8",
+      "url": "https://github.com/Issafalcon/neotest-dotnet/archive/5a2fa35c3c6a72cfd3fc6a28b3d1af6e68e6c3a8.tar.gz",
+      "hash": "0nypib3cpbwvjm1qbl4aclqwns0c0p6lrcbppj0ajii0bsiym0yv"
     },
     "neotest-elixir": {
       "type": "Git",
