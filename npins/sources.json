@@ -1903,9 +1903,9 @@
         "repo": "melange-nvim"
       },
       "branch": "master",
-      "revision": "9252c78c7bffd3126b0c9e47e51e0b5211acffb1",
-      "url": "https://github.com/savq/melange-nvim/archive/9252c78c7bffd3126b0c9e47e51e0b5211acffb1.tar.gz",
-      "hash": "1lzp2kx3d55i3ndlv4islqprs4yh7f4i7hrr5z5pikk8wkj5pv95"
+      "revision": "2015bfddd43f96d09c4d99a810b61c3c0087f0f5",
+      "url": "https://github.com/savq/melange-nvim/archive/2015bfddd43f96d09c4d99a810b61c3c0087f0f5.tar.gz",
+      "hash": "01g4yyyyziwmvdlir15fw2lbr5scdkckcgmf6p9czxh5ssn7lhmf"
     },
     "mini-nvim": {
       "type": "Git",
@@ -1915,9 +1915,9 @@
         "repo": "mini.nvim"
       },
       "branch": "main",
-      "revision": "c78332b4c71ad3c2a09efe6acd0a51283627258f",
-      "url": "https://github.com/echasnovski/mini.nvim/archive/c78332b4c71ad3c2a09efe6acd0a51283627258f.tar.gz",
-      "hash": "0dij2y51dwr629ax9d5i141w7n5nc32cnqn4v3jd87s5ld4m8n82"
+      "revision": "2faada1cffce5609d78ac5e81eaf3754e0476758",
+      "url": "https://github.com/echasnovski/mini.nvim/archive/2faada1cffce5609d78ac5e81eaf3754e0476758.tar.gz",
+      "hash": "10sf6adrh47wanq9hjczcb68mylrhs99fbd21mz6b7v63zw0gg2d"
     },
     "mkdnflow-nvim": {
       "type": "Git",
@@ -2647,9 +2647,9 @@
         "repo": "nvim-notify"
       },
       "branch": "master",
-      "revision": "fbef5d32be8466dd76544a257d3f3dce20082a07",
-      "url": "https://github.com/rcarriga/nvim-notify/archive/fbef5d32be8466dd76544a257d3f3dce20082a07.tar.gz",
-      "hash": "0wbsib27kgrk632c094ivjbc8rw51kbalq9c8j576p78k93wipj9"
+      "revision": "29b33efc802a304b1cf13ab200915d4e9e67373d",
+      "url": "https://github.com/rcarriga/nvim-notify/archive/29b33efc802a304b1cf13ab200915d4e9e67373d.tar.gz",
+      "hash": "07rm8bzcj9y2nimkszwzj65lqvsdkq1kwyj49i5bdvpw56gndk76"
     },
     "nvim-osc52": {
       "type": "Git",
