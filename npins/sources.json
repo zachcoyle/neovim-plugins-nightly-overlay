@@ -1112,9 +1112,9 @@
         "repo": "dropbar.nvim"
       },
       "branch": "master",
-      "revision": "178658790f100066f17b03efd7e348c019bf3aff",
-      "url": "https://github.com/Bekaboo/dropbar.nvim/archive/178658790f100066f17b03efd7e348c019bf3aff.tar.gz",
-      "hash": "0v4qgb1gr6fxaad65mqbzx0g9bw9641wrnv1pnxpl8f2qgiahxyz"
+      "revision": "e5f9fb998a54c0ec1c2d25de88a3c260c494ffe1",
+      "url": "https://github.com/Bekaboo/dropbar.nvim/archive/e5f9fb998a54c0ec1c2d25de88a3c260c494ffe1.tar.gz",
+      "hash": "1maayqm72jc139rxbkpm2h7rbhaky45gkznx4cbpwfknygv09r9a"
     },
     "earthly-vim": {
       "type": "Git",
@@ -1268,9 +1268,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "dbc5bd14e72ba680df44906e957b0a821121726b",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/dbc5bd14e72ba680df44906e957b0a821121726b.tar.gz",
-      "hash": "1qcgacgrn6jmqi623rqav45rz83r9m3xv4k5bm5f8lnqdyi3r0av"
+      "revision": "d99996b5838a30f4725e584bac5e8a0194e5a2a6",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/d99996b5838a30f4725e584bac5e8a0194e5a2a6.tar.gz",
+      "hash": "12jh3rnygq8i2rcjwd171al6mpm8mablj28f7pci8gqn4kqkcc9f"
     },
     "galaxyline-nvim": {
       "type": "Git",
@@ -1688,9 +1688,9 @@
         "repo": "lean.nvim"
       },
       "branch": "main",
-      "revision": "4753990edeeeec6d4ba32563b2d956f51bf59686",
-      "url": "https://github.com/Julian/lean.nvim/archive/4753990edeeeec6d4ba32563b2d956f51bf59686.tar.gz",
-      "hash": "0cz23dki37y76l1s4z8fa84sdq61hjhms193kkdwk9dmw7fvrc04"
+      "revision": "d256598f7295cbcdff725b20d2ae3e66726861b4",
+      "url": "https://github.com/Julian/lean.nvim/archive/d256598f7295cbcdff725b20d2ae3e66726861b4.tar.gz",
+      "hash": "00lypdj6sdnd778jk4m5zd1dp9lc6kbg4r6asw5ya71d3zvgjxys"
     },
     "leap-nvim": {
       "type": "Git",
@@ -3151,9 +3151,9 @@
         "repo": "rest.nvim"
       },
       "branch": "main",
-      "revision": "8b489547ddbe674712750b69b34436527d855500",
-      "url": "https://github.com/rest-nvim/rest.nvim/archive/8b489547ddbe674712750b69b34436527d855500.tar.gz",
-      "hash": "1mx8nk2jvwabkj4gc9fiw6w69p407a7drv9scwalx4g9kgh6w493"
+      "revision": "32c6111814fb03696d8ad0531820629ed841654c",
+      "url": "https://github.com/rest-nvim/rest.nvim/archive/32c6111814fb03696d8ad0531820629ed841654c.tar.gz",
+      "hash": "15lkdr77q7zxqbh3xkx3ilj38hp5jfinrqw92q3dpmxc8d8wk9iw"
     },
     "rose-pine": {
       "type": "Git",
