@@ -2071,9 +2071,9 @@
         "repo": "neotest"
       },
       "branch": "master",
-      "revision": "5da58782edb137e75d8ffa149bea48eaa13532f5",
-      "url": "https://github.com/nvim-neotest/neotest/archive/5da58782edb137e75d8ffa149bea48eaa13532f5.tar.gz",
-      "hash": "148rn7rxm68yh6b660ssqg8jhzqq8s4y67xbsm83mqzjypda08il"
+      "revision": "0dccb5ebcf00de245e2060fa17822a9464f5c41a",
+      "url": "https://github.com/nvim-neotest/neotest/archive/0dccb5ebcf00de245e2060fa17822a9464f5c41a.tar.gz",
+      "hash": "15zkhdbkgla3ycxzbl6l2wspcx5ig9q58wsp3cnh1biffk4zn102"
     },
     "neotest-bash": {
       "type": "Git",
@@ -2647,9 +2647,9 @@
         "repo": "nvim-notify"
       },
       "branch": "master",
-      "revision": "fcb7cc620b9630e2161affa026bef6e1c9a33c4f",
-      "url": "https://github.com/rcarriga/nvim-notify/archive/fcb7cc620b9630e2161affa026bef6e1c9a33c4f.tar.gz",
-      "hash": "0fzz69lnjllxcy3p6g9a7n2vgkbv45v6d0sgx64y28l9wg2bvq3y"
+      "revision": "1e99f4f9534ecf3b84eb7ef54a8d460230e78442",
+      "url": "https://github.com/rcarriga/nvim-notify/archive/1e99f4f9534ecf3b84eb7ef54a8d460230e78442.tar.gz",
+      "hash": "1l9bjhah4lznm4l0hy8cxip86yxiyzn39i3lnpvjw7z05vigihvh"
     },
     "nvim-osc52": {
       "type": "Git",
