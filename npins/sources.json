@@ -1652,9 +1652,9 @@
         "repo": "kanagawa.nvim"
       },
       "branch": "master",
-      "revision": "2d54b56242a6f03c74864d118d61afa1acb5918e",
-      "url": "https://github.com/rebelot/kanagawa.nvim/archive/2d54b56242a6f03c74864d118d61afa1acb5918e.tar.gz",
-      "hash": "0kb4szw2h8qabv6f4n1ky7lshrhq1833f8137n15ifnna998di90"
+      "revision": "18ae5771b22d8f913ef541c827a8180b4cb12c8a",
+      "url": "https://github.com/rebelot/kanagawa.nvim/archive/18ae5771b22d8f913ef541c827a8180b4cb12c8a.tar.gz",
+      "hash": "0crl8cdlcx8y3fw6q2cmrm2ycr1cp1ly81942q483g2d0iyla5i0"
     },
     "lazy-nvim": {
       "type": "Git",
@@ -2863,9 +2863,9 @@
         "repo": "octo.nvim"
       },
       "branch": "master",
-      "revision": "aa3cb8e27a708d137d2540509928a3e7736f8eba",
-      "url": "https://github.com/pwntester/octo.nvim/archive/aa3cb8e27a708d137d2540509928a3e7736f8eba.tar.gz",
-      "hash": "15h2h0nrx87n36j6l9xl9jcrqs12ad0jpm0x979q9b6y06is0429"
+      "revision": "b099b0ade680d6bba14828319627276a8334d8de",
+      "url": "https://github.com/pwntester/octo.nvim/archive/b099b0ade680d6bba14828319627276a8334d8de.tar.gz",
+      "hash": "1r77h3kda80v9q4zlbh3gbjpdjhpfaij1q363llb12dqbpf5pcbd"
     },
     "oil-nvim": {
       "type": "Git",
