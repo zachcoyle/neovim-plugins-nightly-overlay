@@ -2647,9 +2647,9 @@
         "repo": "nvim-notify"
       },
       "branch": "master",
-      "revision": "29b33efc802a304b1cf13ab200915d4e9e67373d",
-      "url": "https://github.com/rcarriga/nvim-notify/archive/29b33efc802a304b1cf13ab200915d4e9e67373d.tar.gz",
-      "hash": "07rm8bzcj9y2nimkszwzj65lqvsdkq1kwyj49i5bdvpw56gndk76"
+      "revision": "fcb7cc620b9630e2161affa026bef6e1c9a33c4f",
+      "url": "https://github.com/rcarriga/nvim-notify/archive/fcb7cc620b9630e2161affa026bef6e1c9a33c4f.tar.gz",
+      "hash": "0fzz69lnjllxcy3p6g9a7n2vgkbv45v6d0sgx64y28l9wg2bvq3y"
     },
     "nvim-osc52": {
       "type": "Git",
