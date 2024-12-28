@@ -2491,9 +2491,9 @@
         "repo": "nvim-colorizer.lua"
       },
       "branch": "master",
-      "revision": "3437b6bdf8301b84dafa6088d06ec2751e09ea9b",
-      "url": "https://github.com/NvChad/nvim-colorizer.lua/archive/3437b6bdf8301b84dafa6088d06ec2751e09ea9b.tar.gz",
-      "hash": "16dy5shqzd4b30nwpz1xlifl61gm7fs3ks3rcfrarwsgjp5r8hzw"
+      "revision": "24f305fb00c6aea5cdebfc40a0f0d574dd403f88",
+      "url": "https://github.com/NvChad/nvim-colorizer.lua/archive/24f305fb00c6aea5cdebfc40a0f0d574dd403f88.tar.gz",
+      "hash": "1773dpbh0vaafnr5wak67mmskpbwd0qz2dqr6l0zbgrrn5snv6pk"
     },
     "nvim-coverage": {
       "type": "Git",
