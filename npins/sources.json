@@ -2335,9 +2335,9 @@
         "repo": "neovim-ayu"
       },
       "branch": "master",
-      "revision": "37160699469d695486174fb863aae2f2a4c1f90f",
-      "url": "https://github.com/Shatur/neovim-ayu/archive/37160699469d695486174fb863aae2f2a4c1f90f.tar.gz",
-      "hash": "0i91lfbhq567r7x9724k069lkj46am8qjsaad67h0rzvc705l9dk"
+      "revision": "283badaa983234c90e857c12c1f1c18e1544360a",
+      "url": "https://github.com/Shatur/neovim-ayu/archive/283badaa983234c90e857c12c1f1c18e1544360a.tar.gz",
+      "hash": "16pj4pkv04ff7wx5dnkzqzv69im16bgc686qbwrs5qazph702zh0"
     },
     "netman-nvim": {
       "type": "Git",
@@ -2863,9 +2863,9 @@
         "repo": "octo.nvim"
       },
       "branch": "master",
-      "revision": "b099b0ade680d6bba14828319627276a8334d8de",
-      "url": "https://github.com/pwntester/octo.nvim/archive/b099b0ade680d6bba14828319627276a8334d8de.tar.gz",
-      "hash": "1r77h3kda80v9q4zlbh3gbjpdjhpfaij1q363llb12dqbpf5pcbd"
+      "revision": "eaa193c92dd2caea6d7dea51531f6bfc0f5c2c30",
+      "url": "https://github.com/pwntester/octo.nvim/archive/eaa193c92dd2caea6d7dea51531f6bfc0f5c2c30.tar.gz",
+      "hash": "1svm3x5fcnbwldkvilwsc0viflcn6088vsrqv06rvdb2zrw6wb1r"
     },
     "oil-nvim": {
       "type": "Git",
