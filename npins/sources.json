@@ -1268,9 +1268,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "b4153da4825f86c7dbc540c5fc238ccc8c24d75a",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/b4153da4825f86c7dbc540c5fc238ccc8c24d75a.tar.gz",
-      "hash": "0417cssn05kba5frsnfimqb4pfp6v711kmpnzrr41n7kw8kyjklc"
+      "revision": "49dcf93e9bf6a70188cd53531f538bb867429b60",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/49dcf93e9bf6a70188cd53531f538bb867429b60.tar.gz",
+      "hash": "11m49j1kp8bxsbqw8i0bvgh5hslhgrsgkhj4w7jl4g5wjysra8ix"
     },
     "galaxyline-nvim": {
       "type": "Git",
@@ -2527,9 +2527,9 @@
         "repo": "nvim-dap"
       },
       "branch": "master",
-      "revision": "665d3569a86395fe0dab85efbdb26d7d2ee57e49",
-      "url": "https://github.com/mfussenegger/nvim-dap/archive/665d3569a86395fe0dab85efbdb26d7d2ee57e49.tar.gz",
-      "hash": "1qssjhppkpknsvikjqyzv67i6gbjzg622scq1ycz4z8ckld73vl1"
+      "revision": "ffb077e65259f13be096ea6d603e3575a76b214a",
+      "url": "https://github.com/mfussenegger/nvim-dap/archive/ffb077e65259f13be096ea6d603e3575a76b214a.tar.gz",
+      "hash": "0sfqxhqm3gmw8q9w60nz5cm3yj9qnq5mxm584f0g83jvdy59f9p6"
     },
     "nvim-dap-virtual-text": {
       "type": "Git",
@@ -2839,9 +2839,9 @@
         "repo": "nvim-web-devicons"
       },
       "branch": "master",
-      "revision": "63f552a7f59badc6e6b6d22e603150f0d5abebb7",
-      "url": "https://github.com/kyazdani42/nvim-web-devicons/archive/63f552a7f59badc6e6b6d22e603150f0d5abebb7.tar.gz",
-      "hash": "04yr85zz9b04lgxl9gfda52l0p82a1lc891s921mll3bx48i1xb2"
+      "revision": "4adeeaa7a32d46cf3b5833341358c797304f950a",
+      "url": "https://github.com/kyazdani42/nvim-web-devicons/archive/4adeeaa7a32d46cf3b5833341358c797304f950a.tar.gz",
+      "hash": "1bnw6k9nki7igc7j4y02mbmihfb5yj7xykgiyi31kc5nbzldinl7"
     },
     "obsidian-nvim": {
       "type": "Git",
@@ -2863,9 +2863,9 @@
         "repo": "octo.nvim"
       },
       "branch": "master",
-      "revision": "ea050ffec7d1b1c2e6487b05f1d0fec7afe44e10",
-      "url": "https://github.com/pwntester/octo.nvim/archive/ea050ffec7d1b1c2e6487b05f1d0fec7afe44e10.tar.gz",
-      "hash": "1gsv94cdzbdb3iqrhf7siv7107gx473axd605qd7pp58vd9qhqb7"
+      "revision": "4d0846c7b7e7e456195c6d47bc71f154bacfe41e",
+      "url": "https://github.com/pwntester/octo.nvim/archive/4d0846c7b7e7e456195c6d47bc71f154bacfe41e.tar.gz",
+      "hash": "07m64vv5jqa4w4yv1s5j7r3axgic14f99jdzninpzmjaxsx4rjci"
     },
     "oil-nvim": {
       "type": "Git",
