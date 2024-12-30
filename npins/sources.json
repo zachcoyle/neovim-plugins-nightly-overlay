@@ -500,9 +500,9 @@
         "repo": "cmp-git"
       },
       "branch": "main",
-      "revision": "ec049036e354ed8ed0215f2427112882e1ea7051",
-      "url": "https://github.com/petertriho/cmp-git/archive/ec049036e354ed8ed0215f2427112882e1ea7051.tar.gz",
-      "hash": "0if0bqng4gibsgw00fl70b29lzyx6fi1vvhbmbyypw6j1qvdqq73"
+      "revision": "c1f76bf4a2b288e16307d67eaa4218c91b70b990",
+      "url": "https://github.com/petertriho/cmp-git/archive/c1f76bf4a2b288e16307d67eaa4218c91b70b990.tar.gz",
+      "hash": "1nxgaqjq6vi0qqnx9ryny6flh75xihpnzxqj1l9rrpj2qmsli321"
     },
     "cmp-greek": {
       "type": "Git",
