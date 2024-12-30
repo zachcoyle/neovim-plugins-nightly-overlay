@@ -1268,9 +1268,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "49dcf93e9bf6a70188cd53531f538bb867429b60",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/49dcf93e9bf6a70188cd53531f538bb867429b60.tar.gz",
-      "hash": "11m49j1kp8bxsbqw8i0bvgh5hslhgrsgkhj4w7jl4g5wjysra8ix"
+      "revision": "12ac915c26ec6337ff96be0b8b2311736cca4c13",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/12ac915c26ec6337ff96be0b8b2311736cca4c13.tar.gz",
+      "hash": "1w51nlrlph05yxdpl2gafxi6ryk8cfad3c4672fwav3a227c2n99"
     },
     "galaxyline-nvim": {
       "type": "Git",
@@ -1915,9 +1915,9 @@
         "repo": "mini.nvim"
       },
       "branch": "main",
-      "revision": "1270c1d41502a16e5e648b9bbff8dde597bcdc98",
-      "url": "https://github.com/echasnovski/mini.nvim/archive/1270c1d41502a16e5e648b9bbff8dde597bcdc98.tar.gz",
-      "hash": "03d1akgcn3r8lpm0999xyqhfwa941kqwax83kv55nj07nn2nqfgj"
+      "revision": "9df78f3cdf9bdcc5aaf93cc51412a69a384041b2",
+      "url": "https://github.com/echasnovski/mini.nvim/archive/9df78f3cdf9bdcc5aaf93cc51412a69a384041b2.tar.gz",
+      "hash": "1ljnl61v051fw3mqg80gwva9lpav79i7hxf2kifg4fxi72sy0bfx"
     },
     "mkdnflow-nvim": {
       "type": "Git",
@@ -3631,9 +3631,9 @@
         "repo": "toggleterm.nvim"
       },
       "branch": "main",
-      "revision": "344fc1810292785b3d962ddac2de57669e1a7ff9",
-      "url": "https://github.com/akinsho/toggleterm.nvim/archive/344fc1810292785b3d962ddac2de57669e1a7ff9.tar.gz",
-      "hash": "0awj2kj3lam2j48bgld5wyb4m1v09gpxmzww35rgysq7wipliqx1"
+      "revision": "e76134e682c1a866e3dfcdaeb691eb7b01068668",
+      "url": "https://github.com/akinsho/toggleterm.nvim/archive/e76134e682c1a866e3dfcdaeb691eb7b01068668.tar.gz",
+      "hash": "1jyg3nv54kssz2a4blpwhd718msf95zqz6sr2sqblc7b35gm73g1"
     },
     "tokyonight-nvim": {
       "type": "Git",
