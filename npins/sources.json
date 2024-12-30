@@ -1712,9 +1712,9 @@
         "repo": "lightline.vim"
       },
       "branch": "master",
-      "revision": "d6a07ea376a4b7372aa59e7ea6a051c9470bb4d0",
-      "url": "https://github.com/itchyny/lightline.vim/archive/d6a07ea376a4b7372aa59e7ea6a051c9470bb4d0.tar.gz",
-      "hash": "0n7ljlczy70ra12hf6szz2997i46iadjy67lad3avk9ybzzn5fmi"
+      "revision": "e358557e1a9f9fc860416c8eb2e34c0404078155",
+      "url": "https://github.com/itchyny/lightline.vim/archive/e358557e1a9f9fc860416c8eb2e34c0404078155.tar.gz",
+      "hash": "07d61nd3k4gmfxa8j17imlwakgj1iw485w880bjfdms347jaklvc"
     },
     "lsp-format-nvim": {
       "type": "Git",
@@ -2647,9 +2647,9 @@
         "repo": "nvim-notify"
       },
       "branch": "master",
-      "revision": "1e99f4f9534ecf3b84eb7ef54a8d460230e78442",
-      "url": "https://github.com/rcarriga/nvim-notify/archive/1e99f4f9534ecf3b84eb7ef54a8d460230e78442.tar.gz",
-      "hash": "1l9bjhah4lznm4l0hy8cxip86yxiyzn39i3lnpvjw7z05vigihvh"
+      "revision": "c3797193536711b5d8983975791c4b11dc35ab3a",
+      "url": "https://github.com/rcarriga/nvim-notify/archive/c3797193536711b5d8983975791c4b11dc35ab3a.tar.gz",
+      "hash": "003llmakicwzf0dkcnap6anwcr8kkvazfxy59shdb8zdnahfjc7n"
     },
     "nvim-osc52": {
       "type": "Git",
