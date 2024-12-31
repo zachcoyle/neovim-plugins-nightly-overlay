@@ -1052,9 +1052,9 @@
         "repo": "debugprint.nvim"
       },
       "branch": "main",
-      "revision": "616e1abe1b49845ebbbdf9e54c54e18f276b1281",
-      "url": "https://github.com/andrewferrier/debugprint.nvim/archive/616e1abe1b49845ebbbdf9e54c54e18f276b1281.tar.gz",
-      "hash": "1nw353628h56ax8wsdg3fiq6a7y3xidn3x6b02nj3kpwm3zkhrb2"
+      "revision": "50d2b9fc4f9e1348202d4f6c132520817c5b8823",
+      "url": "https://github.com/andrewferrier/debugprint.nvim/archive/50d2b9fc4f9e1348202d4f6c132520817c5b8823.tar.gz",
+      "hash": "06fvndhi6zslmihsxq8d30ab1h3wbkgfmnavvbppf368ciwrkcg4"
     },
     "diffview-nvim": {
       "type": "Git",
@@ -1268,9 +1268,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "254f939a367a8aece61a44faee5a426f4b9f79d2",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/254f939a367a8aece61a44faee5a426f4b9f79d2.tar.gz",
-      "hash": "133w56v97mx3q6mr5243la0jsnlw2lrr9ziipbxv7zdbh5n1g769"
+      "revision": "43c3a47c28d4fa93e18450516dbf7fc14e102a42",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/43c3a47c28d4fa93e18450516dbf7fc14e102a42.tar.gz",
+      "hash": "15b3nyj85xvr3h3lfvys3phq86pkxszanm66idm1dwarh9qxkhx8"
     },
     "galaxyline-nvim": {
       "type": "Git",
