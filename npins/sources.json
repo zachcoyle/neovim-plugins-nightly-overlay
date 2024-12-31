@@ -44,9 +44,9 @@
         "repo": "SchemaStore.nvim"
       },
       "branch": "main",
-      "revision": "e43f3e47991bc9f6cbc1d8b4d0f6a0d8d6c29284",
-      "url": "https://github.com/b0o/SchemaStore.nvim/archive/e43f3e47991bc9f6cbc1d8b4d0f6a0d8d6c29284.tar.gz",
-      "hash": "0adiw185hzxrp18ydmm8i9w2chf6h6ayg633rrrbi6jabym2lk0b"
+      "revision": "5145e26892516bbfc6a4352358fb774a1edf48b9",
+      "url": "https://github.com/b0o/SchemaStore.nvim/archive/5145e26892516bbfc6a4352358fb774a1edf48b9.tar.gz",
+      "hash": "0x0m7b15k5iphqc8s4mg935w1s1jk8j8jbhfsmxrgzx4gnmsgwj2"
     },
     "alpha-nvim": {
       "type": "Git",
@@ -2551,9 +2551,9 @@
         "repo": "nvim-jdtls"
       },
       "branch": "master",
-      "revision": "8f14aa1922ee5491ded1079a6576fae834535658",
-      "url": "https://github.com/mfussenegger/nvim-jdtls/archive/8f14aa1922ee5491ded1079a6576fae834535658.tar.gz",
-      "hash": "0xzjs9inwib1pgjp25crgk4xlkv5cd8nvjnw8w2vjqnz8hy165cd"
+      "revision": "266d0cb912bbe61d66b43c5e73db19a364380360",
+      "url": "https://github.com/mfussenegger/nvim-jdtls/archive/266d0cb912bbe61d66b43c5e73db19a364380360.tar.gz",
+      "hash": "17029rhvincccg565cssqckf0471h351kj8j9sjsmyzdz7i8j3kb"
     },
     "nvim-lastplace": {
       "type": "Git",
@@ -3787,9 +3787,9 @@
         "repo": "vim-css-color"
       },
       "branch": "master",
-      "revision": "950e80352b325ff26d3b0faf95b29e301c200f7d",
-      "url": "https://github.com/ap/vim-css-color/archive/950e80352b325ff26d3b0faf95b29e301c200f7d.tar.gz",
-      "hash": "1f0q7ziqjsgbki0r3hyb0wd2cqmbap4dv7dbx0ydf7fxf6881bwx"
+      "revision": "14fd934cdd9ca1ac0e53511094e612eb9bace373",
+      "url": "https://github.com/ap/vim-css-color/archive/14fd934cdd9ca1ac0e53511094e612eb9bace373.tar.gz",
+      "hash": "0daxvb9v8pyzgsj7izbr1w6mp9jy4ls0c65ph8lxbkwpvz2snils"
     },
     "vim-dadbod-ui": {
       "type": "Git",
