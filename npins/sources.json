@@ -1975,9 +1975,9 @@
         "repo": "neo-tree.nvim"
       },
       "branch": "main",
-      "revision": "a9f8943b4c31f8460d25c71e0f463d65e9775f1c",
-      "url": "https://github.com/nvim-neo-tree/neo-tree.nvim/archive/a9f8943b4c31f8460d25c71e0f463d65e9775f1c.tar.gz",
-      "hash": "1zhjd322jqmp8cs7z7nwgc3vkbf0as3an64qh5diwv04kdwjg4xm"
+      "revision": "2a0b2c5d394a280cee9444c9894582ac53098604",
+      "url": "https://github.com/nvim-neo-tree/neo-tree.nvim/archive/2a0b2c5d394a280cee9444c9894582ac53098604.tar.gz",
+      "hash": "1698z0s429in4zvbwqky6i0jmi0amvzn3gpyfnivw1vzn0bipxjb"
     },
     "neocord": {
       "type": "Git",
@@ -2527,9 +2527,9 @@
         "repo": "nvim-dap"
       },
       "branch": "master",
-      "revision": "ffb077e65259f13be096ea6d603e3575a76b214a",
-      "url": "https://github.com/mfussenegger/nvim-dap/archive/ffb077e65259f13be096ea6d603e3575a76b214a.tar.gz",
-      "hash": "0sfqxhqm3gmw8q9w60nz5cm3yj9qnq5mxm584f0g83jvdy59f9p6"
+      "revision": "0e673accbb512e1e191dfb4fecea89cc38c1bcdd",
+      "url": "https://github.com/mfussenegger/nvim-dap/archive/0e673accbb512e1e191dfb4fecea89cc38c1bcdd.tar.gz",
+      "hash": "0w1g2xaj8jng4h6girs897185qh0zdbfyb9swfm8i86pbh7avbll"
     },
     "nvim-dap-virtual-text": {
       "type": "Git",
