@@ -1688,9 +1688,9 @@
         "repo": "lean.nvim"
       },
       "branch": "main",
-      "revision": "4b216e8d2a376f95f486f661e28603a9651b0a4f",
-      "url": "https://github.com/Julian/lean.nvim/archive/4b216e8d2a376f95f486f661e28603a9651b0a4f.tar.gz",
-      "hash": "0g6x0gx08l0ppvfqbn0m28ysqddf7wwqsir2wgmw2rz8glqgvn9p"
+      "revision": "18606e06234b6cb11653fa1404a5307322e90395",
+      "url": "https://github.com/Julian/lean.nvim/archive/18606e06234b6cb11653fa1404a5307322e90395.tar.gz",
+      "hash": "006qc5ddfz83xkvwwzbghx11m5y38asl0y299byv15rsx40bqy07"
     },
     "leap-nvim": {
       "type": "Git",
@@ -1915,9 +1915,9 @@
         "repo": "mini.nvim"
       },
       "branch": "main",
-      "revision": "9df78f3cdf9bdcc5aaf93cc51412a69a384041b2",
-      "url": "https://github.com/echasnovski/mini.nvim/archive/9df78f3cdf9bdcc5aaf93cc51412a69a384041b2.tar.gz",
-      "hash": "1ljnl61v051fw3mqg80gwva9lpav79i7hxf2kifg4fxi72sy0bfx"
+      "revision": "e91e854299429c986888711668743711acd8a14b",
+      "url": "https://github.com/echasnovski/mini.nvim/archive/e91e854299429c986888711668743711acd8a14b.tar.gz",
+      "hash": "1bng2bc539nk5yz7n1jxs5bkf4lavpb6z7lazy73pxdq1i2qlzvw"
     },
     "mkdnflow-nvim": {
       "type": "Git",
