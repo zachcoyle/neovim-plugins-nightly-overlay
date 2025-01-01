@@ -1831,9 +1831,9 @@
         "repo": "lz.n"
       },
       "branch": "master",
-      "revision": "32be28a221b9c98e56841458e4b20c150a4169c4",
-      "url": "https://github.com/nvim-neorocks/lz.n/archive/32be28a221b9c98e56841458e4b20c150a4169c4.tar.gz",
-      "hash": "0jv8901lc712ddv1sdw5zan2d64hwxjcwi4mi4q1ivcp16miglp8"
+      "revision": "3ce53b0a4c4df48523b7a5e078d3c4b07ab706cb",
+      "url": "https://github.com/nvim-neorocks/lz.n/archive/3ce53b0a4c4df48523b7a5e078d3c4b07ab706cb.tar.gz",
+      "hash": "10b6ldmxndprwpc7xawm0cvq68cp301ayp7zxpjkrsmrihzzs2jf"
     },
     "magma-nvim-goose": {
       "type": "Git",
@@ -4123,9 +4123,9 @@
         "repo": "vimtex"
       },
       "branch": "master",
-      "revision": "b8bb79b5fb27e9030ade92e75cd9375416f2c666",
-      "url": "https://github.com/lervag/vimtex/archive/b8bb79b5fb27e9030ade92e75cd9375416f2c666.tar.gz",
-      "hash": "0xfflns91x5yigbkybd8phj5hbs0i6fry3ll2mp6r6azcgzcppjg"
+      "revision": "56def42c4f3007979c38001518ebb92ea8fb5f72",
+      "url": "https://github.com/lervag/vimtex/archive/56def42c4f3007979c38001518ebb92ea8fb5f72.tar.gz",
+      "hash": "1vccddf7vb2j0480b8i2hjhzmha6hywyp65mxzxm1x8bhfilww9f"
     },
     "virt-column-nvim": {
       "type": "Git",
