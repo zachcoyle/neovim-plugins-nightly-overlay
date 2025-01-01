@@ -3739,9 +3739,9 @@
         "repo": "undotree"
       },
       "branch": "master",
-      "revision": "78b5241191852ffa9bb5da5ff2ee033160798c3b",
-      "url": "https://github.com/mbbill/undotree/archive/78b5241191852ffa9bb5da5ff2ee033160798c3b.tar.gz",
-      "hash": "1w4sdbcvlicb3n4dpzv8l9g41xl3pqslni227lf88b4p5pjsfkax"
+      "revision": "2556c6800b210b2096b55b66e74b4cc1d9ebbe4f",
+      "url": "https://github.com/mbbill/undotree/archive/2556c6800b210b2096b55b66e74b4cc1d9ebbe4f.tar.gz",
+      "hash": "0cd6xw71aa51qr5vvg53y7hh2vlc7dzc1r7cldcgf31fn5md2ffh"
     },
     "vim-airline": {
       "type": "Git",
