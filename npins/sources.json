@@ -2395,9 +2395,9 @@
         "repo": "none-ls.nvim"
       },
       "branch": "main",
-      "revision": "caf85560cfcfa62ad3a4c15433db4a8f9ddf934a",
-      "url": "https://github.com/nvimtools/none-ls.nvim/archive/caf85560cfcfa62ad3a4c15433db4a8f9ddf934a.tar.gz",
-      "hash": "0c8y1kzpqjv70kp07rx23qsggzwvcy8kckiha0q1ddi8pqxbcnyz"
+      "revision": "00421b9dc7a4d132ca74cfb4c7e8030d05d6fd0b",
+      "url": "https://github.com/nvimtools/none-ls.nvim/archive/00421b9dc7a4d132ca74cfb4c7e8030d05d6fd0b.tar.gz",
+      "hash": "130gl2yq79gzqwkrz4x3zwa3swla2ci2k77yhq3c7qkjz0dzq1r9"
     },
     "nord-nvim": {
       "type": "Git",
@@ -3799,9 +3799,9 @@
         "repo": "vim-dadbod-ui"
       },
       "branch": "master",
-      "revision": "b4b95e04fcd71c7787673b2a165221d681d06171",
-      "url": "https://github.com/kristijanhusak/vim-dadbod-ui/archive/b4b95e04fcd71c7787673b2a165221d681d06171.tar.gz",
-      "hash": "1lqjimw1njkw7jz2l8z644rmcr2iy0rwi6kd3lsd5jyp8jd8bb42"
+      "revision": "65454e2011c029922c2c972d63f8bf04282de033",
+      "url": "https://github.com/kristijanhusak/vim-dadbod-ui/archive/65454e2011c029922c2c972d63f8bf04282de033.tar.gz",
+      "hash": "09mjpdqpgcal4ggjb2kynq07xiyh2q1w0lxg0ql3b0r2gy4nwzzb"
     },
     "vim-devicons": {
       "type": "Git",
