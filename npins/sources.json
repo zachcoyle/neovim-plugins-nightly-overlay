@@ -3379,9 +3379,9 @@
         "repo": "telescope-frecency.nvim"
       },
       "branch": "master",
-      "revision": "77829eda3451ef81200b9c61696af0d64372ea85",
-      "url": "https://github.com/nvim-telescope/telescope-frecency.nvim/archive/77829eda3451ef81200b9c61696af0d64372ea85.tar.gz",
-      "hash": "1hcbndw58l02bw21xccnl12ql7gi2wa8zm85sxiv678k8w1mmmcw"
+      "revision": "7b3f74cbd1006830dcc3ae59f4ec2f1a6a0b8a72",
+      "url": "https://github.com/nvim-telescope/telescope-frecency.nvim/archive/7b3f74cbd1006830dcc3ae59f4ec2f1a6a0b8a72.tar.gz",
+      "hash": "143i9a9lpn8i2ksp23b94chx2b46p7a4alddsa7ghwapw1nqrdgi"
     },
     "telescope-fzf-native-nvim": {
       "type": "Git",
@@ -3799,9 +3799,9 @@
         "repo": "vim-dadbod-ui"
       },
       "branch": "master",
-      "revision": "0fec59e3e1e619e302198cd491b7d27f8d398b7c",
-      "url": "https://github.com/kristijanhusak/vim-dadbod-ui/archive/0fec59e3e1e619e302198cd491b7d27f8d398b7c.tar.gz",
-      "hash": "1gf03lg5lp34rjpkvbni5jzkxbcq50ckx8gim9ja7gpw1mf8siq6"
+      "revision": "b4b95e04fcd71c7787673b2a165221d681d06171",
+      "url": "https://github.com/kristijanhusak/vim-dadbod-ui/archive/b4b95e04fcd71c7787673b2a165221d681d06171.tar.gz",
+      "hash": "1lqjimw1njkw7jz2l8z644rmcr2iy0rwi6kd3lsd5jyp8jd8bb42"
     },
     "vim-devicons": {
       "type": "Git",
