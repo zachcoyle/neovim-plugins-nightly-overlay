@@ -1268,9 +1268,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "c773fabeec3f58b2da0fbad558f6420795a1685e",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/c773fabeec3f58b2da0fbad558f6420795a1685e.tar.gz",
-      "hash": "0sring5ph2pihn5qp232in05x3b0p9kbq0q9szdxhl76qhw6s6k6"
+      "revision": "b27cb583c3185cc9a91f0bcb173b55ae461101c3",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/b27cb583c3185cc9a91f0bcb173b55ae461101c3.tar.gz",
+      "hash": "10659njig5smr70dq5248fnrgmypxjs5ch3sr47iwqgnrc8nda6k"
     },
     "galaxyline-nvim": {
       "type": "Git",
@@ -1580,9 +1580,9 @@
         "repo": "inc-rename.nvim"
       },
       "branch": "main",
-      "revision": "f4e13df6e2d0b3177a7305dbc1cc7f7ea44b94f1",
-      "url": "https://github.com/smjonas/inc-rename.nvim/archive/f4e13df6e2d0b3177a7305dbc1cc7f7ea44b94f1.tar.gz",
-      "hash": "1j847dxl739p5yzi7qh8hw3zb695j41mima9wzc5bzay0y2s6abc"
+      "revision": "4d00cd5029e99f176128bc37ef245e2dd348191d",
+      "url": "https://github.com/smjonas/inc-rename.nvim/archive/4d00cd5029e99f176128bc37ef245e2dd348191d.tar.gz",
+      "hash": "0p06dyg7v6476gyzpbwbd0d3gsfcvcmsjnzywcpnk8h9b7xa4jp3"
     },
     "indent-blankline-nvim": {
       "type": "Git",
