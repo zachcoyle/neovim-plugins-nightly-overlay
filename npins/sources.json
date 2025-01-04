@@ -932,9 +932,9 @@
         "repo": "conform.nvim"
       },
       "branch": "master",
-      "revision": "990d37017e193fe40bdabf058e598e76f5e7d929",
-      "url": "https://github.com/stevearc/conform.nvim/archive/990d37017e193fe40bdabf058e598e76f5e7d929.tar.gz",
-      "hash": "13xw05bvjjr3dfzpsvkd43wwik0x8yq16ap53nia08ifb7qx85cm"
+      "revision": "70019124aa4f2e6838be9fbd2007f6d13b27a96d",
+      "url": "https://github.com/stevearc/conform.nvim/archive/70019124aa4f2e6838be9fbd2007f6d13b27a96d.tar.gz",
+      "hash": "1sx11cq2w7wl4livg4lhyikjq6n9i429ckvp2sj073766klywcjq"
     },
     "conjure": {
       "type": "Git",
@@ -2935,9 +2935,9 @@
         "repo": "overseer.nvim"
       },
       "branch": "master",
-      "revision": "10ee48ff96c8d1049efb278ea4c8cf9f3b0e4326",
-      "url": "https://github.com/stevearc/overseer.nvim/archive/10ee48ff96c8d1049efb278ea4c8cf9f3b0e4326.tar.gz",
-      "hash": "1rdp4575dwsg6ch4nfgq5721wcdvlgqz68zlsddda7hw1rr05p39"
+      "revision": "8de110400643a02aeddf266b772a05f63db2e625",
+      "url": "https://github.com/stevearc/overseer.nvim/archive/8de110400643a02aeddf266b772a05f63db2e625.tar.gz",
+      "hash": "031lrwg0cp7s9pjrzlwf9mhzaa8i2mb983i8rh49r4g1700fcwbn"
     },
     "oxocarbon-nvim": {
       "type": "Git",
