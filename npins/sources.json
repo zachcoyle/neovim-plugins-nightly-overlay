@@ -4279,9 +4279,9 @@
         "repo": "zk-nvim"
       },
       "branch": "main",
-      "revision": "6beea6fafe2c781cb10e80878e68d5e32937692a",
-      "url": "https://github.com/zk-org/zk-nvim/archive/6beea6fafe2c781cb10e80878e68d5e32937692a.tar.gz",
-      "hash": "1x44ncdi5jy0r9iv1k837l8v7iaxg7xykq510arqnz4a2ddk5iv0"
+      "revision": "10089c398df925b8db51fd659501d2cb044003b9",
+      "url": "https://github.com/zk-org/zk-nvim/archive/10089c398df925b8db51fd659501d2cb044003b9.tar.gz",
+      "hash": "1bmpdmm90d73pjcjrx1vr3bz0sac61f2zrs4hfz77azg5sghxmcb"
     }
   },
   "version": 3
