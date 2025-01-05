@@ -2191,9 +2191,9 @@
         "repo": "neotest-haskell"
       },
       "branch": "master",
-      "revision": "de447c36c80e9310a129a3223d634699e9f46f5f",
-      "url": "https://github.com/mrcjkb/neotest-haskell/archive/de447c36c80e9310a129a3223d634699e9f46f5f.tar.gz",
-      "hash": "0bbl6rf7cf5n3igpk5gmcxlgnbfx4vzrgz2b7491zy1x1mavv169"
+      "revision": "b24f2fc5f272d07a988786ba6557bf5cca1759ad",
+      "url": "https://github.com/mrcjkb/neotest-haskell/archive/b24f2fc5f272d07a988786ba6557bf5cca1759ad.tar.gz",
+      "hash": "0sypa0n3qd3i32nxasbbg7ss1q0nbhvbj24xwg54vh6h64aww9a1"
     },
     "neotest-java": {
       "type": "Git",
@@ -3139,9 +3139,9 @@
         "repo": "render-markdown.nvim"
       },
       "branch": "main",
-      "revision": "1faa6568eb61467d64c3d0aad8ac4c9c0e45514e",
-      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/1faa6568eb61467d64c3d0aad8ac4c9c0e45514e.tar.gz",
-      "hash": "1xpj4sfflnmwh7awfl9g07qrj764040rsa2sasiiqr4acxnbd6km"
+      "revision": "16369540a005ad0cf267498162aedca6dfca1b9c",
+      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/16369540a005ad0cf267498162aedca6dfca1b9c.tar.gz",
+      "hash": "02cs555fz2hr4dh5kgwcbc8wlpzklggz34dvnrgdjmi8pgm8k6lh"
     },
     "rest-nvim": {
       "type": "Git",
