@@ -116,9 +116,9 @@
         "repo": "avante.nvim"
       },
       "branch": "main",
-      "revision": "f7b51730dff93bd24c077f9243ae8d9f298b2266",
-      "url": "https://github.com/yetone/avante.nvim/archive/f7b51730dff93bd24c077f9243ae8d9f298b2266.tar.gz",
-      "hash": "072863iyf3h4kl8krsk8ligb91sz2v1w0hajmcl38mi3iv5p5w5v"
+      "revision": "3ec847e3cbb08365b3205044275e6d7e28fcf01f",
+      "url": "https://github.com/yetone/avante.nvim/archive/3ec847e3cbb08365b3205044275e6d7e28fcf01f.tar.gz",
+      "hash": "1gsip0lbh6ccwwkpgrms3b6nidd88qxrvgfb7jp5hc4nyf264a85"
     },
     "baleia-nvim": {
       "type": "Git",
@@ -2599,9 +2599,9 @@
         "repo": "nvim-lspconfig"
       },
       "branch": "master",
-      "revision": "f4ed656e876e45cf914d7beb972830561178e232",
-      "url": "https://github.com/neovim/nvim-lspconfig/archive/f4ed656e876e45cf914d7beb972830561178e232.tar.gz",
-      "hash": "1j3047x2kgvw503ll5bkhhbzsz0w687793h278gsfby2bi73wxqg"
+      "revision": "87cdeb16895d64b306bfe9f440840ff55c2a76c0",
+      "url": "https://github.com/neovim/nvim-lspconfig/archive/87cdeb16895d64b306bfe9f440840ff55c2a76c0.tar.gz",
+      "hash": "0gcn2snwr55x79bhr5zdwmcmdcgyhgirm719y7y2si4xrm4ynkc4"
     },
     "nvim-navbuddy": {
       "type": "Git",
