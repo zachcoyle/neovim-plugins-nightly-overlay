@@ -1268,9 +1268,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "e1eab469be103bab47d8f1a925fd8712c3a91bbb",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/e1eab469be103bab47d8f1a925fd8712c3a91bbb.tar.gz",
-      "hash": "143nb6gq758k2nhn5i0fhxw3x7yfq8mjgg9ijrafmdlvqzll2azz"
+      "revision": "cb3b56fcf81f85f2af932fbbe130f098ae3720d1",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/cb3b56fcf81f85f2af932fbbe130f098ae3720d1.tar.gz",
+      "hash": "1g4lihb3bz5b2n2vbi4w379fw2xvizplygrzzw09s31p052s85vk"
     },
     "galaxyline-nvim": {
       "type": "Git",
@@ -3115,9 +3115,9 @@
         "repo": "rainbow-delimiters.nvim"
       },
       "branch": "master",
-      "revision": "77e5bad54227dcfe3878ffbda88ab1efdaacb475",
-      "url": "https://github.com/HiPhish/rainbow-delimiters.nvim/archive/77e5bad54227dcfe3878ffbda88ab1efdaacb475.tar.gz",
-      "hash": "1wpk8aa8nnh4ba9n8l1l1k4gi5b1zy9p3fg2q72b15czwizq8g58"
+      "revision": "8f7af53581302dc2b25cdfb67a45983a5a2c3f09",
+      "url": "https://github.com/HiPhish/rainbow-delimiters.nvim/archive/8f7af53581302dc2b25cdfb67a45983a5a2c3f09.tar.gz",
+      "hash": "1d06q1czi8vskkyab7ynlm5cip7qdf7qp9b9icn7fq3p59jwivkh"
     },
     "refactoring-nvim": {
       "type": "Git",
