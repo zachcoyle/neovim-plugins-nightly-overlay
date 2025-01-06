@@ -500,9 +500,9 @@
         "repo": "cmp-git"
       },
       "branch": "main",
-      "revision": "c1f76bf4a2b288e16307d67eaa4218c91b70b990",
-      "url": "https://github.com/petertriho/cmp-git/archive/c1f76bf4a2b288e16307d67eaa4218c91b70b990.tar.gz",
-      "hash": "1nxgaqjq6vi0qqnx9ryny6flh75xihpnzxqj1l9rrpj2qmsli321"
+      "revision": "4e1053dc7dd9b5038bf7cb7ff9c1933df6103e6c",
+      "url": "https://github.com/petertriho/cmp-git/archive/4e1053dc7dd9b5038bf7cb7ff9c1933df6103e6c.tar.gz",
+      "hash": "0g65ha2zghs6d90z0qaqq6qm1npg51sy550k553k9v8bq2qmrn7r"
     },
     "cmp-greek": {
       "type": "Git",
@@ -2479,9 +2479,9 @@
         "repo": "nvim-cmp"
       },
       "branch": "main",
-      "revision": "4c1ca8268569bfc6d487473cd17b167560e5bed2",
-      "url": "https://github.com/hrsh7th/nvim-cmp/archive/4c1ca8268569bfc6d487473cd17b167560e5bed2.tar.gz",
-      "hash": "0wp6v95sdcdqd7sgs5q88jcj0c5hg9jydw620j4zbjx9p62amzv2"
+      "revision": "28ab7f7d05db70acd88b06bb5830ec40805d8d7c",
+      "url": "https://github.com/hrsh7th/nvim-cmp/archive/28ab7f7d05db70acd88b06bb5830ec40805d8d7c.tar.gz",
+      "hash": "03i0i75451al6mg6dy9s3wvm9d7bw2l3s25d7nz6bvh4ph07dsxx"
     },
     "nvim-colorizer-lua": {
       "type": "Git",
