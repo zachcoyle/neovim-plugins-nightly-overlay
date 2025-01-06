@@ -116,9 +116,9 @@
         "repo": "avante.nvim"
       },
       "branch": "main",
-      "revision": "078e9312dc27114414242da2fcdab12c35035aec",
-      "url": "https://github.com/yetone/avante.nvim/archive/078e9312dc27114414242da2fcdab12c35035aec.tar.gz",
-      "hash": "11sgmgi407d1has10d54zd8xdnrj2qlnrg4gjx8vb57m9yyaqkfk"
+      "revision": "c8ba3d36cc7457f2ffaf414b795b82735fc82827",
+      "url": "https://github.com/yetone/avante.nvim/archive/c8ba3d36cc7457f2ffaf414b795b82735fc82827.tar.gz",
+      "hash": "14ppdlrap95jmrsa66jvpjzjw3a5qy9szjhy09l6qnsi0zms5sr4"
     },
     "baleia-nvim": {
       "type": "Git",
@@ -2587,9 +2587,9 @@
         "repo": "nvim-lint"
       },
       "branch": "master",
-      "revision": "139cd3ccefdc92644746168dd95a15f36aec5458",
-      "url": "https://github.com/mfussenegger/nvim-lint/archive/139cd3ccefdc92644746168dd95a15f36aec5458.tar.gz",
-      "hash": "0dhsxv73vgz69dkldn4w8z6hy28sdvapsz67nm6siixb8kdzxzcz"
+      "revision": "dfa45de973c3ce7bd1b9a6d346f896a68ad07e44",
+      "url": "https://github.com/mfussenegger/nvim-lint/archive/dfa45de973c3ce7bd1b9a6d346f896a68ad07e44.tar.gz",
+      "hash": "1ym9k789qnv19svx00kxj67hgbbn3mn7x1nqyivavaf0f4nl4a1q"
     },
     "nvim-lspconfig": {
       "type": "Git",
