@@ -2923,9 +2923,9 @@
         "repo": "orgmode"
       },
       "branch": "master",
-      "revision": "bf657742f7cb56211f99946ff64f5f87d7d7f0d0",
-      "url": "https://github.com/nvim-orgmode/orgmode/archive/bf657742f7cb56211f99946ff64f5f87d7d7f0d0.tar.gz",
-      "hash": "074493jfhgihp5zyyl86f9hfa2j6qdgw35q87vvdbmmj6rwhjmhk"
+      "revision": "630f997f832dda60322175c89f29298d92765f67",
+      "url": "https://github.com/nvim-orgmode/orgmode/archive/630f997f832dda60322175c89f29298d92765f67.tar.gz",
+      "hash": "00326axd4n199z7nqcqg3j44i0p8vlavk6zdij4nygqii8q11r66"
     },
     "overseer-nvim": {
       "type": "Git",
