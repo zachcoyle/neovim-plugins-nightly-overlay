@@ -1268,9 +1268,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "0279a58579a8c6e0da6027034981dbd61bbd0b1c",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/0279a58579a8c6e0da6027034981dbd61bbd0b1c.tar.gz",
-      "hash": "1c7ix40wp91avr0g42b8gwlpj0kpg41w5v1hy2l4rk6qabvqqrpl"
+      "revision": "dad63e27e7d9c3e0e06e2a73c9017e806833df61",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/dad63e27e7d9c3e0e06e2a73c9017e806833df61.tar.gz",
+      "hash": "0j3fipsr5272vl1rw3kvcl70khrhpi83ly8yhw5mfzj2id8578j4"
     },
     "galaxyline-nvim": {
       "type": "Git",
@@ -1664,9 +1664,9 @@
         "repo": "lazy.nvim"
       },
       "branch": "main",
-      "revision": "72aa3a2624be5dc240646084f7b6a38eb99eb2ce",
-      "url": "https://github.com/folke/lazy.nvim/archive/72aa3a2624be5dc240646084f7b6a38eb99eb2ce.tar.gz",
-      "hash": "0wrzq50nsnajwx08vhm9py54480nxxlr9786vz9w67a3z6anlr51"
+      "revision": "d8f26efd456190241afd1b0f5235fe6fdba13d4a",
+      "url": "https://github.com/folke/lazy.nvim/archive/d8f26efd456190241afd1b0f5235fe6fdba13d4a.tar.gz",
+      "hash": "1pfjip3xrnxwz8cxhi3mwbqimfkmwqbbnp07cfzjwh16yd86yypf"
     },
     "lazygit-nvim": {
       "type": "Git",
@@ -3139,9 +3139,9 @@
         "repo": "render-markdown.nvim"
       },
       "branch": "main",
-      "revision": "7b1b15fc8891a62aeb3a0f75d0f7b1ec7fb98090",
-      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/7b1b15fc8891a62aeb3a0f75d0f7b1ec7fb98090.tar.gz",
-      "hash": "0lcwi951ymkk29bd670srg1q214xj3ngyjlshr2x0w6l4r5qg9dc"
+      "revision": "bab0663ecdb06b0ff846969764d6c67719ab0fcb",
+      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/bab0663ecdb06b0ff846969764d6c67719ab0fcb.tar.gz",
+      "hash": "1kp3lhf2mm04amyn1g5z4chvyc8nwargz4jp9rzgckivingn2f24"
     },
     "rest-nvim": {
       "type": "Git",
