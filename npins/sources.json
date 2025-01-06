@@ -44,9 +44,9 @@
         "repo": "SchemaStore.nvim"
       },
       "branch": "main",
-      "revision": "fa47222e29d6f6e80eddcdd0f125c27edf274ad5",
-      "url": "https://github.com/b0o/SchemaStore.nvim/archive/fa47222e29d6f6e80eddcdd0f125c27edf274ad5.tar.gz",
-      "hash": "0mca8h0ny2ay5jna56b4ynmlbhrxa8na4xvxsa4r2zcqr7qh7ws3"
+      "revision": "5759c2415cf749bbba962a139f189d8aafc57bdb",
+      "url": "https://github.com/b0o/SchemaStore.nvim/archive/5759c2415cf749bbba962a139f189d8aafc57bdb.tar.gz",
+      "hash": "1g067h2s33ysx0lqjljkzb323lh3ciny8kvymvnzsqmc3mvxwyr9"
     },
     "alpha-nvim": {
       "type": "Git",
@@ -3139,9 +3139,9 @@
         "repo": "render-markdown.nvim"
       },
       "branch": "main",
-      "revision": "16369540a005ad0cf267498162aedca6dfca1b9c",
-      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/16369540a005ad0cf267498162aedca6dfca1b9c.tar.gz",
-      "hash": "02cs555fz2hr4dh5kgwcbc8wlpzklggz34dvnrgdjmi8pgm8k6lh"
+      "revision": "7b1b15fc8891a62aeb3a0f75d0f7b1ec7fb98090",
+      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/7b1b15fc8891a62aeb3a0f75d0f7b1ec7fb98090.tar.gz",
+      "hash": "0lcwi951ymkk29bd670srg1q214xj3ngyjlshr2x0w6l4r5qg9dc"
     },
     "rest-nvim": {
       "type": "Git",
@@ -3199,9 +3199,9 @@
         "repo": "smart-splits.nvim"
       },
       "branch": "master",
-      "revision": "496de54b1a24620206bd9027aa736cf3af9374d3",
-      "url": "https://github.com/mrjones2014/smart-splits.nvim/archive/496de54b1a24620206bd9027aa736cf3af9374d3.tar.gz",
-      "hash": "10pcz77wf1xzziv4y7cn56w0yyvzr3pwg0q47ggbs9fh4h56rcgh"
+      "revision": "b45b5bbedae6c1e71e0ed0c113f1b951caace428",
+      "url": "https://github.com/mrjones2014/smart-splits.nvim/archive/b45b5bbedae6c1e71e0ed0c113f1b951caace428.tar.gz",
+      "hash": "0si6dqwvmwwi160qcd0nk2am7mr63salq5h5ibcrq637nslw4n23"
     },
     "smartcolumn-nvim": {
       "type": "Git",
