@@ -80,9 +80,9 @@
         "repo": "auto-save.nvim"
       },
       "branch": "main",
-      "revision": "b58948445c43e6903987a9bb97c82e66fdcc0786",
-      "url": "https://github.com/okuuva/auto-save.nvim/archive/b58948445c43e6903987a9bb97c82e66fdcc0786.tar.gz",
-      "hash": "1fp30vgdn2bvq2bd6567j64w858c19r6vypm6y1q33sn444k2940"
+      "revision": "29f793a3a7f98129387590269ffe3ad61ab5e509",
+      "url": "https://github.com/okuuva/auto-save.nvim/archive/29f793a3a7f98129387590269ffe3ad61ab5e509.tar.gz",
+      "hash": "1w651sdpvjlgws0lybg4f08biikl6dps7lf031rhpghchqcxn2vl"
     },
     "auto-session": {
       "type": "Git",
