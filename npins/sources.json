@@ -2395,9 +2395,9 @@
         "repo": "none-ls.nvim"
       },
       "branch": "main",
-      "revision": "cc810f70852bd37334fad658372a8cfedd1da4e8",
-      "url": "https://github.com/nvimtools/none-ls.nvim/archive/cc810f70852bd37334fad658372a8cfedd1da4e8.tar.gz",
-      "hash": "0blgbhdvf17z369hyv14d3nwapbbf0sfbmz9g9n8388ljc1pxvmj"
+      "revision": "83c7c008a486d6b2d09d3937179ef281f679c998",
+      "url": "https://github.com/nvimtools/none-ls.nvim/archive/83c7c008a486d6b2d09d3937179ef281f679c998.tar.gz",
+      "hash": "1rkw08vks1gpyzxyykvbcm554hv5g6plb9kzdsi6g5cqf18zva5y"
     },
     "nord-nvim": {
       "type": "Git",
@@ -4123,9 +4123,9 @@
         "repo": "vimtex"
       },
       "branch": "master",
-      "revision": "99c56940cefe6adead7500f7657cd6721ff38d05",
-      "url": "https://github.com/lervag/vimtex/archive/99c56940cefe6adead7500f7657cd6721ff38d05.tar.gz",
-      "hash": "1587zm6qg4hyq590dhawwzzhx8bj7ib3mlwwrfmcq616fqfz50jc"
+      "revision": "a20cc2de1165fbb991aa4fa524aa843d192f232d",
+      "url": "https://github.com/lervag/vimtex/archive/a20cc2de1165fbb991aa4fa524aa843d192f232d.tar.gz",
+      "hash": "0np9hnzdg6kg88588c8p2wnh8lw4vsr78mvyszhpd6fqjbrrz7gh"
     },
     "virt-column-nvim": {
       "type": "Git",
