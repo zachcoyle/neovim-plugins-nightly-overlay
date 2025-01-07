@@ -1652,9 +1652,9 @@
         "repo": "kanagawa.nvim"
       },
       "branch": "master",
-      "revision": "18ae5771b22d8f913ef541c827a8180b4cb12c8a",
-      "url": "https://github.com/rebelot/kanagawa.nvim/archive/18ae5771b22d8f913ef541c827a8180b4cb12c8a.tar.gz",
-      "hash": "0crl8cdlcx8y3fw6q2cmrm2ycr1cp1ly81942q483g2d0iyla5i0"
+      "revision": "988082eb00b845e4afbcaa4fd8e903da8a3ab3b9",
+      "url": "https://github.com/rebelot/kanagawa.nvim/archive/988082eb00b845e4afbcaa4fd8e903da8a3ab3b9.tar.gz",
+      "hash": "03bfnfl76bc6kr4rdmb3ppfisnivj87sc20qgbr7rsa53yixm4mb"
     },
     "lazy-nvim": {
       "type": "Git",
@@ -2047,9 +2047,9 @@
         "repo": "neorg"
       },
       "branch": "main",
-      "revision": "6b945909d84b5aeadc875f9b3f529ec44b9bc60f",
-      "url": "https://github.com/vhyrro/neorg/archive/6b945909d84b5aeadc875f9b3f529ec44b9bc60f.tar.gz",
-      "hash": "0dm8s47w57gh77vaarmz64yvmv68f9ybygq65zbblya4miqknzy4"
+      "revision": "bc660d6e2f3b5985ab6eaa02288efe418a1ce99a",
+      "url": "https://github.com/vhyrro/neorg/archive/bc660d6e2f3b5985ab6eaa02288efe418a1ce99a.tar.gz",
+      "hash": "01mjk7p236gnwivvs03mqbraa7p39y0xlss79xhpc09al00dxl7a"
     },
     "neoscroll-nvim": {
       "type": "Git",
@@ -3163,9 +3163,9 @@
         "repo": "neovim"
       },
       "branch": "main",
-      "revision": "91548dca53b36dbb9d36c10f114385f759731be1",
-      "url": "https://github.com/rose-pine/neovim/archive/91548dca53b36dbb9d36c10f114385f759731be1.tar.gz",
-      "hash": "00zhx2j5lm27pcfaimzbkil61gfc6cxyy1dcgc4cyb8vfi8psf3s"
+      "revision": "66aabf210b5e736a3df5006648d4201016e05a2a",
+      "url": "https://github.com/rose-pine/neovim/archive/66aabf210b5e736a3df5006648d4201016e05a2a.tar.gz",
+      "hash": "117b2g43b87f25zhpjsdi0n6bcrfs4x4kbcc2r9a05il0gk373fd"
     },
     "scope-nvim": {
       "type": "Git",
