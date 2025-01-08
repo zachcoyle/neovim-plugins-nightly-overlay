@@ -1196,9 +1196,9 @@
         "repo": "firenvim"
       },
       "branch": "master",
-      "revision": "09697387ff5b7120db7b9b15404ab75fb6780388",
-      "url": "https://github.com/glacambre/firenvim/archive/09697387ff5b7120db7b9b15404ab75fb6780388.tar.gz",
-      "hash": "13bsczv1falfkvdiysgz0vidqx8km39xkc8xl7gl74ckb54hj7d6"
+      "revision": "9e83fcb62ea44d8f7b7935f17f864eae30abfddd",
+      "url": "https://github.com/glacambre/firenvim/archive/9e83fcb62ea44d8f7b7935f17f864eae30abfddd.tar.gz",
+      "hash": "0zf2wwcvd8spv6wn0nbi385pbykahpfsf5fw53dxriascymmrp82"
     },
     "flash-nvim": {
       "type": "Git",
@@ -2635,9 +2635,9 @@
         "repo": "nvim-neoclip.lua"
       },
       "branch": "main",
-      "revision": "5e5e010251281f4aea69cfc1d4976ffe6065cf0f",
-      "url": "https://github.com/AckslD/nvim-neoclip.lua/archive/5e5e010251281f4aea69cfc1d4976ffe6065cf0f.tar.gz",
-      "hash": "1fdm1k6gdhgi8vz4kfi2v40fjp4c1rnc6fb4bmmr3x6ca25ij8s4"
+      "revision": "108ad22f284737e93f6bd4ba5614bfe9d716be60",
+      "url": "https://github.com/AckslD/nvim-neoclip.lua/archive/108ad22f284737e93f6bd4ba5614bfe9d716be60.tar.gz",
+      "hash": "0jci20sq9xj01ij8kdyqqc6xnw8pdlh4z88l18ml67pc9s56xdsy"
     },
     "nvim-notify": {
       "type": "Git",
