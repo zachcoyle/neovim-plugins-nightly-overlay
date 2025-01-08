@@ -2755,9 +2755,9 @@
         "repo": "nvim-treesitter"
       },
       "branch": "master",
-      "revision": "622a4a6ba76d1de52b72a965159213ae655b4ac7",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/622a4a6ba76d1de52b72a965159213ae655b4ac7.tar.gz",
-      "hash": "03kz6n5dw2rw7mkpg7i0rxbrq1z86ib4jwrrglrw5vhs0n6afakc"
+      "revision": "10a9464a82fb540cca912a1d25810f242cb97b5f",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/10a9464a82fb540cca912a1d25810f242cb97b5f.tar.gz",
+      "hash": "09r7zhaa5kkixk3xq4c96ah2z4jqx894q2r7q359dgsri620my4j"
     },
     "nvim-treesitter-context": {
       "type": "Git",
@@ -4147,9 +4147,9 @@
         "repo": "vscode.nvim"
       },
       "branch": "main",
-      "revision": "18097b7aa47538afa780c821309c8b992972d726",
-      "url": "https://github.com/Mofiqul/vscode.nvim/archive/18097b7aa47538afa780c821309c8b992972d726.tar.gz",
-      "hash": "030bp38mvi1kxjsjhsx4f7acyw4drhbf58wjn0xrb9k1qmyx1ymq"
+      "revision": "44db2fea7c709e97a077d2a7aa667be48d23d384",
+      "url": "https://github.com/Mofiqul/vscode.nvim/archive/44db2fea7c709e97a077d2a7aa667be48d23d384.tar.gz",
+      "hash": "15x9c0pq8h0279d6ilixfkplwi8jf5yrwgq1mqkswv0s7sc2y43j"
     },
     "which-key-nvim": {
       "type": "Git",
