@@ -116,9 +116,9 @@
         "repo": "avante.nvim"
       },
       "branch": "main",
-      "revision": "794c6430334f0a422507ac44e3e8cf63ca1b41b7",
-      "url": "https://github.com/yetone/avante.nvim/archive/794c6430334f0a422507ac44e3e8cf63ca1b41b7.tar.gz",
-      "hash": "18ifwnwi43wvg8y4kzjr6pqpnc3xzfi3dlik4kzap4xf463dkgg7"
+      "revision": "225e6f95728e9be3b383f9faaa36483c88976f18",
+      "url": "https://github.com/yetone/avante.nvim/archive/225e6f95728e9be3b383f9faaa36483c88976f18.tar.gz",
+      "hash": "1bw3kjhj6729mp1yhl48mv7ik063z8dmhs43sizgqy3cbg4lrvbn"
     },
     "baleia-nvim": {
       "type": "Git",
@@ -1196,9 +1196,9 @@
         "repo": "firenvim"
       },
       "branch": "master",
-      "revision": "dd2d6f6b3b87b3726d5ef59adfe8a6c444889dda",
-      "url": "https://github.com/glacambre/firenvim/archive/dd2d6f6b3b87b3726d5ef59adfe8a6c444889dda.tar.gz",
-      "hash": "0hp7gl0vmmfr5kzmjwljalbh6cn4k15a8il2yc7irrp7ak58nzfs"
+      "revision": "09697387ff5b7120db7b9b15404ab75fb6780388",
+      "url": "https://github.com/glacambre/firenvim/archive/09697387ff5b7120db7b9b15404ab75fb6780388.tar.gz",
+      "hash": "13bsczv1falfkvdiysgz0vidqx8km39xkc8xl7gl74ckb54hj7d6"
     },
     "flash-nvim": {
       "type": "Git",
@@ -2527,9 +2527,9 @@
         "repo": "nvim-dap"
       },
       "branch": "master",
-      "revision": "b768c8d0ce6da614ac17ed097bf2d94e35fe1a58",
-      "url": "https://github.com/mfussenegger/nvim-dap/archive/b768c8d0ce6da614ac17ed097bf2d94e35fe1a58.tar.gz",
-      "hash": "1d26s6waz0zbssj2dby8ya160p77ihqpz2y6vqncn83020hpgx95"
+      "revision": "99807078c5089ed30e0547aa4b52c5867933f426",
+      "url": "https://github.com/mfussenegger/nvim-dap/archive/99807078c5089ed30e0547aa4b52c5867933f426.tar.gz",
+      "hash": "19v3q4rps66rwli4w7fz8s44np7q0ibcc8xrszg7ml474w1i8l82"
     },
     "nvim-dap-virtual-text": {
       "type": "Git",
