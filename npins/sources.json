@@ -1268,9 +1268,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "3d7e5db8fa56cfc2b92a38999016a51abe9e1d23",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/3d7e5db8fa56cfc2b92a38999016a51abe9e1d23.tar.gz",
-      "hash": "0bn5i8rf6ng1774552sisyz9f5spfwijzx7vz9qhh1cmiq3hszvf"
+      "revision": "3746d5e4f4a17b75dfe67b39286aac8b12874a41",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/3746d5e4f4a17b75dfe67b39286aac8b12874a41.tar.gz",
+      "hash": "0irb5a3namw2dasq13v3fgycahj6qgas3qxakinrnwikx4rmpi4x"
     },
     "galaxyline-nvim": {
       "type": "Git",
@@ -4147,9 +4147,9 @@
         "repo": "vscode.nvim"
       },
       "branch": "main",
-      "revision": "44db2fea7c709e97a077d2a7aa667be48d23d384",
-      "url": "https://github.com/Mofiqul/vscode.nvim/archive/44db2fea7c709e97a077d2a7aa667be48d23d384.tar.gz",
-      "hash": "15x9c0pq8h0279d6ilixfkplwi8jf5yrwgq1mqkswv0s7sc2y43j"
+      "revision": "298c5ce4750a256ea208b72d7a472b8824ef2a49",
+      "url": "https://github.com/Mofiqul/vscode.nvim/archive/298c5ce4750a256ea208b72d7a472b8824ef2a49.tar.gz",
+      "hash": "030bp38mvi1kxjsjhsx4f7acyw4drhbf58wjn0xrb9k1qmyx1ymq"
     },
     "which-key-nvim": {
       "type": "Git",
