@@ -2431,9 +2431,9 @@
         "repo": "nvim-autopairs"
       },
       "branch": "master",
-      "revision": "d65a9678336c8b48753dba8bff49672cbeb7c892",
-      "url": "https://github.com/windwp/nvim-autopairs/archive/d65a9678336c8b48753dba8bff49672cbeb7c892.tar.gz",
-      "hash": "03xprji8l87i8q8yg9564smrs81xpkc3pdg3ps71diwkfzszh3yx"
+      "revision": "d2f791ceeb26d04d87aa54343bc94e8ad8d7be1c",
+      "url": "https://github.com/windwp/nvim-autopairs/archive/d2f791ceeb26d04d87aa54343bc94e8ad8d7be1c.tar.gz",
+      "hash": "1y87br3n26ary130l5aq6h79lfq92w8f0674mnb9rfls5r68s2y2"
     },
     "nvim-bacon": {
       "type": "Git",
