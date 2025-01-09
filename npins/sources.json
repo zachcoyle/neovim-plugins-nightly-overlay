@@ -1196,9 +1196,9 @@
         "repo": "firenvim"
       },
       "branch": "master",
-      "revision": "9e83fcb62ea44d8f7b7935f17f864eae30abfddd",
-      "url": "https://github.com/glacambre/firenvim/archive/9e83fcb62ea44d8f7b7935f17f864eae30abfddd.tar.gz",
-      "hash": "0zf2wwcvd8spv6wn0nbi385pbykahpfsf5fw53dxriascymmrp82"
+      "revision": "f8a5fa6f1ed42536490acf0840497c40331c184f",
+      "url": "https://github.com/glacambre/firenvim/archive/f8a5fa6f1ed42536490acf0840497c40331c184f.tar.gz",
+      "hash": "08n53sqgw25m1piwdpyi4g5b30xw5qjprf2fwz73i6zgnyyf83ra"
     },
     "flash-nvim": {
       "type": "Git",
@@ -4123,9 +4123,9 @@
         "repo": "vimtex"
       },
       "branch": "master",
-      "revision": "a707d39e77cb27a6d02922f269875d1727860dcf",
-      "url": "https://github.com/lervag/vimtex/archive/a707d39e77cb27a6d02922f269875d1727860dcf.tar.gz",
-      "hash": "1sfm1lw4sdb5aynl1z5nsx7jwlyz5i8qly4wxxa0vv7p29bxlp2v"
+      "revision": "adce3d38349925a0a891857c74bd4e8d1b8f80ab",
+      "url": "https://github.com/lervag/vimtex/archive/adce3d38349925a0a891857c74bd4e8d1b8f80ab.tar.gz",
+      "hash": "06070az2na5lm47q8kfkcfgs7cia82d2s9wr57krx7ra0g8aqkay"
     },
     "virt-column-nvim": {
       "type": "Git",
