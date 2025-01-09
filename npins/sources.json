@@ -116,9 +116,9 @@
         "repo": "avante.nvim"
       },
       "branch": "main",
-      "revision": "6c1008189903c8f5fc5a8f5087ff4001eabc360d",
-      "url": "https://github.com/yetone/avante.nvim/archive/6c1008189903c8f5fc5a8f5087ff4001eabc360d.tar.gz",
-      "hash": "1lyjpakax92bhjlmb8q9xqqpx3m8wmh8fb25z1x2yb612fz12rx4"
+      "revision": "e14eb002d5839387a9b58e9a7ebc0a2047d1c1e5",
+      "url": "https://github.com/yetone/avante.nvim/archive/e14eb002d5839387a9b58e9a7ebc0a2047d1c1e5.tar.gz",
+      "hash": "0nrn04x0hd633x4pgzv9c0l8pm74vh7k0j96nd91flsbmmqfra22"
     },
     "baleia-nvim": {
       "type": "Git",
@@ -1268,9 +1268,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "c5d53eeee74b9cc345e53c7e0cb3b30ae8b0f492",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/c5d53eeee74b9cc345e53c7e0cb3b30ae8b0f492.tar.gz",
-      "hash": "1ccwz2m3895g4mxxs0srzfm9pwzv2n5m317dwl5r7pnn380rmqgm"
+      "revision": "af6ecbd7f421e7894127a9e94b40e13172fbfb13",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/af6ecbd7f421e7894127a9e94b40e13172fbfb13.tar.gz",
+      "hash": "0zvbid4553sag41l5zx3j331nq17p1k6n2gbs7ynkbbd530qvsmf"
     },
     "galaxyline-nvim": {
       "type": "Git",
