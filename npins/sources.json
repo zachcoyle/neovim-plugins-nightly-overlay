@@ -308,9 +308,9 @@
         "repo": "cmake-tools.nvim"
       },
       "branch": "master",
-      "revision": "4e134ed5532e5fc3c0331d1b38b7acaa4bb31894",
-      "url": "https://github.com/Civitasv/cmake-tools.nvim/archive/4e134ed5532e5fc3c0331d1b38b7acaa4bb31894.tar.gz",
-      "hash": "0yrgxpjl7qw2rphksaqhkq6c4y62qcnqdc1kjryr6kxk64hiz5rz"
+      "revision": "1698299e05665c0178c00f3712c1dadfa97905ce",
+      "url": "https://github.com/Civitasv/cmake-tools.nvim/archive/1698299e05665c0178c00f3712c1dadfa97905ce.tar.gz",
+      "hash": "03djfcv3mz0k261vxmj945bd9dxy0lib3id0mhrmj5il6nrwcghf"
     },
     "cmp-async-path": {
       "type": "Git",
@@ -1364,9 +1364,9 @@
         "repo": "gitsigns.nvim"
       },
       "branch": "main",
-      "revision": "68114837e81ca16d06514c3a997c9102d1b25c15",
-      "url": "https://github.com/lewis6991/gitsigns.nvim/archive/68114837e81ca16d06514c3a997c9102d1b25c15.tar.gz",
-      "hash": "1358mwhya6m40f0ari0qg55hm2qlj2mmqcdkbbb2zyx9661rfsin"
+      "revision": "abcd00a7d5bc1a9470cb21b023c575acade3e4db",
+      "url": "https://github.com/lewis6991/gitsigns.nvim/archive/abcd00a7d5bc1a9470cb21b023c575acade3e4db.tar.gz",
+      "hash": "1iz77y3i1ad9yb4dw9aj3f6q4hj0ai8vls2336fggxad1d8zf7z3"
     },
     "glow-nvim": {
       "type": "Git",
