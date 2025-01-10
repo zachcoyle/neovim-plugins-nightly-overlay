@@ -3307,9 +3307,9 @@
         "repo": "statuscol.nvim"
       },
       "branch": "main",
-      "revision": "3fd16a5983a7fda8b280aa43bac510466e0d9a45",
-      "url": "https://github.com/luukvbaal/statuscol.nvim/archive/3fd16a5983a7fda8b280aa43bac510466e0d9a45.tar.gz",
-      "hash": "06d5pk38ixkkdqjjwz10h3ndsja00jfvxlw07h11dwibqy52h1f7"
+      "revision": "a2a0e3ed55ba0f636ce0b2ccf61bca4050edd288",
+      "url": "https://github.com/luukvbaal/statuscol.nvim/archive/a2a0e3ed55ba0f636ce0b2ccf61bca4050edd288.tar.gz",
+      "hash": "1r9m557yv01bbwsy0pgk4dnypccx39b0q5vln3p65rc7d9ib6shi"
     },
     "tagbar": {
       "type": "Git",
