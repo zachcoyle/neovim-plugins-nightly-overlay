@@ -1268,9 +1268,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "7e63bc8a61ef9f38b513a19718308e57f4729d14",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/7e63bc8a61ef9f38b513a19718308e57f4729d14.tar.gz",
-      "hash": "0w08s0kf2cgyn6b24gzyhk9n1qp511f0nj8a107mv153hj6q8d1h"
+      "revision": "54d505c17576f10d4c74c8e110b445369bd71548",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/54d505c17576f10d4c74c8e110b445369bd71548.tar.gz",
+      "hash": "0097lnyms7ns7w1d43c7gh73pfjq08w907j9dsf5bzmgb3k0zchr"
     },
     "galaxyline-nvim": {
       "type": "Git",
@@ -1759,9 +1759,9 @@
         "repo": "lsp_signature.nvim"
       },
       "branch": "master",
-      "revision": "fc38521ea4d9ec8dbd4c2819ba8126cea743943b",
-      "url": "https://github.com/ray-x/lsp_signature.nvim/archive/fc38521ea4d9ec8dbd4c2819ba8126cea743943b.tar.gz",
-      "hash": "0ag79vvjz1dqyw9358ijdkckr1rqshxkpk5fl0kww1vl3pfwv9jv"
+      "revision": "5b64964ed02098c85613ee3d20f96bed1dfb64cc",
+      "url": "https://github.com/ray-x/lsp_signature.nvim/archive/5b64964ed02098c85613ee3d20f96bed1dfb64cc.tar.gz",
+      "hash": "0jd7n21d5pcxahif76cjvp96gq7iq3nq18gzc4ww5lp53w2izbiz"
     },
     "lspkind-nvim": {
       "type": "Git",
