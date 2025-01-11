@@ -1052,9 +1052,9 @@
         "repo": "debugprint.nvim"
       },
       "branch": "main",
-      "revision": "bba532b6bd1dda712acb5e59e00903602fa02122",
-      "url": "https://github.com/andrewferrier/debugprint.nvim/archive/bba532b6bd1dda712acb5e59e00903602fa02122.tar.gz",
-      "hash": "0dzq3gf62ayr71ndkhjl1x08l0rl9n1j9ig2v3j9q4gcpbdi1sv6"
+      "revision": "3c3a2bbae37e9dfcedb17181a5a44a40eb6f4f5c",
+      "url": "https://github.com/andrewferrier/debugprint.nvim/archive/3c3a2bbae37e9dfcedb17181a5a44a40eb6f4f5c.tar.gz",
+      "hash": "1rwlk6p5n74bf96gkipqcsbh9fb91iiafy3m1cbf002x5cmcbqz5"
     },
     "diffview-nvim": {
       "type": "Git",
@@ -2755,9 +2755,9 @@
         "repo": "nvim-treesitter"
       },
       "branch": "master",
-      "revision": "9ef2e37e1b3200004f872a536f0c8ed968b742e6",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/9ef2e37e1b3200004f872a536f0c8ed968b742e6.tar.gz",
-      "hash": "0l3k7ggmwixqk8avd17zzcrcxxzwv15xy6y9z2nbgy356y3kxv24"
+      "revision": "29f96aafe1ec99f464732b4586af53d2953345bb",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/29f96aafe1ec99f464732b4586af53d2953345bb.tar.gz",
+      "hash": "1ywh31sm58lj6r34s9n9cyqfnk37zl9m06bi9s4wgn18mg2rk0mb"
     },
     "nvim-treesitter-context": {
       "type": "Git",
