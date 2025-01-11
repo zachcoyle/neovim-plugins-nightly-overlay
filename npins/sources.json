@@ -2347,9 +2347,9 @@
         "repo": "netman.nvim"
       },
       "branch": "main",
-      "revision": "99c2e1e4e98b5d0b05eeea89f54f801b63f4cbfe",
-      "url": "https://github.com/miversen33/netman.nvim/archive/99c2e1e4e98b5d0b05eeea89f54f801b63f4cbfe.tar.gz",
-      "hash": "1102gyjcj2hb7lfsqgpp2aflhf61qk61l45zka8zcyg7xwlbbhav"
+      "revision": "61ccf198d1c2570a14cfc6eb216b386b4b226be4",
+      "url": "https://github.com/miversen33/netman.nvim/archive/61ccf198d1c2570a14cfc6eb216b386b4b226be4.tar.gz",
+      "hash": "03dhbyxpl5acfkyg14s6fknvla8k7x3ni9ynxbcbsyyrhrb50wzb"
     },
     "nightfox-nvim": {
       "type": "Git",
