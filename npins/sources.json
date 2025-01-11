@@ -116,9 +116,9 @@
         "repo": "avante.nvim"
       },
       "branch": "main",
-      "revision": "f401983737a4e4c3c20376495ab57e3cafbf5eec",
-      "url": "https://github.com/yetone/avante.nvim/archive/f401983737a4e4c3c20376495ab57e3cafbf5eec.tar.gz",
-      "hash": "1sdsr43bh97ksmk7a62lj0dmy9h5s629m8acbdc4nnxzq80d08n2"
+      "revision": "ba9f014b7563760ed217ad665a6f45c051f119d7",
+      "url": "https://github.com/yetone/avante.nvim/archive/ba9f014b7563760ed217ad665a6f45c051f119d7.tar.gz",
+      "hash": "1vfc5gz7zl5jvgksi31g9k1am2rm5qlfx9baj93dsyqcy4hf5v0x"
     },
     "baleia-nvim": {
       "type": "Git",
@@ -3643,9 +3643,9 @@
         "repo": "tokyonight.nvim"
       },
       "branch": "main",
-      "revision": "7bb270adaa7692c2c33befc35f5567fc596a2504",
-      "url": "https://github.com/folke/tokyonight.nvim/archive/7bb270adaa7692c2c33befc35f5567fc596a2504.tar.gz",
-      "hash": "0rrw33afkh6nl22vg7p92h1lmfv3r1n8niga303janlbzlkmxhic"
+      "revision": "775f82f08a3d1fb55a37fc6d3a4ab10cd7ed8a10",
+      "url": "https://github.com/folke/tokyonight.nvim/archive/775f82f08a3d1fb55a37fc6d3a4ab10cd7ed8a10.tar.gz",
+      "hash": "0aw4qzh4mj592g08nfb9zbviybq7gj3fgkvzw67q0qaficj2lpyl"
     },
     "transparent-nvim": {
       "type": "Git",
