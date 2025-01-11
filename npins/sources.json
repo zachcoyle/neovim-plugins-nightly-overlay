@@ -212,9 +212,9 @@
         "repo": "bufferline.nvim"
       },
       "branch": "main",
-      "revision": "9f0826ae6adfd836a23bf8a4910e3c07450211f4",
-      "url": "https://github.com/akinsho/bufferline.nvim/archive/9f0826ae6adfd836a23bf8a4910e3c07450211f4.tar.gz",
-      "hash": "0gqa2871cjm65cbqvf8jx4dicinfjvilr2jwyn7s4apbknshjafw"
+      "revision": "17083c826a004bcb87d3a830c7710d0796a73bbf",
+      "url": "https://github.com/akinsho/bufferline.nvim/archive/17083c826a004bcb87d3a830c7710d0796a73bbf.tar.gz",
+      "hash": "1mhyma3xa80pmvr1zcqfa713diarycrc8w2mqz7iivnn121f8zkg"
     },
     "calvera-dark-nvim": {
       "type": "Git",
@@ -1688,9 +1688,9 @@
         "repo": "lean.nvim"
       },
       "branch": "main",
-      "revision": "dbb4196de52a87c1ea57035955a794084863f450",
-      "url": "https://github.com/Julian/lean.nvim/archive/dbb4196de52a87c1ea57035955a794084863f450.tar.gz",
-      "hash": "0kz3flgfklfw2v0blx6lkm331p2kh427am26g3mbp9lqwwnmj216"
+      "revision": "1da3354345f4873a3af3e72bb436547f28a90e24",
+      "url": "https://github.com/Julian/lean.nvim/archive/1da3354345f4873a3af3e72bb436547f28a90e24.tar.gz",
+      "hash": "08xdryj7fmqivfw6wii72iagc9zcvlnhs9dl6prgj658w8r3nra5"
     },
     "leap-nvim": {
       "type": "Git",
@@ -2755,9 +2755,9 @@
         "repo": "nvim-treesitter"
       },
       "branch": "master",
-      "revision": "e1e2ad1448f67a2ffc4bf8f6a315cf08a179d71e",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/e1e2ad1448f67a2ffc4bf8f6a315cf08a179d71e.tar.gz",
-      "hash": "0cywixhm9w452yd2ji673xj18kh1b2f3ff5s0sfvpzg2jpy8lgzd"
+      "revision": "9ef2e37e1b3200004f872a536f0c8ed968b742e6",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/9ef2e37e1b3200004f872a536f0c8ed968b742e6.tar.gz",
+      "hash": "0l3k7ggmwixqk8avd17zzcrcxxzwv15xy6y9z2nbgy356y3kxv24"
     },
     "nvim-treesitter-context": {
       "type": "Git",
