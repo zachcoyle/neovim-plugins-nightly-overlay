@@ -1688,9 +1688,9 @@
         "repo": "lean.nvim"
       },
       "branch": "main",
-      "revision": "1da3354345f4873a3af3e72bb436547f28a90e24",
-      "url": "https://github.com/Julian/lean.nvim/archive/1da3354345f4873a3af3e72bb436547f28a90e24.tar.gz",
-      "hash": "08xdryj7fmqivfw6wii72iagc9zcvlnhs9dl6prgj658w8r3nra5"
+      "revision": "91a69d37021cae1a0e8a4808c1d31bed3f040b84",
+      "url": "https://github.com/Julian/lean.nvim/archive/91a69d37021cae1a0e8a4808c1d31bed3f040b84.tar.gz",
+      "hash": "1dm3r5fdvvpv9jczq0h8xrk1akpy7lkj14bbwrkw1bg2p9cg57lf"
     },
     "leap-nvim": {
       "type": "Git",
@@ -2923,9 +2923,9 @@
         "repo": "orgmode"
       },
       "branch": "master",
-      "revision": "9ad2ff624cfae4025c368fedec0072814ff68c05",
-      "url": "https://github.com/nvim-orgmode/orgmode/archive/9ad2ff624cfae4025c368fedec0072814ff68c05.tar.gz",
-      "hash": "0wh6zjmilv75di8l1yr332y9krl8mzghg5i3zvdfy88g6v7g8gpc"
+      "revision": "7f975b181454c62f782dadb83c8e692dc9224ec5",
+      "url": "https://github.com/nvim-orgmode/orgmode/archive/7f975b181454c62f782dadb83c8e692dc9224ec5.tar.gz",
+      "hash": "1fv9v8ipv3ligljbf49jw8wjlip3dwymzxwi26ylbmdvciy32kv8"
     },
     "overseer-nvim": {
       "type": "Git",
