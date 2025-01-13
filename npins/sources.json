@@ -308,9 +308,9 @@
         "repo": "cmake-tools.nvim"
       },
       "branch": "master",
-      "revision": "1698299e05665c0178c00f3712c1dadfa97905ce",
-      "url": "https://github.com/Civitasv/cmake-tools.nvim/archive/1698299e05665c0178c00f3712c1dadfa97905ce.tar.gz",
-      "hash": "03djfcv3mz0k261vxmj945bd9dxy0lib3id0mhrmj5il6nrwcghf"
+      "revision": "a673bb68680197143902ec4d0a0078e4ae3d2141",
+      "url": "https://github.com/Civitasv/cmake-tools.nvim/archive/a673bb68680197143902ec4d0a0078e4ae3d2141.tar.gz",
+      "hash": "0mlz6mc1zm9cby7b4vns053x0p0bzx8xb0z565nird0gg4bfrgyl"
     },
     "cmp-async-path": {
       "type": "Git",
@@ -2755,9 +2755,9 @@
         "repo": "nvim-treesitter"
       },
       "branch": "master",
-      "revision": "097fb77312c731347180e8907424f6c967323f05",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/097fb77312c731347180e8907424f6c967323f05.tar.gz",
-      "hash": "01k89hfar5ddph1frqbryn0qvkagp7qdn5yh386clzq0q3dr4qmc"
+      "revision": "dc9bf52c1f8b9abae0c10e0192baea2e720472ef",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/dc9bf52c1f8b9abae0c10e0192baea2e720472ef.tar.gz",
+      "hash": "13imlan25r07npksx1rbkv2aq7104v561h1ah0bdhmp1a5bbbr7n"
     },
     "nvim-treesitter-context": {
       "type": "Git",
