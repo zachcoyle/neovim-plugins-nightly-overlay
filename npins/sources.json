@@ -2707,9 +2707,9 @@
         "repo": "nvim-spectre"
       },
       "branch": "master",
-      "revision": "08be31c104df3b4b049607694ebb2b6ced4f928b",
-      "url": "https://github.com/nvim-pack/nvim-spectre/archive/08be31c104df3b4b049607694ebb2b6ced4f928b.tar.gz",
-      "hash": "04v1gypga9fhmkddis5yyppvmpq0b1b7zpvbfjlxfp2z498l5n2v"
+      "revision": "ddd7383e856a7c939cb4f5143278fe041bbb8cb9",
+      "url": "https://github.com/nvim-pack/nvim-spectre/archive/ddd7383e856a7c939cb4f5143278fe041bbb8cb9.tar.gz",
+      "hash": "0mhnhn51qgqr7yhdq7zrq7pp3k1fnh9vhgqrka68br1xalgw17m5"
     },
     "nvim-spider": {
       "type": "Git",
