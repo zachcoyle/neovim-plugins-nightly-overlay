@@ -44,9 +44,9 @@
         "repo": "SchemaStore.nvim"
       },
       "branch": "main",
-      "revision": "b992bb1821fabb11db7fea4ecc7f769b11678cb2",
-      "url": "https://github.com/b0o/SchemaStore.nvim/archive/b992bb1821fabb11db7fea4ecc7f769b11678cb2.tar.gz",
-      "hash": "1a9lifwxn16pzlfbcl319fg7karbc9vpl54izpahabm90w2x0086"
+      "revision": "feaa60d3451d7f7e52eaf76a07ea52808d68cf6c",
+      "url": "https://github.com/b0o/SchemaStore.nvim/archive/feaa60d3451d7f7e52eaf76a07ea52808d68cf6c.tar.gz",
+      "hash": "15g1a9czywksr2bh4pik52mq0gwp7xpw2f2yw97danwiywanyk4i"
     },
     "alpha-nvim": {
       "type": "Git",
@@ -1915,9 +1915,9 @@
         "repo": "mini.nvim"
       },
       "branch": "main",
-      "revision": "7c0e12076af6a45227273b57110a91e9089a93fc",
-      "url": "https://github.com/echasnovski/mini.nvim/archive/7c0e12076af6a45227273b57110a91e9089a93fc.tar.gz",
-      "hash": "0vs2cvg8pgv77g2bb0vljsks99j5vm9ccy3cqyj6mh74dsnds7ma"
+      "revision": "3d81b8ab6ad4b805c2e7b42f2e93e3dbb68dd12a",
+      "url": "https://github.com/echasnovski/mini.nvim/archive/3d81b8ab6ad4b805c2e7b42f2e93e3dbb68dd12a.tar.gz",
+      "hash": "1f9fgmdffq9cl23ailk4j36v80dz7kyzmkazq1cmdbb442yh98js"
     },
     "mkdnflow-nvim": {
       "type": "Git",
@@ -2599,9 +2599,9 @@
         "repo": "nvim-lspconfig"
       },
       "branch": "master",
-      "revision": "04e8eb54eb6f70cd367ae58fdafb2ce05b2650ee",
-      "url": "https://github.com/neovim/nvim-lspconfig/archive/04e8eb54eb6f70cd367ae58fdafb2ce05b2650ee.tar.gz",
-      "hash": "0zidc2rza1qvsd8fq56x0jla150lqb59mzg2sfh8glhd6pd6zdgk"
+      "revision": "0913481440219390969ab56a3c33089679365ef7",
+      "url": "https://github.com/neovim/nvim-lspconfig/archive/0913481440219390969ab56a3c33089679365ef7.tar.gz",
+      "hash": "1n5s0gpvd81fgvmvz5p8w1w0lalv7rhkw91bymi81s7xm996jlhr"
     },
     "nvim-navbuddy": {
       "type": "Git",
