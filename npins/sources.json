@@ -1688,9 +1688,9 @@
         "repo": "lean.nvim"
       },
       "branch": "main",
-      "revision": "91a69d37021cae1a0e8a4808c1d31bed3f040b84",
-      "url": "https://github.com/Julian/lean.nvim/archive/91a69d37021cae1a0e8a4808c1d31bed3f040b84.tar.gz",
-      "hash": "1dm3r5fdvvpv9jczq0h8xrk1akpy7lkj14bbwrkw1bg2p9cg57lf"
+      "revision": "d02c5a08755f581748de48728b032625d84eaa18",
+      "url": "https://github.com/Julian/lean.nvim/archive/d02c5a08755f581748de48728b032625d84eaa18.tar.gz",
+      "hash": "00gx0vg3jsm6sg6ikz1lf0m28h231l8ylg1wz7k4n7hl8wdnay66"
     },
     "leap-nvim": {
       "type": "Git",
@@ -2671,9 +2671,9 @@
         "repo": "nvim-scrollview"
       },
       "branch": "main",
-      "revision": "00afa982055fc7547d13a68b341ad160d1c67a18",
-      "url": "https://github.com/dstein64/nvim-scrollview/archive/00afa982055fc7547d13a68b341ad160d1c67a18.tar.gz",
-      "hash": "116cgm7mpakw3brc3s3pidn255shi8ag33w85jq4qjawgkvjxi05"
+      "revision": "1347eb5660bcffa4c42a9680c2bad319a60cc7f6",
+      "url": "https://github.com/dstein64/nvim-scrollview/archive/1347eb5660bcffa4c42a9680c2bad319a60cc7f6.tar.gz",
+      "hash": "0zndr572d944644d14v99xbn757mrnyhcfzvj6bk2zn4c1lry1wb"
     },
     "nvim-snippets": {
       "type": "Git",
