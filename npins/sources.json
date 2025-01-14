@@ -116,9 +116,9 @@
         "repo": "avante.nvim"
       },
       "branch": "main",
-      "revision": "24cb3f8e1920514664affd26243cb3e3a3e5a9ba",
-      "url": "https://github.com/yetone/avante.nvim/archive/24cb3f8e1920514664affd26243cb3e3a3e5a9ba.tar.gz",
-      "hash": "1qvw9zc06adkr6l6ri2d1xcij5mck17a972fni1srdzyyalxaw1c"
+      "revision": "a874c2736ab10d45c0df3072f8481301f4404f33",
+      "url": "https://github.com/yetone/avante.nvim/archive/a874c2736ab10d45c0df3072f8481301f4404f33.tar.gz",
+      "hash": "1469jazm8fa252hi7b1bhpz9vxc39kww3amzg7my69k1r6qr913v"
     },
     "baleia-nvim": {
       "type": "Git",
@@ -1112,9 +1112,9 @@
         "repo": "dropbar.nvim"
       },
       "branch": "master",
-      "revision": "7e3965d8b67eaf75ccd12ddca77e17880c364737",
-      "url": "https://github.com/Bekaboo/dropbar.nvim/archive/7e3965d8b67eaf75ccd12ddca77e17880c364737.tar.gz",
-      "hash": "0ngskh63zicmjgg1rcg0xfvvyz91vj7dia6p4svpc9jys74p7x11"
+      "revision": "02d72459f4a64f3a70faff9ef3e0af7050dba0f9",
+      "url": "https://github.com/Bekaboo/dropbar.nvim/archive/02d72459f4a64f3a70faff9ef3e0af7050dba0f9.tar.gz",
+      "hash": "1s88fnc9k6z84bslas5n20hj3yicgmyb39sn4yq299xypc54c7aa"
     },
     "earthly-vim": {
       "type": "Git",
@@ -1364,9 +1364,9 @@
         "repo": "gitsigns.nvim"
       },
       "branch": "main",
-      "revision": "abcd00a7d5bc1a9470cb21b023c575acade3e4db",
-      "url": "https://github.com/lewis6991/gitsigns.nvim/archive/abcd00a7d5bc1a9470cb21b023c575acade3e4db.tar.gz",
-      "hash": "1iz77y3i1ad9yb4dw9aj3f6q4hj0ai8vls2336fggxad1d8zf7z3"
+      "revision": "76d88f3b584e1f83b2aa51663a32cc6ee8d97eff",
+      "url": "https://github.com/lewis6991/gitsigns.nvim/archive/76d88f3b584e1f83b2aa51663a32cc6ee8d97eff.tar.gz",
+      "hash": "1z1nl2x6xz71m2mbi2vqiingb2xg73nnw5n3b4z4vqj60b20lvn8"
     },
     "glow-nvim": {
       "type": "Git",
@@ -2863,9 +2863,9 @@
         "repo": "octo.nvim"
       },
       "branch": "master",
-      "revision": "4795b7220c3d4b79acd11bf1c444d16c5667d1bc",
-      "url": "https://github.com/pwntester/octo.nvim/archive/4795b7220c3d4b79acd11bf1c444d16c5667d1bc.tar.gz",
-      "hash": "0kjb7j9zrpi89jb7vg9p6r2qcxnzdz0275k2vyqgi7vnh71b0iy3"
+      "revision": "105dd4a3acd65745410c15af9db0affaf7d686dd",
+      "url": "https://github.com/pwntester/octo.nvim/archive/105dd4a3acd65745410c15af9db0affaf7d686dd.tar.gz",
+      "hash": "02n2qpn8v5skfk2m313fag7dv5nyw6cn2i2763cm3mwq1m3dk06c"
     },
     "oil-nvim": {
       "type": "Git",
@@ -3619,9 +3619,9 @@
         "repo": "todo-comments.nvim"
       },
       "branch": "main",
-      "revision": "7cc68429485029508ff0fe813587942f15043a96",
-      "url": "https://github.com/folke/todo-comments.nvim/archive/7cc68429485029508ff0fe813587942f15043a96.tar.gz",
-      "hash": "1gymkvil7dy5g2ycnbqchli7d896ny3ah1x0b736cb3xcjvczj9l"
+      "revision": "304a8d204ee787d2544d8bc23cd38d2f929e7cc5",
+      "url": "https://github.com/folke/todo-comments.nvim/archive/304a8d204ee787d2544d8bc23cd38d2f929e7cc5.tar.gz",
+      "hash": "0hrmiaxjp11200nds3y33brj8gpbn5ykd78jfy1jiash3d44xpva"
     },
     "toggleterm-nvim": {
       "type": "Git",
