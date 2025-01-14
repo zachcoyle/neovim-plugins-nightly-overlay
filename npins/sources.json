@@ -500,9 +500,9 @@
         "repo": "cmp-git"
       },
       "branch": "main",
-      "revision": "4e1053dc7dd9b5038bf7cb7ff9c1933df6103e6c",
-      "url": "https://github.com/petertriho/cmp-git/archive/4e1053dc7dd9b5038bf7cb7ff9c1933df6103e6c.tar.gz",
-      "hash": "0g65ha2zghs6d90z0qaqq6qm1npg51sy550k553k9v8bq2qmrn7r"
+      "revision": "483ffb9a7471409a841df099d7c13556234365a4",
+      "url": "https://github.com/petertriho/cmp-git/archive/483ffb9a7471409a841df099d7c13556234365a4.tar.gz",
+      "hash": "0jlz5c5nffri0hvr6iphyy1rmg464br1smcylqv0idvqyp4gy5il"
     },
     "cmp-greek": {
       "type": "Git",
@@ -1783,9 +1783,9 @@
         "repo": "lspsaga.nvim"
       },
       "branch": "main",
-      "revision": "5fce15331ac6c3a3ec3ac91ab0e85ed82f5cbba0",
-      "url": "https://github.com/nvimdev/lspsaga.nvim/archive/5fce15331ac6c3a3ec3ac91ab0e85ed82f5cbba0.tar.gz",
-      "hash": "00h72r838bya40bwmwn48xz1rbxwa1sz4fnv7rvbmkzwgm0klvv2"
+      "revision": "99b4e71f72d8b32940176adcfe901bd73df9e045",
+      "url": "https://github.com/nvimdev/lspsaga.nvim/archive/99b4e71f72d8b32940176adcfe901bd73df9e045.tar.gz",
+      "hash": "186h3k4f6frn8vlgzim429g7j4kp1zrdky31lzdn2jqm1lhsvnn8"
     },
     "ltex_extra-nvim": {
       "type": "Git",
