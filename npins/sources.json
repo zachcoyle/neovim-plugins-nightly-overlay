@@ -1112,9 +1112,9 @@
         "repo": "dropbar.nvim"
       },
       "branch": "master",
-      "revision": "c3fe65e78c1ba33cf2b38b1909ee84d1b37706fe",
-      "url": "https://github.com/Bekaboo/dropbar.nvim/archive/c3fe65e78c1ba33cf2b38b1909ee84d1b37706fe.tar.gz",
-      "hash": "1g0sdmhb231dwrimanbds8k8wdb201cc2bsbzsni260y9dxjw04k"
+      "revision": "ed7c6869dd444ccfd1491d3d0dcf747b5a4f5af3",
+      "url": "https://github.com/Bekaboo/dropbar.nvim/archive/ed7c6869dd444ccfd1491d3d0dcf747b5a4f5af3.tar.gz",
+      "hash": "0rzi8i3gymfgrs8j8c8f4vg0g5j4fml42133j58cpms6lgm55n64"
     },
     "earthly-vim": {
       "type": "Git",
@@ -3619,9 +3619,9 @@
         "repo": "todo-comments.nvim"
       },
       "branch": "main",
-      "revision": "ae0a2afb47cf7395dc400e5dc4e05274bf4fb9e0",
-      "url": "https://github.com/folke/todo-comments.nvim/archive/ae0a2afb47cf7395dc400e5dc4e05274bf4fb9e0.tar.gz",
-      "hash": "0v6vn3f9svj756ds8cp0skpw65xixlx1f3aj0fh374wdpb5i4zhh"
+      "revision": "aba91f1d0d8ef9756fb9847e925b872bb8d7f67c",
+      "url": "https://github.com/folke/todo-comments.nvim/archive/aba91f1d0d8ef9756fb9847e925b872bb8d7f67c.tar.gz",
+      "hash": "115ib1fxz3h263p11cncdjjn1k0mpvgqpnwmr95lxz244nbjb91b"
     },
     "toggleterm-nvim": {
       "type": "Git",
