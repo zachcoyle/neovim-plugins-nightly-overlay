@@ -116,9 +116,9 @@
         "repo": "avante.nvim"
       },
       "branch": "main",
-      "revision": "ba9f014b7563760ed217ad665a6f45c051f119d7",
-      "url": "https://github.com/yetone/avante.nvim/archive/ba9f014b7563760ed217ad665a6f45c051f119d7.tar.gz",
-      "hash": "1vfc5gz7zl5jvgksi31g9k1am2rm5qlfx9baj93dsyqcy4hf5v0x"
+      "revision": "bd8afce3b0cac6e3d5e1a409692975199be38b81",
+      "url": "https://github.com/yetone/avante.nvim/archive/bd8afce3b0cac6e3d5e1a409692975199be38b81.tar.gz",
+      "hash": "0ji76hwhzik5ab3myx6gd5fijlwkf6h3g9dbnk0i1542zy4q00b1"
     },
     "baleia-nvim": {
       "type": "Git",
@@ -2755,9 +2755,9 @@
         "repo": "nvim-treesitter"
       },
       "branch": "master",
-      "revision": "e122b11d8380bfd8269bfc69d35d597d710aa444",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/e122b11d8380bfd8269bfc69d35d597d710aa444.tar.gz",
-      "hash": "0famqz1qqr7fwmgnbk2br4dzkhpf4m4k3sya9972jhpk610q44h3"
+      "revision": "984214ef8e4ca18d77639663319aabdfba89632f",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/984214ef8e4ca18d77639663319aabdfba89632f.tar.gz",
+      "hash": "10k4mxv70gjlnr74wxvqczvndwwgnssz136ah72ym83q8pxl45y1"
     },
     "nvim-treesitter-context": {
       "type": "Git",
@@ -3055,9 +3055,9 @@
         "repo": "precognition.nvim"
       },
       "branch": "main",
-      "revision": "531971e6d883e99b1572bf47294e22988d8fbec0",
-      "url": "https://github.com/tris203/precognition.nvim/archive/531971e6d883e99b1572bf47294e22988d8fbec0.tar.gz",
-      "hash": "1mm3gzv882kd0kmqj0zfk6hlw5fxbk7jz16g1h7g8xs2mjh4lxwv"
+      "revision": "24f2cc51dccecec4cf3de04bfbd14f5b9e79df0b",
+      "url": "https://github.com/tris203/precognition.nvim/archive/24f2cc51dccecec4cf3de04bfbd14f5b9e79df0b.tar.gz",
+      "hash": "0x7i2cim9jwc90v11wm61qbbq54m5581hsvj5jaash3gb5piacvw"
     },
     "presence-nvim": {
       "type": "Git",
