@@ -1795,9 +1795,9 @@
         "repo": "ltex_extra.nvim"
       },
       "branch": "master",
-      "revision": "24acd044ce7a26b3cdb537cbd094de37c3e1ac45",
-      "url": "https://github.com/barreiroleo/ltex_extra.nvim/archive/24acd044ce7a26b3cdb537cbd094de37c3e1ac45.tar.gz",
-      "hash": "1dq93f4aj3xni9xbls8bhsf5jja36dlpgdlkfk1lvkvyh489wrrq"
+      "revision": "314b126def40b47a7615890a96f534a8b7393469",
+      "url": "https://github.com/barreiroleo/ltex_extra.nvim/archive/314b126def40b47a7615890a96f534a8b7393469.tar.gz",
+      "hash": "1ikvk9sgwzqw0drirgklssyf8nnwd2llnsm3fs00yaiiprzc43f7"
     },
     "lualine-nvim": {
       "type": "Git",
