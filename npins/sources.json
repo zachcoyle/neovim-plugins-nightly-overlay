@@ -2755,9 +2755,9 @@
         "repo": "nvim-treesitter"
       },
       "branch": "master",
-      "revision": "984214ef8e4ca18d77639663319aabdfba89632f",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/984214ef8e4ca18d77639663319aabdfba89632f.tar.gz",
-      "hash": "10k4mxv70gjlnr74wxvqczvndwwgnssz136ah72ym83q8pxl45y1"
+      "revision": "f0c928dbe93533b7e35894a8f957f40150d1f663",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/f0c928dbe93533b7e35894a8f957f40150d1f663.tar.gz",
+      "hash": "0mrbm49yc4fj1wy08l3wxwjqk5g6al094vi2ip406ysiihdk63nx"
     },
     "nvim-treesitter-context": {
       "type": "Git",
