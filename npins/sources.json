@@ -1364,9 +1364,9 @@
         "repo": "gitsigns.nvim"
       },
       "branch": "main",
-      "revision": "78f947413e8d22b21d4c1c402425e67da2633efe",
-      "url": "https://github.com/lewis6991/gitsigns.nvim/archive/78f947413e8d22b21d4c1c402425e67da2633efe.tar.gz",
-      "hash": "19bczb186hqs4xwc1chppnqajqrsafz5nxkdmk7nqkp3bzfk69b4"
+      "revision": "9541f5e8e24571723cb02a5c2bf078aeacc5a711",
+      "url": "https://github.com/lewis6991/gitsigns.nvim/archive/9541f5e8e24571723cb02a5c2bf078aeacc5a711.tar.gz",
+      "hash": "011fy184n2mm8b8bmm6p2cph94nck1zic1zmkir1q0ky6lzcwlxs"
     },
     "glow-nvim": {
       "type": "Git",
@@ -2575,9 +2575,9 @@
         "repo": "nvim-lightbulb"
       },
       "branch": "master",
-      "revision": "3ac0791be37ba9cc7939f1ad90ebc5e75abf4eea",
-      "url": "https://github.com/kosayoda/nvim-lightbulb/archive/3ac0791be37ba9cc7939f1ad90ebc5e75abf4eea.tar.gz",
-      "hash": "0qc1rl45ykh9552dx5fmhdg0ncfsk2vpcmj5i7hrmdzgkd2f0avg"
+      "revision": "416fd563117f4fd21969706e19d463e81fbf4691",
+      "url": "https://github.com/kosayoda/nvim-lightbulb/archive/416fd563117f4fd21969706e19d463e81fbf4691.tar.gz",
+      "hash": "0s50vq1y77j9fr75ih8qwgjsjs0c2zrh9j1816j9z3pfcrsba7sj"
     },
     "nvim-lint": {
       "type": "Git",
@@ -3679,9 +3679,9 @@
         "repo": "trouble.nvim"
       },
       "branch": "main",
-      "revision": "4d36b8979287f5facc03fd6d955ace67db667e1d",
-      "url": "https://github.com/folke/trouble.nvim/archive/4d36b8979287f5facc03fd6d955ace67db667e1d.tar.gz",
-      "hash": "01j3nnc1azxwp6ld5hkz2ajmx7lrrlb98sh4dkl06lnxbbcbbgsv"
+      "revision": "50481f414bd3c1a40122c1d759d7e424d5fafe84",
+      "url": "https://github.com/folke/trouble.nvim/archive/50481f414bd3c1a40122c1d759d7e424d5fafe84.tar.gz",
+      "hash": "14cvhnz4njzqydnbyf9iydsdhqvms4kajlvxgkr1gfkw6rw96r37"
     },
     "ts-comments-nvim": {
       "type": "Git",
