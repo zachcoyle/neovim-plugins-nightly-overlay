@@ -1052,9 +1052,9 @@
         "repo": "debugprint.nvim"
       },
       "branch": "main",
-      "revision": "717afac88d0225cd4282d97fc2d5f218f2a0b4d4",
-      "url": "https://github.com/andrewferrier/debugprint.nvim/archive/717afac88d0225cd4282d97fc2d5f218f2a0b4d4.tar.gz",
-      "hash": "0aanv9rhzc7ycpp4ks2ch0j680z5694cyvs0kazzjwk173viwx01"
+      "revision": "1a7b2b9c08c01b975adadae540b831e11577922c",
+      "url": "https://github.com/andrewferrier/debugprint.nvim/archive/1a7b2b9c08c01b975adadae540b831e11577922c.tar.gz",
+      "hash": "1lh0nvfc1afayryb6y6ciww3wk56lh7vwbcy0aq65lvwpryz37vh"
     },
     "diffview-nvim": {
       "type": "Git",
@@ -1112,9 +1112,9 @@
         "repo": "dropbar.nvim"
       },
       "branch": "master",
-      "revision": "02d72459f4a64f3a70faff9ef3e0af7050dba0f9",
-      "url": "https://github.com/Bekaboo/dropbar.nvim/archive/02d72459f4a64f3a70faff9ef3e0af7050dba0f9.tar.gz",
-      "hash": "1s88fnc9k6z84bslas5n20hj3yicgmyb39sn4yq299xypc54c7aa"
+      "revision": "37c106eb94b4caf11933401e5486891e503bc417",
+      "url": "https://github.com/Bekaboo/dropbar.nvim/archive/37c106eb94b4caf11933401e5486891e503bc417.tar.gz",
+      "hash": "1h7p8v0hj50lgl32gjyv3l7dfzmmj4s5q8jqfcq4ssy1prl4p4ia"
     },
     "earthly-vim": {
       "type": "Git",
