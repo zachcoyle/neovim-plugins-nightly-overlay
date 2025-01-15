@@ -116,9 +116,9 @@
         "repo": "avante.nvim"
       },
       "branch": "main",
-      "revision": "ea5706f52ff3efde8271c8ac3b65c7ddb7e522f3",
-      "url": "https://github.com/yetone/avante.nvim/archive/ea5706f52ff3efde8271c8ac3b65c7ddb7e522f3.tar.gz",
-      "hash": "1qlpcdd97r14kakmcz192954jfgfkmzw8mdrw0kbjrqq0ggkb31g"
+      "revision": "81abbdb796d4318d1d54bf0679afc544a44f5fde",
+      "url": "https://github.com/yetone/avante.nvim/archive/81abbdb796d4318d1d54bf0679afc544a44f5fde.tar.gz",
+      "hash": "1m9jqc9cxclrrnv7jsag1r7aidydpngv8rrjpi942fjgs1mgnqg1"
     },
     "baleia-nvim": {
       "type": "Git",
@@ -2863,9 +2863,9 @@
         "repo": "octo.nvim"
       },
       "branch": "master",
-      "revision": "587ce499efd85f25fb12dbf2f3250e036f7ee4d0",
-      "url": "https://github.com/pwntester/octo.nvim/archive/587ce499efd85f25fb12dbf2f3250e036f7ee4d0.tar.gz",
-      "hash": "1sj5icwkgk7rw268668346v1j802c23gb5fip69i9ibymxm5378c"
+      "revision": "9f7467de546283cea2b63de849da7cdf5fc8d7cd",
+      "url": "https://github.com/pwntester/octo.nvim/archive/9f7467de546283cea2b63de849da7cdf5fc8d7cd.tar.gz",
+      "hash": "0l3bag6z9fq7ibbnqbkhlcfq1yxiaa3phlm6w33caallsvxa11hr"
     },
     "oil-nvim": {
       "type": "Git",
