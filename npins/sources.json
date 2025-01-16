@@ -1268,9 +1268,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "04e4255ae850d35c18a018d4ce4ea14c3a08d3d1",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/04e4255ae850d35c18a018d4ce4ea14c3a08d3d1.tar.gz",
-      "hash": "0fpq5xk2sgxr07a4ilybvmciclfyj3yl4apjl056z4kaghn6xnyb"
+      "revision": "9a755f225bc6c41698e4a56212f7bbca3b895d31",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/9a755f225bc6c41698e4a56212f7bbca3b895d31.tar.gz",
+      "hash": "1dvjhigsx4diqfb0fya0pagkckdxk9y8azpk2v5v7dsvpsdg03sy"
     },
     "galaxyline-nvim": {
       "type": "Git",
@@ -1364,9 +1364,9 @@
         "repo": "gitsigns.nvim"
       },
       "branch": "main",
-      "revision": "9541f5e8e24571723cb02a5c2bf078aeacc5a711",
-      "url": "https://github.com/lewis6991/gitsigns.nvim/archive/9541f5e8e24571723cb02a5c2bf078aeacc5a711.tar.gz",
-      "hash": "011fy184n2mm8b8bmm6p2cph94nck1zic1zmkir1q0ky6lzcwlxs"
+      "revision": "0797734e2bf229cc67b05e82a17e22a18f191913",
+      "url": "https://github.com/lewis6991/gitsigns.nvim/archive/0797734e2bf229cc67b05e82a17e22a18f191913.tar.gz",
+      "hash": "16dvg9v63ll6w2r59a7rc1whc3fp1cl9sylvai980znr6rmb1s7l"
     },
     "glow-nvim": {
       "type": "Git",
@@ -1700,9 +1700,9 @@
         "repo": "leap.nvim"
       },
       "branch": "main",
-      "revision": "1a10dd0d0c4b364e93c87531ebb79009ee9dbe1c",
-      "url": "https://github.com/ggandor/leap.nvim/archive/1a10dd0d0c4b364e93c87531ebb79009ee9dbe1c.tar.gz",
-      "hash": "0y1ikw3gzkcb4m491w5ninz9jsv3aswvs8bg94si5xq3zyry8yfr"
+      "revision": "2d30f3028d6c2bc7ecd431e8d90e33d575196ba4",
+      "url": "https://github.com/ggandor/leap.nvim/archive/2d30f3028d6c2bc7ecd431e8d90e33d575196ba4.tar.gz",
+      "hash": "05y5g2qzsv182x9kwh0ldh81dl118sny2lzc6r2h731z4zf18z3k"
     },
     "lightline-vim": {
       "type": "Git",
