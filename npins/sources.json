@@ -1580,9 +1580,9 @@
         "repo": "inc-rename.nvim"
       },
       "branch": "main",
-      "revision": "4d00cd5029e99f176128bc37ef245e2dd348191d",
-      "url": "https://github.com/smjonas/inc-rename.nvim/archive/4d00cd5029e99f176128bc37ef245e2dd348191d.tar.gz",
-      "hash": "0p06dyg7v6476gyzpbwbd0d3gsfcvcmsjnzywcpnk8h9b7xa4jp3"
+      "revision": "e510160beefa9806751d883a5945c4fe6520b633",
+      "url": "https://github.com/smjonas/inc-rename.nvim/archive/e510160beefa9806751d883a5945c4fe6520b633.tar.gz",
+      "hash": "0lczdzkqkbsjhadvxrmqj0rhzksk4212zljv36a9bzp0jh49dv4i"
     },
     "indent-blankline-nvim": {
       "type": "Git",
@@ -2935,9 +2935,9 @@
         "repo": "overseer.nvim"
       },
       "branch": "master",
-      "revision": "2a2b6fe1e04dec2c2e5b6b4deec2894153002778",
-      "url": "https://github.com/stevearc/overseer.nvim/archive/2a2b6fe1e04dec2c2e5b6b4deec2894153002778.tar.gz",
-      "hash": "1aa9dsv2rxglpk100aajnk69qldf1mb06q3giqshpnmfhv3ghhd0"
+      "revision": "35b729b746a4d65c83efee5b5643f07c2c1105d2",
+      "url": "https://github.com/stevearc/overseer.nvim/archive/35b729b746a4d65c83efee5b5643f07c2c1105d2.tar.gz",
+      "hash": "06168r8iq0qpgvawp6595h02wc6bqkiy2f4dcrh35r8kvrf5cdlm"
     },
     "oxocarbon-nvim": {
       "type": "Git",
