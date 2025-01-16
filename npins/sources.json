@@ -2923,9 +2923,9 @@
         "repo": "orgmode"
       },
       "branch": "master",
-      "revision": "034a5e7abf826775873ae887ebc3e3ed2c29d1c4",
-      "url": "https://github.com/nvim-orgmode/orgmode/archive/034a5e7abf826775873ae887ebc3e3ed2c29d1c4.tar.gz",
-      "hash": "0gq8qwg65nrjb6fa0b65ls04cpfc6wmpz3arwk6kzjdp9ib29678"
+      "revision": "cbd484d7f5fbe3c311b535cdbde48a8aefdb51d5",
+      "url": "https://github.com/nvim-orgmode/orgmode/archive/cbd484d7f5fbe3c311b535cdbde48a8aefdb51d5.tar.gz",
+      "hash": "180f2jb223rlxg0y01k5w83z2zgpj1dmkr7q45gw0qpq7jqqx4lz"
     },
     "overseer-nvim": {
       "type": "Git",
@@ -4183,9 +4183,9 @@
         "repo": "wrapping.nvim"
       },
       "branch": "master",
-      "revision": "a5210c29be19ed736eb3333677e08a57efebce78",
-      "url": "https://github.com/andrewferrier/wrapping.nvim/archive/a5210c29be19ed736eb3333677e08a57efebce78.tar.gz",
-      "hash": "02fvg2rrbklr3dns2x726icgv6ilmdwkz25q4nf9mnwr4bbrd212"
+      "revision": "f26fdeabd17cf1bf5197badbdadc2e2f08b6ab0f",
+      "url": "https://github.com/andrewferrier/wrapping.nvim/archive/f26fdeabd17cf1bf5197badbdadc2e2f08b6ab0f.tar.gz",
+      "hash": "1krpbw8bh8nwrk0haf63kd9i5v5zp5x1qs26s3z23nay0xrvrcys"
     },
     "wtf-nvim": {
       "type": "Git",
