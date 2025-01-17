@@ -1112,9 +1112,9 @@
         "repo": "dropbar.nvim"
       },
       "branch": "master",
-      "revision": "d1d17ba23324496ef6b9385d9a6b034fd5131d20",
-      "url": "https://github.com/Bekaboo/dropbar.nvim/archive/d1d17ba23324496ef6b9385d9a6b034fd5131d20.tar.gz",
-      "hash": "061k00qs46ip5nap4zwnw26kjpp72qzrzma4xn1w6msngf78v9xx"
+      "revision": "0a37764d845f847af16f2074aa893273088a205c",
+      "url": "https://github.com/Bekaboo/dropbar.nvim/archive/0a37764d845f847af16f2074aa893273088a205c.tar.gz",
+      "hash": "0ba7h4b9w80ff5py13kgjjs0a888cim30kc7s0lrawsybxrs35lz"
     },
     "earthly-vim": {
       "type": "Git",
