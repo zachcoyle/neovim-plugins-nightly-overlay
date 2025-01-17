@@ -1112,9 +1112,9 @@
         "repo": "dropbar.nvim"
       },
       "branch": "master",
-      "revision": "0a37764d845f847af16f2074aa893273088a205c",
-      "url": "https://github.com/Bekaboo/dropbar.nvim/archive/0a37764d845f847af16f2074aa893273088a205c.tar.gz",
-      "hash": "0ba7h4b9w80ff5py13kgjjs0a888cim30kc7s0lrawsybxrs35lz"
+      "revision": "415701dbada9f3278652ad6fd1ed4e1c3506e0ca",
+      "url": "https://github.com/Bekaboo/dropbar.nvim/archive/415701dbada9f3278652ad6fd1ed4e1c3506e0ca.tar.gz",
+      "hash": "10crppfnnvdw5kjcl7xpk3afvr4pj9ip0lpvk4pn2wq1b4j0qap7"
     },
     "earthly-vim": {
       "type": "Git",
@@ -1268,9 +1268,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "39de20b42285c6a96a47e92703b2dacc55da835f",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/39de20b42285c6a96a47e92703b2dacc55da835f.tar.gz",
-      "hash": "02pz8ks43lhc8i4d08lrmfba24mq5fygf837rfql09fpmj28vxfs"
+      "revision": "fbe21aeb147b3dc8b188b5753a8e288ecedcee5e",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/fbe21aeb147b3dc8b188b5753a8e288ecedcee5e.tar.gz",
+      "hash": "1wiwq9h0m4rzcc5h2wqxa4gqiw9xrxlggvcasacy9bq89c6l11yh"
     },
     "galaxyline-nvim": {
       "type": "Git",
@@ -1364,9 +1364,9 @@
         "repo": "gitsigns.nvim"
       },
       "branch": "main",
-      "revision": "0797734e2bf229cc67b05e82a17e22a18f191913",
-      "url": "https://github.com/lewis6991/gitsigns.nvim/archive/0797734e2bf229cc67b05e82a17e22a18f191913.tar.gz",
-      "hash": "16dvg9v63ll6w2r59a7rc1whc3fp1cl9sylvai980znr6rmb1s7l"
+      "revision": "817bd848fffe82e697b4da656e3f2834cd0665c5",
+      "url": "https://github.com/lewis6991/gitsigns.nvim/archive/817bd848fffe82e697b4da656e3f2834cd0665c5.tar.gz",
+      "hash": "085d953zlaxxmv1rymmbbnclgvmccx6hzrv3amp6n5g1nh3zpp9w"
     },
     "glow-nvim": {
       "type": "Git",
@@ -2551,9 +2551,9 @@
         "repo": "nvim-jdtls"
       },
       "branch": "master",
-      "revision": "4871a4ba195317bab0aea7f501a99c474b02d195",
-      "url": "https://github.com/mfussenegger/nvim-jdtls/archive/4871a4ba195317bab0aea7f501a99c474b02d195.tar.gz",
-      "hash": "1mydc838rbb8yl5f5bwp0qz2lslfk3gb21xwrdfjxnnm2c304z6j"
+      "revision": "5b079475890a2a9ff45c850b428357cc89c95278",
+      "url": "https://github.com/mfussenegger/nvim-jdtls/archive/5b079475890a2a9ff45c850b428357cc89c95278.tar.gz",
+      "hash": "1nf4mf9fjlq834kq4sy7m7yc80xk6yjmvz2skxrkz3rms32hrxkq"
     },
     "nvim-lastplace": {
       "type": "Git",
