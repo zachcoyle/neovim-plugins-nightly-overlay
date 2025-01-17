@@ -1700,9 +1700,9 @@
         "repo": "leap.nvim"
       },
       "branch": "main",
-      "revision": "50045fa88aebffaf862150fac40168135e21e03e",
-      "url": "https://github.com/ggandor/leap.nvim/archive/50045fa88aebffaf862150fac40168135e21e03e.tar.gz",
-      "hash": "0xf06nl5b1wvmn24vfy1maiddnf44bcgr07129qgphvlx25h4w96"
+      "revision": "67d26a13cfbf558450955ee9c76e78e03d13ee9e",
+      "url": "https://github.com/ggandor/leap.nvim/archive/67d26a13cfbf558450955ee9c76e78e03d13ee9e.tar.gz",
+      "hash": "15b7d28zz491lymiv8gd4x1gnl3jg8sp2fqcf1qn47x7ima2n15d"
     },
     "lightline-vim": {
       "type": "Git",
@@ -2395,9 +2395,9 @@
         "repo": "none-ls.nvim"
       },
       "branch": "main",
-      "revision": "3291afdff94e5083c7d6a4e9e661c3682c4b9b2a",
-      "url": "https://github.com/nvimtools/none-ls.nvim/archive/3291afdff94e5083c7d6a4e9e661c3682c4b9b2a.tar.gz",
-      "hash": "1vxwg1nbqf1gi2knzd51k7590dkh9wxjgvrv0gzn1vav9j7adcz6"
+      "revision": "af318216b744f2fe2d5afa6febb01f455ae61d6c",
+      "url": "https://github.com/nvimtools/none-ls.nvim/archive/af318216b744f2fe2d5afa6febb01f455ae61d6c.tar.gz",
+      "hash": "1s2jb7labf5h88pvl33882b0j8pij1qaba4wa3qi4qay3rgachlp"
     },
     "nord-nvim": {
       "type": "Git",
@@ -2767,9 +2767,9 @@
         "repo": "nvim-treesitter-context"
       },
       "branch": "master",
-      "revision": "d0dd7ce5a9d0be1f28086e818e52fdc5c78975df",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter-context/archive/d0dd7ce5a9d0be1f28086e818e52fdc5c78975df.tar.gz",
-      "hash": "03cb3iv21gi48kl6snic70qi6mp8q4ppbf97bc2ns2dymh085qjy"
+      "revision": "bece284c5322ddf6946fa4bdc383a2bc033269d7",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter-context/archive/bece284c5322ddf6946fa4bdc383a2bc033269d7.tar.gz",
+      "hash": "00xslyvgndp37f54lafqw115crccasfgqf4hq8x5g6y0blnc95sv"
     },
     "nvim-treesitter-refactor": {
       "type": "Git",
@@ -4207,9 +4207,9 @@
         "repo": "yanky.nvim"
       },
       "branch": "main",
-      "revision": "f9b905994cccf3c55f41af3a0a1f4c76c844e411",
-      "url": "https://github.com/gbprod/yanky.nvim/archive/f9b905994cccf3c55f41af3a0a1f4c76c844e411.tar.gz",
-      "hash": "1dvsl6wd6m4gygn32rcmz95hzklknwp4s3s9iyp0ac48q8z8kp73"
+      "revision": "d2696b30e389dced94d5acab728f524a25f308d2",
+      "url": "https://github.com/gbprod/yanky.nvim/archive/d2696b30e389dced94d5acab728f524a25f308d2.tar.gz",
+      "hash": "1i96w32wi7s0nnjmyrlcvbvz150ph3y51mi0v46d580rmdpj9pqs"
     },
     "yazi-nvim": {
       "type": "Git",
