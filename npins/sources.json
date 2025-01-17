@@ -2923,9 +2923,9 @@
         "repo": "orgmode"
       },
       "branch": "master",
-      "revision": "b1922c62640a69483f130fcfb47a27582b6dfd78",
-      "url": "https://github.com/nvim-orgmode/orgmode/archive/b1922c62640a69483f130fcfb47a27582b6dfd78.tar.gz",
-      "hash": "1a1ij93nnqbzxr21cq1byjd6fky5a1lw47p7pdp05f80ssi23icn"
+      "revision": "4dcba706caa203181d173574a767e8ffafec345e",
+      "url": "https://github.com/nvim-orgmode/orgmode/archive/4dcba706caa203181d173574a767e8ffafec345e.tar.gz",
+      "hash": "0hwwsyxyj6wa1vb3h7l17zchdss55s4n2x80im7d49qqxjan62r9"
     },
     "overseer-nvim": {
       "type": "Git",
@@ -4123,9 +4123,9 @@
         "repo": "vimtex"
       },
       "branch": "master",
-      "revision": "c8412f444bfaf447981242d685c40e45b1c96b82",
-      "url": "https://github.com/lervag/vimtex/archive/c8412f444bfaf447981242d685c40e45b1c96b82.tar.gz",
-      "hash": "0162kb67fx8hn6mvfzqv816ysh6nhxgkgwcsbakwk4lgarzmw8n2"
+      "revision": "fa9f488ebf3abbfd2bef508e93a24b24aff90ef3",
+      "url": "https://github.com/lervag/vimtex/archive/fa9f488ebf3abbfd2bef508e93a24b24aff90ef3.tar.gz",
+      "hash": "1lkm82szhkprlri0amnvp2wfim4c9jhvs4yvb26in9mxvfw2frw3"
     },
     "virt-column-nvim": {
       "type": "Git",
