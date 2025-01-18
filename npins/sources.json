@@ -1112,9 +1112,9 @@
         "repo": "dropbar.nvim"
       },
       "branch": "master",
-      "revision": "977117d790849869e5f998a66916bdb606802a13",
-      "url": "https://github.com/Bekaboo/dropbar.nvim/archive/977117d790849869e5f998a66916bdb606802a13.tar.gz",
-      "hash": "0wy8bbkxa85bvnwg0zph9n2glw16cf2jgz03rj36930842mvgdm4"
+      "revision": "d2792fc7c163722b7d3607c9ad3aeb7192e009e4",
+      "url": "https://github.com/Bekaboo/dropbar.nvim/archive/d2792fc7c163722b7d3607c9ad3aeb7192e009e4.tar.gz",
+      "hash": "0j31piszl3rp87jm2hxkzm2yxi2m11666804bjff5gz2v20sgibs"
     },
     "earthly-vim": {
       "type": "Git",
@@ -1975,9 +1975,9 @@
         "repo": "neo-tree.nvim"
       },
       "branch": "main",
-      "revision": "83222b30a1f35ab90ccb8ae87a835301f438816f",
-      "url": "https://github.com/nvim-neo-tree/neo-tree.nvim/archive/83222b30a1f35ab90ccb8ae87a835301f438816f.tar.gz",
-      "hash": "0k47wadfhfs55r17vwgadaxmhr47dwy5n0frbz52p0nk4j5jpgb2"
+      "revision": "891e3af1a2c913917405cbba89c3f58f0ca0ecfa",
+      "url": "https://github.com/nvim-neo-tree/neo-tree.nvim/archive/891e3af1a2c913917405cbba89c3f58f0ca0ecfa.tar.gz",
+      "hash": "1zzsw0yakr0dai0vqh9xpb9say6rkg7x96ghk30w793ij2zvjrsp"
     },
     "neocord": {
       "type": "Git",
@@ -2599,9 +2599,9 @@
         "repo": "nvim-lspconfig"
       },
       "branch": "master",
-      "revision": "339ccc81e08793c3af9b83882a6ebd90c9cc0d3b",
-      "url": "https://github.com/neovim/nvim-lspconfig/archive/339ccc81e08793c3af9b83882a6ebd90c9cc0d3b.tar.gz",
-      "hash": "0im8xi5rfibkdpdp3dkv4bb13v3wcv493k5rrrrnqaqvvhnnx5vk"
+      "revision": "14b5a806c928390fac9ff4a5630d20eb902afad8",
+      "url": "https://github.com/neovim/nvim-lspconfig/archive/14b5a806c928390fac9ff4a5630d20eb902afad8.tar.gz",
+      "hash": "0azb8qc6pg8j59jrh1ywplii11y0qlbls4x16zmawx2ngqipr7vg"
     },
     "nvim-navbuddy": {
       "type": "Git",
