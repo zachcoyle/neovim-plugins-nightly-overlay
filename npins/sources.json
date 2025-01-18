@@ -1975,9 +1975,9 @@
         "repo": "neo-tree.nvim"
       },
       "branch": "main",
-      "revision": "d175a0ce24bcb022ec1c93635841c043d764418e",
-      "url": "https://github.com/nvim-neo-tree/neo-tree.nvim/archive/d175a0ce24bcb022ec1c93635841c043d764418e.tar.gz",
-      "hash": "07z5z4i5whscbqh03fd6nkkki4zyw0kdlhf53q0hp2j2hvrymyig"
+      "revision": "1f2753e7ce38e47eef960a8a9f5f8f3215ec2b05",
+      "url": "https://github.com/nvim-neo-tree/neo-tree.nvim/archive/1f2753e7ce38e47eef960a8a9f5f8f3215ec2b05.tar.gz",
+      "hash": "1sjkk38l38wrbzds20l3iww06yyyhixr2bjqbmdsmnvsyq7drscc"
     },
     "neocord": {
       "type": "Git",
