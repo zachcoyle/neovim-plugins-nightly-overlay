@@ -1688,9 +1688,9 @@
         "repo": "lean.nvim"
       },
       "branch": "main",
-      "revision": "76c11ed10109677b6b32bfd7f6a8974c5f5e8b5f",
-      "url": "https://github.com/Julian/lean.nvim/archive/76c11ed10109677b6b32bfd7f6a8974c5f5e8b5f.tar.gz",
-      "hash": "1wrdhdpfmq1430wlvn8ks7gz5xn2i9lsih7kksavw0pqvgbiijxr"
+      "revision": "cffe4075a36ed9f0b5444e5b491e9cc0e8899d69",
+      "url": "https://github.com/Julian/lean.nvim/archive/cffe4075a36ed9f0b5444e5b491e9cc0e8899d69.tar.gz",
+      "hash": "0p6nfpv3kns53gqi5yaj16xq79ws2di2xwcb7crqy0sp24bppil3"
     },
     "leap-nvim": {
       "type": "Git",
@@ -2743,9 +2743,9 @@
         "repo": "nvim-tree.lua"
       },
       "branch": "master",
-      "revision": "d529a99f88e0dff02e0aa275db2f595cd252a2c8",
-      "url": "https://github.com/nvim-tree/nvim-tree.lua/archive/d529a99f88e0dff02e0aa275db2f595cd252a2c8.tar.gz",
-      "hash": "0h572jksbazj6g1882v5plqp5x43lms0qfhn2wp7cs2rx5n2jyyz"
+      "revision": "fca0b67c0b5a31727fb33addc4d9c100736a2894",
+      "url": "https://github.com/nvim-tree/nvim-tree.lua/archive/fca0b67c0b5a31727fb33addc4d9c100736a2894.tar.gz",
+      "hash": "0sjj89a7hnpn0xqavi5b59y971i8igl4nfw6rf5dcbqchqw0xikg"
     },
     "nvim-treesitter": {
       "type": "Git",
