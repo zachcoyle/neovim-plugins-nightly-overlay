@@ -1268,9 +1268,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "fbe21aeb147b3dc8b188b5753a8e288ecedcee5e",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/fbe21aeb147b3dc8b188b5753a8e288ecedcee5e.tar.gz",
-      "hash": "1wiwq9h0m4rzcc5h2wqxa4gqiw9xrxlggvcasacy9bq89c6l11yh"
+      "revision": "a534583995c6e521c55793d2cd11e5a4330a5d0a",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/a534583995c6e521c55793d2cd11e5a4330a5d0a.tar.gz",
+      "hash": "0v3z6xyxfy7gwbhpagsqhh4dy10d2z6b7qdilkbba29ygs2p7cg1"
     },
     "galaxyline-nvim": {
       "type": "Git",
@@ -1688,9 +1688,9 @@
         "repo": "lean.nvim"
       },
       "branch": "main",
-      "revision": "cffe4075a36ed9f0b5444e5b491e9cc0e8899d69",
-      "url": "https://github.com/Julian/lean.nvim/archive/cffe4075a36ed9f0b5444e5b491e9cc0e8899d69.tar.gz",
-      "hash": "0p6nfpv3kns53gqi5yaj16xq79ws2di2xwcb7crqy0sp24bppil3"
+      "revision": "27bfc20b0b53cade52bdd8fd2553a710f55c3afc",
+      "url": "https://github.com/Julian/lean.nvim/archive/27bfc20b0b53cade52bdd8fd2553a710f55c3afc.tar.gz",
+      "hash": "1bkh4h3j20gca386n22kcgs0ja196b84w5f90cz3s065cmbfsxab"
     },
     "leap-nvim": {
       "type": "Git",
@@ -2923,9 +2923,9 @@
         "repo": "orgmode"
       },
       "branch": "master",
-      "revision": "86ed523b92dfadcd53c0cd512d3aeffe05f19fb2",
-      "url": "https://github.com/nvim-orgmode/orgmode/archive/86ed523b92dfadcd53c0cd512d3aeffe05f19fb2.tar.gz",
-      "hash": "0nxgabrlhn9mm24dhgjvk8w9zsx9j24027z8hmv6288ql6byfy1w"
+      "revision": "51ed95f4affe392777c1acb99f054ce7b8130754",
+      "url": "https://github.com/nvim-orgmode/orgmode/archive/51ed95f4affe392777c1acb99f054ce7b8130754.tar.gz",
+      "hash": "11kj464mv281jfvb3y7vxvcq5qgk1vblbx4kvily9sq9c08wk52x"
     },
     "overseer-nvim": {
       "type": "Git",
@@ -4123,9 +4123,9 @@
         "repo": "vimtex"
       },
       "branch": "master",
-      "revision": "fa9f488ebf3abbfd2bef508e93a24b24aff90ef3",
-      "url": "https://github.com/lervag/vimtex/archive/fa9f488ebf3abbfd2bef508e93a24b24aff90ef3.tar.gz",
-      "hash": "1lkm82szhkprlri0amnvp2wfim4c9jhvs4yvb26in9mxvfw2frw3"
+      "revision": "57a03797c16a8a1e6555b6822592f78dc38834a5",
+      "url": "https://github.com/lervag/vimtex/archive/57a03797c16a8a1e6555b6822592f78dc38834a5.tar.gz",
+      "hash": "11pivj37jgc4jsmgv8m2mxnj8h032hbz5ddfarv03qzf030p8n5v"
     },
     "virt-column-nvim": {
       "type": "Git",
