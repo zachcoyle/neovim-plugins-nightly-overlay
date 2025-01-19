@@ -1268,9 +1268,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "a534583995c6e521c55793d2cd11e5a4330a5d0a",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/a534583995c6e521c55793d2cd11e5a4330a5d0a.tar.gz",
-      "hash": "0v3z6xyxfy7gwbhpagsqhh4dy10d2z6b7qdilkbba29ygs2p7cg1"
+      "revision": "be64468b9cf617b8fb1b1185d3e0167105aa6a8f",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/be64468b9cf617b8fb1b1185d3e0167105aa6a8f.tar.gz",
+      "hash": "0sj2s4r6qznhslz0j0hx0kha0isa9x6pgfq95i4xd5q05kzsdab8"
     },
     "galaxyline-nvim": {
       "type": "Git",
@@ -2191,9 +2191,9 @@
         "repo": "neotest-haskell"
       },
       "branch": "master",
-      "revision": "e0410dce283b4c7c8f2aae07fb9cf02caf7d08d0",
-      "url": "https://github.com/mrcjkb/neotest-haskell/archive/e0410dce283b4c7c8f2aae07fb9cf02caf7d08d0.tar.gz",
-      "hash": "02fb5l5l8nvx6aclkpbwb6i1ga7cqzmb9pg4gaypzcqgzs2qk7mm"
+      "revision": "44c485e0f891778f93b0f2c7bef0217b91f1f83f",
+      "url": "https://github.com/mrcjkb/neotest-haskell/archive/44c485e0f891778f93b0f2c7bef0217b91f1f83f.tar.gz",
+      "hash": "1jblvbq2k03aphw5d1ky818kmbzk1jf41s5n1q7mc4vc8r0gsj2y"
     },
     "neotest-java": {
       "type": "Git",
