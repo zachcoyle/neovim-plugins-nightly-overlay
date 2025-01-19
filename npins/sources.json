@@ -116,9 +116,9 @@
         "repo": "avante.nvim"
       },
       "branch": "main",
-      "revision": "122bc3287b973154d64e23ec7187e659fc91c8c8",
-      "url": "https://github.com/yetone/avante.nvim/archive/122bc3287b973154d64e23ec7187e659fc91c8c8.tar.gz",
-      "hash": "0wb19ws14mai5gy1m2p7xqf5w7g621fb6mby7i4hy0fs5hvh6nyj"
+      "revision": "ddd5a6e691911bce8c23f0a8e4deb946955d0a6d",
+      "url": "https://github.com/yetone/avante.nvim/archive/ddd5a6e691911bce8c23f0a8e4deb946955d0a6d.tar.gz",
+      "hash": "1c760yryz0mxi1x0hch69p79kly88l6gncdxnln64vqvpq0ghydn"
     },
     "baleia-nvim": {
       "type": "Git",
@@ -2131,9 +2131,9 @@
         "repo": "neotest-elixir"
       },
       "branch": "master",
-      "revision": "c5067bcc3ec6a0bba7b5694fa15aeb17f16aeb3c",
-      "url": "https://github.com/jfpedroza/neotest-elixir/archive/c5067bcc3ec6a0bba7b5694fa15aeb17f16aeb3c.tar.gz",
-      "hash": "0ld08afx7rhrji9l3jyip86hdwrkmfx9ngchcvklk9a07fx4yr4c"
+      "revision": "a242aebeaa6997c1c149138ff77f6cacbe33b6fc",
+      "url": "https://github.com/jfpedroza/neotest-elixir/archive/a242aebeaa6997c1c149138ff77f6cacbe33b6fc.tar.gz",
+      "hash": "0dfz6x0yc9pd8z2irc3dwbvd64zs35rwnllbdp88c6k4fnkyjjr1"
     },
     "neotest-foundry": {
       "type": "Git",
