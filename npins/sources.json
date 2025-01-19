@@ -1040,9 +1040,9 @@
         "repo": "dashboard-nvim"
       },
       "branch": "master",
-      "revision": "2f641b07a6bc03299c454f7e14177c52ce01a093",
-      "url": "https://github.com/nvimdev/dashboard-nvim/archive/2f641b07a6bc03299c454f7e14177c52ce01a093.tar.gz",
-      "hash": "0dpi1k3sk2zvgrv0d2azsrxlym0r36a3svzxwhl0mfxbsnwkhjbi"
+      "revision": "4bad0f5608b7305091e5baab2dda0b988729692e",
+      "url": "https://github.com/nvimdev/dashboard-nvim/archive/4bad0f5608b7305091e5baab2dda0b988729692e.tar.gz",
+      "hash": "1cmai7z99x804lkb5c7kiaw1gzgvxznq227fr93ag18rrb620z4g"
     },
     "debugprint-nvim": {
       "type": "Git",
@@ -2755,9 +2755,9 @@
         "repo": "nvim-treesitter"
       },
       "branch": "master",
-      "revision": "5da195ac3dfafd08d8b10756d975f0e01e1d563a",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/5da195ac3dfafd08d8b10756d975f0e01e1d563a.tar.gz",
-      "hash": "1c89dah7kcsg4ksff7j4rwz71ivqx4kf31dc19qpk4wj3q5157rj"
+      "revision": "4423f3053964461656c7432fd33f205ef88a6168",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/4423f3053964461656c7432fd33f205ef88a6168.tar.gz",
+      "hash": "0n349l4k3bivcnaq60clzsyhiy19j1bqn1f22jkcdyd4h6abjs2l"
     },
     "nvim-treesitter-context": {
       "type": "Git",
