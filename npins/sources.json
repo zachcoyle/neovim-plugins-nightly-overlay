@@ -1112,9 +1112,9 @@
         "repo": "dropbar.nvim"
       },
       "branch": "master",
-      "revision": "289c4c3283656a4f9fa837a881476fc6b8fd5b8d",
-      "url": "https://github.com/Bekaboo/dropbar.nvim/archive/289c4c3283656a4f9fa837a881476fc6b8fd5b8d.tar.gz",
-      "hash": "0gl2xv2yg19zs7npa70j37iv3hvyjgfzscwn556pl24dxkczik0l"
+      "revision": "64c4a990697c262a69b0386dd293d938bb9693a3",
+      "url": "https://github.com/Bekaboo/dropbar.nvim/archive/64c4a990697c262a69b0386dd293d938bb9693a3.tar.gz",
+      "hash": "1gn6mrvzwp03pwdz25mairxah71sq4pwc8l84zziz0127w1pfmj4"
     },
     "earthly-vim": {
       "type": "Git",
@@ -2923,9 +2923,9 @@
         "repo": "orgmode"
       },
       "branch": "master",
-      "revision": "3ba6db78601a82732c71e02e6e96e34da5d3827e",
-      "url": "https://github.com/nvim-orgmode/orgmode/archive/3ba6db78601a82732c71e02e6e96e34da5d3827e.tar.gz",
-      "hash": "0irglq82p6n4fbrpmvhs88nlmclrmhm1lq7jw04akli15v0xmfbd"
+      "revision": "adfce49601ba27ff953f9c6354665fbc12a3b256",
+      "url": "https://github.com/nvim-orgmode/orgmode/archive/adfce49601ba27ff953f9c6354665fbc12a3b256.tar.gz",
+      "hash": "1iyk30c4hhs8jnkvjc57yb0is3x01a8km41qy5bg192svhzhrc86"
     },
     "overseer-nvim": {
       "type": "Git",
