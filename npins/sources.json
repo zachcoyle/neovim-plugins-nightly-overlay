@@ -1004,9 +1004,9 @@
         "repo": "coq_nvim"
       },
       "branch": "coq",
-      "revision": "5f7de592c0ed2fb79a90bce26bf5d33c238b6ff7",
-      "url": "https://github.com/ms-jpq/coq_nvim/archive/5f7de592c0ed2fb79a90bce26bf5d33c238b6ff7.tar.gz",
-      "hash": "1s5qaa8365q2qhrmfz1p7ak65gdvmw1li3dd502s2f3z90naqr26"
+      "revision": "df646c5d39a949009d9109c1a2ec2725819726ff",
+      "url": "https://github.com/ms-jpq/coq_nvim/archive/df646c5d39a949009d9109c1a2ec2725819726ff.tar.gz",
+      "hash": "1xcnbiq37sg1ipv5kjw61yli8qj5adzf0fqbhqsdvlxmfplwvv8k"
     },
     "crates-nvim": {
       "type": "Git",
@@ -1364,9 +1364,9 @@
         "repo": "gitsigns.nvim"
       },
       "branch": "main",
-      "revision": "abc6dec92232944108250e321858014bf79de245",
-      "url": "https://github.com/lewis6991/gitsigns.nvim/archive/abc6dec92232944108250e321858014bf79de245.tar.gz",
-      "hash": "059s26azkgr8pqmcvla95a9j5xvp8dirnn14clhin6jnf9n88dfw"
+      "revision": "f41b934e70e2ae9b0a7a3cb1a5a7d172a4d8f1fd",
+      "url": "https://github.com/lewis6991/gitsigns.nvim/archive/f41b934e70e2ae9b0a7a3cb1a5a7d172a4d8f1fd.tar.gz",
+      "hash": "0jdprkprwvd6nnvhg7m5pl4wi6sw028vsa6jdz1x8l7y8chm6l28"
     },
     "glow-nvim": {
       "type": "Git",
