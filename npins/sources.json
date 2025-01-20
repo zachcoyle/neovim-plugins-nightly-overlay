@@ -1268,9 +1268,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "8664fb73db054edd2f528604201eca77b69734ae",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/8664fb73db054edd2f528604201eca77b69734ae.tar.gz",
-      "hash": "103bsy76b98m9zsh75d8k2m0syngyd1vvs8m49xfzcvf0pwib1b1"
+      "revision": "09762901d4b99cb297b67cb04c4639ae13c90305",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/09762901d4b99cb297b67cb04c4639ae13c90305.tar.gz",
+      "hash": "13q77b2dpb94ha7m11xkbn5bswxbn2zka67qc3naz0z4kax8zzwa"
     },
     "galaxyline-nvim": {
       "type": "Git",
@@ -2491,9 +2491,9 @@
         "repo": "nvim-colorizer.lua"
       },
       "branch": "master",
-      "revision": "174a5379f594dbdb53328a6a50b52f90e2205f37",
-      "url": "https://github.com/NvChad/nvim-colorizer.lua/archive/174a5379f594dbdb53328a6a50b52f90e2205f37.tar.gz",
-      "hash": "18m39z2iyp0cwbfzf17i9rg13sqn4xfyvhs3wnzq4flckcsaby38"
+      "revision": "ed12b5379ff203d0a15f01d71a64848b591e4adc",
+      "url": "https://github.com/NvChad/nvim-colorizer.lua/archive/ed12b5379ff203d0a15f01d71a64848b591e4adc.tar.gz",
+      "hash": "0hvgja3lim47vl49jh618bz7kahla1aa9y7fmfr1ki0z9vx474w3"
     },
     "nvim-coverage": {
       "type": "Git",
