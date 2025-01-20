@@ -1112,9 +1112,9 @@
         "repo": "dropbar.nvim"
       },
       "branch": "master",
-      "revision": "3312fb14832f26ce4ad185d727cd542454429863",
-      "url": "https://github.com/Bekaboo/dropbar.nvim/archive/3312fb14832f26ce4ad185d727cd542454429863.tar.gz",
-      "hash": "0lxanw7nmzd71mxdsx54413b4fqknrr5j254fm0lasm2imyrx8qk"
+      "revision": "f6ff3785fbcf856c5b828ac1ac849172a8e6142a",
+      "url": "https://github.com/Bekaboo/dropbar.nvim/archive/f6ff3785fbcf856c5b828ac1ac849172a8e6142a.tar.gz",
+      "hash": "02r71rqgb9mk2z712mi31k29405f7j82rwv9dynv9mkqjc4icmhf"
     },
     "earthly-vim": {
       "type": "Git",
@@ -2755,9 +2755,9 @@
         "repo": "nvim-treesitter"
       },
       "branch": "master",
-      "revision": "47b333e63df78e09faec6e1f69914ef6aa0a2743",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/47b333e63df78e09faec6e1f69914ef6aa0a2743.tar.gz",
-      "hash": "0dkaang45y0dz4pz82lic5s0fq0whr0wkvhlzz0l0b9k48kjvyv9"
+      "revision": "0fb02ac5c39423b5c863eb7c8dd7b093879f1488",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/0fb02ac5c39423b5c863eb7c8dd7b093879f1488.tar.gz",
+      "hash": "0m92jg1sbfhrxay30p36w7xfvz3f535mhdf6105r6m8ppsvh6lha"
     },
     "nvim-treesitter-context": {
       "type": "Git",
