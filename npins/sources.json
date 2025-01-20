@@ -1688,9 +1688,9 @@
         "repo": "lean.nvim"
       },
       "branch": "main",
-      "revision": "27bfc20b0b53cade52bdd8fd2553a710f55c3afc",
-      "url": "https://github.com/Julian/lean.nvim/archive/27bfc20b0b53cade52bdd8fd2553a710f55c3afc.tar.gz",
-      "hash": "1bkh4h3j20gca386n22kcgs0ja196b84w5f90cz3s065cmbfsxab"
+      "revision": "46012b9288b50de664f5cf5a038a8771ae3d7b34",
+      "url": "https://github.com/Julian/lean.nvim/archive/46012b9288b50de664f5cf5a038a8771ae3d7b34.tar.gz",
+      "hash": "1dqldkf0633y0q0izqrl5aa6gry9hr67hscaqcs8k7ps9dj47a87"
     },
     "leap-nvim": {
       "type": "Git",
@@ -1975,9 +1975,9 @@
         "repo": "neo-tree.nvim"
       },
       "branch": "main",
-      "revision": "1f2753e7ce38e47eef960a8a9f5f8f3215ec2b05",
-      "url": "https://github.com/nvim-neo-tree/neo-tree.nvim/archive/1f2753e7ce38e47eef960a8a9f5f8f3215ec2b05.tar.gz",
-      "hash": "1sjkk38l38wrbzds20l3iww06yyyhixr2bjqbmdsmnvsyq7drscc"
+      "revision": "27abb114bcd7e9afec6fb15001b55c9cdb6c74a6",
+      "url": "https://github.com/nvim-neo-tree/neo-tree.nvim/archive/27abb114bcd7e9afec6fb15001b55c9cdb6c74a6.tar.gz",
+      "hash": "0b78qpydiycvf5jp6kb89972w5zb3qccs58mvkf45r6fkm8z74rq"
     },
     "neocord": {
       "type": "Git",
@@ -2647,9 +2647,9 @@
         "repo": "nvim-notify"
       },
       "branch": "master",
-      "revision": "a3020c2cf4dfc4c4f390c4a21e84e35e46cf5d17",
-      "url": "https://github.com/rcarriga/nvim-notify/archive/a3020c2cf4dfc4c4f390c4a21e84e35e46cf5d17.tar.gz",
-      "hash": "0841kdr25cmi3n0binxpgsa9z1spknn2diijl0b3qv4q4h8y7q8b"
+      "revision": "22f29093eae7785773ee9d543f8750348b1a195c",
+      "url": "https://github.com/rcarriga/nvim-notify/archive/22f29093eae7785773ee9d543f8750348b1a195c.tar.gz",
+      "hash": "0nnxmi65ppmn8dzwh38vx2w7w6piq0i28mw0s32wa31xn5rmzwza"
     },
     "nvim-osc52": {
       "type": "Git",
@@ -2671,9 +2671,9 @@
         "repo": "nvim-scrollview"
       },
       "branch": "main",
-      "revision": "b4cfec67117c93d7832c1fda33273f2b8af7d903",
-      "url": "https://github.com/dstein64/nvim-scrollview/archive/b4cfec67117c93d7832c1fda33273f2b8af7d903.tar.gz",
-      "hash": "1wqkmlkrx7l36rq8yl4ifb5sxkdm98whjy4q40ckvj6c57fybniz"
+      "revision": "95708259047a0a328402290e782df20f14c75902",
+      "url": "https://github.com/dstein64/nvim-scrollview/archive/95708259047a0a328402290e782df20f14c75902.tar.gz",
+      "hash": "0b4p19qymrrs32bbs6iyjgraby334fy587ypq7jjmjz9cm476039"
     },
     "nvim-snippets": {
       "type": "Git",
