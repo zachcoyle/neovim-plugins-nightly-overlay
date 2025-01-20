@@ -1364,9 +1364,9 @@
         "repo": "gitsigns.nvim"
       },
       "branch": "main",
-      "revision": "2e85a2a9ec9a5c3a2acfe2ec6c3a5bef2fe0e5c4",
-      "url": "https://github.com/lewis6991/gitsigns.nvim/archive/2e85a2a9ec9a5c3a2acfe2ec6c3a5bef2fe0e5c4.tar.gz",
-      "hash": "05y9wk7js9fagwqk0ra8z3diad5nb02j1a0s2mv8zzia4qw84w6g"
+      "revision": "abc6dec92232944108250e321858014bf79de245",
+      "url": "https://github.com/lewis6991/gitsigns.nvim/archive/abc6dec92232944108250e321858014bf79de245.tar.gz",
+      "hash": "059s26azkgr8pqmcvla95a9j5xvp8dirnn14clhin6jnf9n88dfw"
     },
     "glow-nvim": {
       "type": "Git",
@@ -1592,9 +1592,9 @@
         "repo": "indent-blankline.nvim"
       },
       "branch": "master",
-      "revision": "7a698a1d7ed755af9f5a88733b23ca246ce2df28",
-      "url": "https://github.com/lukas-reineke/indent-blankline.nvim/archive/7a698a1d7ed755af9f5a88733b23ca246ce2df28.tar.gz",
-      "hash": "1dxfp67zzqzxibapacwf5xjwpsgmx15b2v3dm5hc3n7303gqymb3"
+      "revision": "e10626f7fcd51ccd56d7ffc00883ba7e0aa28f78",
+      "url": "https://github.com/lukas-reineke/indent-blankline.nvim/archive/e10626f7fcd51ccd56d7ffc00883ba7e0aa28f78.tar.gz",
+      "hash": "1whsjd715rr59warfy7nmw0hzkxfkxgzx9c8r6k2vka4flifirnk"
     },
     "indent-o-matic": {
       "type": "Git",
