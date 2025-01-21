@@ -1364,9 +1364,9 @@
         "repo": "gitsigns.nvim"
       },
       "branch": "main",
-      "revision": "34df49f22f9152d1b3403eabcbf9943c4b92fc95",
-      "url": "https://github.com/lewis6991/gitsigns.nvim/archive/34df49f22f9152d1b3403eabcbf9943c4b92fc95.tar.gz",
-      "hash": "133r9fvwqajyxsrvzkqq7qzv5p8j2qrkbllkh8iy15a66yw2f78v"
+      "revision": "f9170c3b74d94525201e5a40543d8924a2a883a7",
+      "url": "https://github.com/lewis6991/gitsigns.nvim/archive/f9170c3b74d94525201e5a40543d8924a2a883a7.tar.gz",
+      "hash": "0nigzdb98fzjqyka23mlkn19viy8dx17d1jicls9ihpm47ar2zfg"
     },
     "glow-nvim": {
       "type": "Git",
@@ -2923,9 +2923,9 @@
         "repo": "orgmode"
       },
       "branch": "master",
-      "revision": "6566b69eda61ed5150cdb7508361261049cc292a",
-      "url": "https://github.com/nvim-orgmode/orgmode/archive/6566b69eda61ed5150cdb7508361261049cc292a.tar.gz",
-      "hash": "0d9lmjaq34021xfqblza64ncfyz4krnsk7iblwh3j5na34ayawjb"
+      "revision": "b56ece9fff1a07adefdf7c85fa23bb45f80e89df",
+      "url": "https://github.com/nvim-orgmode/orgmode/archive/b56ece9fff1a07adefdf7c85fa23bb45f80e89df.tar.gz",
+      "hash": "1mh5a5l0miqxfgk2inyy3g86f39rin3fhg06j4slvpcyvqw6w2jf"
     },
     "overseer-nvim": {
       "type": "Git",
