@@ -1268,9 +1268,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "c5df6f2b5b8147d1696a577e46036ea3c06c8657",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/c5df6f2b5b8147d1696a577e46036ea3c06c8657.tar.gz",
-      "hash": "1nhzdi4y69lb54xrpgjivx92f6hbfzsf9jqjj8fz7x6icbjgvd2w"
+      "revision": "d21a3e11216f9f75c7258ed1687d196c76203fe6",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/d21a3e11216f9f75c7258ed1687d196c76203fe6.tar.gz",
+      "hash": "1ddzi7ql50y2l54rf3wqaf855gbrljw8wpcwaqd38xrxac2cci7i"
     },
     "galaxyline-nvim": {
       "type": "Git",
@@ -1364,9 +1364,9 @@
         "repo": "gitsigns.nvim"
       },
       "branch": "main",
-      "revision": "9d803313b7384bd52e0a9ad19307e9ae774fc926",
-      "url": "https://github.com/lewis6991/gitsigns.nvim/archive/9d803313b7384bd52e0a9ad19307e9ae774fc926.tar.gz",
-      "hash": "0nl50g5ysgn2x5ciwy5aj5frwazidkwb670da06wzkcmr6w0yd8x"
+      "revision": "2ff0c29f2a6b1247d96cc59535d53e5589fb50b6",
+      "url": "https://github.com/lewis6991/gitsigns.nvim/archive/2ff0c29f2a6b1247d96cc59535d53e5589fb50b6.tar.gz",
+      "hash": "056c783f2gs4zqmw4razv9sazv1galn3zzfmf3yav5d783s40aj4"
     },
     "glow-nvim": {
       "type": "Git",
@@ -1915,9 +1915,9 @@
         "repo": "mini.nvim"
       },
       "branch": "main",
-      "revision": "fcf982a66df4c9e7ebb31a6a01c604caee2cd488",
-      "url": "https://github.com/echasnovski/mini.nvim/archive/fcf982a66df4c9e7ebb31a6a01c604caee2cd488.tar.gz",
-      "hash": "1x5a17qwmxm3j58j48yglcy04p878pp9vbfh580bqdykd4pmva0p"
+      "revision": "4446e834c30c799627d65691c73d59638e5c965f",
+      "url": "https://github.com/echasnovski/mini.nvim/archive/4446e834c30c799627d65691c73d59638e5c965f.tar.gz",
+      "hash": "1qv83606ld7nx9j6qrjpnxkq61qj1s7g05vzcdvhj9wa6bvfwzsk"
     },
     "mkdnflow-nvim": {
       "type": "Git",
