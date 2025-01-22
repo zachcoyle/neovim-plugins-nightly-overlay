@@ -932,9 +932,9 @@
         "repo": "conform.nvim"
       },
       "branch": "master",
-      "revision": "3c14c39d830cc4146782d6f58112eedb3c39c43a",
-      "url": "https://github.com/stevearc/conform.nvim/archive/3c14c39d830cc4146782d6f58112eedb3c39c43a.tar.gz",
-      "hash": "01nqxpg9lcd1kjaz7y1ybnc8wdfg593ynr9nnsqibadci020zzf5"
+      "revision": "bf94626f32fbc3c9987ce2f4aab60d96866587df",
+      "url": "https://github.com/stevearc/conform.nvim/archive/bf94626f32fbc3c9987ce2f4aab60d96866587df.tar.gz",
+      "hash": "1n184qp6m86zbmxy3h6rd79b8sc8yi34m3mfpbqcx0qdn0wf9hml"
     },
     "conjure": {
       "type": "Git",
@@ -2863,9 +2863,9 @@
         "repo": "octo.nvim"
       },
       "branch": "master",
-      "revision": "f75ec174922e9a3c9c76cbd1cee680daeb65fb39",
-      "url": "https://github.com/pwntester/octo.nvim/archive/f75ec174922e9a3c9c76cbd1cee680daeb65fb39.tar.gz",
-      "hash": "0jnc8ivpgbsd3kr1mkv8kiqgm4sv9pzikkdd87qahnqvqk6fsmyk"
+      "revision": "9f90ec9f14beba9fda92639d913167469056ac79",
+      "url": "https://github.com/pwntester/octo.nvim/archive/9f90ec9f14beba9fda92639d913167469056ac79.tar.gz",
+      "hash": "0682srdc07406lida28fnsa6rl1knqv33ik69dagmi83jhnms939"
     },
     "oil-nvim": {
       "type": "Git",
@@ -2923,9 +2923,9 @@
         "repo": "orgmode"
       },
       "branch": "master",
-      "revision": "e385fcf387276b9752cbf4d6729d1f9de664c85e",
-      "url": "https://github.com/nvim-orgmode/orgmode/archive/e385fcf387276b9752cbf4d6729d1f9de664c85e.tar.gz",
-      "hash": "15bwcqdx5lg56jzpwirm3xxigy8x2dj7xxjb777j0ppgdbbr9lnk"
+      "revision": "62a4106b5072e934062acbd6f4213f89d998cce4",
+      "url": "https://github.com/nvim-orgmode/orgmode/archive/62a4106b5072e934062acbd6f4213f89d998cce4.tar.gz",
+      "hash": "0vxwsppsm52v4v17kwg87k50r3m9jpj6bn1dvq3sxgbgqiqwvnc5"
     },
     "overseer-nvim": {
       "type": "Git",
