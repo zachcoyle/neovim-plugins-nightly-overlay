@@ -2047,9 +2047,9 @@
         "repo": "neorg"
       },
       "branch": "main",
-      "revision": "41aa3800cf5d30a5f90520c2a31b34727b443219",
-      "url": "https://github.com/vhyrro/neorg/archive/41aa3800cf5d30a5f90520c2a31b34727b443219.tar.gz",
-      "hash": "0qhn2vppi0ffdfmx30li6d12lh0s6nnl67d19j6m6l1f7kch4icj"
+      "revision": "d88a9ade8b888723a142e4e6cc7e6bf1dc1eed4f",
+      "url": "https://github.com/vhyrro/neorg/archive/d88a9ade8b888723a142e4e6cc7e6bf1dc1eed4f.tar.gz",
+      "hash": "1dqz87w4zil4847zqsav1n9l5q49khcq7pq2h1npvq9wkwl9fzd2"
     },
     "neoscroll-nvim": {
       "type": "Git",
@@ -2875,9 +2875,9 @@
         "repo": "oil.nvim"
       },
       "branch": "master",
-      "revision": "c80fa5c415b882c1c694a32748cea09b7dafc2c5",
-      "url": "https://github.com/stevearc/oil.nvim/archive/c80fa5c415b882c1c694a32748cea09b7dafc2c5.tar.gz",
-      "hash": "1ai0ml49aszb31lcdg03v9dl4nifgaajwp7mklp5rl1r1mmq3aid"
+      "revision": "1488f0d96b1cb820dd12f05a7bf5283a631a7c4d",
+      "url": "https://github.com/stevearc/oil.nvim/archive/1488f0d96b1cb820dd12f05a7bf5283a631a7c4d.tar.gz",
+      "hash": "1sgim4apbydw27026rx6gbv984gipsf3hlp4vyhx52qy7s8676g4"
     },
     "ollama-nvim": {
       "type": "Git",
