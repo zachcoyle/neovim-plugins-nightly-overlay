@@ -2479,9 +2479,9 @@
         "repo": "nvim-cmp"
       },
       "branch": "main",
-      "revision": "8c82d0bd31299dbff7f8e780f5e06d2283de9678",
-      "url": "https://github.com/hrsh7th/nvim-cmp/archive/8c82d0bd31299dbff7f8e780f5e06d2283de9678.tar.gz",
-      "hash": "0yjll1qz4qbdg28c43lgx307qpfmc0va4pp9wgkp2n8g14rfjraf"
+      "revision": "12509903a5723a876abd65953109f926f4634c30",
+      "url": "https://github.com/hrsh7th/nvim-cmp/archive/12509903a5723a876abd65953109f926f4634c30.tar.gz",
+      "hash": "0a592vvfbyv1y1j9bbiq7wxy0vp63bwngjav0qkm0czdf8y4b3kb"
     },
     "nvim-colorizer-lua": {
       "type": "Git",
@@ -4159,9 +4159,9 @@
         "repo": "which-key.nvim"
       },
       "branch": "main",
-      "revision": "1f8d414f61e0b05958c342df9b6a4c89ce268766",
-      "url": "https://github.com/folke/which-key.nvim/archive/1f8d414f61e0b05958c342df9b6a4c89ce268766.tar.gz",
-      "hash": "02nndwqr49461260shhqy3gm3y69lqqczscpqcssh2jx9mbzhppm"
+      "revision": "6cebd86917df559a88de0f806b2989799c6e6423",
+      "url": "https://github.com/folke/which-key.nvim/archive/6cebd86917df559a88de0f806b2989799c6e6423.tar.gz",
+      "hash": "1w13ajdd18gqikyj04bgxjsxanfjyvvaxvsqxsyq2gchc4fjmsqq"
     },
     "wilder-nvim": {
       "type": "Git",
@@ -4219,9 +4219,9 @@
         "repo": "yazi.nvim"
       },
       "branch": "main",
-      "revision": "a7db0425ca8ebbac6aa0117fd009f7b6e1e260ae",
-      "url": "https://github.com/mikavilpas/yazi.nvim/archive/a7db0425ca8ebbac6aa0117fd009f7b6e1e260ae.tar.gz",
-      "hash": "19rfm017wjqwb48389i6l8vbjcjkas31bhf122ckgb3r4nl5jkr4"
+      "revision": "dbbba7aec994535eb27c7b4953d66f1f23656681",
+      "url": "https://github.com/mikavilpas/yazi.nvim/archive/dbbba7aec994535eb27c7b4953d66f1f23656681.tar.gz",
+      "hash": "0g5shh754jshrdd4swgc57rkhqj5yc76s79rcv6z160ascln54ym"
     },
     "yuck-vim": {
       "type": "Git",
