@@ -1975,9 +1975,9 @@
         "repo": "neo-tree.nvim"
       },
       "branch": "main",
-      "revision": "c2c5f6f6d25eedc96a5f406faa5982d1e90f1104",
-      "url": "https://github.com/nvim-neo-tree/neo-tree.nvim/archive/c2c5f6f6d25eedc96a5f406faa5982d1e90f1104.tar.gz",
-      "hash": "0xz4q0aggmx1shxynmy2lbf1f9vakjdgwlnpmdxamj4j1yd2dq8h"
+      "revision": "7120b20781d9050d6450cbbba0feb625af8e7970",
+      "url": "https://github.com/nvim-neo-tree/neo-tree.nvim/archive/7120b20781d9050d6450cbbba0feb625af8e7970.tar.gz",
+      "hash": "12r5jik9zznn2zs5hkr09rlxfaiinmrjn6m80f6dgy9k98yxyv5n"
     },
     "neocord": {
       "type": "Git",
@@ -3835,9 +3835,9 @@
         "repo": "vim-endwise"
       },
       "branch": "master",
-      "revision": "5ec72eef1a07fb32af9be5402144678f68cb1a7a",
-      "url": "https://github.com/tpope/vim-endwise/archive/5ec72eef1a07fb32af9be5402144678f68cb1a7a.tar.gz",
-      "hash": "09wbf132vd7jsyv6i59nlq99dk2723mqkisfgvfv1m0xr14rr8gw"
+      "revision": "f6a32fbe4d4e511d446ac189e926f8e24f69cc1e",
+      "url": "https://github.com/tpope/vim-endwise/archive/f6a32fbe4d4e511d446ac189e926f8e24f69cc1e.tar.gz",
+      "hash": "1yysr1l197p8mkcg739688gi718886spbmmf232r824jw9cladq3"
     },
     "vim-floaterm": {
       "type": "Git",
