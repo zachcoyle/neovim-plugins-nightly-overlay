@@ -2875,9 +2875,9 @@
         "repo": "oil.nvim"
       },
       "branch": "master",
-      "revision": "83ac5185f79ab8d869bccea792dc516ad02ad06e",
-      "url": "https://github.com/stevearc/oil.nvim/archive/83ac5185f79ab8d869bccea792dc516ad02ad06e.tar.gz",
-      "hash": "0zfjan4bwg3v4kkhqcsni8yz4fgvm9153a94wh2cfqcwas4n8kr0"
+      "revision": "52f1683c7664819508e1d2fc85051d4a20c5d643",
+      "url": "https://github.com/stevearc/oil.nvim/archive/52f1683c7664819508e1d2fc85051d4a20c5d643.tar.gz",
+      "hash": "0sfp9iza84fxrrgcw1snrsb70xq2bw91i374nqw737h7v148bh8a"
     },
     "ollama-nvim": {
       "type": "Git",
@@ -4219,9 +4219,9 @@
         "repo": "yazi.nvim"
       },
       "branch": "main",
-      "revision": "e86ced6e52a4bc3875ec5f43c98b8e222f228fa4",
-      "url": "https://github.com/mikavilpas/yazi.nvim/archive/e86ced6e52a4bc3875ec5f43c98b8e222f228fa4.tar.gz",
-      "hash": "0dy1ys01gg7rm40y8gc7r9ngzv9gacsx6p0vj7lldxvzzbpjmf78"
+      "revision": "63fa63eeee657d416ef6445db4933b5fed4c3cdc",
+      "url": "https://github.com/mikavilpas/yazi.nvim/archive/63fa63eeee657d416ef6445db4933b5fed4c3cdc.tar.gz",
+      "hash": "1zs9k4z28dfrmhzy361kqc55vm4n135bcn061h7wnbi2l730p3zy"
     },
     "yuck-vim": {
       "type": "Git",
