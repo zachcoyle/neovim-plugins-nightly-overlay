@@ -44,9 +44,9 @@
         "repo": "SchemaStore.nvim"
       },
       "branch": "main",
-      "revision": "5be212138af55d3dcae9d77b5b14f63634243e3d",
-      "url": "https://github.com/b0o/SchemaStore.nvim/archive/5be212138af55d3dcae9d77b5b14f63634243e3d.tar.gz",
-      "hash": "161gyb4gzglm3xmi25ak1fjrzwr94fnmxp4ipmw6rwdxsrr7mmlf"
+      "revision": "bb52c530698654355bbddb9f0035dc35cea401a5",
+      "url": "https://github.com/b0o/SchemaStore.nvim/archive/bb52c530698654355bbddb9f0035dc35cea401a5.tar.gz",
+      "hash": "0xxn7i44h4wmxhwbkn2m51jgpfa2xybrn1arhsp100mdfb2w6fa9"
     },
     "alpha-nvim": {
       "type": "Git",
@@ -2863,9 +2863,9 @@
         "repo": "octo.nvim"
       },
       "branch": "master",
-      "revision": "5579f207e50cce726a2a5a460f48093ee7558fdb",
-      "url": "https://github.com/pwntester/octo.nvim/archive/5579f207e50cce726a2a5a460f48093ee7558fdb.tar.gz",
-      "hash": "1bgg6sllxhpb6hkdxv2zmpzmh04pjx18s0xjyk0jy4pai24pq9vm"
+      "revision": "75d1f6a09536e3bffa86a781cdb0bd72da57acc3",
+      "url": "https://github.com/pwntester/octo.nvim/archive/75d1f6a09536e3bffa86a781cdb0bd72da57acc3.tar.gz",
+      "hash": "1gmfnz8hspwnc8ay699msxfgmnq5v4krp9ijszksc1pl8ch3xlnr"
     },
     "oil-nvim": {
       "type": "Git",
@@ -4219,9 +4219,9 @@
         "repo": "yazi.nvim"
       },
       "branch": "main",
-      "revision": "63fa63eeee657d416ef6445db4933b5fed4c3cdc",
-      "url": "https://github.com/mikavilpas/yazi.nvim/archive/63fa63eeee657d416ef6445db4933b5fed4c3cdc.tar.gz",
-      "hash": "1zs9k4z28dfrmhzy361kqc55vm4n135bcn061h7wnbi2l730p3zy"
+      "revision": "07a628422f2b243423c93d21687a404906f62ead",
+      "url": "https://github.com/mikavilpas/yazi.nvim/archive/07a628422f2b243423c93d21687a404906f62ead.tar.gz",
+      "hash": "1bss8lvwypy8s21in9082jf1brk4yfb0myrb5wpy009mr9s19k66"
     },
     "yuck-vim": {
       "type": "Git",
