@@ -1268,9 +1268,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "e8e46265edc5d40694df83c3ace035bbc67a3ff2",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/e8e46265edc5d40694df83c3ace035bbc67a3ff2.tar.gz",
-      "hash": "1v251hacf43x4ijssrrnpqlvw4qp1dvyzycj53nj235wxpas39hy"
+      "revision": "980114905020ac66ecd414d569390c644bf1eda6",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/980114905020ac66ecd414d569390c644bf1eda6.tar.gz",
+      "hash": "09cx2iv7wn6jn456lzjm7fhclf4fvkawiz5qcdx7a74q28fw7h4i"
     },
     "galaxyline-nvim": {
       "type": "Git",
@@ -1700,9 +1700,9 @@
         "repo": "leap.nvim"
       },
       "branch": "main",
-      "revision": "eabaa4c30230215e5144445459a33af7e55b1b8e",
-      "url": "https://github.com/ggandor/leap.nvim/archive/eabaa4c30230215e5144445459a33af7e55b1b8e.tar.gz",
-      "hash": "0nrgzwrqynss7wlb2w9i5mng4xb2fzw9v468zz18bra72qpjm8f2"
+      "revision": "be8e6eee2dabc68ce810ddf2e800c14bfda09fee",
+      "url": "https://github.com/ggandor/leap.nvim/archive/be8e6eee2dabc68ce810ddf2e800c14bfda09fee.tar.gz",
+      "hash": "0l3jmc06js1l4rarhn6h2zvc3gkvs2ziqkycy8nvca4xri9b8xy4"
     },
     "lightline-vim": {
       "type": "Git",
