@@ -932,9 +932,9 @@
         "repo": "conform.nvim"
       },
       "branch": "master",
-      "revision": "657c489a06a661df4e113b08f29ddae12a85ac28",
-      "url": "https://github.com/stevearc/conform.nvim/archive/657c489a06a661df4e113b08f29ddae12a85ac28.tar.gz",
-      "hash": "1zc21xp0cp3b2dvfkb0a8yaw90wbga5b3fsld6wg7533m2zkzhsn"
+      "revision": "b829ab38d0a52ba5869723dc7b8377fce4ec96dc",
+      "url": "https://github.com/stevearc/conform.nvim/archive/b829ab38d0a52ba5869723dc7b8377fce4ec96dc.tar.gz",
+      "hash": "1rmir2qr3q17vzr9d4x7zgasjgyl5vzm22iqnixjahzicbw6v2zf"
     },
     "conjure": {
       "type": "Git",
@@ -1975,9 +1975,9 @@
         "repo": "neo-tree.nvim"
       },
       "branch": "main",
-      "revision": "5d172e8315444dbc32867d1c7b04d8e7e68ec4e1",
-      "url": "https://github.com/nvim-neo-tree/neo-tree.nvim/archive/5d172e8315444dbc32867d1c7b04d8e7e68ec4e1.tar.gz",
-      "hash": "0lwgbvyxjcja992ykqr6dxg58w6cnsxx4513f5j53ncad1a4z3gx"
+      "revision": "1fab54c18d53d05f98dff976493c8535818156a7",
+      "url": "https://github.com/nvim-neo-tree/neo-tree.nvim/archive/1fab54c18d53d05f98dff976493c8535818156a7.tar.gz",
+      "hash": "1p6vmzcnrph9043r5z6cdcb1pdmx83w6mwkyis6gb8if3lgv9s08"
     },
     "neocord": {
       "type": "Git",
