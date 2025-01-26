@@ -2635,9 +2635,9 @@
         "repo": "nvim-neoclip.lua"
       },
       "branch": "main",
-      "revision": "6b5b0571047aaefdcf58030c53b7dbcdb2753a04",
-      "url": "https://github.com/AckslD/nvim-neoclip.lua/archive/6b5b0571047aaefdcf58030c53b7dbcdb2753a04.tar.gz",
-      "hash": "1ff2kjmayr1kivpm6rp7xkn0kxr4a8m7gd5i6jai75h2wmgpfdqi"
+      "revision": "90e4dd66bb6b1cc0c03f01aaf8b005f69f565421",
+      "url": "https://github.com/AckslD/nvim-neoclip.lua/archive/90e4dd66bb6b1cc0c03f01aaf8b005f69f565421.tar.gz",
+      "hash": "0mp15k7db5vnl19mc9p40fb7q0ycdjd97px24gbq7ajrzys13lbp"
     },
     "nvim-notify": {
       "type": "Git",
@@ -2923,9 +2923,9 @@
         "repo": "orgmode"
       },
       "branch": "master",
-      "revision": "50d723857336a6c889596c1a7416a63b6a307e0f",
-      "url": "https://github.com/nvim-orgmode/orgmode/archive/50d723857336a6c889596c1a7416a63b6a307e0f.tar.gz",
-      "hash": "1fgqklrgi3k09ffp3ljvmlg694zypci30vfczbv84n0xig4hb54h"
+      "revision": "7551f31aeb7eeadf80205ac5f842c1038eb65b44",
+      "url": "https://github.com/nvim-orgmode/orgmode/archive/7551f31aeb7eeadf80205ac5f842c1038eb65b44.tar.gz",
+      "hash": "1i7w5bd38dddp97k8ji9vss77ljw1f0inq1z9062pdyv05yvkzan"
     },
     "overseer-nvim": {
       "type": "Git",
