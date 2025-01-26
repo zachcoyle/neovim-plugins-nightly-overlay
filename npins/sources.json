@@ -1268,9 +1268,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "6607312ca0e0656e64c98ce748b79be713ca8f76",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/6607312ca0e0656e64c98ce748b79be713ca8f76.tar.gz",
-      "hash": "0wji02v3h47a8103glysdpj4snqncpvkqrvnvaa5cz3ak6805zkd"
+      "revision": "4c0e83fd4c6c05f73b805d1051baf3a3daf418b0",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/4c0e83fd4c6c05f73b805d1051baf3a3daf418b0.tar.gz",
+      "hash": "0zh96mm4cj1x577419kq4gj3aqg4zby3mxsf8f2g47b4kblrfg8m"
     },
     "galaxyline-nvim": {
       "type": "Git",
@@ -1831,9 +1831,9 @@
         "repo": "lz.n"
       },
       "branch": "master",
-      "revision": "525d029dfbff4bef23ecb7c12cabaf41bdef920c",
-      "url": "https://github.com/nvim-neorocks/lz.n/archive/525d029dfbff4bef23ecb7c12cabaf41bdef920c.tar.gz",
-      "hash": "0v5nqmfxnlb68myl2ikz60c8drh93yjdzjixycfmwm1k3r8k76wm"
+      "revision": "06bd15e9e6475904eeb0ce83cf505f6c602d4265",
+      "url": "https://github.com/nvim-neorocks/lz.n/archive/06bd15e9e6475904eeb0ce83cf505f6c602d4265.tar.gz",
+      "hash": "03vzhn4c0glqvjsvkwl3jywv0bz5yxwsn282w4cz8204sz8w48h4"
     },
     "magma-nvim-goose": {
       "type": "Git",
@@ -2203,9 +2203,9 @@
         "repo": "neotest-java"
       },
       "branch": "main",
-      "revision": "43b4cf9ee0d3d05f56a9a43c89c4268157cfbc79",
-      "url": "https://github.com/rcasia/neotest-java/archive/43b4cf9ee0d3d05f56a9a43c89c4268157cfbc79.tar.gz",
-      "hash": "0653fx7bcr8mn38dfza4qywia1i862zc42frwf18s51zp5jjrfqy"
+      "revision": "bbbad04bda7af216a8c24509d47d1f51356b37ce",
+      "url": "https://github.com/rcasia/neotest-java/archive/bbbad04bda7af216a8c24509d47d1f51356b37ce.tar.gz",
+      "hash": "0mw3q19y18nr4kn1zd5qjyk6bbkdrv4ypakxyn2gc3xf6p3zl1id"
     },
     "neotest-jest": {
       "type": "Git",
@@ -2827,9 +2827,9 @@
         "repo": "nvim-ufo"
       },
       "branch": "main",
-      "revision": "56b1f35ab2557a92aedcdf62db4e72cef3386bbf",
-      "url": "https://github.com/kevinhwang91/nvim-ufo/archive/56b1f35ab2557a92aedcdf62db4e72cef3386bbf.tar.gz",
-      "hash": "0k4axyqiamxw7r3fhk5i9v6vdpf5qxwqsrk7hhxcrbxgmrhvp06h"
+      "revision": "6e810dff2e590ed32dd697f90d5910443c78b8e1",
+      "url": "https://github.com/kevinhwang91/nvim-ufo/archive/6e810dff2e590ed32dd697f90d5910443c78b8e1.tar.gz",
+      "hash": "19axwbplv6d3xmprgggasyy8192k7vfrhpal7x0h4cnw7j5yb21f"
     },
     "nvim-web-devicons": {
       "type": "Git",
@@ -3199,9 +3199,9 @@
         "repo": "smart-splits.nvim"
       },
       "branch": "master",
-      "revision": "4a231987665d3c6e02ca88833d050e918afe3e1e",
-      "url": "https://github.com/mrjones2014/smart-splits.nvim/archive/4a231987665d3c6e02ca88833d050e918afe3e1e.tar.gz",
-      "hash": "02zrk3v7ra0hq1jw4i8q3pva4vx9snj1afd4zlh725wkyjp2bmz5"
+      "revision": "bfb5e63bd4639439b48815f46636dbd52b19b1bd",
+      "url": "https://github.com/mrjones2014/smart-splits.nvim/archive/bfb5e63bd4639439b48815f46636dbd52b19b1bd.tar.gz",
+      "hash": "0k1510hqyzg7lgqfqfhd85bac45k98xgsfx0g0zhwi3mjkg5kvr1"
     },
     "smartcolumn-nvim": {
       "type": "Git",
