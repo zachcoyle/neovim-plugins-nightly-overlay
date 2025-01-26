@@ -2599,9 +2599,9 @@
         "repo": "nvim-lspconfig"
       },
       "branch": "master",
-      "revision": "b4d65bce97795438ab6e1974b3672c17a4865e3c",
-      "url": "https://github.com/neovim/nvim-lspconfig/archive/b4d65bce97795438ab6e1974b3672c17a4865e3c.tar.gz",
-      "hash": "05mdvgr0p1ni127racj543xqg2zgf447n09sx8n5glhxp09qaqw4"
+      "revision": "e5bf88e5ea1c4cea5ea96b1e970cb264f7a401a1",
+      "url": "https://github.com/neovim/nvim-lspconfig/archive/e5bf88e5ea1c4cea5ea96b1e970cb264f7a401a1.tar.gz",
+      "hash": "1w420khvziz0mvfm2rifiw5fb2n6n12lmvb922lb86hp4cnfjcan"
     },
     "nvim-navbuddy": {
       "type": "Git",
@@ -4219,9 +4219,9 @@
         "repo": "yazi.nvim"
       },
       "branch": "main",
-      "revision": "baeb1faea912a8483a3876f8494ca8323ba23ddd",
-      "url": "https://github.com/mikavilpas/yazi.nvim/archive/baeb1faea912a8483a3876f8494ca8323ba23ddd.tar.gz",
-      "hash": "0biymvssbbcyasfx1r6ldxk2h3770igs06bip0bkqrrqm29gcmbd"
+      "revision": "74e76fb5cc4b3caed49f6fc97ece0aeb9cfbeff1",
+      "url": "https://github.com/mikavilpas/yazi.nvim/archive/74e76fb5cc4b3caed49f6fc97ece0aeb9cfbeff1.tar.gz",
+      "hash": "0l3hv1x0kqmlqklb4d4l7kilwivx7nsa60sszr3zxlr1bqcrc1nh"
     },
     "yuck-vim": {
       "type": "Git",
