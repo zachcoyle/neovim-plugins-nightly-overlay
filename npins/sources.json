@@ -1891,9 +1891,9 @@
         "repo": "markview.nvim"
       },
       "branch": "main",
-      "revision": "19ad95013815c640a33935d586b8b015d1037d66",
-      "url": "https://github.com/OXY2DEV/markview.nvim/archive/19ad95013815c640a33935d586b8b015d1037d66.tar.gz",
-      "hash": "0cm9mqyq7vvbyv0q2kszgpdwzx4328zb7ddi856v7f1safnmjp12"
+      "revision": "5c56a1a47856b437dd74526a234f22efdec4a64d",
+      "url": "https://github.com/OXY2DEV/markview.nvim/archive/5c56a1a47856b437dd74526a234f22efdec4a64d.tar.gz",
+      "hash": "1bhfdypni4vaxb831xpz5r0b0a6rhixwj1rwg3rdnalzgjmy61lj"
     },
     "melange": {
       "type": "Git",
@@ -1975,9 +1975,9 @@
         "repo": "neo-tree.nvim"
       },
       "branch": "main",
-      "revision": "e752d224f914f1ffa18260fecfbfac233d3ca461",
-      "url": "https://github.com/nvim-neo-tree/neo-tree.nvim/archive/e752d224f914f1ffa18260fecfbfac233d3ca461.tar.gz",
-      "hash": "0c9s0312qj7wfb0z8p4k6p1kswspm9fvhq2rlc73yn3nvramaqzx"
+      "revision": "fbb631e818f48591d0c3a590817003d36d0de691",
+      "url": "https://github.com/nvim-neo-tree/neo-tree.nvim/archive/fbb631e818f48591d0c3a590817003d36d0de691.tar.gz",
+      "hash": "1dn15bk4dysi0j2nb812mid61jyv93rgh92lr50a37brh1m6jrab"
     },
     "neocord": {
       "type": "Git",
