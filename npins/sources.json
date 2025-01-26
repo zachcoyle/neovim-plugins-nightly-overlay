@@ -20,9 +20,9 @@
         "repo": "CopilotChat.nvim"
       },
       "branch": "main",
-      "revision": "7444ffb7fd4f0c22ea0728bfad84ea506bb1eb26",
-      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/7444ffb7fd4f0c22ea0728bfad84ea506bb1eb26.tar.gz",
-      "hash": "15ymrg8p13lrqqyhg1y0wi62almqldbwgl3d0qxnyz5zfaz87n9x"
+      "revision": "1b1542b5c7993bf1e9bbee42cbb22c4371d69ee5",
+      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/1b1542b5c7993bf1e9bbee42cbb22c4371d69ee5.tar.gz",
+      "hash": "019gaj6821lvf28cx5091r0hn0nnwib9a6j4z4bdw8ip68n446rv"
     },
     "Preview-nvim": {
       "type": "Git",
@@ -2191,9 +2191,9 @@
         "repo": "neotest-haskell"
       },
       "branch": "master",
-      "revision": "44c485e0f891778f93b0f2c7bef0217b91f1f83f",
-      "url": "https://github.com/mrcjkb/neotest-haskell/archive/44c485e0f891778f93b0f2c7bef0217b91f1f83f.tar.gz",
-      "hash": "1jblvbq2k03aphw5d1ky818kmbzk1jf41s5n1q7mc4vc8r0gsj2y"
+      "revision": "074a6eb728ef74c35fcec0db84959e1d70471c3f",
+      "url": "https://github.com/mrcjkb/neotest-haskell/archive/074a6eb728ef74c35fcec0db84959e1d70471c3f.tar.gz",
+      "hash": "02b0jsbi9xhpaxmarfxdnp6ynsdq3c23nxyffl0xw5nws4b25xrz"
     },
     "neotest-java": {
       "type": "Git",
