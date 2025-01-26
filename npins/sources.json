@@ -1424,8 +1424,8 @@
         "repo": "hardtime.nvim"
       },
       "branch": "main",
-      "revision": "c5dbc71a7b73db8135d5c5107aaeea2a10773a3c",
-      "url": "https://github.com/m4xshen/hardtime.nvim/archive/c5dbc71a7b73db8135d5c5107aaeea2a10773a3c.tar.gz",
+      "revision": "3fef94069fe842fd43e2865334a7ff8e8139dc6b",
+      "url": "https://github.com/m4xshen/hardtime.nvim/archive/3fef94069fe842fd43e2865334a7ff8e8139dc6b.tar.gz",
       "hash": "1scl6iyla1nbzqdx69sk7avdq4z4zlrgd6kx5649d9rgc5f740y3"
     },
     "harpoon": {
@@ -1891,9 +1891,9 @@
         "repo": "markview.nvim"
       },
       "branch": "main",
-      "revision": "5c56a1a47856b437dd74526a234f22efdec4a64d",
-      "url": "https://github.com/OXY2DEV/markview.nvim/archive/5c56a1a47856b437dd74526a234f22efdec4a64d.tar.gz",
-      "hash": "1bhfdypni4vaxb831xpz5r0b0a6rhixwj1rwg3rdnalzgjmy61lj"
+      "revision": "a41e249ecd026f6a45ea11af1d3456b0c4db9d80",
+      "url": "https://github.com/OXY2DEV/markview.nvim/archive/a41e249ecd026f6a45ea11af1d3456b0c4db9d80.tar.gz",
+      "hash": "17vl55fw0b2hjyrf9pmvhm2sc77jkjb5jpmp87jpa8cnd0k35qa6"
     },
     "melange": {
       "type": "Git",
