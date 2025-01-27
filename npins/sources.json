@@ -272,9 +272,9 @@
         "repo": "clangd_extensions.nvim"
       },
       "branch": "main",
-      "revision": "8f7b72100883e0e34400d9518d40a03f21e4d0a6",
-      "url": "https://github.com/p00f/clangd_extensions.nvim/archive/8f7b72100883e0e34400d9518d40a03f21e4d0a6.tar.gz",
-      "hash": "1rlw3h9f9cnbniqqpv9fv2s63g7s4p8ag4n15xja1r4scfxhyrip"
+      "revision": "db28f29be928d18cbfb86fbfb9f83f584f658feb",
+      "url": "https://github.com/p00f/clangd_extensions.nvim/archive/db28f29be928d18cbfb86fbfb9f83f584f658feb.tar.gz",
+      "hash": "16j27jwr90ixj1r6qcwfc9f90a2jdzd5104vpwwvyrdlqpgkml2x"
     },
     "clipboard-image-nvim": {
       "type": "Git",
@@ -1268,9 +1268,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "7a83b844423c6ec55c445f1de9ad51fe038f5df5",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/7a83b844423c6ec55c445f1de9ad51fe038f5df5.tar.gz",
-      "hash": "1lbh6r5bj3q5w27jbpyqya0grkxbnv1qiasc9s2lax0fi3qz9kvp"
+      "revision": "fc8c0e6103a52d2075f33f92e96f3187c5ca0f51",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/fc8c0e6103a52d2075f33f92e96f3187c5ca0f51.tar.gz",
+      "hash": "0vgd4yplzjzmrnjld08ij021n5q4wcbsgvgpmgngnididfsbkaj4"
     },
     "galaxyline-nvim": {
       "type": "Git",
