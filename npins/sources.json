@@ -44,9 +44,9 @@
         "repo": "SchemaStore.nvim"
       },
       "branch": "main",
-      "revision": "bb52c530698654355bbddb9f0035dc35cea401a5",
-      "url": "https://github.com/b0o/SchemaStore.nvim/archive/bb52c530698654355bbddb9f0035dc35cea401a5.tar.gz",
-      "hash": "0xxn7i44h4wmxhwbkn2m51jgpfa2xybrn1arhsp100mdfb2w6fa9"
+      "revision": "ea3734ae26308d23a504f94870daf48f832da9a8",
+      "url": "https://github.com/b0o/SchemaStore.nvim/archive/ea3734ae26308d23a504f94870daf48f832da9a8.tar.gz",
+      "hash": "1f3yr140vqp831n9qv97yvk2wcwgpjhhyifjkpwpkvrz5fjh4y1p"
     },
     "alpha-nvim": {
       "type": "Git",
@@ -1939,9 +1939,9 @@
         "repo": "modus-themes.nvim"
       },
       "branch": "master",
-      "revision": "e673a50c846acd1228883da8a605f2db4346abdb",
-      "url": "https://github.com/miikanissi/modus-themes.nvim/archive/e673a50c846acd1228883da8a605f2db4346abdb.tar.gz",
-      "hash": "1qjnf32sp64fq4y1vcwfxb9q1a05n4ss7sn1fpigkz3qbp7h8kf8"
+      "revision": "417a482a7691ba4093f90f215e846fe2fb498ccf",
+      "url": "https://github.com/miikanissi/modus-themes.nvim/archive/417a482a7691ba4093f90f215e846fe2fb498ccf.tar.gz",
+      "hash": "1w9z88d3knji4qdqjblbwqy30mq61ywm1znffhwxdwlifh6fsnz4"
     },
     "molten-nvim": {
       "type": "Git",
@@ -2923,9 +2923,9 @@
         "repo": "orgmode"
       },
       "branch": "master",
-      "revision": "98bf44d0adfaa04bd02c0ae630b182fba892cbbd",
-      "url": "https://github.com/nvim-orgmode/orgmode/archive/98bf44d0adfaa04bd02c0ae630b182fba892cbbd.tar.gz",
-      "hash": "08rryqbqynaw0c8rqy7j22adyplm091x2qhxbfzq39qi15h4b2dp"
+      "revision": "fa5f3d9cca94cca8fc07eeef50541a73de6a3f54",
+      "url": "https://github.com/nvim-orgmode/orgmode/archive/fa5f3d9cca94cca8fc07eeef50541a73de6a3f54.tar.gz",
+      "hash": "0rm9smima5y2h37d5gzc8jc0ppdxixwqs0km7d5nhyxwinww8shh"
     },
     "overseer-nvim": {
       "type": "Git",
