@@ -20,9 +20,9 @@
         "repo": "CopilotChat.nvim"
       },
       "branch": "main",
-      "revision": "ebf60a1add160da7a6b76596c9804954c7971b6f",
-      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/ebf60a1add160da7a6b76596c9804954c7971b6f.tar.gz",
-      "hash": "0rk991cqmvhzizpy244kml6syi716wc2xvcrxljfs3fswwywll8l"
+      "revision": "1b375c24602680b5fe28c3c223a822111857dc37",
+      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/1b375c24602680b5fe28c3c223a822111857dc37.tar.gz",
+      "hash": "19cab0n6sjmmw4p4qd3n99a677mj6fbkf7m37i8qvhzdyqli4035"
     },
     "Preview-nvim": {
       "type": "Git",
@@ -1268,9 +1268,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "b27468c5416fcaf51be53ee071d7027594cb7329",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/b27468c5416fcaf51be53ee071d7027594cb7329.tar.gz",
-      "hash": "0dq4xcs584c08fis21av6c82r79wsjwlvjvvpxd9990155fwmria"
+      "revision": "7a83b844423c6ec55c445f1de9ad51fe038f5df5",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/7a83b844423c6ec55c445f1de9ad51fe038f5df5.tar.gz",
+      "hash": "1lbh6r5bj3q5w27jbpyqya0grkxbnv1qiasc9s2lax0fi3qz9kvp"
     },
     "galaxyline-nvim": {
       "type": "Git",
@@ -1783,9 +1783,9 @@
         "repo": "lspsaga.nvim"
       },
       "branch": "main",
-      "revision": "13b3cdc9a53ec821b9e693ee71501cc2d6cf206c",
-      "url": "https://github.com/nvimdev/lspsaga.nvim/archive/13b3cdc9a53ec821b9e693ee71501cc2d6cf206c.tar.gz",
-      "hash": "189jasphz3xr0alfkhpw6ha91g2ps5r8dcx04ipllv0fngdx71xq"
+      "revision": "b0f44305bb316552208e59bebaebbd9b9d8d5dde",
+      "url": "https://github.com/nvimdev/lspsaga.nvim/archive/b0f44305bb316552208e59bebaebbd9b9d8d5dde.tar.gz",
+      "hash": "0bzrg785h15fs5zd1i5ai2p0a2npf41j7gldxnxhcsv1qhmhngb8"
     },
     "ltex_extra-nvim": {
       "type": "Git",
@@ -2839,9 +2839,9 @@
         "repo": "nvim-web-devicons"
       },
       "branch": "master",
-      "revision": "92833cd8c646c92f9013aaaa05aefa18bce74c45",
-      "url": "https://github.com/kyazdani42/nvim-web-devicons/archive/92833cd8c646c92f9013aaaa05aefa18bce74c45.tar.gz",
-      "hash": "04kxdnhzy1fi181gw1mxv5w10x54jbw256mda7wjcjjr6x566qji"
+      "revision": "1c9136332840edee0c593f2f4f89598c8ed97f5f",
+      "url": "https://github.com/kyazdani42/nvim-web-devicons/archive/1c9136332840edee0c593f2f4f89598c8ed97f5f.tar.gz",
+      "hash": "10liz7hpdb5vavn45hpqn0c39s0cqdns8dygr1472b5fyxh5ld29"
     },
     "obsidian-nvim": {
       "type": "Git",
