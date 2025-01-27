@@ -1268,9 +1268,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "51148c3999032b5ffe38aea92c2eeae08689adff",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/51148c3999032b5ffe38aea92c2eeae08689adff.tar.gz",
-      "hash": "0ssf4nrq84bwd5pdizxc0fr5pr4305ac1i74ykai7wnjmmfngzs5"
+      "revision": "d9e6b8ca14a72b0735764d69fbd143ba3c0c73a2",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/d9e6b8ca14a72b0735764d69fbd143ba3c0c73a2.tar.gz",
+      "hash": "02sf2sn81hxczy22c9znb8asaivzyy7brl6pfdkk6i5yrm2ibysv"
     },
     "galaxyline-nvim": {
       "type": "Git",
@@ -1939,9 +1939,9 @@
         "repo": "modus-themes.nvim"
       },
       "branch": "master",
-      "revision": "9f0343bcb3be4dd5545624db135f2b1c369e7ce4",
-      "url": "https://github.com/miikanissi/modus-themes.nvim/archive/9f0343bcb3be4dd5545624db135f2b1c369e7ce4.tar.gz",
-      "hash": "0pswimi14m2srr1njvyg0wbmzsr3g039xvwwwsm5v77zvq71nmyl"
+      "revision": "e673a50c846acd1228883da8a605f2db4346abdb",
+      "url": "https://github.com/miikanissi/modus-themes.nvim/archive/e673a50c846acd1228883da8a605f2db4346abdb.tar.gz",
+      "hash": "1qjnf32sp64fq4y1vcwfxb9q1a05n4ss7sn1fpigkz3qbp7h8kf8"
     },
     "molten-nvim": {
       "type": "Git",
@@ -2527,9 +2527,9 @@
         "repo": "nvim-dap"
       },
       "branch": "master",
-      "revision": "1fdfe74661170ce58d37dc46259448987ffe706c",
-      "url": "https://github.com/mfussenegger/nvim-dap/archive/1fdfe74661170ce58d37dc46259448987ffe706c.tar.gz",
-      "hash": "0f5pdwcjhzrhgz3iz4bsq452prdq4lq6z9yjwzx3m2xgzp7kmcz1"
+      "revision": "ead0de6eac91a555b714bfd7d28959eeecfb96f9",
+      "url": "https://github.com/mfussenegger/nvim-dap/archive/ead0de6eac91a555b714bfd7d28959eeecfb96f9.tar.gz",
+      "hash": "123kbf3s4c8gwh3bvah8zsikvwza0bp6lyzyndakxy02cc1g0jcv"
     },
     "nvim-dap-virtual-text": {
       "type": "Git",
@@ -2827,9 +2827,9 @@
         "repo": "nvim-ufo"
       },
       "branch": "main",
-      "revision": "6e810dff2e590ed32dd697f90d5910443c78b8e1",
-      "url": "https://github.com/kevinhwang91/nvim-ufo/archive/6e810dff2e590ed32dd697f90d5910443c78b8e1.tar.gz",
-      "hash": "19axwbplv6d3xmprgggasyy8192k7vfrhpal7x0h4cnw7j5yb21f"
+      "revision": "edcb48240dcd0d77f3429b1858317acb7f8702b4",
+      "url": "https://github.com/kevinhwang91/nvim-ufo/archive/edcb48240dcd0d77f3429b1858317acb7f8702b4.tar.gz",
+      "hash": "1bld7q11w68laicv707jrb53f724ipccjy5k5jcblx847q3fsrwx"
     },
     "nvim-web-devicons": {
       "type": "Git",
