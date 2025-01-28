@@ -1424,9 +1424,9 @@
         "repo": "hardtime.nvim"
       },
       "branch": "main",
-      "revision": "3fef94069fe842fd43e2865334a7ff8e8139dc6b",
-      "url": "https://github.com/m4xshen/hardtime.nvim/archive/3fef94069fe842fd43e2865334a7ff8e8139dc6b.tar.gz",
-      "hash": "1scl6iyla1nbzqdx69sk7avdq4z4zlrgd6kx5649d9rgc5f740y3"
+      "revision": "198a5aae186e866eff0826ef1706c229f856f11c",
+      "url": "https://github.com/m4xshen/hardtime.nvim/archive/198a5aae186e866eff0826ef1706c229f856f11c.tar.gz",
+      "hash": "0mhc4g7igh4s5hgxpz3ln92b0x32qfjjqj5jsb383d5siy8cbpkb"
     },
     "harpoon": {
       "type": "Git",
@@ -2923,9 +2923,9 @@
         "repo": "orgmode"
       },
       "branch": "master",
-      "revision": "f9a74a46a951c390d6a69d68392a489c17bbd34a",
-      "url": "https://github.com/nvim-orgmode/orgmode/archive/f9a74a46a951c390d6a69d68392a489c17bbd34a.tar.gz",
-      "hash": "1g2yc6iancj2pja1laplhf683j52l7birv4dhxa1n38im0q11r1h"
+      "revision": "271a6fa6608a6a5d7b60124329b13915f452be49",
+      "url": "https://github.com/nvim-orgmode/orgmode/archive/271a6fa6608a6a5d7b60124329b13915f452be49.tar.gz",
+      "hash": "0lrpxfip25afkdbmmm0p9h9bfk909r6g2921xy7cyms8mshqhkdy"
     },
     "overseer-nvim": {
       "type": "Git",
