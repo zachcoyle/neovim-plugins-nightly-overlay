@@ -3139,9 +3139,9 @@
         "repo": "render-markdown.nvim"
       },
       "branch": "main",
-      "revision": "800446143a2f06612da76c59d7e1daee82963d50",
-      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/800446143a2f06612da76c59d7e1daee82963d50.tar.gz",
-      "hash": "0qg0mdjd3bzbc8gm9l8jhfz6yva3dg8bmfrc4jhsjs6p429b4iri"
+      "revision": "c85d682dce1ef3453868b91672bb2e65d0d95c68",
+      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/c85d682dce1ef3453868b91672bb2e65d0d95c68.tar.gz",
+      "hash": "1anrqqajmf3pn8q5qkfdk48z0q2l5bi87zs1bcj8rbm2yd8q6xcl"
     },
     "rest-nvim": {
       "type": "Git",
@@ -3643,9 +3643,9 @@
         "repo": "tokyonight.nvim"
       },
       "branch": "main",
-      "revision": "c3ab53c3f544e4a04f2a05d43451fd9bedff51b4",
-      "url": "https://github.com/folke/tokyonight.nvim/archive/c3ab53c3f544e4a04f2a05d43451fd9bedff51b4.tar.gz",
-      "hash": "03bj856l2lh4wlhw567p0v7i1kik3xvxsrhs8n0bqf51zbi3k3dx"
+      "revision": "7db876296396de3a1f7cab8318c43b7e0448625c",
+      "url": "https://github.com/folke/tokyonight.nvim/archive/7db876296396de3a1f7cab8318c43b7e0448625c.tar.gz",
+      "hash": "09jy32xwgkc9bwapq741hpwglsf035s03ny0dba7jic3yjz8k7p6"
     },
     "transparent-nvim": {
       "type": "Git",
