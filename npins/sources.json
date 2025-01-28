@@ -2599,9 +2599,9 @@
         "repo": "nvim-lspconfig"
       },
       "branch": "master",
-      "revision": "1f941b3668151963fca3e1230922c433ea4b7b64",
-      "url": "https://github.com/neovim/nvim-lspconfig/archive/1f941b3668151963fca3e1230922c433ea4b7b64.tar.gz",
-      "hash": "0dkzxmhk1iji46rpqbpb853n6px0jn6gs576vnwkzja2ncgpgmgn"
+      "revision": "9962e25a23f0e992116b99a9a6400947d5a7177b",
+      "url": "https://github.com/neovim/nvim-lspconfig/archive/9962e25a23f0e992116b99a9a6400947d5a7177b.tar.gz",
+      "hash": "11bbcnq1yv8gzvwhsb85s166sm9sn7vb7dhih79l2406b4674mxg"
     },
     "nvim-navbuddy": {
       "type": "Git",
@@ -3679,9 +3679,9 @@
         "repo": "trouble.nvim"
       },
       "branch": "main",
-      "revision": "355ee8c54b49f7e4e24f977fa7fa5b74e90dcee2",
-      "url": "https://github.com/folke/trouble.nvim/archive/355ee8c54b49f7e4e24f977fa7fa5b74e90dcee2.tar.gz",
-      "hash": "14r3bb6zwk6jqglcx5fsj8j9hk97p361h2vqc95yk4r56l2dkg4m"
+      "revision": "6f380b8826fb819c752c8fd7daaee9ef96d4c689",
+      "url": "https://github.com/folke/trouble.nvim/archive/6f380b8826fb819c752c8fd7daaee9ef96d4c689.tar.gz",
+      "hash": "10v1xja412hk84aax9sf5l1bhp0ibyxxih6d3v2znyb3ic1lxq33"
     },
     "ts-comments-nvim": {
       "type": "Git",
