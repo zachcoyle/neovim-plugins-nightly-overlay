@@ -2491,9 +2491,9 @@
         "repo": "nvim-colorizer.lua"
       },
       "branch": "master",
-      "revision": "39142aa1390d6ccdca57cb6dc5b2c7bfed460ffe",
-      "url": "https://github.com/NvChad/nvim-colorizer.lua/archive/39142aa1390d6ccdca57cb6dc5b2c7bfed460ffe.tar.gz",
-      "hash": "16sjfq765hab8ns4kgr39hyj0gd5yizh2vk8sk177gvajhjr7pxs"
+      "revision": "2933cb5b547b8a2dba20e8087d488462ad5bc6bc",
+      "url": "https://github.com/NvChad/nvim-colorizer.lua/archive/2933cb5b547b8a2dba20e8087d488462ad5bc6bc.tar.gz",
+      "hash": "000jsgmnl4844ccl3hw32znl4hyy556fgkfjnlawkwcw4abhjg7l"
     },
     "nvim-coverage": {
       "type": "Git",
@@ -2863,9 +2863,9 @@
         "repo": "octo.nvim"
       },
       "branch": "master",
-      "revision": "75d1f6a09536e3bffa86a781cdb0bd72da57acc3",
-      "url": "https://github.com/pwntester/octo.nvim/archive/75d1f6a09536e3bffa86a781cdb0bd72da57acc3.tar.gz",
-      "hash": "1gmfnz8hspwnc8ay699msxfgmnq5v4krp9ijszksc1pl8ch3xlnr"
+      "revision": "1d2982f4b7d8953d3314848b84ecfd2fb16c6aac",
+      "url": "https://github.com/pwntester/octo.nvim/archive/1d2982f4b7d8953d3314848b84ecfd2fb16c6aac.tar.gz",
+      "hash": "0zzladwf3bh5vbvph1i3ra1fp9hs29qy8riwbq4i82j58b6shi21"
     },
     "oil-nvim": {
       "type": "Git",
