@@ -3931,9 +3931,9 @@
         "repo": "vim-ledger"
       },
       "branch": "master",
-      "revision": "dbc683e24bd5338b8c12540227a58b2d247e097a",
-      "url": "https://github.com/ledger/vim-ledger/archive/dbc683e24bd5338b8c12540227a58b2d247e097a.tar.gz",
-      "hash": "1c77vi92w1psai6h1a49raa50k7d8ybrr4l9iznyb2c08srz8ryb"
+      "revision": "aabf1976dfefe5665233c600421aea2798ff7ea0",
+      "url": "https://github.com/ledger/vim-ledger/archive/aabf1976dfefe5665233c600421aea2798ff7ea0.tar.gz",
+      "hash": "1ls2cy0a45sllybmm46swl1bwc4ph8k6m3i7fapnnpkd483lwl13"
     },
     "vim-matchup": {
       "type": "Git",
