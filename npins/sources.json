@@ -1891,9 +1891,9 @@
         "repo": "markview.nvim"
       },
       "branch": "main",
-      "revision": "81b40bd8c8c9e239bd14f7dace29f64fe20cbb98",
-      "url": "https://github.com/OXY2DEV/markview.nvim/archive/81b40bd8c8c9e239bd14f7dace29f64fe20cbb98.tar.gz",
-      "hash": "11j7zs6mq3sp3464wp31gyqn114j8js891w9mk30ghg04kvxp0j1"
+      "revision": "450a5d88c71d3fcd7b5648b575641c0da039808d",
+      "url": "https://github.com/OXY2DEV/markview.nvim/archive/450a5d88c71d3fcd7b5648b575641c0da039808d.tar.gz",
+      "hash": "1q037yn7rhiml8p3z58dfyv0ycm2v4g15ganjyxrdh539azrq4xn"
     },
     "melange": {
       "type": "Git",
@@ -2755,9 +2755,9 @@
         "repo": "nvim-treesitter"
       },
       "branch": "master",
-      "revision": "80c7af6d0408411ff1f502fbac8ca94b738b8762",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/80c7af6d0408411ff1f502fbac8ca94b738b8762.tar.gz",
-      "hash": "0vkc9hivi9qmlsjd6109qp4ffva8p80a4khiwgk8x3bjsb6l8q04"
+      "revision": "13f4346876f394973ff676670304a2b734174538",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/13f4346876f394973ff676670304a2b734174538.tar.gz",
+      "hash": "14qjbnli2a1gm2knq1z3qdbrf7d6apaiwcggsjl7n62i8dgdz121"
     },
     "nvim-treesitter-context": {
       "type": "Git",
