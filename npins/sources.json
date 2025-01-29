@@ -3643,9 +3643,9 @@
         "repo": "tokyonight.nvim"
       },
       "branch": "main",
-      "revision": "8cb8b1aded4087712030ef3e840ad6468fbc7b0f",
-      "url": "https://github.com/folke/tokyonight.nvim/archive/8cb8b1aded4087712030ef3e840ad6468fbc7b0f.tar.gz",
-      "hash": "0g0id61nc1ag41rmr72h50kvq5pnl8pc8rlf5fnmn4scvbvb0xh8"
+      "revision": "717bd5662b79d7c0727867530118983dd2feb0ec",
+      "url": "https://github.com/folke/tokyonight.nvim/archive/717bd5662b79d7c0727867530118983dd2feb0ec.tar.gz",
+      "hash": "133whq4yk5yvq7476xcvm049y9h5g828haf7a5bmh1rxyd071rkb"
     },
     "transparent-nvim": {
       "type": "Git",
@@ -4123,9 +4123,9 @@
         "repo": "vimtex"
       },
       "branch": "master",
-      "revision": "83e331dcad5ce28012e656eea3906b5b897db2ba",
-      "url": "https://github.com/lervag/vimtex/archive/83e331dcad5ce28012e656eea3906b5b897db2ba.tar.gz",
-      "hash": "1y4l90xfsaax8nmz71jv0c1ym8xv4yhr0v8vc2gmcnm1a1li18d3"
+      "revision": "3a9f47ce6e42c4a3c9a92a254f1f611a8d374fc9",
+      "url": "https://github.com/lervag/vimtex/archive/3a9f47ce6e42c4a3c9a92a254f1f611a8d374fc9.tar.gz",
+      "hash": "1kly8y55wcsay1vras0874yrgxffyc6rx0cpf6lcqnbjbl5gh9a2"
     },
     "virt-column-nvim": {
       "type": "Git",
