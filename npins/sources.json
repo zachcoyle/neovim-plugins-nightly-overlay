@@ -2863,9 +2863,9 @@
         "repo": "octo.nvim"
       },
       "branch": "master",
-      "revision": "02cd8aa16924c7ea0223d660fb02a982b1b3a231",
-      "url": "https://github.com/pwntester/octo.nvim/archive/02cd8aa16924c7ea0223d660fb02a982b1b3a231.tar.gz",
-      "hash": "0f1i96cvjijg72ygmpshhhd2951nn48n63g2jcbs5nh6m3qgabqp"
+      "revision": "d66d886f1ec889d63ac29cb818d22931948450de",
+      "url": "https://github.com/pwntester/octo.nvim/archive/d66d886f1ec889d63ac29cb818d22931948450de.tar.gz",
+      "hash": "0d1plzsbzgi2g6pzcg0xd2h2aafkvmg4q5wrrw8xkk0nyrscv5gc"
     },
     "oil-nvim": {
       "type": "Git",
