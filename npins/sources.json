@@ -2047,9 +2047,9 @@
         "repo": "neorg"
       },
       "branch": "main",
-      "revision": "d88a9ade8b888723a142e4e6cc7e6bf1dc1eed4f",
-      "url": "https://github.com/vhyrro/neorg/archive/d88a9ade8b888723a142e4e6cc7e6bf1dc1eed4f.tar.gz",
-      "hash": "1dqz87w4zil4847zqsav1n9l5q49khcq7pq2h1npvq9wkwl9fzd2"
+      "revision": "3f0f1b9165f37bbcc1e18f1e654e70cf45b5b60d",
+      "url": "https://github.com/vhyrro/neorg/archive/3f0f1b9165f37bbcc1e18f1e654e70cf45b5b60d.tar.gz",
+      "hash": "056l479qga4h3q8gd405cjbqsx9z3vagbqgsl1sgy1zlq4yqmkj7"
     },
     "neoscroll-nvim": {
       "type": "Git",
@@ -2599,9 +2599,9 @@
         "repo": "nvim-lspconfig"
       },
       "branch": "master",
-      "revision": "9962e25a23f0e992116b99a9a6400947d5a7177b",
-      "url": "https://github.com/neovim/nvim-lspconfig/archive/9962e25a23f0e992116b99a9a6400947d5a7177b.tar.gz",
-      "hash": "11bbcnq1yv8gzvwhsb85s166sm9sn7vb7dhih79l2406b4674mxg"
+      "revision": "bf81bef7d75a0f4a0cf61462b318ea00b3c97cc8",
+      "url": "https://github.com/neovim/nvim-lspconfig/archive/bf81bef7d75a0f4a0cf61462b318ea00b3c97cc8.tar.gz",
+      "hash": "1r37w4wgmmrwmjyhixfvvykzg0czxxj2ybz6h7gf527c95qvaxy1"
     },
     "nvim-navbuddy": {
       "type": "Git",
@@ -3799,9 +3799,9 @@
         "repo": "vim-dadbod-ui"
       },
       "branch": "master",
-      "revision": "65454e2011c029922c2c972d63f8bf04282de033",
-      "url": "https://github.com/kristijanhusak/vim-dadbod-ui/archive/65454e2011c029922c2c972d63f8bf04282de033.tar.gz",
-      "hash": "09mjpdqpgcal4ggjb2kynq07xiyh2q1w0lxg0ql3b0r2gy4nwzzb"
+      "revision": "f4d37b7312ae6489e5c04bee654ca521baac188a",
+      "url": "https://github.com/kristijanhusak/vim-dadbod-ui/archive/f4d37b7312ae6489e5c04bee654ca521baac188a.tar.gz",
+      "hash": "13n6jm1ncx9cn0qdr9ck93n92jm36fzvg6miwsppsk5g9icfz147"
     },
     "vim-devicons": {
       "type": "Git",
