@@ -1208,9 +1208,9 @@
         "repo": "flash.nvim"
       },
       "branch": "main",
-      "revision": "56f54e461df1e784dacf6f57e016f5882d854469",
-      "url": "https://github.com/folke/flash.nvim/archive/56f54e461df1e784dacf6f57e016f5882d854469.tar.gz",
-      "hash": "067425794h032h4jh0czb3mmavrlfdnd610qnffb241b2pm2pfcp"
+      "revision": "9cb3cb0343f6c557cbd3b201d82baab439a09ad0",
+      "url": "https://github.com/folke/flash.nvim/archive/9cb3cb0343f6c557cbd3b201d82baab439a09ad0.tar.gz",
+      "hash": "19xk4w35ixaskrpa1hp4jmf3ccwlw6hn32i404zfgby7l8bcdlsc"
     },
     "focus-vim": {
       "type": "Git",
@@ -3115,9 +3115,9 @@
         "repo": "rainbow-delimiters.nvim"
       },
       "branch": "master",
-      "revision": "85b80abaa09cbbc039e3095b2f515b3cf8cadd11",
-      "url": "https://github.com/HiPhish/rainbow-delimiters.nvim/archive/85b80abaa09cbbc039e3095b2f515b3cf8cadd11.tar.gz",
-      "hash": "0k1hqjyr9xxbg2087qssglv6dgnq81w671d3rqn7lxnprmidfqfd"
+      "revision": "68a869ec386df5b8fef9ce9907c6c0850400e205",
+      "url": "https://github.com/HiPhish/rainbow-delimiters.nvim/archive/68a869ec386df5b8fef9ce9907c6c0850400e205.tar.gz",
+      "hash": "0cxcv2r53jq3aw53mv2j4izc0ybiwp0h0n2dijjycrrsh7zwmqhd"
     },
     "refactoring-nvim": {
       "type": "Git",
