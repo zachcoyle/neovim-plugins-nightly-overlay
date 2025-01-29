@@ -2827,9 +2827,9 @@
         "repo": "nvim-ufo"
       },
       "branch": "main",
-      "revision": "edcb48240dcd0d77f3429b1858317acb7f8702b4",
-      "url": "https://github.com/kevinhwang91/nvim-ufo/archive/edcb48240dcd0d77f3429b1858317acb7f8702b4.tar.gz",
-      "hash": "1bld7q11w68laicv707jrb53f724ipccjy5k5jcblx847q3fsrwx"
+      "revision": "a8e039806794ebad4f501a25c6213eb841c1949c",
+      "url": "https://github.com/kevinhwang91/nvim-ufo/archive/a8e039806794ebad4f501a25c6213eb841c1949c.tar.gz",
+      "hash": "13i0rnzdr83dj5vvk47kv991sgm2qw7q2ipz4vpwsdibrcwc48fs"
     },
     "nvim-web-devicons": {
       "type": "Git",
@@ -2863,9 +2863,9 @@
         "repo": "octo.nvim"
       },
       "branch": "master",
-      "revision": "d66d886f1ec889d63ac29cb818d22931948450de",
-      "url": "https://github.com/pwntester/octo.nvim/archive/d66d886f1ec889d63ac29cb818d22931948450de.tar.gz",
-      "hash": "0d1plzsbzgi2g6pzcg0xd2h2aafkvmg4q5wrrw8xkk0nyrscv5gc"
+      "revision": "876e6f2e3f60463c75c6777b02f92108c399d69b",
+      "url": "https://github.com/pwntester/octo.nvim/archive/876e6f2e3f60463c75c6777b02f92108c399d69b.tar.gz",
+      "hash": "1ismq8h2r1vghfdjsxwhm2nyyvbvy4848xm95lw7dp1bqzarl22z"
     },
     "oil-nvim": {
       "type": "Git",
