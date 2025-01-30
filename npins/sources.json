@@ -1891,9 +1891,9 @@
         "repo": "markview.nvim"
       },
       "branch": "main",
-      "revision": "d231b66c440dbd29f7f0142f6bba33dd131834b9",
-      "url": "https://github.com/OXY2DEV/markview.nvim/archive/d231b66c440dbd29f7f0142f6bba33dd131834b9.tar.gz",
-      "hash": "1k5pa4y8zmvmh703xi9wwm9p3fpnkwq4zvb6yrgbcqllwjiiy46c"
+      "revision": "5b7b6e4a6f0e61ccd3bc21d20be94565c40fa9f8",
+      "url": "https://github.com/OXY2DEV/markview.nvim/archive/5b7b6e4a6f0e61ccd3bc21d20be94565c40fa9f8.tar.gz",
+      "hash": "084pbjd0q8g4vydg8h1vh5rfrg5hgsvlfam6mifaw8b2gc065nm5"
     },
     "melange": {
       "type": "Git",
@@ -2923,9 +2923,9 @@
         "repo": "orgmode"
       },
       "branch": "master",
-      "revision": "323eae88a76090ab4fc19a8eeeed4b92cbc8fca3",
-      "url": "https://github.com/nvim-orgmode/orgmode/archive/323eae88a76090ab4fc19a8eeeed4b92cbc8fca3.tar.gz",
-      "hash": "0zh6c11fd2jxcd7cr3jmx5f7z1aids41j05wqk82gxhmzcfqqx4k"
+      "revision": "d56c691bd2f73ed37e3a40f0737e27319ef0c64a",
+      "url": "https://github.com/nvim-orgmode/orgmode/archive/d56c691bd2f73ed37e3a40f0737e27319ef0c64a.tar.gz",
+      "hash": "03nbigl956xf0l8czvnj47v6x8zhffhxiwg0agnssyl04cx66bav"
     },
     "overseer-nvim": {
       "type": "Git",
