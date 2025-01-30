@@ -1915,9 +1915,9 @@
         "repo": "mini.nvim"
       },
       "branch": "main",
-      "revision": "12ebac8280869048c286d13bd35cfa6653e07642",
-      "url": "https://github.com/echasnovski/mini.nvim/archive/12ebac8280869048c286d13bd35cfa6653e07642.tar.gz",
-      "hash": "0x8r7axwdbzz2fif67qc2dhsv4ivpbzhfa8bl7jdp6mgckyxmxy1"
+      "revision": "3e3f82c36fcf95b7d434e8b97ebe42a997ee9c4c",
+      "url": "https://github.com/echasnovski/mini.nvim/archive/3e3f82c36fcf95b7d434e8b97ebe42a997ee9c4c.tar.gz",
+      "hash": "06zppfvp661hvx5zz8jz9yp0dm1d1alaclva1wwxld4ccb79f3ap"
     },
     "mkdnflow-nvim": {
       "type": "Git",
@@ -2527,9 +2527,9 @@
         "repo": "nvim-dap"
       },
       "branch": "master",
-      "revision": "ead0de6eac91a555b714bfd7d28959eeecfb96f9",
-      "url": "https://github.com/mfussenegger/nvim-dap/archive/ead0de6eac91a555b714bfd7d28959eeecfb96f9.tar.gz",
-      "hash": "123kbf3s4c8gwh3bvah8zsikvwza0bp6lyzyndakxy02cc1g0jcv"
+      "revision": "b4f27d451c187de912fa8d3229025a952917eb9e",
+      "url": "https://github.com/mfussenegger/nvim-dap/archive/b4f27d451c187de912fa8d3229025a952917eb9e.tar.gz",
+      "hash": "1pij1d5b4l4rr1qjrk9fffhziz9ns0jrv1lv0kzsk3hn25jmc6wl"
     },
     "nvim-dap-virtual-text": {
       "type": "Git",
