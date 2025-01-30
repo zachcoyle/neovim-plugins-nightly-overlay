@@ -1664,8 +1664,8 @@
         "repo": "lazy.nvim"
       },
       "branch": "main",
-      "revision": "d8f26efd456190241afd1b0f5235fe6fdba13d4a",
-      "url": "https://github.com/folke/lazy.nvim/archive/d8f26efd456190241afd1b0f5235fe6fdba13d4a.tar.gz",
+      "revision": "5586fda88de57b33b723f75d5327b36165663077",
+      "url": "https://github.com/folke/lazy.nvim/archive/5586fda88de57b33b723f75d5327b36165663077.tar.gz",
       "hash": "1pfjip3xrnxwz8cxhi3mwbqimfkmwqbbnp07cfzjwh16yd86yypf"
     },
     "lazygit-nvim": {
@@ -1891,9 +1891,9 @@
         "repo": "markview.nvim"
       },
       "branch": "main",
-      "revision": "5b7b6e4a6f0e61ccd3bc21d20be94565c40fa9f8",
-      "url": "https://github.com/OXY2DEV/markview.nvim/archive/5b7b6e4a6f0e61ccd3bc21d20be94565c40fa9f8.tar.gz",
-      "hash": "084pbjd0q8g4vydg8h1vh5rfrg5hgsvlfam6mifaw8b2gc065nm5"
+      "revision": "f933b4597738fec4014d25f11511bcbe2d1e1a32",
+      "url": "https://github.com/OXY2DEV/markview.nvim/archive/f933b4597738fec4014d25f11511bcbe2d1e1a32.tar.gz",
+      "hash": "1cj56blwvwzvz75rcxhr7x18zihnqi8d7w46w9qb974s9y2vbhb5"
     },
     "melange": {
       "type": "Git",
