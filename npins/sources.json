@@ -1004,9 +1004,9 @@
         "repo": "coq_nvim"
       },
       "branch": "coq",
-      "revision": "df646c5d39a949009d9109c1a2ec2725819726ff",
-      "url": "https://github.com/ms-jpq/coq_nvim/archive/df646c5d39a949009d9109c1a2ec2725819726ff.tar.gz",
-      "hash": "1xcnbiq37sg1ipv5kjw61yli8qj5adzf0fqbhqsdvlxmfplwvv8k"
+      "revision": "6237214d63624cd253d6e904f95476747d873cc1",
+      "url": "https://github.com/ms-jpq/coq_nvim/archive/6237214d63624cd253d6e904f95476747d873cc1.tar.gz",
+      "hash": "0qfa4sxyc5whrjvc1wfm0kqb3wwqjmr5v054y75p0gn4zqsicgpa"
     },
     "crates-nvim": {
       "type": "Git",
@@ -1472,9 +1472,9 @@
         "repo": "heirline.nvim"
       },
       "branch": "master",
-      "revision": "cc359b628266cb9a84b2d71c883f2b99e16473a0",
-      "url": "https://github.com/rebelot/heirline.nvim/archive/cc359b628266cb9a84b2d71c883f2b99e16473a0.tar.gz",
-      "hash": "0gymrk7jjf6pi3nalyckcdyq28z8fkhi4a6wmqm3wqm2by1q5r4v"
+      "revision": "af3f441ea10f96105e1af14cd37bf213533812d2",
+      "url": "https://github.com/rebelot/heirline.nvim/archive/af3f441ea10f96105e1af14cd37bf213533812d2.tar.gz",
+      "hash": "1qmjw07da7k6h5wqqm6lqkxli964bdrl5ghbvqmyk18gmpqci3jm"
     },
     "helpview-nvim": {
       "type": "Git",
