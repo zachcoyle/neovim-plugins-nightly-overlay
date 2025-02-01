@@ -2839,9 +2839,9 @@
         "repo": "nvim-web-devicons"
       },
       "branch": "master",
-      "revision": "1c9136332840edee0c593f2f4f89598c8ed97f5f",
-      "url": "https://github.com/kyazdani42/nvim-web-devicons/archive/1c9136332840edee0c593f2f4f89598c8ed97f5f.tar.gz",
-      "hash": "10liz7hpdb5vavn45hpqn0c39s0cqdns8dygr1472b5fyxh5ld29"
+      "revision": "402377242b04be3f4f0f3720bd952df86e946c30",
+      "url": "https://github.com/kyazdani42/nvim-web-devicons/archive/402377242b04be3f4f0f3720bd952df86e946c30.tar.gz",
+      "hash": "09m43n5az5jhhk1jjxc0rbllh9b5gljhyn2kmqi2xijkrribrcc5"
     },
     "obsidian-nvim": {
       "type": "Git",
@@ -2863,9 +2863,9 @@
         "repo": "octo.nvim"
       },
       "branch": "master",
-      "revision": "5594213f6c141e977327d49e17d50845fc7d0af0",
-      "url": "https://github.com/pwntester/octo.nvim/archive/5594213f6c141e977327d49e17d50845fc7d0af0.tar.gz",
-      "hash": "1hvsl7lnq1wcj72aj4i72mkzlv1gkqyk8g5hr8wzw64bjc0q09c2"
+      "revision": "7b26b8d9face45c0e57d65c3a86657ccba85f344",
+      "url": "https://github.com/pwntester/octo.nvim/archive/7b26b8d9face45c0e57d65c3a86657ccba85f344.tar.gz",
+      "hash": "0xl7crf85j1ywpw015a7jazny709drir93240ny7c6jxgh573p5k"
     },
     "oil-nvim": {
       "type": "Git",
