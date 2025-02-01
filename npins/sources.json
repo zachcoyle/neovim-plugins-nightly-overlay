@@ -92,9 +92,9 @@
         "repo": "auto-session"
       },
       "branch": "main",
-      "revision": "41ac59e5f400b3f4f9b11e478ccf6e077de5f6c7",
-      "url": "https://github.com/rmagatti/auto-session/archive/41ac59e5f400b3f4f9b11e478ccf6e077de5f6c7.tar.gz",
-      "hash": "0s7jq7pybqff9dz2aa7yd789vl0ri2w4qccv2kchgwx411qn14sc"
+      "revision": "82630e2f70be140f8dcc75a12e2ee2839e8488c2",
+      "url": "https://github.com/rmagatti/auto-session/archive/82630e2f70be140f8dcc75a12e2ee2839e8488c2.tar.gz",
+      "hash": "1l3z3620s1dx72kyq2063mf6cqvziawm54f6fbn74gpxcvi8iqp7"
     },
     "autoclose-nvim": {
       "type": "Git",
@@ -2923,9 +2923,9 @@
         "repo": "orgmode"
       },
       "branch": "master",
-      "revision": "63d2cbbf90cbcc1c94b853caef0801751f9230e9",
-      "url": "https://github.com/nvim-orgmode/orgmode/archive/63d2cbbf90cbcc1c94b853caef0801751f9230e9.tar.gz",
-      "hash": "0sr6xnr00bkjjx6qsh7rrij1072dard3jzqxdf0p4bgx5xr2rj17"
+      "revision": "e42150494290ab3163d42c7df776d61d3e872265",
+      "url": "https://github.com/nvim-orgmode/orgmode/archive/e42150494290ab3163d42c7df776d61d3e872265.tar.gz",
+      "hash": "01rri5d9sc4ng3bs0v4nvfaf9f93ihjnpi0ngpvvkq5ij6wwv2js"
     },
     "overseer-nvim": {
       "type": "Git",
