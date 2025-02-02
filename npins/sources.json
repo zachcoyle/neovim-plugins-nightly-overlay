@@ -2755,9 +2755,9 @@
         "repo": "nvim-treesitter"
       },
       "branch": "master",
-      "revision": "2497d9558d12023e058de2782fc25bc4f405f870",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/2497d9558d12023e058de2782fc25bc4f405f870.tar.gz",
-      "hash": "1a0n3976r82zb6w33lx0711q35alqhzbd24sasa22wvknzfiza0l"
+      "revision": "1545e964e299176375efd84867dcf82fbff52ee2",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/1545e964e299176375efd84867dcf82fbff52ee2.tar.gz",
+      "hash": "006y722nrmg737nc79qs5cifj1y7dh9gwd9rjj7xjk7lzyd3k7zz"
     },
     "nvim-treesitter-context": {
       "type": "Git",
@@ -2863,9 +2863,9 @@
         "repo": "octo.nvim"
       },
       "branch": "master",
-      "revision": "04c9ef0938b9cfe0ac86a5995ecfac8401306f8b",
-      "url": "https://github.com/pwntester/octo.nvim/archive/04c9ef0938b9cfe0ac86a5995ecfac8401306f8b.tar.gz",
-      "hash": "1vsp677mpbrkg5zr6hgrqbwk0x7yswrs8xigb09b62pw7nfbci4p"
+      "revision": "781545b926d9b8db37f149022eb349739ed5ca33",
+      "url": "https://github.com/pwntester/octo.nvim/archive/781545b926d9b8db37f149022eb349739ed5ca33.tar.gz",
+      "hash": "0ixly0pcjp4dg9l4w13qm6kgphlzd8mdyx0j77ajznl0dx17g5iw"
     },
     "oil-nvim": {
       "type": "Git",
