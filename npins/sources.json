@@ -3139,9 +3139,9 @@
         "repo": "render-markdown.nvim"
       },
       "branch": "main",
-      "revision": "46b0d4125fa5ef6d93a867d540f7c422c339ecc2",
-      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/46b0d4125fa5ef6d93a867d540f7c422c339ecc2.tar.gz",
-      "hash": "18jgbpmnybbzwwa0psn7k8hzgivpmn3brj1znj2fibqzzsiad97d"
+      "revision": "2a9e0ab6043bfb4996ce6a6a35594ab357e5d299",
+      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/2a9e0ab6043bfb4996ce6a6a35594ab357e5d299.tar.gz",
+      "hash": "1kf6gais6ki5xfkjmb9iknzh572xvsni7wx8zgk0hnsfcspxv5rd"
     },
     "rest-nvim": {
       "type": "Git",
@@ -3163,9 +3163,9 @@
         "repo": "neovim"
       },
       "branch": "main",
-      "revision": "42f0724e0bca9f57f0bcfa688787c37b8d4befe8",
-      "url": "https://github.com/rose-pine/neovim/archive/42f0724e0bca9f57f0bcfa688787c37b8d4befe8.tar.gz",
-      "hash": "18qgpzw02pxrivh71p9qszzvkp896wcdsc9w7871wbdvnljzpzdc"
+      "revision": "22ba2bb523cce822d72a77a5cd80656da9d62293",
+      "url": "https://github.com/rose-pine/neovim/archive/22ba2bb523cce822d72a77a5cd80656da9d62293.tar.gz",
+      "hash": "1zcwl7rpjqq8mdzc8pjqxf0b69mrkpj18qsx827zzi6jl9q7b9dl"
     },
     "scope-nvim": {
       "type": "Git",
