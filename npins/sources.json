@@ -2743,9 +2743,9 @@
         "repo": "nvim-tree.lua"
       },
       "branch": "master",
-      "revision": "d05881f65f0a653db8d830ccc4d2e07d6a720628",
-      "url": "https://github.com/nvim-tree/nvim-tree.lua/archive/d05881f65f0a653db8d830ccc4d2e07d6a720628.tar.gz",
-      "hash": "1kpl7cjsl31mma8q3h27482lb8ivc04pb7fc1n1hzfr3lcv88n62"
+      "revision": "70825f23db61ecd900c4cfea169bffe931926a9d",
+      "url": "https://github.com/nvim-tree/nvim-tree.lua/archive/70825f23db61ecd900c4cfea169bffe931926a9d.tar.gz",
+      "hash": "04hly10lx3fdnvgr781k24i0vym1110639csc2v5bzxp7pngihlp"
     },
     "nvim-treesitter": {
       "type": "Git",
@@ -3859,9 +3859,9 @@
         "repo": "vim-fugitive"
       },
       "branch": "master",
-      "revision": "d74a7cff4cfcf84f83cc7eccfa365488f3bbabc2",
-      "url": "https://github.com/tpope/vim-fugitive/archive/d74a7cff4cfcf84f83cc7eccfa365488f3bbabc2.tar.gz",
-      "hash": "1pzsz49915rixx8wm0rf580sg23pfi7dvwxmpqw0xxb87r9jxhkn"
+      "revision": "b068eaf1e6cbe35d1ac100d435cd7f7b74a5c87d",
+      "url": "https://github.com/tpope/vim-fugitive/archive/b068eaf1e6cbe35d1ac100d435cd7f7b74a5c87d.tar.gz",
+      "hash": "180q2car9r0v5x9d1ihdf0vnyhb1jn0bd9d77j730r9bzz4cpxyw"
     },
     "vim-godot": {
       "type": "Git",
