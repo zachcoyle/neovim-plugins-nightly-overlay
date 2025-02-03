@@ -3163,9 +3163,9 @@
         "repo": "neovim"
       },
       "branch": "main",
-      "revision": "22ba2bb523cce822d72a77a5cd80656da9d62293",
-      "url": "https://github.com/rose-pine/neovim/archive/22ba2bb523cce822d72a77a5cd80656da9d62293.tar.gz",
-      "hash": "1zcwl7rpjqq8mdzc8pjqxf0b69mrkpj18qsx827zzi6jl9q7b9dl"
+      "revision": "d5f7c2ee7b5c00082224e40903c850aa1b55f3ef",
+      "url": "https://github.com/rose-pine/neovim/archive/d5f7c2ee7b5c00082224e40903c850aa1b55f3ef.tar.gz",
+      "hash": "0ksjz3p220gffbq2wls2j9gg9xmsm95br7grm4wrh1cgs0p5q9f2"
     },
     "scope-nvim": {
       "type": "Git",
