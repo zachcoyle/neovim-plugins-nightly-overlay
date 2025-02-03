@@ -44,9 +44,9 @@
         "repo": "SchemaStore.nvim"
       },
       "branch": "main",
-      "revision": "4244700eff0a9258b88f48b2b0d0339dea3338af",
-      "url": "https://github.com/b0o/SchemaStore.nvim/archive/4244700eff0a9258b88f48b2b0d0339dea3338af.tar.gz",
-      "hash": "0ixqjhdfv0jbw0fl07gz0p0dr0975isn785lg1gknzcnvfv467xa"
+      "revision": "a5a94907ea85e35a359be0763233e9055a325d36",
+      "url": "https://github.com/b0o/SchemaStore.nvim/archive/a5a94907ea85e35a359be0763233e9055a325d36.tar.gz",
+      "hash": "066dljk60niyajiwn2p24x3zrbxsxamw8zfkzyv3q3j7y51jlwr1"
     },
     "alpha-nvim": {
       "type": "Git",
@@ -2551,9 +2551,9 @@
         "repo": "nvim-jdtls"
       },
       "branch": "master",
-      "revision": "f4309401736254cdd534e826f1b84b22f229fa55",
-      "url": "https://github.com/mfussenegger/nvim-jdtls/archive/f4309401736254cdd534e826f1b84b22f229fa55.tar.gz",
-      "hash": "1pr3nj9j3rp98x8g7aq0a80bi5xz9cggwvnflcfspf6w709flrdk"
+      "revision": "3cdd09f336ab7169476b936c0825213d86d32e41",
+      "url": "https://github.com/mfussenegger/nvim-jdtls/archive/3cdd09f336ab7169476b936c0825213d86d32e41.tar.gz",
+      "hash": "0r50gnybwbxnmbmn0wx4ly0r00m0mpcrnffp8fm2fq2a22p7dn67"
     },
     "nvim-lastplace": {
       "type": "Git",
@@ -2923,9 +2923,9 @@
         "repo": "orgmode"
       },
       "branch": "master",
-      "revision": "535701ddc97464bc14e1c5478e4e448df0be2850",
-      "url": "https://github.com/nvim-orgmode/orgmode/archive/535701ddc97464bc14e1c5478e4e448df0be2850.tar.gz",
-      "hash": "1xiq9qdcm94zv2ppijcf6a4vpp5cwlpp1gnf0g1qnak3fgd083k4"
+      "revision": "c6d3dc8c37a641b64b74b8941263c0293935efe9",
+      "url": "https://github.com/nvim-orgmode/orgmode/archive/c6d3dc8c37a641b64b74b8941263c0293935efe9.tar.gz",
+      "hash": "1nbvk2w9asn02dvc4mdjk9k03g9wb1ih4j3fnrsgvihlglp77y16"
     },
     "overseer-nvim": {
       "type": "Git",
