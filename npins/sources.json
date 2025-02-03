@@ -4027,9 +4027,9 @@
         "repo": "vim-slime"
       },
       "branch": "main",
-      "revision": "5280fdf24888b1e31409198f284ad2d3a88c692e",
-      "url": "https://github.com/jpalardy/vim-slime/archive/5280fdf24888b1e31409198f284ad2d3a88c692e.tar.gz",
-      "hash": "1qns7hmvwn9w7hpbzy8hj09gfwik7bl1p55gn1hjq1yila6yn799"
+      "revision": "9bc2e13f8441b09fd7352a11629a4da0ea4cb058",
+      "url": "https://github.com/jpalardy/vim-slime/archive/9bc2e13f8441b09fd7352a11629a4da0ea4cb058.tar.gz",
+      "hash": "0j4anbhpyyfnb846n7yhx2smr6q7ik11272zyfh7jwdr699c2dcj"
     },
     "vim-startify": {
       "type": "Git",
