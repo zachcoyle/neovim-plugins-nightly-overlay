@@ -116,9 +116,9 @@
         "repo": "avante.nvim"
       },
       "branch": "main",
-      "revision": "ffb2a4f48d56d7608b3c4a61fed60a0b6210c19f",
-      "url": "https://github.com/yetone/avante.nvim/archive/ffb2a4f48d56d7608b3c4a61fed60a0b6210c19f.tar.gz",
-      "hash": "1s7281hdy4xlb0cd71s1ckf8ypkbcvn77wljyaydz3azi1v209kz"
+      "revision": "85645fd9abd8b8d66013caa56ae9045afbf2978b",
+      "url": "https://github.com/yetone/avante.nvim/archive/85645fd9abd8b8d66013caa56ae9045afbf2978b.tar.gz",
+      "hash": "0wmj7cqsvybp84lm6xy8drsxdzj8xfsik13hrhqx1nnxqd44pmqp"
     },
     "baleia-nvim": {
       "type": "Git",
@@ -1676,9 +1676,9 @@
         "repo": "lazygit.nvim"
       },
       "branch": "main",
-      "revision": "77a0d42943d8265271e6e6beaed72da54eeb17e7",
-      "url": "https://github.com/kdheepak/lazygit.nvim/archive/77a0d42943d8265271e6e6beaed72da54eeb17e7.tar.gz",
-      "hash": "0hhz3zzjbd8chn4dzbpvv09rxwf9h2brvzxlcp3rv9cglk72i8ym"
+      "revision": "adc37c5a6d7d6e8d0a039f08f3c7837971a1c77a",
+      "url": "https://github.com/kdheepak/lazygit.nvim/archive/adc37c5a6d7d6e8d0a039f08f3c7837971a1c77a.tar.gz",
+      "hash": "0xaf4mrqmq9486ibmwq5jf0aakyblhaviv6w1a8fkyvay99p853k"
     },
     "lean-nvim": {
       "type": "Git",
@@ -3163,9 +3163,9 @@
         "repo": "neovim"
       },
       "branch": "main",
-      "revision": "d5f7c2ee7b5c00082224e40903c850aa1b55f3ef",
-      "url": "https://github.com/rose-pine/neovim/archive/d5f7c2ee7b5c00082224e40903c850aa1b55f3ef.tar.gz",
-      "hash": "0ksjz3p220gffbq2wls2j9gg9xmsm95br7grm4wrh1cgs0p5q9f2"
+      "revision": "00ec4cec924b624920baac9d42eac02e1efcae76",
+      "url": "https://github.com/rose-pine/neovim/archive/00ec4cec924b624920baac9d42eac02e1efcae76.tar.gz",
+      "hash": "1crb8zcn2wjhjygahyirm0bnj3p5bdj1k5r71pphhj2zlyr4nh5n"
     },
     "scope-nvim": {
       "type": "Git",
