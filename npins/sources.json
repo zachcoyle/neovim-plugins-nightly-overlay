@@ -20,9 +20,9 @@
         "repo": "CopilotChat.nvim"
       },
       "branch": "main",
-      "revision": "cb73689b1aec60ed90e65c52581da135592a1cf1",
-      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/cb73689b1aec60ed90e65c52581da135592a1cf1.tar.gz",
-      "hash": "052whz5gwivxsrb7dq45y7j7wrm5ah0ii4w1plhq7pd8db5jpyi6"
+      "revision": "ded101f2cc95962d1bcd904044ec41481f469da6",
+      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/ded101f2cc95962d1bcd904044ec41481f469da6.tar.gz",
+      "hash": "0123yywvm6744bm84hs8w687pjfq4pgjvk549dw38zg1ichs1xaz"
     },
     "Preview-nvim": {
       "type": "Git",
@@ -1028,9 +1028,9 @@
         "repo": "cyberdream.nvim"
       },
       "branch": "main",
-      "revision": "5b42c2e6764312c166c25bc79dfcbaadac2d5425",
-      "url": "https://github.com/scottmckendry/cyberdream.nvim/archive/5b42c2e6764312c166c25bc79dfcbaadac2d5425.tar.gz",
-      "hash": "0wwd3qrbv3cdhas6vicl3m5wvxhl18r85j5khf3yslbppzjfnfr6"
+      "revision": "05d44f6a0fa9c2690fd027424aea73eedf12956f",
+      "url": "https://github.com/scottmckendry/cyberdream.nvim/archive/05d44f6a0fa9c2690fd027424aea73eedf12956f.tar.gz",
+      "hash": "1kna967wr97ms6r7sjrp6fhd34sf1dqwyfm45lghgpcasaip03kk"
     },
     "dashboard-nvim": {
       "type": "Git",
@@ -2575,9 +2575,9 @@
         "repo": "nvim-lightbulb"
       },
       "branch": "master",
-      "revision": "416fd563117f4fd21969706e19d463e81fbf4691",
-      "url": "https://github.com/kosayoda/nvim-lightbulb/archive/416fd563117f4fd21969706e19d463e81fbf4691.tar.gz",
-      "hash": "0s50vq1y77j9fr75ih8qwgjsjs0c2zrh9j1816j9z3pfcrsba7sj"
+      "revision": "f7f61c47af5bf701b1f4af127bc565ab6491acbf",
+      "url": "https://github.com/kosayoda/nvim-lightbulb/archive/f7f61c47af5bf701b1f4af127bc565ab6491acbf.tar.gz",
+      "hash": "1wg7yib9qn8ybsk615kw1g8b3g5zbpdldp6bb7ax0jwxsn5nwwfb"
     },
     "nvim-lint": {
       "type": "Git",
