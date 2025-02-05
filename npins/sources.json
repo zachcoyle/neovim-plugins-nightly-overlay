@@ -116,9 +116,9 @@
         "repo": "avante.nvim"
       },
       "branch": "main",
-      "revision": "e1125fca54984617992e88ebf7c1104af5d79609",
-      "url": "https://github.com/yetone/avante.nvim/archive/e1125fca54984617992e88ebf7c1104af5d79609.tar.gz",
-      "hash": "1458jyi4qbh8c2fd8mfwsdgqhw6arh1scdj7rb3nzzprmkqinv07"
+      "revision": "d1cc23fa5422baa25b4e08ec21adda581738eca5",
+      "url": "https://github.com/yetone/avante.nvim/archive/d1cc23fa5422baa25b4e08ec21adda581738eca5.tar.gz",
+      "hash": "0dv065vx649j2j5q4hl4pzmapmm5i82fpm1886l7fsp46vqmp8d4"
     },
     "baleia-nvim": {
       "type": "Git",
@@ -1004,9 +1004,9 @@
         "repo": "coq_nvim"
       },
       "branch": "coq",
-      "revision": "6237214d63624cd253d6e904f95476747d873cc1",
-      "url": "https://github.com/ms-jpq/coq_nvim/archive/6237214d63624cd253d6e904f95476747d873cc1.tar.gz",
-      "hash": "0qfa4sxyc5whrjvc1wfm0kqb3wwqjmr5v054y75p0gn4zqsicgpa"
+      "revision": "9e77f1f6196c4d4c17160aae82e18ae3f4916ce6",
+      "url": "https://github.com/ms-jpq/coq_nvim/archive/9e77f1f6196c4d4c17160aae82e18ae3f4916ce6.tar.gz",
+      "hash": "1bkfwk7ab66wpkaiajgwghc5g851s1gbmwxwx6gzmxy6khc47vw6"
     },
     "crates-nvim": {
       "type": "Git",
@@ -1484,9 +1484,9 @@
         "repo": "helpview.nvim"
       },
       "branch": "main",
-      "revision": "2a011d35b0da3877e63c7a562e48b80fb6f62b88",
-      "url": "https://github.com/OXY2DEV/helpview.nvim/archive/2a011d35b0da3877e63c7a562e48b80fb6f62b88.tar.gz",
-      "hash": "02l3286dfyzd8ckicavg9gh86s0aj94wzzwlpl97mynmccml8bxq"
+      "revision": "2a77c8fc2992054fc650fc677ee83a37da5df783",
+      "url": "https://github.com/OXY2DEV/helpview.nvim/archive/2a77c8fc2992054fc650fc677ee83a37da5df783.tar.gz",
+      "hash": "17f5w2a625wzn7grfpj3v69lpzk4lkaf6s27d9jqi8rv5sqj9as6"
     },
     "hex-nvim": {
       "type": "Git",
