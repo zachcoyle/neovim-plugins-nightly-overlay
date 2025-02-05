@@ -1484,9 +1484,9 @@
         "repo": "helpview.nvim"
       },
       "branch": "main",
-      "revision": "857aec1dab331252910da158ab6cbfbc65239c71",
-      "url": "https://github.com/OXY2DEV/helpview.nvim/archive/857aec1dab331252910da158ab6cbfbc65239c71.tar.gz",
-      "hash": "07qj07qdrv9h5f37vv4f0aic2gkwr052fv6cb981ibyaabzmb5n7"
+      "revision": "f748a5028b910c837de87959d1d0d7b1c7f267d0",
+      "url": "https://github.com/OXY2DEV/helpview.nvim/archive/f748a5028b910c837de87959d1d0d7b1c7f267d0.tar.gz",
+      "hash": "0v9d3znwzw3ljyy91m2nw47vv4kq75qv17sh63wg1b3pc8bfhvz1"
     },
     "hex-nvim": {
       "type": "Git",
