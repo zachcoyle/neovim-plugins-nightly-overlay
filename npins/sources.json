@@ -1484,9 +1484,9 @@
         "repo": "helpview.nvim"
       },
       "branch": "main",
-      "revision": "2d1ebdb5611a19ba3e3ec59ca376744b82934251",
-      "url": "https://github.com/OXY2DEV/helpview.nvim/archive/2d1ebdb5611a19ba3e3ec59ca376744b82934251.tar.gz",
-      "hash": "058y1gml3s0yb7djalmh9qzcl17qfnhgamg56ayf9whlwgrn1qkn"
+      "revision": "2a011d35b0da3877e63c7a562e48b80fb6f62b88",
+      "url": "https://github.com/OXY2DEV/helpview.nvim/archive/2a011d35b0da3877e63c7a562e48b80fb6f62b88.tar.gz",
+      "hash": "02l3286dfyzd8ckicavg9gh86s0aj94wzzwlpl97mynmccml8bxq"
     },
     "hex-nvim": {
       "type": "Git",
@@ -1688,9 +1688,9 @@
         "repo": "lean.nvim"
       },
       "branch": "main",
-      "revision": "e9d9a35c364b2bae98b343a63974a4de916ea091",
-      "url": "https://github.com/Julian/lean.nvim/archive/e9d9a35c364b2bae98b343a63974a4de916ea091.tar.gz",
-      "hash": "0l9ypm8smh21dqa1v8aji2l56j7512f7mib1bfwwkdhifdmgd0yg"
+      "revision": "3a9f1611e4cb7b0adf24d91415d774c3127a5541",
+      "url": "https://github.com/Julian/lean.nvim/archive/3a9f1611e4cb7b0adf24d91415d774c3127a5541.tar.gz",
+      "hash": "16zr4h8kyrb8aljv7wgml5r06pcman73riwpsb8skhaiwiqvrz64"
     },
     "leap-nvim": {
       "type": "Git",
