@@ -1112,9 +1112,9 @@
         "repo": "dropbar.nvim"
       },
       "branch": "master",
-      "revision": "a2b7da2afdc8ff85af99b03d042aa79136ce00c0",
-      "url": "https://github.com/Bekaboo/dropbar.nvim/archive/a2b7da2afdc8ff85af99b03d042aa79136ce00c0.tar.gz",
-      "hash": "1ind6qq5k7lx7x3zsirh0jl926k1pr1vl2fjc4nnb72bn63ab5gl"
+      "revision": "c824f033d0e6b3a4cce550d7a767a516b99cee56",
+      "url": "https://github.com/Bekaboo/dropbar.nvim/archive/c824f033d0e6b3a4cce550d7a767a516b99cee56.tar.gz",
+      "hash": "1pq2gnk54xh967f2sgvnh1jc0myym20lhqzd3lbzd6j57ym9pl30"
     },
     "earthly-vim": {
       "type": "Git",
@@ -1891,9 +1891,9 @@
         "repo": "markview.nvim"
       },
       "branch": "main",
-      "revision": "a39d03f8445971c4a250396a44b23fa9c6fd8921",
-      "url": "https://github.com/OXY2DEV/markview.nvim/archive/a39d03f8445971c4a250396a44b23fa9c6fd8921.tar.gz",
-      "hash": "1k52nmdw66l2x1n9mysqx99iw651x2all1sr9mbgn1xr08phr0p8"
+      "revision": "6fe784c278eb38e4d62e565e85d1e04c384e5fb1",
+      "url": "https://github.com/OXY2DEV/markview.nvim/archive/6fe784c278eb38e4d62e565e85d1e04c384e5fb1.tar.gz",
+      "hash": "1na262ifjrh4w16y93cy147bfgmkxdhzyh9i071c5d6595k4rlfs"
     },
     "melange": {
       "type": "Git",
