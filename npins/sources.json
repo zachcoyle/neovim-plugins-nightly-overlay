@@ -1268,9 +1268,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "0bdf2d97f32f5a5addf8b7fca30d155fb99f1894",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/0bdf2d97f32f5a5addf8b7fca30d155fb99f1894.tar.gz",
-      "hash": "171qbbyl9aag87ciz9szm9n9l77hj9jyzi687vblba2msj0imvgh"
+      "revision": "5140302cdb89cc5bdc13beaa632804f7e4dc1741",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/5140302cdb89cc5bdc13beaa632804f7e4dc1741.tar.gz",
+      "hash": "0mdmnxqz3jycvll8a3r374i3bllb52bwxpag0v8sjpvbn54pppyl"
     },
     "galaxyline-nvim": {
       "type": "Git",
@@ -2047,9 +2047,9 @@
         "repo": "neorg"
       },
       "branch": "main",
-      "revision": "bdb29ea3e069f827d31973bc942c18793ee9fa64",
-      "url": "https://github.com/vhyrro/neorg/archive/bdb29ea3e069f827d31973bc942c18793ee9fa64.tar.gz",
-      "hash": "0hx4kskr61d3yv9sxz8jk4k8izbyqzv72lldf6935lj3pg2yi4r7"
+      "revision": "ec4efa4342ed71a6d04740634bb88c02ebfdc112",
+      "url": "https://github.com/vhyrro/neorg/archive/ec4efa4342ed71a6d04740634bb88c02ebfdc112.tar.gz",
+      "hash": "0pvzdlxyzx5y2q2biq4v2n35h3q1frc9jcyliqjbh6jf1rg752lr"
     },
     "neoscroll-nvim": {
       "type": "Git",
@@ -3139,9 +3139,9 @@
         "repo": "render-markdown.nvim"
       },
       "branch": "main",
-      "revision": "2a9e0ab6043bfb4996ce6a6a35594ab357e5d299",
-      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/2a9e0ab6043bfb4996ce6a6a35594ab357e5d299.tar.gz",
-      "hash": "1kf6gais6ki5xfkjmb9iknzh572xvsni7wx8zgk0hnsfcspxv5rd"
+      "revision": "f2bdf9f866671456f7a6119cc94501048d9d172c",
+      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/f2bdf9f866671456f7a6119cc94501048d9d172c.tar.gz",
+      "hash": "0xyyacgy2nx4dxf9536hsrq1zk9akdy3wwyd834a82ywfxcf6rnl"
     },
     "rest-nvim": {
       "type": "Git",
