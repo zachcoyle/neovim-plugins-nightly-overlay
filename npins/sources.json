@@ -1016,9 +1016,9 @@
         "repo": "crates.nvim"
       },
       "branch": "main",
-      "revision": "bd35b13e94a292ee6e32c351e05ca2202dc9f070",
-      "url": "https://github.com/Saecki/crates.nvim/archive/bd35b13e94a292ee6e32c351e05ca2202dc9f070.tar.gz",
-      "hash": "1hidgw5cld2192ks0n9bnv79dnmf5725igyg97pq2jqvadgdagkn"
+      "revision": "1d92a7f449a2a76d8f4c3459bd98f450e76d2ea3",
+      "url": "https://github.com/Saecki/crates.nvim/archive/1d92a7f449a2a76d8f4c3459bd98f450e76d2ea3.tar.gz",
+      "hash": "1y2d100zrihznhiw5chqj11nfrjkd9rax6aqjdgfb4cd0fa2jgms"
     },
     "cyberdream-nvim": {
       "type": "Git",
@@ -2923,9 +2923,9 @@
         "repo": "orgmode"
       },
       "branch": "master",
-      "revision": "500004ff315475033e3a9247b61addd922d1f5da",
-      "url": "https://github.com/nvim-orgmode/orgmode/archive/500004ff315475033e3a9247b61addd922d1f5da.tar.gz",
-      "hash": "14bnd1cczm27gpzr3rcfbcbhf3i31214jgh2nfb0ldqwxphzn9pp"
+      "revision": "ba7e04ec2d1c35c8701918d1020c757a57ef00d1",
+      "url": "https://github.com/nvim-orgmode/orgmode/archive/ba7e04ec2d1c35c8701918d1020c757a57ef00d1.tar.gz",
+      "hash": "1whh2s8gcmw7c1fm6zpa5hsh8kwpvdgdcyxfk9flsh8lfygfrajj"
     },
     "overseer-nvim": {
       "type": "Git",
