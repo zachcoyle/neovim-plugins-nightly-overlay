@@ -20,9 +20,9 @@
         "repo": "CopilotChat.nvim"
       },
       "branch": "main",
-      "revision": "f02be68e494c49dc858fc4e6e38c5f962cfb37cc",
-      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/f02be68e494c49dc858fc4e6e38c5f962cfb37cc.tar.gz",
-      "hash": "03g74dmp4vv7fzfr0nf9nhrx6g58ahvqi4d2ky8b88lsgkngl2b4"
+      "revision": "dbce8a231d1ac72c68ce00b86b415c9304417102",
+      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/dbce8a231d1ac72c68ce00b86b415c9304417102.tar.gz",
+      "hash": "11vyz8qryys5klwmajyvjmy317psqnp96hxif7makfmy31s89505"
     },
     "Preview-nvim": {
       "type": "Git",
@@ -3199,9 +3199,9 @@
         "repo": "smart-splits.nvim"
       },
       "branch": "master",
-      "revision": "fc7bb00fe67ab504356bed4310d23c2e4cb4b06b",
-      "url": "https://github.com/mrjones2014/smart-splits.nvim/archive/fc7bb00fe67ab504356bed4310d23c2e4cb4b06b.tar.gz",
-      "hash": "113rsdmacmmxrywy3vpmmpgd3qs0kzmm2yci5igp8q37disylbxq"
+      "revision": "7f72bc445106fa041f79ee73e72505c093d0da10",
+      "url": "https://github.com/mrjones2014/smart-splits.nvim/archive/7f72bc445106fa041f79ee73e72505c093d0da10.tar.gz",
+      "hash": "07w9shgccrd96ymgjbrx6mx01x1czc5s3pxpvvfkxdzrr8gqr2w9"
     },
     "smartcolumn-nvim": {
       "type": "Git",
@@ -4219,9 +4219,9 @@
         "repo": "yazi.nvim"
       },
       "branch": "main",
-      "revision": "c5a485f822c786f08f7f2d70c6a307cbd2257b47",
-      "url": "https://github.com/mikavilpas/yazi.nvim/archive/c5a485f822c786f08f7f2d70c6a307cbd2257b47.tar.gz",
-      "hash": "1jg900y5bxasqx06w7hm25b89ilmwd5kcsfvfj7xrfqanhhxdlsg"
+      "revision": "467394adf2e103bb6709318b28205e2030a9cf9d",
+      "url": "https://github.com/mikavilpas/yazi.nvim/archive/467394adf2e103bb6709318b28205e2030a9cf9d.tar.gz",
+      "hash": "0zgmmzj0avgpb9zz4b2mrlx9rlqxknk6qsdwdv6nbc8rjf3n3zbj"
     },
     "yuck-vim": {
       "type": "Git",
