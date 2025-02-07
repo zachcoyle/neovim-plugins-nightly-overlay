@@ -1028,9 +1028,9 @@
         "repo": "cyberdream.nvim"
       },
       "branch": "main",
-      "revision": "78a08cd29b771df35dab118ecc7bfcbcbb75a060",
-      "url": "https://github.com/scottmckendry/cyberdream.nvim/archive/78a08cd29b771df35dab118ecc7bfcbcbb75a060.tar.gz",
-      "hash": "0vky4py9x6sb7y1flhzv734fcdl7hi324p2z642764mach3sdl7g"
+      "revision": "fb103ac42223db3eb1bfbe46553a620fd647eb95",
+      "url": "https://github.com/scottmckendry/cyberdream.nvim/archive/fb103ac42223db3eb1bfbe46553a620fd647eb95.tar.gz",
+      "hash": "02c8gardvpb57qjcn45la6i145z3746z0nhahll1y8rrbng7q1rm"
     },
     "dashboard-nvim": {
       "type": "Git",
@@ -3139,9 +3139,9 @@
         "repo": "render-markdown.nvim"
       },
       "branch": "main",
-      "revision": "f2bdf9f866671456f7a6119cc94501048d9d172c",
-      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/f2bdf9f866671456f7a6119cc94501048d9d172c.tar.gz",
-      "hash": "0xyyacgy2nx4dxf9536hsrq1zk9akdy3wwyd834a82ywfxcf6rnl"
+      "revision": "5c2440d932a4ba96840e5ce5a7bd40f0624bdaa2",
+      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/5c2440d932a4ba96840e5ce5a7bd40f0624bdaa2.tar.gz",
+      "hash": "1g2iv4my39mnhs41m9ar6l1vyqjqfyrj180wf1691ly2nq6nvvwb"
     },
     "rest-nvim": {
       "type": "Git",
