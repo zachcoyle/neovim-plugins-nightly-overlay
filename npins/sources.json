@@ -1807,9 +1807,9 @@
         "repo": "lualine.nvim"
       },
       "branch": "master",
-      "revision": "2a5bae925481f999263d6f5ed8361baef8df4f83",
-      "url": "https://github.com/nvim-lualine/lualine.nvim/archive/2a5bae925481f999263d6f5ed8361baef8df4f83.tar.gz",
-      "hash": "0hp8gycbwm6ibq4rpa18j3g9xacgghklz4c8jlr4gif6g37r1pi0"
+      "revision": "f4f791f67e70d378a754d02da068231d2352e5bc",
+      "url": "https://github.com/nvim-lualine/lualine.nvim/archive/f4f791f67e70d378a754d02da068231d2352e5bc.tar.gz",
+      "hash": "12jm3vc3mi0p9kjw7g1cd6a9nkgws1mvq2h7lpfmflad8zfmw35q"
     },
     "luasnip": {
       "type": "Git",
@@ -1891,9 +1891,9 @@
         "repo": "markview.nvim"
       },
       "branch": "main",
-      "revision": "93d3648e0e293f8a0cb0704f2c9650384a9cde8a",
-      "url": "https://github.com/OXY2DEV/markview.nvim/archive/93d3648e0e293f8a0cb0704f2c9650384a9cde8a.tar.gz",
-      "hash": "0q1dip62fz9w2cy7q0n77mink7q9m8ibvdaz3zmlq8ij9r2b72mj"
+      "revision": "aa8bdd7b4f5c228f6ed3cd9730efa3c40d4a3a26",
+      "url": "https://github.com/OXY2DEV/markview.nvim/archive/aa8bdd7b4f5c228f6ed3cd9730efa3c40d4a3a26.tar.gz",
+      "hash": "079d905p9hmr8g60ypw0lnn7phpr0asa4sq7xl9yhj3ndznigrmq"
     },
     "melange": {
       "type": "Git",
@@ -2923,9 +2923,9 @@
         "repo": "orgmode"
       },
       "branch": "master",
-      "revision": "09c1595d8d6dc203d0e17cc1894e95613feb239f",
-      "url": "https://github.com/nvim-orgmode/orgmode/archive/09c1595d8d6dc203d0e17cc1894e95613feb239f.tar.gz",
-      "hash": "07cfmmidj61kbdgxpji3p7xsq0ac0g2m86f73zlc0pri72a7dm14"
+      "revision": "b6bd999fcfd172972ea357662902ab3e5f7f1f91",
+      "url": "https://github.com/nvim-orgmode/orgmode/archive/b6bd999fcfd172972ea357662902ab3e5f7f1f91.tar.gz",
+      "hash": "19kw94lbyp5p3vipj76906239zysvn2gb3s6836wr5ip7n48j670"
     },
     "overseer-nvim": {
       "type": "Git",
