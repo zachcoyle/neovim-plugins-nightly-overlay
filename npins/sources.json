@@ -3895,9 +3895,9 @@
         "repo": "vim-illuminate"
       },
       "branch": "master",
-      "revision": "ec02591dc87ae8679c57becbc95102a1fe5e783b",
-      "url": "https://github.com/RRethy/vim-illuminate/archive/ec02591dc87ae8679c57becbc95102a1fe5e783b.tar.gz",
-      "hash": "0pm1yyhqblcgrbwpf3gw0bcpz321lah1l8igpd2khnp5jf3xz0vd"
+      "revision": "b5713e6ca3f627b46968386d6d3f24d374d3cb17",
+      "url": "https://github.com/RRethy/vim-illuminate/archive/b5713e6ca3f627b46968386d6d3f24d374d3cb17.tar.gz",
+      "hash": "0l16qa2bm4nyimkcjlhajgcv8l9kyqqjpc55jxnny0gy6rycp40n"
     },
     "vim-import-cost": {
       "type": "Git",
@@ -4219,9 +4219,9 @@
         "repo": "yazi.nvim"
       },
       "branch": "main",
-      "revision": "a1785815184ca3107a8ecf92961c784a625ac1f9",
-      "url": "https://github.com/mikavilpas/yazi.nvim/archive/a1785815184ca3107a8ecf92961c784a625ac1f9.tar.gz",
-      "hash": "0q0apk18lyq6sbji2l4sbxxi3albh5xkwpb6714cjwcca3x6yfsg"
+      "revision": "8ca8653de81bce22d6766b7fd2ce2bc6ff410b21",
+      "url": "https://github.com/mikavilpas/yazi.nvim/archive/8ca8653de81bce22d6766b7fd2ce2bc6ff410b21.tar.gz",
+      "hash": "07q7m7lsxkmv9mcwi93d6zn9irpsw34p231wfqhrii4sh296jqly"
     },
     "yuck-vim": {
       "type": "Git",
