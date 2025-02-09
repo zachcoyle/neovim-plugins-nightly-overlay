@@ -1831,9 +1831,9 @@
         "repo": "lz.n"
       },
       "branch": "master",
-      "revision": "d5050a536ba1eee7a3e54371959427d7874ca27e",
-      "url": "https://github.com/nvim-neorocks/lz.n/archive/d5050a536ba1eee7a3e54371959427d7874ca27e.tar.gz",
-      "hash": "0b4q1q083fiwfjmk44a15qd9rrb6hd92bim0q7xjdgm2j6ja8j73"
+      "revision": "e6c8a0302c787a8630ae8c26fe184894ab1ff97f",
+      "url": "https://github.com/nvim-neorocks/lz.n/archive/e6c8a0302c787a8630ae8c26fe184894ab1ff97f.tar.gz",
+      "hash": "19piyqk54dlxwwq9wxfrkv3l5vh6zcbpi3sy3iyvscafgzfwcbqs"
     },
     "magma-nvim-goose": {
       "type": "Git",
@@ -3895,9 +3895,9 @@
         "repo": "vim-illuminate"
       },
       "branch": "master",
-      "revision": "db2ce0ca4564e625fb813aca5abee5e1a9cbef96",
-      "url": "https://github.com/RRethy/vim-illuminate/archive/db2ce0ca4564e625fb813aca5abee5e1a9cbef96.tar.gz",
-      "hash": "0avqzpidxipi8mwcidxg0q607i6fz7al1b0n9z04460949h4i584"
+      "revision": "f128656f3c30459ba0d978dcb92dd9fd4b7a804e",
+      "url": "https://github.com/RRethy/vim-illuminate/archive/f128656f3c30459ba0d978dcb92dd9fd4b7a804e.tar.gz",
+      "hash": "092hza1h3z7kiga1r9dpn1zddha1dj5zrbczs0qiaw24p0rlikfg"
     },
     "vim-import-cost": {
       "type": "Git",
