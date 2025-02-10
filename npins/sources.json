@@ -116,9 +116,9 @@
         "repo": "avante.nvim"
       },
       "branch": "main",
-      "revision": "c07d396e30f1705bd28404bfd733a2313a998471",
-      "url": "https://github.com/yetone/avante.nvim/archive/c07d396e30f1705bd28404bfd733a2313a998471.tar.gz",
-      "hash": "08qzi5yrn269j92zl863s3zd9qfbd3h0sbbrlf44gyf118ing4q8"
+      "revision": "63136fd92f2f2e9cf91b231dc19ac2c95e3897ed",
+      "url": "https://github.com/yetone/avante.nvim/archive/63136fd92f2f2e9cf91b231dc19ac2c95e3897ed.tar.gz",
+      "hash": "0azi1kin8n3smrc5ml5j3khw9fpc4c49g3v5x8xwjxrgxlhp4vdq"
     },
     "baleia-nvim": {
       "type": "Git",
@@ -1700,9 +1700,9 @@
         "repo": "leap.nvim"
       },
       "branch": "main",
-      "revision": "be8e6eee2dabc68ce810ddf2e800c14bfda09fee",
-      "url": "https://github.com/ggandor/leap.nvim/archive/be8e6eee2dabc68ce810ddf2e800c14bfda09fee.tar.gz",
-      "hash": "0l3jmc06js1l4rarhn6h2zvc3gkvs2ziqkycy8nvca4xri9b8xy4"
+      "revision": "8b826a9fc766bffd14288aee01847cb0d6c6c383",
+      "url": "https://github.com/ggandor/leap.nvim/archive/8b826a9fc766bffd14288aee01847cb0d6c6c383.tar.gz",
+      "hash": "1biydwaky3104c1dys8m37yalrgcwyjyprlbk31j82y4mvmd1lmy"
     },
     "lightline-vim": {
       "type": "Git",
