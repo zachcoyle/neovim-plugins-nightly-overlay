@@ -1915,9 +1915,9 @@
         "repo": "mini.nvim"
       },
       "branch": "main",
-      "revision": "4e873f36552ac7c15a824f36783c629493f78d0c",
-      "url": "https://github.com/echasnovski/mini.nvim/archive/4e873f36552ac7c15a824f36783c629493f78d0c.tar.gz",
-      "hash": "1vag5x5kzblsmr92ah3iavmjicz0606yaz4scqzrz5m7f1yk9rxb"
+      "revision": "c3e3cc925217b59f1b39264c6981eb1692a86466",
+      "url": "https://github.com/echasnovski/mini.nvim/archive/c3e3cc925217b59f1b39264c6981eb1692a86466.tar.gz",
+      "hash": "0r3891ckwrgfnwqc4sqyx55xn6gr2nych7vynr0dfmcnfhx7mgx0"
     },
     "mkdnflow-nvim": {
       "type": "Git",
