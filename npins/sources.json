@@ -164,9 +164,9 @@
         "repo": "base16-nvim"
       },
       "branch": "master",
-      "revision": "782afd67177d1053e52aa4a5fb2aacc2250be66d",
-      "url": "https://github.com/RRethy/base16-nvim/archive/782afd67177d1053e52aa4a5fb2aacc2250be66d.tar.gz",
-      "hash": "1250x5y9ipkl2dhawgpswp9b5069ilgnq2ffxzahncgf1wjjd119"
+      "revision": "7ece1eab227e42fde71b4a8ef3c21575939ff26f",
+      "url": "https://github.com/RRethy/base16-nvim/archive/7ece1eab227e42fde71b4a8ef3c21575939ff26f.tar.gz",
+      "hash": "1d5vjpq887i8av0hwklhv9fgyml6fjcrm35al5bmkfnpzykqm93v"
     },
     "better-escape-nvim": {
       "type": "Git",
@@ -1112,9 +1112,9 @@
         "repo": "dropbar.nvim"
       },
       "branch": "master",
-      "revision": "fb3bfacc20c178820176e73785d66188ef627e3c",
-      "url": "https://github.com/Bekaboo/dropbar.nvim/archive/fb3bfacc20c178820176e73785d66188ef627e3c.tar.gz",
-      "hash": "14mq4zv6xm0z06xbwacr73k81dyc1x27xz07yjbcb2wbc9j6lgcl"
+      "revision": "62b5e0dcb2704065be6a2fc9a420467b44fee956",
+      "url": "https://github.com/Bekaboo/dropbar.nvim/archive/62b5e0dcb2704065be6a2fc9a420467b44fee956.tar.gz",
+      "hash": "0r4m0dpn23jx237kpjimwdf3y0p9kxr7djfi8gqvv2d1akpyy75q"
     },
     "earthly-vim": {
       "type": "Git",
