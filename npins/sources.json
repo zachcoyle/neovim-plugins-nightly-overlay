@@ -164,9 +164,9 @@
         "repo": "base16-nvim"
       },
       "branch": "master",
-      "revision": "70068f429f9b598032c32059eac85ab7c48d1c00",
-      "url": "https://github.com/RRethy/base16-nvim/archive/70068f429f9b598032c32059eac85ab7c48d1c00.tar.gz",
-      "hash": "0xq7sv4qk3cgav4i3gbnr5bb5yr8xd5cqss4h83c7ri1m3k1x83f"
+      "revision": "782afd67177d1053e52aa4a5fb2aacc2250be66d",
+      "url": "https://github.com/RRethy/base16-nvim/archive/782afd67177d1053e52aa4a5fb2aacc2250be66d.tar.gz",
+      "hash": "1250x5y9ipkl2dhawgpswp9b5069ilgnq2ffxzahncgf1wjjd119"
     },
     "better-escape-nvim": {
       "type": "Git",
@@ -2599,9 +2599,9 @@
         "repo": "nvim-lspconfig"
       },
       "branch": "master",
-      "revision": "5dca9e1480ebe39f3f96f98a8196f8ee18fad207",
-      "url": "https://github.com/neovim/nvim-lspconfig/archive/5dca9e1480ebe39f3f96f98a8196f8ee18fad207.tar.gz",
-      "hash": "1x51fkln5ld01896k7gszfyrd1cl6sfx9g0af3jjgbqpaarawxpz"
+      "revision": "1c47b7e9b4f3d930ca79429f79fd3c30ff19cef9",
+      "url": "https://github.com/neovim/nvim-lspconfig/archive/1c47b7e9b4f3d930ca79429f79fd3c30ff19cef9.tar.gz",
+      "hash": "1vcpkvnxqf0g33m0hsmq1wmccl5x70myw65ahnfjrfsgrzkpy1cn"
     },
     "nvim-navbuddy": {
       "type": "Git",
