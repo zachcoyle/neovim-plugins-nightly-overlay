@@ -116,9 +116,9 @@
         "repo": "avante.nvim"
       },
       "branch": "main",
-      "revision": "59fdbd72a450536195b4fd2eca6a1fd96bc86387",
-      "url": "https://github.com/yetone/avante.nvim/archive/59fdbd72a450536195b4fd2eca6a1fd96bc86387.tar.gz",
-      "hash": "024c7ccy38by4aj4h71s3a4w56ly1zbmkgz6pxq64brqxw4lzs0v"
+      "revision": "c07d396e30f1705bd28404bfd733a2313a998471",
+      "url": "https://github.com/yetone/avante.nvim/archive/c07d396e30f1705bd28404bfd733a2313a998471.tar.gz",
+      "hash": "08qzi5yrn269j92zl863s3zd9qfbd3h0sbbrlf44gyf118ing4q8"
     },
     "baleia-nvim": {
       "type": "Git",
@@ -1112,9 +1112,9 @@
         "repo": "dropbar.nvim"
       },
       "branch": "master",
-      "revision": "62b5e0dcb2704065be6a2fc9a420467b44fee956",
-      "url": "https://github.com/Bekaboo/dropbar.nvim/archive/62b5e0dcb2704065be6a2fc9a420467b44fee956.tar.gz",
-      "hash": "0r4m0dpn23jx237kpjimwdf3y0p9kxr7djfi8gqvv2d1akpyy75q"
+      "revision": "a6239111f2988cf8789cabd89c48114fb3f8dc90",
+      "url": "https://github.com/Bekaboo/dropbar.nvim/archive/a6239111f2988cf8789cabd89c48114fb3f8dc90.tar.gz",
+      "hash": "0mflp0bfn7rjmlvp2wfmq0vpxl5hizcggzpiw94fss5zw367yb4l"
     },
     "earthly-vim": {
       "type": "Git",
@@ -1939,9 +1939,9 @@
         "repo": "modus-themes.nvim"
       },
       "branch": "master",
-      "revision": "417a482a7691ba4093f90f215e846fe2fb498ccf",
-      "url": "https://github.com/miikanissi/modus-themes.nvim/archive/417a482a7691ba4093f90f215e846fe2fb498ccf.tar.gz",
-      "hash": "1w9z88d3knji4qdqjblbwqy30mq61ywm1znffhwxdwlifh6fsnz4"
+      "revision": "1f9ba82c732a49cdafc80f904286dd70f02c4310",
+      "url": "https://github.com/miikanissi/modus-themes.nvim/archive/1f9ba82c732a49cdafc80f904286dd70f02c4310.tar.gz",
+      "hash": "1mlzdw5q49iggpp4r2rqqb6q2am5ds1f82d1lmz7nlk325skk48z"
     },
     "molten-nvim": {
       "type": "Git",
@@ -3379,9 +3379,9 @@
         "repo": "telescope-frecency.nvim"
       },
       "branch": "master",
-      "revision": "e2a2a38dc253d81f741ed13603a01825a93e8a82",
-      "url": "https://github.com/nvim-telescope/telescope-frecency.nvim/archive/e2a2a38dc253d81f741ed13603a01825a93e8a82.tar.gz",
-      "hash": "046p2p60nz3i3nri2jal5c0f8afbmfcn198dhpw68wd22yc0xd4m"
+      "revision": "5db9364a9dd94bd93dc97cdefd769d5fa6ab56e0",
+      "url": "https://github.com/nvim-telescope/telescope-frecency.nvim/archive/5db9364a9dd94bd93dc97cdefd769d5fa6ab56e0.tar.gz",
+      "hash": "04f75z0vzsd1xzz37m73bk89vmvqxi9x3w7g0zzl08bbmq15p430"
     },
     "telescope-fzf-native-nvim": {
       "type": "Git",
