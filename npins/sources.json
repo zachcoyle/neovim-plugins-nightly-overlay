@@ -164,9 +164,9 @@
         "repo": "base16-nvim"
       },
       "branch": "master",
-      "revision": "7ece1eab227e42fde71b4a8ef3c21575939ff26f",
-      "url": "https://github.com/RRethy/base16-nvim/archive/7ece1eab227e42fde71b4a8ef3c21575939ff26f.tar.gz",
-      "hash": "1d5vjpq887i8av0hwklhv9fgyml6fjcrm35al5bmkfnpzykqm93v"
+      "revision": "2fdd4e53286dbb8978699b5e1cd09835362a70f3",
+      "url": "https://github.com/RRethy/base16-nvim/archive/2fdd4e53286dbb8978699b5e1cd09835362a70f3.tar.gz",
+      "hash": "17rz6v9a6mqnd43746cii9nnf6qkaz29q1cybjyksqi007dbpk8y"
     },
     "better-escape-nvim": {
       "type": "Git",
