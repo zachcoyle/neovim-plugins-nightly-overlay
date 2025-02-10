@@ -3199,9 +3199,9 @@
         "repo": "smart-splits.nvim"
       },
       "branch": "master",
-      "revision": "7f72bc445106fa041f79ee73e72505c093d0da10",
-      "url": "https://github.com/mrjones2014/smart-splits.nvim/archive/7f72bc445106fa041f79ee73e72505c093d0da10.tar.gz",
-      "hash": "07w9shgccrd96ymgjbrx6mx01x1czc5s3pxpvvfkxdzrr8gqr2w9"
+      "revision": "740a2e2bb3bf525f4e21f9748233480ebb0709a3",
+      "url": "https://github.com/mrjones2014/smart-splits.nvim/archive/740a2e2bb3bf525f4e21f9748233480ebb0709a3.tar.gz",
+      "hash": "0nkn1sndn6awjf5gysc3q6a2mdflcn0d444pwhs12va632v5vy0p"
     },
     "smartcolumn-nvim": {
       "type": "Git",
@@ -4219,9 +4219,9 @@
         "repo": "yazi.nvim"
       },
       "branch": "main",
-      "revision": "8ca8653de81bce22d6766b7fd2ce2bc6ff410b21",
-      "url": "https://github.com/mikavilpas/yazi.nvim/archive/8ca8653de81bce22d6766b7fd2ce2bc6ff410b21.tar.gz",
-      "hash": "07q7m7lsxkmv9mcwi93d6zn9irpsw34p231wfqhrii4sh296jqly"
+      "revision": "eafe4bf44f8751ea1dad391ead5f4e8b07866c80",
+      "url": "https://github.com/mikavilpas/yazi.nvim/archive/eafe4bf44f8751ea1dad391ead5f4e8b07866c80.tar.gz",
+      "hash": "1jcqaydyfdcms4ji67mmvqgy1li3m3lfz22h1fhfqq22h0zb4adf"
     },
     "yuck-vim": {
       "type": "Git",
