@@ -1975,9 +1975,9 @@
         "repo": "neo-tree.nvim"
       },
       "branch": "main",
-      "revision": "9f0c96720559461530a51d3e1c170519345941da",
-      "url": "https://github.com/nvim-neo-tree/neo-tree.nvim/archive/9f0c96720559461530a51d3e1c170519345941da.tar.gz",
-      "hash": "0fx1rx0baikrk6msm5b89h75sxhklajs3z0qdmnpijprrg358rfb"
+      "revision": "c13721e69119a4391663203bab80af4192cbb850",
+      "url": "https://github.com/nvim-neo-tree/neo-tree.nvim/archive/c13721e69119a4391663203bab80af4192cbb850.tar.gz",
+      "hash": "09y1qnwnfgc7lhz8y9nbcxmixd4vpk75jakj08vqkg6z09sx82s4"
     },
     "neocord": {
       "type": "Git",
@@ -2395,9 +2395,9 @@
         "repo": "none-ls.nvim"
       },
       "branch": "main",
-      "revision": "aa1620be06f7a5158864a33be045229da67ff840",
-      "url": "https://github.com/nvimtools/none-ls.nvim/archive/aa1620be06f7a5158864a33be045229da67ff840.tar.gz",
-      "hash": "1lhkb6wy7p9anla18pss6b8v8msh5cj0j59p42a9crm1x3m5sx50"
+      "revision": "02f5275d8a5546092f01306f162c00c71d6e0281",
+      "url": "https://github.com/nvimtools/none-ls.nvim/archive/02f5275d8a5546092f01306f162c00c71d6e0281.tar.gz",
+      "hash": "17f5qv9rrl3scmxa034a34jpyygvp0s76wcfvidb35j24nrrxc7k"
     },
     "nord-nvim": {
       "type": "Git",
@@ -2599,9 +2599,9 @@
         "repo": "nvim-lspconfig"
       },
       "branch": "master",
-      "revision": "d37812c49063eda10ad1f7c7695509365ac7bd47",
-      "url": "https://github.com/neovim/nvim-lspconfig/archive/d37812c49063eda10ad1f7c7695509365ac7bd47.tar.gz",
-      "hash": "1msaib193p7qfp56mxgscb94j3gi4pig7v15fbmk17zijq3gcg8k"
+      "revision": "6c17f8656f667727b27f5f598463afedb7791b18",
+      "url": "https://github.com/neovim/nvim-lspconfig/archive/6c17f8656f667727b27f5f598463afedb7791b18.tar.gz",
+      "hash": "1v1kyfmckqwv6va3fpa19rdwlmfjns903p9ndpxcnhzmasj9bp5d"
     },
     "nvim-navbuddy": {
       "type": "Git",
