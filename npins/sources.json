@@ -3235,9 +3235,9 @@
         "repo": "sniprun"
       },
       "branch": "master",
-      "revision": "67ac2d84d03f3b857d59571ff5fefb6080dffa2d",
-      "url": "https://github.com/michaelb/sniprun/archive/67ac2d84d03f3b857d59571ff5fefb6080dffa2d.tar.gz",
-      "hash": "159xy9xmkpba62r8id3vljg63kl0q6825b5vcd8c0las4j9i7gdz"
+      "revision": "151ada2c984aee1feb45c7e3c2abb19f597ecbd0",
+      "url": "https://github.com/michaelb/sniprun/archive/151ada2c984aee1feb45c7e3c2abb19f597ecbd0.tar.gz",
+      "hash": "1gaby7hrfzzp90d6zsvbg2idc441qbfb6sqcrp2dgm9sg0ckgid3"
     },
     "solarized-nvim": {
       "type": "Git",
@@ -3643,9 +3643,9 @@
         "repo": "tokyonight.nvim"
       },
       "branch": "main",
-      "revision": "dca4adba7dc5f09302a00b0e76078d54d82d2658",
-      "url": "https://github.com/folke/tokyonight.nvim/archive/dca4adba7dc5f09302a00b0e76078d54d82d2658.tar.gz",
-      "hash": "0l7s7jq555cc5x1ixy91d6xmf7mbcnarkjk17kdqjb3d6cxvdfsq"
+      "revision": "84ea0b5f4651afdf50ececaf6f110fe9d9dc9458",
+      "url": "https://github.com/folke/tokyonight.nvim/archive/84ea0b5f4651afdf50ececaf6f110fe9d9dc9458.tar.gz",
+      "hash": "1w2bv7dcwhgjs38md50ncm0l9vkkg5wd9i47lwdf55x1sasn54hh"
     },
     "transparent-nvim": {
       "type": "Git",
