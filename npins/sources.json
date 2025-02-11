@@ -1268,9 +1268,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "a0e901d220892cb6248fa8066d178bea6c047360",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/a0e901d220892cb6248fa8066d178bea6c047360.tar.gz",
-      "hash": "1nrbfqa874m9np29c1jjdjslk0xmyvja5s1lsz9vfqxynww6f4k2"
+      "revision": "2a9521387cbec2f3beaf40dfdd100fd93107bb26",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/2a9521387cbec2f3beaf40dfdd100fd93107bb26.tar.gz",
+      "hash": "0vvfr6iwfllr8vqn3h5689y49l0ghv96kclxqv98ydaqv8y22kry"
     },
     "galaxyline-nvim": {
       "type": "Git",
@@ -3019,9 +3019,9 @@
         "repo": "plenary.nvim"
       },
       "branch": "master",
-      "revision": "20fe347506a638e5f5f8e00f9577f69507570436",
-      "url": "https://github.com/nvim-lua/plenary.nvim/archive/20fe347506a638e5f5f8e00f9577f69507570436.tar.gz",
-      "hash": "1qcwb1d7b3ah80x40ksdl2ccl4j73ik60yk51qx0bi1k7bdj2bnx"
+      "revision": "857c5ac632080dba10aae49dba902ce3abf91b35",
+      "url": "https://github.com/nvim-lua/plenary.nvim/archive/857c5ac632080dba10aae49dba902ce3abf91b35.tar.gz",
+      "hash": "0jxx9nfga7z87v78cifglqs8w4mrpf99wcp483kb0hbv6537jmgh"
     },
     "poimandres-nvim": {
       "type": "Git",
@@ -3115,9 +3115,9 @@
         "repo": "rainbow-delimiters.nvim"
       },
       "branch": "master",
-      "revision": "cf0da2516b0684596b09c51dbc93c609cdc2f455",
-      "url": "https://github.com/HiPhish/rainbow-delimiters.nvim/archive/cf0da2516b0684596b09c51dbc93c609cdc2f455.tar.gz",
-      "hash": "19qn5gxbfsfjvcd2iakh139xayrs7v0sxnybsnkygyvx8rjcymd5"
+      "revision": "daa9fe076196b895ade6b90438d956ea11e2e305",
+      "url": "https://github.com/HiPhish/rainbow-delimiters.nvim/archive/daa9fe076196b895ade6b90438d956ea11e2e305.tar.gz",
+      "hash": "0cirqdjx0ci7lgs06c8qz6r73227hfwwgd0r0q9b5dayvqwk1kwz"
     },
     "refactoring-nvim": {
       "type": "Git",
