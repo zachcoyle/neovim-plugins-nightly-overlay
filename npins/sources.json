@@ -3019,9 +3019,9 @@
         "repo": "plenary.nvim"
       },
       "branch": "master",
-      "revision": "3707cdb1e43f5cea73afb6037e6494e7ce847a66",
-      "url": "https://github.com/nvim-lua/plenary.nvim/archive/3707cdb1e43f5cea73afb6037e6494e7ce847a66.tar.gz",
-      "hash": "1h73y4ahj8rf6qiyjkm3jw9158fbkiix4kzig78jknvq8vgdgk6p"
+      "revision": "20fe347506a638e5f5f8e00f9577f69507570436",
+      "url": "https://github.com/nvim-lua/plenary.nvim/archive/20fe347506a638e5f5f8e00f9577f69507570436.tar.gz",
+      "hash": "1qcwb1d7b3ah80x40ksdl2ccl4j73ik60yk51qx0bi1k7bdj2bnx"
     },
     "poimandres-nvim": {
       "type": "Git",
@@ -3391,9 +3391,9 @@
         "repo": "telescope-fzf-native.nvim"
       },
       "branch": "main",
-      "revision": "dae2eac9d91464448b584c7949a31df8faefec56",
-      "url": "https://github.com/nvim-telescope/telescope-fzf-native.nvim/archive/dae2eac9d91464448b584c7949a31df8faefec56.tar.gz",
-      "hash": "0gm67j7gcs2a02b7nj15l6acy3dxjqd8cy6mx8nfkdlmq2fij5k4"
+      "revision": "2a5ceff981501cff8f46871d5402cd3378a8ab6a",
+      "url": "https://github.com/nvim-telescope/telescope-fzf-native.nvim/archive/2a5ceff981501cff8f46871d5402cd3378a8ab6a.tar.gz",
+      "hash": "0n5yaslwmjn2057njyn604wb60zhqgad439zxaafd7qmvyjazlfi"
     },
     "telescope-fzf-writer-nvim": {
       "type": "Git",
