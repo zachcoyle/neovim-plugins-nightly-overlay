@@ -92,9 +92,9 @@
         "repo": "auto-session"
       },
       "branch": "main",
-      "revision": "82630e2f70be140f8dcc75a12e2ee2839e8488c2",
-      "url": "https://github.com/rmagatti/auto-session/archive/82630e2f70be140f8dcc75a12e2ee2839e8488c2.tar.gz",
-      "hash": "1l3z3620s1dx72kyq2063mf6cqvziawm54f6fbn74gpxcvi8iqp7"
+      "revision": "9c3f977aafb56bd73ba0d082c4dcbdba5666faf3",
+      "url": "https://github.com/rmagatti/auto-session/archive/9c3f977aafb56bd73ba0d082c4dcbdba5666faf3.tar.gz",
+      "hash": "0jl3isanc1w6lmdd0gjmdn02mf7licz42cm878j5x641kd2q8ma6"
     },
     "autoclose-nvim": {
       "type": "Git",
@@ -2383,9 +2383,9 @@
         "repo": "noice.nvim"
       },
       "branch": "main",
-      "revision": "dbfc5fbab19ff1c3e29a3268ffa5eda4c09c72ce",
-      "url": "https://github.com/folke/noice.nvim/archive/dbfc5fbab19ff1c3e29a3268ffa5eda4c09c72ce.tar.gz",
-      "hash": "0cmnjfbxpgdj9jq9qpdrd85ywz0i97i9l0b1rd3j731c1hx0vh56"
+      "revision": "0427460c2d7f673ad60eb02b35f5e9926cf67c59",
+      "url": "https://github.com/folke/noice.nvim/archive/0427460c2d7f673ad60eb02b35f5e9926cf67c59.tar.gz",
+      "hash": "000y204jli68kg0s0dsqx78gkbg8zr9h2i2lzddvypfxgqjvfayk"
     },
     "none-ls-nvim": {
       "type": "Git",
