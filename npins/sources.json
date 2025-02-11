@@ -3487,9 +3487,9 @@
         "repo": "telescope.nvim"
       },
       "branch": "master",
-      "revision": "415af52339215926d705cccc08145f3782c4d132",
-      "url": "https://github.com/nvim-telescope/telescope.nvim/archive/415af52339215926d705cccc08145f3782c4d132.tar.gz",
-      "hash": "1hzyqax197i36a6z1rm25grwbl0r7k3qwhybjils20lshanjqbz7"
+      "revision": "78857db9e8d819d3cc1a9a7bdc1d39d127a36495",
+      "url": "https://github.com/nvim-telescope/telescope.nvim/archive/78857db9e8d819d3cc1a9a7bdc1d39d127a36495.tar.gz",
+      "hash": "18v2sydcmgy3wb34wylmjsmbhkd8gzqwq4fiya569iay3qr9kv6d"
     },
     "telescope-packer-nvim": {
       "type": "Git",
@@ -4219,9 +4219,9 @@
         "repo": "yazi.nvim"
       },
       "branch": "main",
-      "revision": "eafe4bf44f8751ea1dad391ead5f4e8b07866c80",
-      "url": "https://github.com/mikavilpas/yazi.nvim/archive/eafe4bf44f8751ea1dad391ead5f4e8b07866c80.tar.gz",
-      "hash": "1jcqaydyfdcms4ji67mmvqgy1li3m3lfz22h1fhfqq22h0zb4adf"
+      "revision": "327dcd8c11ac5df0ef5f832c1a3ef9511e777c56",
+      "url": "https://github.com/mikavilpas/yazi.nvim/archive/327dcd8c11ac5df0ef5f832c1a3ef9511e777c56.tar.gz",
+      "hash": "02vk8nz8kz20anb6fvkx8m33i9qsj7j7c9sfnn53rw4hpdfscb31"
     },
     "yuck-vim": {
       "type": "Git",
