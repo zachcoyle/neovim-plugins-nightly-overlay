@@ -1100,9 +1100,9 @@
         "repo": "dressing.nvim"
       },
       "branch": "master",
-      "revision": "5bba15b81b36bdad4458d19f40d4c476fc246e67",
-      "url": "https://github.com/stevearc/dressing.nvim/archive/5bba15b81b36bdad4458d19f40d4c476fc246e67.tar.gz",
-      "hash": "1c907yi3g1y61ypj8j7cz4lbarcl0a0wbsr3bj9v45fvs1p2zhvq"
+      "revision": "7e9f10b8ad22862fb5fcb8d141dd84fd5f181f91",
+      "url": "https://github.com/stevearc/dressing.nvim/archive/7e9f10b8ad22862fb5fcb8d141dd84fd5f181f91.tar.gz",
+      "hash": "06v1x679b5fazp0j8sf5zaxjpryfk5sixpnaf7x842v4av3invh7"
     },
     "dropbar-nvim": {
       "type": "Git",
@@ -2875,9 +2875,9 @@
         "repo": "oil.nvim"
       },
       "branch": "master",
-      "revision": "20baf827476a14d09df1783ca4f0a8d012d5c597",
-      "url": "https://github.com/stevearc/oil.nvim/archive/20baf827476a14d09df1783ca4f0a8d012d5c597.tar.gz",
-      "hash": "183p81l7bw75r57hlcbi13mk2d8ls4490507ncm20ivg115k9rps"
+      "revision": "abbfbd0dbcaa78c3dcdada191ea23e50a41e5806",
+      "url": "https://github.com/stevearc/oil.nvim/archive/abbfbd0dbcaa78c3dcdada191ea23e50a41e5806.tar.gz",
+      "hash": "04fri8pp19hj1fnsy8agya4lrsash7m0hqm2gj14ywmm9b18a1hl"
     },
     "ollama-nvim": {
       "type": "Git",
@@ -4219,9 +4219,9 @@
         "repo": "yazi.nvim"
       },
       "branch": "main",
-      "revision": "327dcd8c11ac5df0ef5f832c1a3ef9511e777c56",
-      "url": "https://github.com/mikavilpas/yazi.nvim/archive/327dcd8c11ac5df0ef5f832c1a3ef9511e777c56.tar.gz",
-      "hash": "02vk8nz8kz20anb6fvkx8m33i9qsj7j7c9sfnn53rw4hpdfscb31"
+      "revision": "e7db27c738f406cb38bc07e06b7a1077e44da27e",
+      "url": "https://github.com/mikavilpas/yazi.nvim/archive/e7db27c738f406cb38bc07e06b7a1077e44da27e.tar.gz",
+      "hash": "1k2nzqjlc9m5sz2m2rv1jb2xgr8hv23mf8nibr0fw6jk5ccyvhmy"
     },
     "yuck-vim": {
       "type": "Git",
