@@ -1052,9 +1052,9 @@
         "repo": "debugprint.nvim"
       },
       "branch": "main",
-      "revision": "91c3a7c51aafce919f1ed30e56dbb2fc62b22e13",
-      "url": "https://github.com/andrewferrier/debugprint.nvim/archive/91c3a7c51aafce919f1ed30e56dbb2fc62b22e13.tar.gz",
-      "hash": "09dc6xvrqvxqq78a90p01scinwcxnpggvqc4g6mb7da69zdbyjy2"
+      "revision": "541e8f1917bc1c13e879be7c45b55e68231238b0",
+      "url": "https://github.com/andrewferrier/debugprint.nvim/archive/541e8f1917bc1c13e879be7c45b55e68231238b0.tar.gz",
+      "hash": "0rkhqx5i9csa869gj0l393p92p1kbarn7w7j876chf3gzs1lnxaz"
     },
     "diffview-nvim": {
       "type": "Git",
@@ -1100,9 +1100,9 @@
         "repo": "dressing.nvim"
       },
       "branch": "master",
-      "revision": "7e9f10b8ad22862fb5fcb8d141dd84fd5f181f91",
-      "url": "https://github.com/stevearc/dressing.nvim/archive/7e9f10b8ad22862fb5fcb8d141dd84fd5f181f91.tar.gz",
-      "hash": "06v1x679b5fazp0j8sf5zaxjpryfk5sixpnaf7x842v4av3invh7"
+      "revision": "8e99843107dfa30f06d8eb6215513741f2d28cc5",
+      "url": "https://github.com/stevearc/dressing.nvim/archive/8e99843107dfa30f06d8eb6215513741f2d28cc5.tar.gz",
+      "hash": "0cm1bzjhy303dayhhdswhnfc1vzy296c6bki2k9g087x45101afk"
     },
     "dropbar-nvim": {
       "type": "Git",
