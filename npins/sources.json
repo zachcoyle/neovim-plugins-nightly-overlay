@@ -932,9 +932,9 @@
         "repo": "conform.nvim"
       },
       "branch": "master",
-      "revision": "659bea24f4d5145ce8c4312318abe31c9fcc5251",
-      "url": "https://github.com/stevearc/conform.nvim/archive/659bea24f4d5145ce8c4312318abe31c9fcc5251.tar.gz",
-      "hash": "067li6rwd73spw48ryghvlxgqmkhhgr1g53rfb21v6ddawwniccf"
+      "revision": "398f515329c9fdc8d0acd4cb5012544ffa5cba7b",
+      "url": "https://github.com/stevearc/conform.nvim/archive/398f515329c9fdc8d0acd4cb5012544ffa5cba7b.tar.gz",
+      "hash": "1039mv53d4iygkwpab00787i2swq5f3s9y13phm98lng1zbc0kqn"
     },
     "conjure": {
       "type": "Git",
@@ -4219,9 +4219,9 @@
         "repo": "yazi.nvim"
       },
       "branch": "main",
-      "revision": "e7db27c738f406cb38bc07e06b7a1077e44da27e",
-      "url": "https://github.com/mikavilpas/yazi.nvim/archive/e7db27c738f406cb38bc07e06b7a1077e44da27e.tar.gz",
-      "hash": "1k2nzqjlc9m5sz2m2rv1jb2xgr8hv23mf8nibr0fw6jk5ccyvhmy"
+      "revision": "a7b9350d8056889bf20e5602b832e3e0430019f8",
+      "url": "https://github.com/mikavilpas/yazi.nvim/archive/a7b9350d8056889bf20e5602b832e3e0430019f8.tar.gz",
+      "hash": "0cc6dnwwbf0vcbmskiysnz9gsgfdrg22dg51iq11qzr5pr7dna1l"
     },
     "yuck-vim": {
       "type": "Git",
