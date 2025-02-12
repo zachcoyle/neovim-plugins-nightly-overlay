@@ -3115,9 +3115,9 @@
         "repo": "rainbow-delimiters.nvim"
       },
       "branch": "master",
-      "revision": "daa9fe076196b895ade6b90438d956ea11e2e305",
-      "url": "https://github.com/HiPhish/rainbow-delimiters.nvim/archive/daa9fe076196b895ade6b90438d956ea11e2e305.tar.gz",
-      "hash": "0cirqdjx0ci7lgs06c8qz6r73227hfwwgd0r0q9b5dayvqwk1kwz"
+      "revision": "011d98eaa3a73b5a51d82ce5bc6b1397dde95562",
+      "url": "https://github.com/HiPhish/rainbow-delimiters.nvim/archive/011d98eaa3a73b5a51d82ce5bc6b1397dde95562.tar.gz",
+      "hash": "0b2hr4afdp9b30ckh772bg5wbscgdjvssn533988and27jassfaf"
     },
     "refactoring-nvim": {
       "type": "Git",
@@ -3139,9 +3139,9 @@
         "repo": "render-markdown.nvim"
       },
       "branch": "main",
-      "revision": "17a77463f945c4b9e4f371c752efd90e3e1bf604",
-      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/17a77463f945c4b9e4f371c752efd90e3e1bf604.tar.gz",
-      "hash": "1cf18wsfhh2id2rj75zh2q7pxjzd9xkp10i7jaq1pfpl3ls4khf7"
+      "revision": "6f31942a33c30f8c4f44006141641c5812026943",
+      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/6f31942a33c30f8c4f44006141641c5812026943.tar.gz",
+      "hash": "16a9nvhxvq4zxqaam1zy4nmjgmi4fdfv2lifdwcb0i3af3qa3i1c"
     },
     "rest-nvim": {
       "type": "Git",
