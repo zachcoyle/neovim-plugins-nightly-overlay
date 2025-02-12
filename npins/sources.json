@@ -140,9 +140,9 @@
         "repo": "barbar.nvim"
       },
       "branch": "master",
-      "revision": "40c176c9af7e9aefe3af9ec9d985a3edb50d66a3",
-      "url": "https://github.com/romgrk/barbar.nvim/archive/40c176c9af7e9aefe3af9ec9d985a3edb50d66a3.tar.gz",
-      "hash": "1fvd0v0ddmn7ladfpdckx26zw64cs40h4awb951zfrdikzqmkp9d"
+      "revision": "807bede7ef1d8e2ac5f108e9ac8123b1e2d321e3",
+      "url": "https://github.com/romgrk/barbar.nvim/archive/807bede7ef1d8e2ac5f108e9ac8123b1e2d321e3.tar.gz",
+      "hash": "04xflw3m9c8dgh91pwxmllc1wqc7vqbvnbg2p7m7x73cbwvswxs5"
     },
     "barbecue-nvim": {
       "type": "Git",
@@ -1688,9 +1688,9 @@
         "repo": "lean.nvim"
       },
       "branch": "main",
-      "revision": "1c044969a4b1f34dd706c3aef2432553f7dd5580",
-      "url": "https://github.com/Julian/lean.nvim/archive/1c044969a4b1f34dd706c3aef2432553f7dd5580.tar.gz",
-      "hash": "10nhm442m4k1f0s429nr6f9ymm8ydkn2g627p6rgfn402mf6kgyx"
+      "revision": "4c370d5642463eaa6672cde5f81d57b6bce971e6",
+      "url": "https://github.com/Julian/lean.nvim/archive/4c370d5642463eaa6672cde5f81d57b6bce971e6.tar.gz",
+      "hash": "1shy1i8b3d4p9k95h1nq4sq0nmmbchbalcpysdl222jls3p0mmnq"
     },
     "leap-nvim": {
       "type": "Git",
@@ -1975,9 +1975,9 @@
         "repo": "neo-tree.nvim"
       },
       "branch": "main",
-      "revision": "c13721e69119a4391663203bab80af4192cbb850",
-      "url": "https://github.com/nvim-neo-tree/neo-tree.nvim/archive/c13721e69119a4391663203bab80af4192cbb850.tar.gz",
-      "hash": "09y1qnwnfgc7lhz8y9nbcxmixd4vpk75jakj08vqkg6z09sx82s4"
+      "revision": "e96fd85bf18bc345dab332b345098fa5460dffac",
+      "url": "https://github.com/nvim-neo-tree/neo-tree.nvim/archive/e96fd85bf18bc345dab332b345098fa5460dffac.tar.gz",
+      "hash": "0l56rh9gfhcvkg9p3f35l2pvgw2pd21ylpmx8isd1pcj9hy0fwhg"
     },
     "neocord": {
       "type": "Git",
@@ -4123,9 +4123,9 @@
         "repo": "vimtex"
       },
       "branch": "master",
-      "revision": "dfaf26c2cafddf61963ebeff28437352002691ac",
-      "url": "https://github.com/lervag/vimtex/archive/dfaf26c2cafddf61963ebeff28437352002691ac.tar.gz",
-      "hash": "01hmkaiwranb4fwm6yxkj8q1rrmjzlyczqzvh5q0zsxymw8w9hl5"
+      "revision": "10c6c1672919db9d0687e5cb74d613dc811b1684",
+      "url": "https://github.com/lervag/vimtex/archive/10c6c1672919db9d0687e5cb74d613dc811b1684.tar.gz",
+      "hash": "0r1ziq77nl1xa3w321xlmyahl0irq86wrzhrz8cpsk6fqs0ci1zp"
     },
     "virt-column-nvim": {
       "type": "Git",
