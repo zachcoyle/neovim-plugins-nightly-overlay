@@ -2935,9 +2935,9 @@
         "repo": "overseer.nvim"
       },
       "branch": "master",
-      "revision": "fae72477853a9cac141b2c95a726ebc00ef4a88a",
-      "url": "https://github.com/stevearc/overseer.nvim/archive/fae72477853a9cac141b2c95a726ebc00ef4a88a.tar.gz",
-      "hash": "1ccidf88n7hws83q36dify7h4cvannbsvsbjmkbykrxf92iq0bv6"
+      "revision": "5a55357952e9b6d09540cc6057dccc923260f21c",
+      "url": "https://github.com/stevearc/overseer.nvim/archive/5a55357952e9b6d09540cc6057dccc923260f21c.tar.gz",
+      "hash": "032mjs97qy8bi2r6hqx4y0zkpjqk8cfccxwc52ypp6f0a70n0728"
     },
     "oxocarbon-nvim": {
       "type": "Git",
