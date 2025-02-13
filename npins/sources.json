@@ -116,9 +116,9 @@
         "repo": "avante.nvim"
       },
       "branch": "main",
-      "revision": "16bcbc0229493056dc989238e39821cab591eca0",
-      "url": "https://github.com/yetone/avante.nvim/archive/16bcbc0229493056dc989238e39821cab591eca0.tar.gz",
-      "hash": "0m60mqxlrc51d1i4nv2y3hc6s07q9cvb30z2vdgdwjmvldvwwr7q"
+      "revision": "1a4f2575d663cc3e0c5c9d17383f1479dd4fd28f",
+      "url": "https://github.com/yetone/avante.nvim/archive/1a4f2575d663cc3e0c5c9d17383f1479dd4fd28f.tar.gz",
+      "hash": "08l1rir2g3xgvyqs7ixply6h083sl27g2hs36cgg6inyalad4s46"
     },
     "baleia-nvim": {
       "type": "Git",
@@ -2551,9 +2551,9 @@
         "repo": "nvim-jdtls"
       },
       "branch": "master",
-      "revision": "3cdd09f336ab7169476b936c0825213d86d32e41",
-      "url": "https://github.com/mfussenegger/nvim-jdtls/archive/3cdd09f336ab7169476b936c0825213d86d32e41.tar.gz",
-      "hash": "0r50gnybwbxnmbmn0wx4ly0r00m0mpcrnffp8fm2fq2a22p7dn67"
+      "revision": "2f7bff9b8d2ee1918b36ca55f19547d9d335a268",
+      "url": "https://github.com/mfussenegger/nvim-jdtls/archive/2f7bff9b8d2ee1918b36ca55f19547d9d335a268.tar.gz",
+      "hash": "00q4wy2qkr1845y9sf52iphang5cqipqh1b7jzvn4kzbbvi1lg54"
     },
     "nvim-lastplace": {
       "type": "Git",
@@ -3379,9 +3379,9 @@
         "repo": "telescope-frecency.nvim"
       },
       "branch": "master",
-      "revision": "5db9364a9dd94bd93dc97cdefd769d5fa6ab56e0",
-      "url": "https://github.com/nvim-telescope/telescope-frecency.nvim/archive/5db9364a9dd94bd93dc97cdefd769d5fa6ab56e0.tar.gz",
-      "hash": "04f75z0vzsd1xzz37m73bk89vmvqxi9x3w7g0zzl08bbmq15p430"
+      "revision": "19de13c82f37bc2cc9a236614a9fc4a7d272a385",
+      "url": "https://github.com/nvim-telescope/telescope-frecency.nvim/archive/19de13c82f37bc2cc9a236614a9fc4a7d272a385.tar.gz",
+      "hash": "19dlg56rw5skr3kvrs4szgyl458irr2k07gs9ykzzyrjjwj0qhr4"
     },
     "telescope-fzf-native-nvim": {
       "type": "Git",
