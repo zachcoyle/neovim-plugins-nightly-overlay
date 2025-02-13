@@ -3151,9 +3151,9 @@
         "repo": "rest.nvim"
       },
       "branch": "main",
-      "revision": "59b93c8be074a7fadb09fef2ab0700c86d37d2bd",
-      "url": "https://github.com/rest-nvim/rest.nvim/archive/59b93c8be074a7fadb09fef2ab0700c86d37d2bd.tar.gz",
-      "hash": "1vyf9gdvzjbajmaiyyn3wg9jfg7cpjbcb9n68hks1z9xf4rvf0gf"
+      "revision": "8bbd995e75d40cd3562eace7ceb58feb37de52c1",
+      "url": "https://github.com/rest-nvim/rest.nvim/archive/8bbd995e75d40cd3562eace7ceb58feb37de52c1.tar.gz",
+      "hash": "0p01i49amshphq59zi3y5izjld0i34nliv3zv84n1l7lasirrswh"
     },
     "rose-pine": {
       "type": "Git",
