@@ -1915,9 +1915,9 @@
         "repo": "mini.nvim"
       },
       "branch": "main",
-      "revision": "b9440aed49221f0dbcaf481937b73a61f9ef32bf",
-      "url": "https://github.com/echasnovski/mini.nvim/archive/b9440aed49221f0dbcaf481937b73a61f9ef32bf.tar.gz",
-      "hash": "1d6fkg3imvh0sl0x3jcgw4jnz0cq3hzs5la5nx2hxsnzbrxcx4gf"
+      "revision": "1bd64e3ce49964cdfa9ee0e84c56f42d53b89052",
+      "url": "https://github.com/echasnovski/mini.nvim/archive/1bd64e3ce49964cdfa9ee0e84c56f42d53b89052.tar.gz",
+      "hash": "1a8vr9vdyjabjkz0nj02lwwriva241sd1qklkdapb9z4czcay0b3"
     },
     "mkdnflow-nvim": {
       "type": "Git",
@@ -3151,9 +3151,9 @@
         "repo": "rest.nvim"
       },
       "branch": "main",
-      "revision": "404a26220a4835fa971df03b646a36d9c6616e0b",
-      "url": "https://github.com/rest-nvim/rest.nvim/archive/404a26220a4835fa971df03b646a36d9c6616e0b.tar.gz",
-      "hash": "0m1ign9m0wykr8jii733n2b2w571q1nl6w5w4a815a6n1hnwj3lm"
+      "revision": "59b93c8be074a7fadb09fef2ab0700c86d37d2bd",
+      "url": "https://github.com/rest-nvim/rest.nvim/archive/59b93c8be074a7fadb09fef2ab0700c86d37d2bd.tar.gz",
+      "hash": "1vyf9gdvzjbajmaiyyn3wg9jfg7cpjbcb9n68hks1z9xf4rvf0gf"
     },
     "rose-pine": {
       "type": "Git",
