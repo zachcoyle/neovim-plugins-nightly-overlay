@@ -116,9 +116,9 @@
         "repo": "avante.nvim"
       },
       "branch": "main",
-      "revision": "76c06ed27798842a037e682dbfd3a1e2f5726635",
-      "url": "https://github.com/yetone/avante.nvim/archive/76c06ed27798842a037e682dbfd3a1e2f5726635.tar.gz",
-      "hash": "1sjdd8rg3x53p7yzps52wpf7566cim3bq6wwb0wkhmcqcqnnq4as"
+      "revision": "25111c6df31e0e7562f388d4d7dedcb570e323e1",
+      "url": "https://github.com/yetone/avante.nvim/archive/25111c6df31e0e7562f388d4d7dedcb570e323e1.tar.gz",
+      "hash": "0m60mqxlrc51d1i4nv2y3hc6s07q9cvb30z2vdgdwjmvldvwwr7q"
     },
     "baleia-nvim": {
       "type": "Git",
@@ -2875,9 +2875,9 @@
         "repo": "oil.nvim"
       },
       "branch": "master",
-      "revision": "8abc58b038f84078121ab1cac6ecad0163fe1635",
-      "url": "https://github.com/stevearc/oil.nvim/archive/8abc58b038f84078121ab1cac6ecad0163fe1635.tar.gz",
-      "hash": "11w5lxykhcsqw060yn693y4xxmkn4h2ap1cqvh9qzqvbh8wdkygg"
+      "revision": "5313690956d27cc6b53d5a2583df05e717c59b16",
+      "url": "https://github.com/stevearc/oil.nvim/archive/5313690956d27cc6b53d5a2583df05e717c59b16.tar.gz",
+      "hash": "15l0kxpav2p59x6q332r7fr044zxgmpgax9z9zsphl7aifm0mbbb"
     },
     "ollama-nvim": {
       "type": "Git",
