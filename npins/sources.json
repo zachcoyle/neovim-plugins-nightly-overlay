@@ -1268,9 +1268,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "9dd089f591b8d7ef7b9934b7e5a0f09cf9d43589",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/9dd089f591b8d7ef7b9934b7e5a0f09cf9d43589.tar.gz",
-      "hash": "05kz2zzli6km0zmc2m27hjg0y4prj3rlqjv4pdnhrj5rjvwqaa70"
+      "revision": "8633175d4e74cd6013f75af7682c7e8ac133056a",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/8633175d4e74cd6013f75af7682c7e8ac133056a.tar.gz",
+      "hash": "07md30jh24rc7m4lj56abw5cibw8wijpzjbzgdj0x6n1cgzjrw8s"
     },
     "galaxyline-nvim": {
       "type": "Git",
@@ -2875,9 +2875,9 @@
         "repo": "oil.nvim"
       },
       "branch": "master",
-      "revision": "32dd3e378d47673679e76a773451f82f971a66df",
-      "url": "https://github.com/stevearc/oil.nvim/archive/32dd3e378d47673679e76a773451f82f971a66df.tar.gz",
-      "hash": "0kyqpz46g8q63941wxfflhpw6f7x32fqhk6fy26j4j5xgki7rdq3"
+      "revision": "7cde5aab10f564408e9ac349d457d755422d58cd",
+      "url": "https://github.com/stevearc/oil.nvim/archive/7cde5aab10f564408e9ac349d457d755422d58cd.tar.gz",
+      "hash": "0x6vaapj5x7a4jhdc8mvzb701cfvziyb9ywj9sshsyfdhw9q8phs"
     },
     "ollama-nvim": {
       "type": "Git",
