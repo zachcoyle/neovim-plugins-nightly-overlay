@@ -116,9 +116,9 @@
         "repo": "avante.nvim"
       },
       "branch": "main",
-      "revision": "1a4f2575d663cc3e0c5c9d17383f1479dd4fd28f",
-      "url": "https://github.com/yetone/avante.nvim/archive/1a4f2575d663cc3e0c5c9d17383f1479dd4fd28f.tar.gz",
-      "hash": "08l1rir2g3xgvyqs7ixply6h083sl27g2hs36cgg6inyalad4s46"
+      "revision": "c60dc6c316414c2adf5bb61624719d76accab22f",
+      "url": "https://github.com/yetone/avante.nvim/archive/c60dc6c316414c2adf5bb61624719d76accab22f.tar.gz",
+      "hash": "0jzlkwngqhgy1vn9aw11vj8i4l9qrsfkq0mw85fa8kpmddmr2pci"
     },
     "baleia-nvim": {
       "type": "Git",
@@ -1891,9 +1891,9 @@
         "repo": "markview.nvim"
       },
       "branch": "main",
-      "revision": "c095a7c7c6343863fb3046781e295103e3e081ab",
-      "url": "https://github.com/OXY2DEV/markview.nvim/archive/c095a7c7c6343863fb3046781e295103e3e081ab.tar.gz",
-      "hash": "0m45bnj2d7fq6s8n8xbx6m40zs9i03ckb6jsil4wspmwk235y0lw"
+      "revision": "16e7fca925133b200212857bff8171607703d4f5",
+      "url": "https://github.com/OXY2DEV/markview.nvim/archive/16e7fca925133b200212857bff8171607703d4f5.tar.gz",
+      "hash": "0qzyl17b301p8hmwi4ag4s5z96vfcdm0w16sqgix3qq6p97vx2v4"
     },
     "melange": {
       "type": "Git",
