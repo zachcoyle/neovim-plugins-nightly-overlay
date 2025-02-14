@@ -2431,9 +2431,9 @@
         "repo": "nvim-autopairs"
       },
       "branch": "master",
-      "revision": "3d02855468f94bf435db41b661b58ec4f48a06b7",
-      "url": "https://github.com/windwp/nvim-autopairs/archive/3d02855468f94bf435db41b661b58ec4f48a06b7.tar.gz",
-      "hash": "02w299ydd81hhpcs35pv7j8ly0i39gnnnmsh3522gi9pdq8jdpf2"
+      "revision": "68f0e5c3dab23261a945272032ee6700af86227a",
+      "url": "https://github.com/windwp/nvim-autopairs/archive/68f0e5c3dab23261a945272032ee6700af86227a.tar.gz",
+      "hash": "1ai3s1083dx6bddhrkv7d3hyq3zsrblizbvpgl09r1w9cijxhj8m"
     },
     "nvim-bacon": {
       "type": "Git",
@@ -3151,9 +3151,9 @@
         "repo": "rest.nvim"
       },
       "branch": "main",
-      "revision": "8bbd995e75d40cd3562eace7ceb58feb37de52c1",
-      "url": "https://github.com/rest-nvim/rest.nvim/archive/8bbd995e75d40cd3562eace7ceb58feb37de52c1.tar.gz",
-      "hash": "0p01i49amshphq59zi3y5izjld0i34nliv3zv84n1l7lasirrswh"
+      "revision": "ac405e1944ddcedf340f485c344b0c621a045670",
+      "url": "https://github.com/rest-nvim/rest.nvim/archive/ac405e1944ddcedf340f485c344b0c621a045670.tar.gz",
+      "hash": "07gzh3yrn3v8acximmmlksk23d6vmyipig4pi7k77dd6w5gvchdi"
     },
     "rose-pine": {
       "type": "Git",
