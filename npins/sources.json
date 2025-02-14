@@ -1268,9 +1268,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "8633175d4e74cd6013f75af7682c7e8ac133056a",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/8633175d4e74cd6013f75af7682c7e8ac133056a.tar.gz",
-      "hash": "07md30jh24rc7m4lj56abw5cibw8wijpzjbzgdj0x6n1cgzjrw8s"
+      "revision": "0a3b70feb05879a8001c51f7a2a42fa52a9e552c",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/0a3b70feb05879a8001c51f7a2a42fa52a9e552c.tar.gz",
+      "hash": "0ysjs6pm16373rp5p4l3cvxx6c9p8h5fp14vvd38z7f3gd6mxwqa"
     },
     "galaxyline-nvim": {
       "type": "Git",
@@ -4159,9 +4159,9 @@
         "repo": "which-key.nvim"
       },
       "branch": "main",
-      "revision": "0e76a87ac51772569aec678dc74baa8e2a86100c",
-      "url": "https://github.com/folke/which-key.nvim/archive/0e76a87ac51772569aec678dc74baa8e2a86100c.tar.gz",
-      "hash": "0n15nlalhlrrqbmx8fbj30d3rb8qghic38nxsnycc01qx2p20yc5"
+      "revision": "5bf7a73fe851896d5ac26d313db849bf00f45b78",
+      "url": "https://github.com/folke/which-key.nvim/archive/5bf7a73fe851896d5ac26d313db849bf00f45b78.tar.gz",
+      "hash": "1sg1fz917vpqc99vcdp08gchlw15cndmphhm6qsjs4xhkg5jy9rc"
     },
     "wilder-nvim": {
       "type": "Git",
