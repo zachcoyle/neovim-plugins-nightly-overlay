@@ -1208,9 +1208,9 @@
         "repo": "flash.nvim"
       },
       "branch": "main",
-      "revision": "f899265876ecdcf7352dbc9f0adf87068cedefbb",
-      "url": "https://github.com/folke/flash.nvim/archive/f899265876ecdcf7352dbc9f0adf87068cedefbb.tar.gz",
-      "hash": "12zvpzqan4pry6p69aq2zzsxwqyrflgcp1lmyhp2qbhnzzisp17n"
+      "revision": "3c942666f115e2811e959eabbdd361a025db8b63",
+      "url": "https://github.com/folke/flash.nvim/archive/3c942666f115e2811e959eabbdd361a025db8b63.tar.gz",
+      "hash": "1xil2lkyr404zni1qmkwrl9hvbwjjk52fmncg59vqmvdybwsnqni"
     },
     "focus-vim": {
       "type": "Git",
