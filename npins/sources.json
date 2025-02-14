@@ -1652,9 +1652,9 @@
         "repo": "kanagawa.nvim"
       },
       "branch": "master",
-      "revision": "884ba33135f567e9f48eb5b9685b8a178b3ba932",
-      "url": "https://github.com/rebelot/kanagawa.nvim/archive/884ba33135f567e9f48eb5b9685b8a178b3ba932.tar.gz",
-      "hash": "1p2lbj61p8hqajd1b4cvva7dql3s2zm0ds9bbpzq5yfmi1332m13"
+      "revision": "2de175482f215c69a1d12ab10a8bf2a7a2e44ff2",
+      "url": "https://github.com/rebelot/kanagawa.nvim/archive/2de175482f215c69a1d12ab10a8bf2a7a2e44ff2.tar.gz",
+      "hash": "14jfly9bggmahqrhcxbl8r7fpyhfbccb5ssc2yv0y26wli7bkrz5"
     },
     "lazy-nvim": {
       "type": "Git",
@@ -1915,9 +1915,9 @@
         "repo": "mini.nvim"
       },
       "branch": "main",
-      "revision": "1bd64e3ce49964cdfa9ee0e84c56f42d53b89052",
-      "url": "https://github.com/echasnovski/mini.nvim/archive/1bd64e3ce49964cdfa9ee0e84c56f42d53b89052.tar.gz",
-      "hash": "1a8vr9vdyjabjkz0nj02lwwriva241sd1qklkdapb9z4czcay0b3"
+      "revision": "4521dffdcc5eaab8afa01635961c8c39428b9fc2",
+      "url": "https://github.com/echasnovski/mini.nvim/archive/4521dffdcc5eaab8afa01635961c8c39428b9fc2.tar.gz",
+      "hash": "000j7hss8xn6zrq37iici524lnm7b6zp5wlvrpnwqml914xlhayd"
     },
     "mkdnflow-nvim": {
       "type": "Git",
