@@ -1652,9 +1652,9 @@
         "repo": "kanagawa.nvim"
       },
       "branch": "master",
-      "revision": "988082eb00b845e4afbcaa4fd8e903da8a3ab3b9",
-      "url": "https://github.com/rebelot/kanagawa.nvim/archive/988082eb00b845e4afbcaa4fd8e903da8a3ab3b9.tar.gz",
-      "hash": "03bfnfl76bc6kr4rdmb3ppfisnivj87sc20qgbr7rsa53yixm4mb"
+      "revision": "884ba33135f567e9f48eb5b9685b8a178b3ba932",
+      "url": "https://github.com/rebelot/kanagawa.nvim/archive/884ba33135f567e9f48eb5b9685b8a178b3ba932.tar.gz",
+      "hash": "1p2lbj61p8hqajd1b4cvva7dql3s2zm0ds9bbpzq5yfmi1332m13"
     },
     "lazy-nvim": {
       "type": "Git",
@@ -3199,9 +3199,9 @@
         "repo": "smart-splits.nvim"
       },
       "branch": "master",
-      "revision": "92cc9ffa16640025f95c4246a3068bce4bfd87fc",
-      "url": "https://github.com/mrjones2014/smart-splits.nvim/archive/92cc9ffa16640025f95c4246a3068bce4bfd87fc.tar.gz",
-      "hash": "03di5bjrqj51qrxzra6nvid2m85iicwgdgqkbkixhj9nb8qxvb00"
+      "revision": "9d4f6b36553b417128f984fc10c7e47145d211bb",
+      "url": "https://github.com/mrjones2014/smart-splits.nvim/archive/9d4f6b36553b417128f984fc10c7e47145d211bb.tar.gz",
+      "hash": "0z04y1kqlwsd5f8xxff6pil5gasvlw0mllwrghmqxrqxagwrjjrm"
     },
     "smartcolumn-nvim": {
       "type": "Git",
