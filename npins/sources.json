@@ -932,9 +932,9 @@
         "repo": "conform.nvim"
       },
       "branch": "master",
-      "revision": "8ed162b0637d4c4f69ebe3e8e49b35662a82e137",
-      "url": "https://github.com/stevearc/conform.nvim/archive/8ed162b0637d4c4f69ebe3e8e49b35662a82e137.tar.gz",
-      "hash": "131rkpm2fcxhbhhy0c8y9dnz8vhsyvavdagrzp76p23miw32jnwn"
+      "revision": "a6f5bdb78caa305496357d17e962bbc4c0b392e2",
+      "url": "https://github.com/stevearc/conform.nvim/archive/a6f5bdb78caa305496357d17e962bbc4c0b392e2.tar.gz",
+      "hash": "1jkm8pbfnp2s9y70cc67pj2fa25a4jl1y4lx6y1k5i323f4lplhz"
     },
     "conjure": {
       "type": "Git",
@@ -1664,9 +1664,9 @@
         "repo": "lazy.nvim"
       },
       "branch": "main",
-      "revision": "ac21a639c7ecfc8b822dcc9455deceea3778f839",
-      "url": "https://github.com/folke/lazy.nvim/archive/ac21a639c7ecfc8b822dcc9455deceea3778f839.tar.gz",
-      "hash": "0hf0lnbfh4mzbra8d44psc6d01v63f37w64ysg5d48cyn71pvxr5"
+      "revision": "e5e9bf48211a13d9ee6c1077c88327c49c1ab4a0",
+      "url": "https://github.com/folke/lazy.nvim/archive/e5e9bf48211a13d9ee6c1077c88327c49c1ab4a0.tar.gz",
+      "hash": "0jfbam1lpm00wszvz8z75dgf8g08lnn0mw4615f7src50p5x1nwq"
     },
     "lazygit-nvim": {
       "type": "Git",
@@ -2875,9 +2875,9 @@
         "repo": "oil.nvim"
       },
       "branch": "master",
-      "revision": "7cde5aab10f564408e9ac349d457d755422d58cd",
-      "url": "https://github.com/stevearc/oil.nvim/archive/7cde5aab10f564408e9ac349d457d755422d58cd.tar.gz",
-      "hash": "0x6vaapj5x7a4jhdc8mvzb701cfvziyb9ywj9sshsyfdhw9q8phs"
+      "revision": "975a77cce3c8cb742bc1b3629f4328f5ca977dad",
+      "url": "https://github.com/stevearc/oil.nvim/archive/975a77cce3c8cb742bc1b3629f4328f5ca977dad.tar.gz",
+      "hash": "0rrv7wg0nwfj5fd6byxs4np1p18xxdzyv11ba6vqqh3s6z0qwawc"
     },
     "ollama-nvim": {
       "type": "Git",
@@ -2935,9 +2935,9 @@
         "repo": "overseer.nvim"
       },
       "branch": "master",
-      "revision": "5a55357952e9b6d09540cc6057dccc923260f21c",
-      "url": "https://github.com/stevearc/overseer.nvim/archive/5a55357952e9b6d09540cc6057dccc923260f21c.tar.gz",
-      "hash": "032mjs97qy8bi2r6hqx4y0zkpjqk8cfccxwc52ypp6f0a70n0728"
+      "revision": "2c23513a4fd3a3be0459b3b62996fb0732c2fd7e",
+      "url": "https://github.com/stevearc/overseer.nvim/archive/2c23513a4fd3a3be0459b3b62996fb0732c2fd7e.tar.gz",
+      "hash": "0j6z7wzs5wxakfnqwc65wsiyqqx97ashda368rx13y4g5blh2wvx"
     },
     "oxocarbon-nvim": {
       "type": "Git",
