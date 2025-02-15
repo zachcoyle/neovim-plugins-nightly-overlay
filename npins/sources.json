@@ -1364,9 +1364,9 @@
         "repo": "gitsigns.nvim"
       },
       "branch": "main",
-      "revision": "2bc3b472bbc2484214549af4d9f38c127b886a55",
-      "url": "https://github.com/lewis6991/gitsigns.nvim/archive/2bc3b472bbc2484214549af4d9f38c127b886a55.tar.gz",
-      "hash": "18p8kvb6ardndmzh1spsvrchynn8d90mphjs1gbpnl4iih87m04d"
+      "revision": "8b00147519d6f8353867d5d0b55f587306b0cfb6",
+      "url": "https://github.com/lewis6991/gitsigns.nvim/archive/8b00147519d6f8353867d5d0b55f587306b0cfb6.tar.gz",
+      "hash": "0anpkfrjicjgbfdk7d3kmd1841m95ipm09xjf9qmffy8jasqjy6f"
     },
     "glow-nvim": {
       "type": "Git",
@@ -1915,9 +1915,9 @@
         "repo": "mini.nvim"
       },
       "branch": "main",
-      "revision": "4521dffdcc5eaab8afa01635961c8c39428b9fc2",
-      "url": "https://github.com/echasnovski/mini.nvim/archive/4521dffdcc5eaab8afa01635961c8c39428b9fc2.tar.gz",
-      "hash": "000j7hss8xn6zrq37iici524lnm7b6zp5wlvrpnwqml914xlhayd"
+      "revision": "4dd209e4f03bacd46d6d87408b2529a8823112fb",
+      "url": "https://github.com/echasnovski/mini.nvim/archive/4dd209e4f03bacd46d6d87408b2529a8823112fb.tar.gz",
+      "hash": "01nz5n9hmg7kfdm7ydsn4d31yppijqwfjbkwypayy12jhvm20ix9"
     },
     "mkdnflow-nvim": {
       "type": "Git",
