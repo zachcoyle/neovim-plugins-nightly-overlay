@@ -944,9 +944,9 @@
         "repo": "conjure"
       },
       "branch": "master",
-      "revision": "ccec0904cadebba50dc92b39629af0f3df3ee09d",
-      "url": "https://github.com/Olical/conjure/archive/ccec0904cadebba50dc92b39629af0f3df3ee09d.tar.gz",
-      "hash": "02rfpp2cmsgy37nfpswqklvhjhlxbjsb5ky0m3bipshkpyfx6hrr"
+      "revision": "8aed42faf4cb44663d06883d9733c89180260daa",
+      "url": "https://github.com/Olical/conjure/archive/8aed42faf4cb44663d06883d9733c89180260daa.tar.gz",
+      "hash": "165fis125cpc6m0mc8m63dhj4n0936gfk1258ci89jdsg8pzjhy0"
     },
     "copilot-cmp": {
       "type": "Git",
@@ -2755,9 +2755,9 @@
         "repo": "nvim-treesitter"
       },
       "branch": "master",
-      "revision": "80e6de9d24eec68d82d5f4e6feae94c9c753ebd6",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/80e6de9d24eec68d82d5f4e6feae94c9c753ebd6.tar.gz",
-      "hash": "0fdcnl26474xl8rp8i9jmgz6rpxbbgqyakwgh6kp40fvz4zbzppq"
+      "revision": "00a513f87ee3c339c2024b08db3eb63ba7736ed6",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/00a513f87ee3c339c2024b08db3eb63ba7736ed6.tar.gz",
+      "hash": "078jbpgj8abahycz775s0nng2v82gd1rxj6nrybkg9r0ah0b5zrk"
     },
     "nvim-treesitter-context": {
       "type": "Git",
