@@ -1112,9 +1112,9 @@
         "repo": "dropbar.nvim"
       },
       "branch": "master",
-      "revision": "115e2321627ef220e73e3150af80ba500782b679",
-      "url": "https://github.com/Bekaboo/dropbar.nvim/archive/115e2321627ef220e73e3150af80ba500782b679.tar.gz",
-      "hash": "1nmbvxikndbgn15z60485hdnx1w1jgf7m5gh39zkn3jp0hx9a8di"
+      "revision": "7b3ea9bac26390adb4912f8e629870b94cee8a74",
+      "url": "https://github.com/Bekaboo/dropbar.nvim/archive/7b3ea9bac26390adb4912f8e629870b94cee8a74.tar.gz",
+      "hash": "1jsw4yy7m28w6bvdl772ld1di7vayzcgbk5k06fd3a1gqzhz05r7"
     },
     "earthly-vim": {
       "type": "Git",
@@ -1268,9 +1268,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "0a3b70feb05879a8001c51f7a2a42fa52a9e552c",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/0a3b70feb05879a8001c51f7a2a42fa52a9e552c.tar.gz",
-      "hash": "0ysjs6pm16373rp5p4l3cvxx6c9p8h5fp14vvd38z7f3gd6mxwqa"
+      "revision": "f8ccd73a7a3a0c9adae935441f85e83d5a989efd",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/f8ccd73a7a3a0c9adae935441f85e83d5a989efd.tar.gz",
+      "hash": "02sm84nwiy9vv3278djj8j0nn93wvp8n06wy20j80r5x6s13br9l"
     },
     "galaxyline-nvim": {
       "type": "Git",
