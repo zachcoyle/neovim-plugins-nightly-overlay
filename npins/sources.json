@@ -1975,9 +1975,9 @@
         "repo": "neo-tree.nvim"
       },
       "branch": "main",
-      "revision": "73d3428db80dc3611df49beca1dcb4badcffd379",
-      "url": "https://github.com/nvim-neo-tree/neo-tree.nvim/archive/73d3428db80dc3611df49beca1dcb4badcffd379.tar.gz",
-      "hash": "08baia6d5lidi8awy72wajv8nnb6j9vcb4mpnpzk1k48077jays5"
+      "revision": "0ead8aaa301347b3555a1453ba3d36231cfff749",
+      "url": "https://github.com/nvim-neo-tree/neo-tree.nvim/archive/0ead8aaa301347b3555a1453ba3d36231cfff749.tar.gz",
+      "hash": "1hq7dyi643419c69vd080k0y48lzj32vm9j4xnvxwnbhbbwy8c0w"
     },
     "neocord": {
       "type": "Git",
@@ -2191,9 +2191,9 @@
         "repo": "neotest-haskell"
       },
       "branch": "master",
-      "revision": "0a487915ef5fa317e620766f3505d900d2bdd07f",
-      "url": "https://github.com/mrcjkb/neotest-haskell/archive/0a487915ef5fa317e620766f3505d900d2bdd07f.tar.gz",
-      "hash": "0z8m2rjbxbg4902h5y6jakaw8g31406s373hh0pprpg0pacwcv41"
+      "revision": "93dc46a2e7083a4e853cbc4271d91c2ef2f416eb",
+      "url": "https://github.com/mrcjkb/neotest-haskell/archive/93dc46a2e7083a4e853cbc4271d91c2ef2f416eb.tar.gz",
+      "hash": "1xvb842sw3g3j7sz0rcna0z9k9hbc6adn4jfsjf5fy7jy4gvhy4d"
     },
     "neotest-java": {
       "type": "Git",
@@ -3127,9 +3127,9 @@
         "repo": "refactoring.nvim"
       },
       "branch": "master",
-      "revision": "2db6d378e873de31d18ade549c2edba64ff1c2e3",
-      "url": "https://github.com/ThePrimeagen/refactoring.nvim/archive/2db6d378e873de31d18ade549c2edba64ff1c2e3.tar.gz",
-      "hash": "1q79i3x21vv8kz0b456w6v5zda6jc6k4z0jbfijls8h4hvkj7j39"
+      "revision": "07e99021f66cad7eb7a6b45921798b0555f00bc3",
+      "url": "https://github.com/ThePrimeagen/refactoring.nvim/archive/07e99021f66cad7eb7a6b45921798b0555f00bc3.tar.gz",
+      "hash": "076acydbxwddr4ng2187qd6m3dm6kw1d5z82b5mcrs3s0mlm0n9s"
     },
     "render-markdown-nvim": {
       "type": "Git",
