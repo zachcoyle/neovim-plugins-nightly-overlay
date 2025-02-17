@@ -20,9 +20,9 @@
         "repo": "CopilotChat.nvim"
       },
       "branch": "main",
-      "revision": "2f2cf00670c04a03770a60d43df9809c4293a39e",
-      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/2f2cf00670c04a03770a60d43df9809c4293a39e.tar.gz",
-      "hash": "1af4cz1p6ms249rh6qkm5wp39s2589vrx83b14if4yxas4g6hdd2"
+      "revision": "1b476cd2d48cbfab890c416f8b8286bc1ded2f2b",
+      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/1b476cd2d48cbfab890c416f8b8286bc1ded2f2b.tar.gz",
+      "hash": "1yg9mzs30q8drhq27fizr6v7szhs782jsbi6sj4jf6s6lqvhll5g"
     },
     "Preview-nvim": {
       "type": "Git",
@@ -2767,9 +2767,9 @@
         "repo": "nvim-treesitter-context"
       },
       "branch": "master",
-      "revision": "5d2d40194d0f58790f6b890ee0e61abee03bd513",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter-context/archive/5d2d40194d0f58790f6b890ee0e61abee03bd513.tar.gz",
-      "hash": "03qixg8zysr0mcfks60ibvcsqf0x0x32ly98igxyz31g311npiy1"
+      "revision": "198720b4016af04c9590f375d714d5bf8afecc1a",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter-context/archive/198720b4016af04c9590f375d714d5bf8afecc1a.tar.gz",
+      "hash": "13msw9i509ncysbgkqbl2wr1c23iw3f4mxkw30sc1yk9x9nx49ri"
     },
     "nvim-treesitter-refactor": {
       "type": "Git",
