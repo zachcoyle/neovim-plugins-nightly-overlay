@@ -260,9 +260,9 @@
         "repo": "chadtree"
       },
       "branch": "chad",
-      "revision": "d5c3af0f6280fc005ad81cc86f9dee295160d395",
-      "url": "https://github.com/ms-jpq/chadtree/archive/d5c3af0f6280fc005ad81cc86f9dee295160d395.tar.gz",
-      "hash": "1kwd52xnwhg7kf5aha5kl4dyz9isg72dszjvvss7ml583lmqh9g7"
+      "revision": "3137b822eecba0b09c2af6687c7987c221628215",
+      "url": "https://github.com/ms-jpq/chadtree/archive/3137b822eecba0b09c2af6687c7987c221628215.tar.gz",
+      "hash": "1d6w6ak0nans8z4hfz7dvib45b4hgr4clwmk03xn4ma5fh750acb"
     },
     "clangd_extensions-nvim": {
       "type": "Git",
