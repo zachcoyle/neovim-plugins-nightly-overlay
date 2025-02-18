@@ -1016,9 +1016,9 @@
         "repo": "crates.nvim"
       },
       "branch": "main",
-      "revision": "1d92a7f449a2a76d8f4c3459bd98f450e76d2ea3",
-      "url": "https://github.com/Saecki/crates.nvim/archive/1d92a7f449a2a76d8f4c3459bd98f450e76d2ea3.tar.gz",
-      "hash": "1y2d100zrihznhiw5chqj11nfrjkd9rax6aqjdgfb4cd0fa2jgms"
+      "revision": "72644e516866e343b711203a977750e4e9fe38cc",
+      "url": "https://github.com/Saecki/crates.nvim/archive/72644e516866e343b711203a977750e4e9fe38cc.tar.gz",
+      "hash": "1dn1ry1z0jaxhgcnyafyv6kqy8s2vnz70wrw991iqrw1bg6n847c"
     },
     "cyberdream-nvim": {
       "type": "Git",
@@ -3199,9 +3199,9 @@
         "repo": "smart-splits.nvim"
       },
       "branch": "master",
-      "revision": "9d4f6b36553b417128f984fc10c7e47145d211bb",
-      "url": "https://github.com/mrjones2014/smart-splits.nvim/archive/9d4f6b36553b417128f984fc10c7e47145d211bb.tar.gz",
-      "hash": "0z04y1kqlwsd5f8xxff6pil5gasvlw0mllwrghmqxrqxagwrjjrm"
+      "revision": "de1d5ed60c1407b7704495d7b3c8e262358728c9",
+      "url": "https://github.com/mrjones2014/smart-splits.nvim/archive/de1d5ed60c1407b7704495d7b3c8e262358728c9.tar.gz",
+      "hash": "06daqadxlrqx4vc24s3sfxjf3c9572brir18fxywyvx0pl5hqghw"
     },
     "smartcolumn-nvim": {
       "type": "Git",
