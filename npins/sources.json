@@ -3127,9 +3127,9 @@
         "repo": "refactoring.nvim"
       },
       "branch": "master",
-      "revision": "c59dbc5417fc69b01f4a965fa9ebb627d04a1ee2",
-      "url": "https://github.com/ThePrimeagen/refactoring.nvim/archive/c59dbc5417fc69b01f4a965fa9ebb627d04a1ee2.tar.gz",
-      "hash": "0jak2d9bw7mmmmr7mbpfajl611anqsg9v5jsbliskcyfz8mn5kgx"
+      "revision": "34bf8e5cbd3b455ce6890da9baba7ad69856f0dc",
+      "url": "https://github.com/ThePrimeagen/refactoring.nvim/archive/34bf8e5cbd3b455ce6890da9baba7ad69856f0dc.tar.gz",
+      "hash": "0mm5cws9fd71k33n02dgzr93y1yy4cr3g2ggf4s225jbp5mw2x92"
     },
     "render-markdown-nvim": {
       "type": "Git",
