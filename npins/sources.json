@@ -1688,9 +1688,9 @@
         "repo": "lean.nvim"
       },
       "branch": "main",
-      "revision": "a16651d6f2a0ab2f543d5f608af1c0ad9dc42a9b",
-      "url": "https://github.com/Julian/lean.nvim/archive/a16651d6f2a0ab2f543d5f608af1c0ad9dc42a9b.tar.gz",
-      "hash": "1dqzagzf8zkb37y74yjp186z306gqqz5372f5vf6an673qzzvsw5"
+      "revision": "bb57e2564c6ef56affda56677ab46c3045df75d8",
+      "url": "https://github.com/Julian/lean.nvim/archive/bb57e2564c6ef56affda56677ab46c3045df75d8.tar.gz",
+      "hash": "1ahsbxp02gj4v6gs3547wnxgw5jyw2ycxkvn68iyy6idj0mvcka8"
     },
     "leap-nvim": {
       "type": "Git",
@@ -3859,9 +3859,9 @@
         "repo": "vim-fugitive"
       },
       "branch": "master",
-      "revision": "b068eaf1e6cbe35d1ac100d435cd7f7b74a5c87d",
-      "url": "https://github.com/tpope/vim-fugitive/archive/b068eaf1e6cbe35d1ac100d435cd7f7b74a5c87d.tar.gz",
-      "hash": "180q2car9r0v5x9d1ihdf0vnyhb1jn0bd9d77j730r9bzz4cpxyw"
+      "revision": "4a745ea72fa93bb15dd077109afbb3d1809383f2",
+      "url": "https://github.com/tpope/vim-fugitive/archive/4a745ea72fa93bb15dd077109afbb3d1809383f2.tar.gz",
+      "hash": "188l24j7j57hgs02gy6ch165agyrwr4g034c5j3m1vnw14vmw2yl"
     },
     "vim-godot": {
       "type": "Git",
