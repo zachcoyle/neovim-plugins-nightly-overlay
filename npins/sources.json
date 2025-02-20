@@ -260,9 +260,9 @@
         "repo": "chadtree"
       },
       "branch": "chad",
-      "revision": "3137b822eecba0b09c2af6687c7987c221628215",
-      "url": "https://github.com/ms-jpq/chadtree/archive/3137b822eecba0b09c2af6687c7987c221628215.tar.gz",
-      "hash": "1d6w6ak0nans8z4hfz7dvib45b4hgr4clwmk03xn4ma5fh750acb"
+      "revision": "3d581529d6d19af1e6eb8467aae150def12af742",
+      "url": "https://github.com/ms-jpq/chadtree/archive/3d581529d6d19af1e6eb8467aae150def12af742.tar.gz",
+      "hash": "13r39qdwdn0d5az1phhbk8g7yc4jpm7scw0r3ixxlm8lhq47zsl3"
     },
     "clangd_extensions-nvim": {
       "type": "Git",
@@ -1688,9 +1688,9 @@
         "repo": "lean.nvim"
       },
       "branch": "main",
-      "revision": "bb57e2564c6ef56affda56677ab46c3045df75d8",
-      "url": "https://github.com/Julian/lean.nvim/archive/bb57e2564c6ef56affda56677ab46c3045df75d8.tar.gz",
-      "hash": "1ahsbxp02gj4v6gs3547wnxgw5jyw2ycxkvn68iyy6idj0mvcka8"
+      "revision": "1f88860f4bb28686c3eb2bf026617469af952641",
+      "url": "https://github.com/Julian/lean.nvim/archive/1f88860f4bb28686c3eb2bf026617469af952641.tar.gz",
+      "hash": "0v94c220b1gmxfsq0dq4mx9a44lgx26y0clhy1mjn0gpwqynnyvg"
     },
     "leap-nvim": {
       "type": "Git",
@@ -3139,9 +3139,9 @@
         "repo": "render-markdown.nvim"
       },
       "branch": "main",
-      "revision": "4a28c135bc3548e398ba38178fec3f705cb26fe6",
-      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/4a28c135bc3548e398ba38178fec3f705cb26fe6.tar.gz",
-      "hash": "0j86av63c4hcd4xd145a28z6s4g3n5jfz9xlg83c5wj3ds3wxanh"
+      "revision": "6d446de33937633bc2104f45c943f4fae632b822",
+      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/6d446de33937633bc2104f45c943f4fae632b822.tar.gz",
+      "hash": "1i1gsw1crir3m2cqhb4pvd92frcq9pzjl7k8wh4fgfwghxcw4ay0"
     },
     "rest-nvim": {
       "type": "Git",
