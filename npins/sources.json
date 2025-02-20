@@ -2755,9 +2755,9 @@
         "repo": "nvim-treesitter"
       },
       "branch": "master",
-      "revision": "cb8e810a1ea3f562e95a259df3065c7c23decf7a",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/cb8e810a1ea3f562e95a259df3065c7c23decf7a.tar.gz",
-      "hash": "120fhr7drfdj1isrf5jhkjr3kf5dzx4z1ssvyg2md71syc2xnbrl"
+      "revision": "a15dd9280f369fef4640e64de794f69456ecdf7a",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/a15dd9280f369fef4640e64de794f69456ecdf7a.tar.gz",
+      "hash": "02q32bgmp5cz0d7rqxyzzscyp9b411n9prvvi88nf322fpl7wf2w"
     },
     "nvim-treesitter-context": {
       "type": "Git",
@@ -3175,9 +3175,9 @@
         "repo": "scope.nvim"
       },
       "branch": "main",
-      "revision": "e1799fa37178382fc228245c41af5547e3f95182",
-      "url": "https://github.com/tiagovla/scope.nvim/archive/e1799fa37178382fc228245c41af5547e3f95182.tar.gz",
-      "hash": "1cbgnlrbwsf2jfn5jg3qkjpgiq0k3ls93qpcdd1c8x3lvw6q9sxc"
+      "revision": "3fc963e75f88990a9467ff72b8eea667a69c30a2",
+      "url": "https://github.com/tiagovla/scope.nvim/archive/3fc963e75f88990a9467ff72b8eea667a69c30a2.tar.gz",
+      "hash": "11pbkrc0jb37sfdpf2bppz702ks3526kzcxyq7s5r23di4q61wlj"
     },
     "scrollbar-nvim": {
       "type": "Git",
