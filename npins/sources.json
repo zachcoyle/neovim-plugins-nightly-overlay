@@ -1028,9 +1028,9 @@
         "repo": "cyberdream.nvim"
       },
       "branch": "main",
-      "revision": "487da80bcdf4812983ae465840428f58c130767f",
-      "url": "https://github.com/scottmckendry/cyberdream.nvim/archive/487da80bcdf4812983ae465840428f58c130767f.tar.gz",
-      "hash": "0nnnj7680wq5n28wi8wh48n30l1cv6cdn7h77mwi6haqm13grjsx"
+      "revision": "b02c977aaf0283a0ec7a0184e6a459366325c93b",
+      "url": "https://github.com/scottmckendry/cyberdream.nvim/archive/b02c977aaf0283a0ec7a0184e6a459366325c93b.tar.gz",
+      "hash": "14rnp66smhmc3zx2wvph2sayivmq7zdj0bi5rkk379ancj6nkvc5"
     },
     "dashboard-nvim": {
       "type": "Git",
@@ -1688,9 +1688,9 @@
         "repo": "lean.nvim"
       },
       "branch": "main",
-      "revision": "b959136f4b1816b961ff1748bd586b6217bc042f",
-      "url": "https://github.com/Julian/lean.nvim/archive/b959136f4b1816b961ff1748bd586b6217bc042f.tar.gz",
-      "hash": "179504ycqmdcs1yjbksm12hj6vjqzv8k74rm4zkr9gb2hp4hxjlk"
+      "revision": "d8423bdb9eb2e3046a6439fce7f0c483b981f5c3",
+      "url": "https://github.com/Julian/lean.nvim/archive/d8423bdb9eb2e3046a6439fce7f0c483b981f5c3.tar.gz",
+      "hash": "0dni0zxl5nfvjk9gn1ccfimjblfqshayg1fwdgh7ynf58bcklbla"
     },
     "leap-nvim": {
       "type": "Git",
