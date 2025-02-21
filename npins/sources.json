@@ -20,9 +20,9 @@
         "repo": "CopilotChat.nvim"
       },
       "branch": "main",
-      "revision": "07d7253e9929cb7e7f9faf51bcec2cd0c46821df",
-      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/07d7253e9929cb7e7f9faf51bcec2cd0c46821df.tar.gz",
-      "hash": "1kyk693gambizi3h178q2839fxzkwcj3qdvjj5k43py5z2z833vx"
+      "revision": "ced621672e6f4c488c7ae16f821e67e79936d8ed",
+      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/ced621672e6f4c488c7ae16f821e67e79936d8ed.tar.gz",
+      "hash": "1qw11rr213f3irfmlhm10f1j0w54b8hqhaba3dva6dnx6in9w34n"
     },
     "Preview-nvim": {
       "type": "Git",
@@ -1484,9 +1484,9 @@
         "repo": "helpview.nvim"
       },
       "branch": "main",
-      "revision": "30d3104fc44ea0dc50ccc4a68e7e65e70c34a2a4",
-      "url": "https://github.com/OXY2DEV/helpview.nvim/archive/30d3104fc44ea0dc50ccc4a68e7e65e70c34a2a4.tar.gz",
-      "hash": "1didw597418fcispy7gyglz0pp62hglnx6hfpfpylz4m076zbmqr"
+      "revision": "2bc021a2cf1e6ce103f95ceffc172cfefbbf9cfc",
+      "url": "https://github.com/OXY2DEV/helpview.nvim/archive/2bc021a2cf1e6ce103f95ceffc172cfefbbf9cfc.tar.gz",
+      "hash": "1wbcz75hrxgc4d3z5vn9091mpz91f18yppcpa7a96xq8yybpkmh6"
     },
     "hex-nvim": {
       "type": "Git",
