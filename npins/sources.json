@@ -20,9 +20,9 @@
         "repo": "CopilotChat.nvim"
       },
       "branch": "main",
-      "revision": "b842f855b8f29e98fc9f589a048c05e449b2f663",
-      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/b842f855b8f29e98fc9f589a048c05e449b2f663.tar.gz",
-      "hash": "0gmmyjxwjva7jhig12chnfp83idxzw5px9lxq26h9n1wwzpwwdxi"
+      "revision": "ba97b4a25aca43f58b00fb31d85efabc8bae0568",
+      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/ba97b4a25aca43f58b00fb31d85efabc8bae0568.tar.gz",
+      "hash": "15imkn0kxr7gwnm6ycl6l2pwv5r1vag2jwm9nkiwxadw05fwyih7"
     },
     "Preview-nvim": {
       "type": "Git",
@@ -2863,9 +2863,9 @@
         "repo": "octo.nvim"
       },
       "branch": "master",
-      "revision": "cfe829bfba5d9b9f0ff503f5dacac7bf74804b3f",
-      "url": "https://github.com/pwntester/octo.nvim/archive/cfe829bfba5d9b9f0ff503f5dacac7bf74804b3f.tar.gz",
-      "hash": "1qd9i3vf9c37zc4vbn3abvxg0p0klgjdzxny21aj602razlav5ia"
+      "revision": "2940fdcc0e38eca401b1f0a2e229d500128ccfcd",
+      "url": "https://github.com/pwntester/octo.nvim/archive/2940fdcc0e38eca401b1f0a2e229d500128ccfcd.tar.gz",
+      "hash": "18pra2jv4kvk686yfl9c316agjbb141324cf8acxz0ch8grkzr9z"
     },
     "oil-nvim": {
       "type": "Git",
@@ -3511,9 +3511,9 @@
         "repo": "telescope-project.nvim"
       },
       "branch": "master",
-      "revision": "1d7920e799fc5001dffc7bd10909a86e0358eaf4",
-      "url": "https://github.com/nvim-telescope/telescope-project.nvim/archive/1d7920e799fc5001dffc7bd10909a86e0358eaf4.tar.gz",
-      "hash": "0dil6dj0nd173l4kxlbfjc29bsz67v47pv3ygsxr41hacr2r2hx8"
+      "revision": "ce2c9fe209a68c7a924acde42d94ed8a2b2a52c5",
+      "url": "https://github.com/nvim-telescope/telescope-project.nvim/archive/ce2c9fe209a68c7a924acde42d94ed8a2b2a52c5.tar.gz",
+      "hash": "15pw4hc9b0ixchvsps09yk05c88d66xn9ml5cysaip7v9678mivb"
     },
     "telescope-snippets-nvim": {
       "type": "Git",
@@ -4219,9 +4219,9 @@
         "repo": "yazi.nvim"
       },
       "branch": "main",
-      "revision": "c3cdf981f90658ece1c2c8d4340299ad2d060fa5",
-      "url": "https://github.com/mikavilpas/yazi.nvim/archive/c3cdf981f90658ece1c2c8d4340299ad2d060fa5.tar.gz",
-      "hash": "0xwsgb4qx39xkb2ik8wlhd4pcx5cwl6p64walkyawapjiw7wffcn"
+      "revision": "e12ddffab524f2fee9f0c93a7f1cff2818a77799",
+      "url": "https://github.com/mikavilpas/yazi.nvim/archive/e12ddffab524f2fee9f0c93a7f1cff2818a77799.tar.gz",
+      "hash": "153kj7lcqjq7yash95mnbzj96vlji73zvyqacp6qvvm24lpvxjbq"
     },
     "yuck-vim": {
       "type": "Git",
