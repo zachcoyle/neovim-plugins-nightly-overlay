@@ -20,9 +20,9 @@
         "repo": "CopilotChat.nvim"
       },
       "branch": "main",
-      "revision": "ba97b4a25aca43f58b00fb31d85efabc8bae0568",
-      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/ba97b4a25aca43f58b00fb31d85efabc8bae0568.tar.gz",
-      "hash": "15imkn0kxr7gwnm6ycl6l2pwv5r1vag2jwm9nkiwxadw05fwyih7"
+      "revision": "07d7253e9929cb7e7f9faf51bcec2cd0c46821df",
+      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/07d7253e9929cb7e7f9faf51bcec2cd0c46821df.tar.gz",
+      "hash": "1kyk693gambizi3h178q2839fxzkwcj3qdvjj5k43py5z2z833vx"
     },
     "Preview-nvim": {
       "type": "Git",
@@ -4219,9 +4219,9 @@
         "repo": "yazi.nvim"
       },
       "branch": "main",
-      "revision": "e12ddffab524f2fee9f0c93a7f1cff2818a77799",
-      "url": "https://github.com/mikavilpas/yazi.nvim/archive/e12ddffab524f2fee9f0c93a7f1cff2818a77799.tar.gz",
-      "hash": "153kj7lcqjq7yash95mnbzj96vlji73zvyqacp6qvvm24lpvxjbq"
+      "revision": "00c4b936921c45af617633923f5ac45804c75966",
+      "url": "https://github.com/mikavilpas/yazi.nvim/archive/00c4b936921c45af617633923f5ac45804c75966.tar.gz",
+      "hash": "1n6a9rl7bqvifrfx6cpqjy9nvfn1hgxlcs5wl5kdgkfmqsajh6b7"
     },
     "yuck-vim": {
       "type": "Git",
