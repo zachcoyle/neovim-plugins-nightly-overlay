@@ -164,9 +164,9 @@
         "repo": "base16-nvim"
       },
       "branch": "master",
-      "revision": "2fdd4e53286dbb8978699b5e1cd09835362a70f3",
-      "url": "https://github.com/RRethy/base16-nvim/archive/2fdd4e53286dbb8978699b5e1cd09835362a70f3.tar.gz",
-      "hash": "17rz6v9a6mqnd43746cii9nnf6qkaz29q1cybjyksqi007dbpk8y"
+      "revision": "3f13e15c53ea2aaf79c24ceab725309d87f0619c",
+      "url": "https://github.com/RRethy/base16-nvim/archive/3f13e15c53ea2aaf79c24ceab725309d87f0619c.tar.gz",
+      "hash": "1z6pdf707r2rpmzi057dhcmd045695v03215asn1hdn8r294zcmg"
     },
     "better-escape-nvim": {
       "type": "Git",
@@ -1268,9 +1268,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "3d3e4bda8cc60f00bcce7046a78581ee1f6362a4",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/3d3e4bda8cc60f00bcce7046a78581ee1f6362a4.tar.gz",
-      "hash": "1c0m0a0k96rwnd463sk3bj4a5arlz2mrm3pksgpdn467ji6gin8h"
+      "revision": "02d27f90a813987defa747dd3747ecd1237a90a5",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/02d27f90a813987defa747dd3747ecd1237a90a5.tar.gz",
+      "hash": "10h7v1c284v2fnffassr77hhdh91gsn7pmp4znqq958310zcakwy"
     },
     "galaxyline-nvim": {
       "type": "Git",
@@ -2743,9 +2743,9 @@
         "repo": "nvim-tree.lua"
       },
       "branch": "master",
-      "revision": "3281f331f7f0bef13eb00fb2d5a9d28b2f6155a2",
-      "url": "https://github.com/nvim-tree/nvim-tree.lua/archive/3281f331f7f0bef13eb00fb2d5a9d28b2f6155a2.tar.gz",
-      "hash": "1cam2r2s02m18jg4ml3nyr3lcg3saxq4f1fsb2mmcwvzl21wwfy1"
+      "revision": "6709463b2d18e77f7a946027917aa00d4aaed6f4",
+      "url": "https://github.com/nvim-tree/nvim-tree.lua/archive/6709463b2d18e77f7a946027917aa00d4aaed6f4.tar.gz",
+      "hash": "1m26fvvsj4lxlwdinvnz8nz968n6x59w8n7zj7vsqm5i8yi84fr6"
     },
     "nvim-treesitter": {
       "type": "Git",
