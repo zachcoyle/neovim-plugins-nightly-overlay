@@ -20,9 +20,9 @@
         "repo": "CopilotChat.nvim"
       },
       "branch": "main",
-      "revision": "0fc3087d9d5fd2a7b01c4ad87c1d2932958fe8f7",
-      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/0fc3087d9d5fd2a7b01c4ad87c1d2932958fe8f7.tar.gz",
-      "hash": "0q813jpicwjsbd6kr28wncllad88a6w2glqbjxlkm354la4imdx9"
+      "revision": "494d7eae6ad89a825534f10d946169fe5c84edef",
+      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/494d7eae6ad89a825534f10d946169fe5c84edef.tar.gz",
+      "hash": "1j7madhba7bsqmpn1m097sk3cx3bqfny9bxxnlxcl2blxi6gd225"
     },
     "Preview-nvim": {
       "type": "Git",
@@ -308,9 +308,9 @@
         "repo": "cmake-tools.nvim"
       },
       "branch": "master",
-      "revision": "fccf6ce5f8ad2fde01e9e70797d78a6abbef7146",
-      "url": "https://github.com/Civitasv/cmake-tools.nvim/archive/fccf6ce5f8ad2fde01e9e70797d78a6abbef7146.tar.gz",
-      "hash": "040wvyma4s4l03s1dwcvssmbmdbhdwpngkpg16h3sn3ajzmjj807"
+      "revision": "72a5eb8fd330da3e4a5f9ca0722ebf423f54bc8e",
+      "url": "https://github.com/Civitasv/cmake-tools.nvim/archive/72a5eb8fd330da3e4a5f9ca0722ebf423f54bc8e.tar.gz",
+      "hash": "1kxdmblrk7vmx3622qpdq2bpsv6pywl8yn3hdnihsar3h3r4ilf7"
     },
     "cmp-async-path": {
       "type": "Git",
