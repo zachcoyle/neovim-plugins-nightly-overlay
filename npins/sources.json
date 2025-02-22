@@ -2863,9 +2863,9 @@
         "repo": "octo.nvim"
       },
       "branch": "master",
-      "revision": "d957f21a7dd922eab29f53be77f22ad802ade55b",
-      "url": "https://github.com/pwntester/octo.nvim/archive/d957f21a7dd922eab29f53be77f22ad802ade55b.tar.gz",
-      "hash": "1mn7lcmh157nkgjp1yxranm78nyr10qdh2yd0cl8rvlj02dzasgf"
+      "revision": "208a9f5c58a45e695de6f1b2198a5974f711ef3c",
+      "url": "https://github.com/pwntester/octo.nvim/archive/208a9f5c58a45e695de6f1b2198a5974f711ef3c.tar.gz",
+      "hash": "0s3lzib9czdihs3l04plb5q5a32i8qnqmfkly693rwpl8p1fmy11"
     },
     "oil-nvim": {
       "type": "Git",
@@ -4159,9 +4159,9 @@
         "repo": "which-key.nvim"
       },
       "branch": "main",
-      "revision": "5bf7a73fe851896d5ac26d313db849bf00f45b78",
-      "url": "https://github.com/folke/which-key.nvim/archive/5bf7a73fe851896d5ac26d313db849bf00f45b78.tar.gz",
-      "hash": "1sg1fz917vpqc99vcdp08gchlw15cndmphhm6qsjs4xhkg5jy9rc"
+      "revision": "370ec46f710e058c9c1646273e6b225acf47cbed",
+      "url": "https://github.com/folke/which-key.nvim/archive/370ec46f710e058c9c1646273e6b225acf47cbed.tar.gz",
+      "hash": "0am4yw7lnibgc949qvbsi4a7hqdx6gk209l5vafv5bwcvd4irwxs"
     },
     "wilder-nvim": {
       "type": "Git",
