@@ -1759,9 +1759,9 @@
         "repo": "lsp_signature.nvim"
       },
       "branch": "master",
-      "revision": "f974b4b603fbed6590b2ac26a09a5b1183530a12",
-      "url": "https://github.com/ray-x/lsp_signature.nvim/archive/f974b4b603fbed6590b2ac26a09a5b1183530a12.tar.gz",
-      "hash": "0cs6ybaiykw225w5wlcqgwc9rhzgjm2aclyai1r8fmc2qkj8x53q"
+      "revision": "693b75f1dc31f5af45ceb762966a6ab00af1850b",
+      "url": "https://github.com/ray-x/lsp_signature.nvim/archive/693b75f1dc31f5af45ceb762966a6ab00af1850b.tar.gz",
+      "hash": "0jfiips0ddbry91h52k671sll0zfqpz10dc8fw0w5np6lwiy7z34"
     },
     "lspkind-nvim": {
       "type": "Git",
@@ -1831,9 +1831,9 @@
         "repo": "lz.n"
       },
       "branch": "master",
-      "revision": "4f69c8164f4a8306d173cb39fe894b712f69d582",
-      "url": "https://github.com/nvim-neorocks/lz.n/archive/4f69c8164f4a8306d173cb39fe894b712f69d582.tar.gz",
-      "hash": "0z4jnl4rvbjqy18yj9aqcn6hxhdp481pb37jprfa5a4vrq9v6fsn"
+      "revision": "eb94a39433518b26a0eeb117b937b21dc6b18713",
+      "url": "https://github.com/nvim-neorocks/lz.n/archive/eb94a39433518b26a0eeb117b937b21dc6b18713.tar.gz",
+      "hash": "1sarbbj53b5f4mcj6b1iqkbjacrh3w63vp8dpz6j802wqwvi51wc"
     },
     "magma-nvim-goose": {
       "type": "Git",
