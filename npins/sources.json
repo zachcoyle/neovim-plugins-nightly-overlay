@@ -116,9 +116,9 @@
         "repo": "avante.nvim"
       },
       "branch": "main",
-      "revision": "e93f2426e98955fed0fc935e1c5efe7c976c1316",
-      "url": "https://github.com/yetone/avante.nvim/archive/e93f2426e98955fed0fc935e1c5efe7c976c1316.tar.gz",
-      "hash": "0grgjzkdpbnb86fc1zqrnzsb7wlfnz3z04qfys45bx52ixpmflrf"
+      "revision": "3dd1854cd446c4726106a4683edd2cbadd22b1a0",
+      "url": "https://github.com/yetone/avante.nvim/archive/3dd1854cd446c4726106a4683edd2cbadd22b1a0.tar.gz",
+      "hash": "0gyargbkf24xn9l57hpwxsss3z7r61qp8gizsm4m59skxinkzcwj"
     },
     "baleia-nvim": {
       "type": "Git",
@@ -2923,9 +2923,9 @@
         "repo": "orgmode"
       },
       "branch": "master",
-      "revision": "54aeadb205ff43e692c07f748fef870a0967af67",
-      "url": "https://github.com/nvim-orgmode/orgmode/archive/54aeadb205ff43e692c07f748fef870a0967af67.tar.gz",
-      "hash": "1kh1rh9lcd9d8qsbxlzpz64ly5lpv3cqd35lmmb4qpqvpfd24js3"
+      "revision": "c0cdcbdced83ceb9b9f058b402a8bfc5f64ab3a6",
+      "url": "https://github.com/nvim-orgmode/orgmode/archive/c0cdcbdced83ceb9b9f058b402a8bfc5f64ab3a6.tar.gz",
+      "hash": "0qwv2pg4s9spmy5wvkvflhcb0a2drlygch6hmjanj3g2kkn3ph5f"
     },
     "overseer-nvim": {
       "type": "Git",
