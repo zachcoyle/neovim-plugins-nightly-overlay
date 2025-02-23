@@ -1759,9 +1759,9 @@
         "repo": "lsp_signature.nvim"
       },
       "branch": "master",
-      "revision": "5b64964ed02098c85613ee3d20f96bed1dfb64cc",
-      "url": "https://github.com/ray-x/lsp_signature.nvim/archive/5b64964ed02098c85613ee3d20f96bed1dfb64cc.tar.gz",
-      "hash": "0jd7n21d5pcxahif76cjvp96gq7iq3nq18gzc4ww5lp53w2izbiz"
+      "revision": "f974b4b603fbed6590b2ac26a09a5b1183530a12",
+      "url": "https://github.com/ray-x/lsp_signature.nvim/archive/f974b4b603fbed6590b2ac26a09a5b1183530a12.tar.gz",
+      "hash": "0cs6ybaiykw225w5wlcqgwc9rhzgjm2aclyai1r8fmc2qkj8x53q"
     },
     "lspkind-nvim": {
       "type": "Git",
@@ -2047,9 +2047,9 @@
         "repo": "neorg"
       },
       "branch": "main",
-      "revision": "e726cbb3103bc7c2a86e7e341188600b7a3a6d7d",
-      "url": "https://github.com/vhyrro/neorg/archive/e726cbb3103bc7c2a86e7e341188600b7a3a6d7d.tar.gz",
-      "hash": "160sa6gpfcq5y4c1bivl48q67capx2lnsf77mbzhgz8ya0c2q432"
+      "revision": "2f880ad7fccc9d7676ce1cd54048e2e18804a965",
+      "url": "https://github.com/vhyrro/neorg/archive/2f880ad7fccc9d7676ce1cd54048e2e18804a965.tar.gz",
+      "hash": "1jii2xxzxcdd0ah9ahcccrsidvjq4m80c5dbs6d84brcrlx96l77"
     },
     "neoscroll-nvim": {
       "type": "Git",
@@ -3487,9 +3487,9 @@
         "repo": "telescope.nvim"
       },
       "branch": "master",
-      "revision": "78857db9e8d819d3cc1a9a7bdc1d39d127a36495",
-      "url": "https://github.com/nvim-telescope/telescope.nvim/archive/78857db9e8d819d3cc1a9a7bdc1d39d127a36495.tar.gz",
-      "hash": "18v2sydcmgy3wb34wylmjsmbhkd8gzqwq4fiya569iay3qr9kv6d"
+      "revision": "589910694bafe3975d0f025a750dcabc09824126",
+      "url": "https://github.com/nvim-telescope/telescope.nvim/archive/589910694bafe3975d0f025a750dcabc09824126.tar.gz",
+      "hash": "0v4ydngg7iqm6fwhyp7xi2lwmvvrmz8az8ixn83q33pzcy6xbp9d"
     },
     "telescope-packer-nvim": {
       "type": "Git",
