@@ -44,9 +44,9 @@
         "repo": "SchemaStore.nvim"
       },
       "branch": "main",
-      "revision": "a72f390eafa06abed53427a29bf073d69199d9cf",
-      "url": "https://github.com/b0o/SchemaStore.nvim/archive/a72f390eafa06abed53427a29bf073d69199d9cf.tar.gz",
-      "hash": "1pwk8a64m9gq0ajx2hv65gvdvf02nc54wkdfsswj9s0icl351i9k"
+      "revision": "503f3221543d4fe897d600f66816cc54c4bf825f",
+      "url": "https://github.com/b0o/SchemaStore.nvim/archive/503f3221543d4fe897d600f66816cc54c4bf825f.tar.gz",
+      "hash": "0hxajmii93yb1c8azgkcgbly899g3qx4jmm742kl3ph34qqrcfi5"
     },
     "alpha-nvim": {
       "type": "Git",
@@ -4219,9 +4219,9 @@
         "repo": "yazi.nvim"
       },
       "branch": "main",
-      "revision": "6df30f0e223afdf6f9ea1493daac5c921f035492",
-      "url": "https://github.com/mikavilpas/yazi.nvim/archive/6df30f0e223afdf6f9ea1493daac5c921f035492.tar.gz",
-      "hash": "044a1xy2gzfx3sgsipmvji9yf1aadmqpviy8z2xzdhrvwydqm9by"
+      "revision": "2a5ec5031527506950dc03684ebd22378045da52",
+      "url": "https://github.com/mikavilpas/yazi.nvim/archive/2a5ec5031527506950dc03684ebd22378045da52.tar.gz",
+      "hash": "0nrmmnp1idxqyj6pmvhy1mzqd25q8l5s8w5iddcyin79fwm8jmj6"
     },
     "yuck-vim": {
       "type": "Git",
