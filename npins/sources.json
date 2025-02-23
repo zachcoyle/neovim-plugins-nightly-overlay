@@ -1112,9 +1112,9 @@
         "repo": "dropbar.nvim"
       },
       "branch": "master",
-      "revision": "70431765f36f768d1d93b5e4f5d428bc6d3e9a65",
-      "url": "https://github.com/Bekaboo/dropbar.nvim/archive/70431765f36f768d1d93b5e4f5d428bc6d3e9a65.tar.gz",
-      "hash": "1f7mlfs4y405qc82ka047cagcsnvn2v4p32lih5pkh9nnx10xsb7"
+      "revision": "807ddc72457907a4d7e385cec0aa25648ee60a58",
+      "url": "https://github.com/Bekaboo/dropbar.nvim/archive/807ddc72457907a4d7e385cec0aa25648ee60a58.tar.gz",
+      "hash": "1lsi9d39202xai9fgn2wwga5pd83sjnh5rrvig77z5r7wqp2baq3"
     },
     "earthly-vim": {
       "type": "Git",
@@ -2191,9 +2191,9 @@
         "repo": "neotest-haskell"
       },
       "branch": "master",
-      "revision": "93dc46a2e7083a4e853cbc4271d91c2ef2f416eb",
-      "url": "https://github.com/mrcjkb/neotest-haskell/archive/93dc46a2e7083a4e853cbc4271d91c2ef2f416eb.tar.gz",
-      "hash": "1xvb842sw3g3j7sz0rcna0z9k9hbc6adn4jfsjf5fy7jy4gvhy4d"
+      "revision": "e5e0c521c1cbbf67b3cc5452d3c61b76e05c5a47",
+      "url": "https://github.com/mrcjkb/neotest-haskell/archive/e5e0c521c1cbbf67b3cc5452d3c61b76e05c5a47.tar.gz",
+      "hash": "1igybmm9l2vk9lp2nk9vc58cf4483dp1xanjy7hin3z72dz38ldz"
     },
     "neotest-java": {
       "type": "Git",
