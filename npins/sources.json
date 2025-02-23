@@ -3163,9 +3163,9 @@
         "repo": "neovim"
       },
       "branch": "main",
-      "revision": "20c7940da844aa4f162a64e552ae3c7e9fdc3b93",
-      "url": "https://github.com/rose-pine/neovim/archive/20c7940da844aa4f162a64e552ae3c7e9fdc3b93.tar.gz",
-      "hash": "0dyqf1wb1r0341j69gpj5x92g540s2frxf62vmjdxrin50x2kcyi"
+      "revision": "3fe41d3959110139e03bcbc6c0c648be83d06b33",
+      "url": "https://github.com/rose-pine/neovim/archive/3fe41d3959110139e03bcbc6c0c648be83d06b33.tar.gz",
+      "hash": "105bdjw4phv5229yp0zyrkvf8v6l38rgcp83qy7ap9vlna57fk46"
     },
     "scope-nvim": {
       "type": "Git",
@@ -4063,9 +4063,9 @@
         "repo": "vim-tmux-navigator"
       },
       "branch": "master",
-      "revision": "d847ea942a5bb4d4fab6efebc9f30d787fd96e65",
-      "url": "https://github.com/christoomey/vim-tmux-navigator/archive/d847ea942a5bb4d4fab6efebc9f30d787fd96e65.tar.gz",
-      "hash": "1zfvy2qwrrl370p4j9hmn6pav8l6mqf2mlad8smnqjnimsa80jqj"
+      "revision": "05fa2b17e2425541d4e5dae86b84f1a932713414",
+      "url": "https://github.com/christoomey/vim-tmux-navigator/archive/05fa2b17e2425541d4e5dae86b84f1a932713414.tar.gz",
+      "hash": "0w5yjwpx11rwipwijgc58smwv1cij1r89x8v38bgxwgdh29p4rjm"
     },
     "vim-vsnip": {
       "type": "Git",
