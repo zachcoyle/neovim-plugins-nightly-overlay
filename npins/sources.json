@@ -116,9 +116,9 @@
         "repo": "avante.nvim"
       },
       "branch": "main",
-      "revision": "3dd1854cd446c4726106a4683edd2cbadd22b1a0",
-      "url": "https://github.com/yetone/avante.nvim/archive/3dd1854cd446c4726106a4683edd2cbadd22b1a0.tar.gz",
-      "hash": "0gyargbkf24xn9l57hpwxsss3z7r61qp8gizsm4m59skxinkzcwj"
+      "revision": "c2188e1afd8fcfb4c791eec18953ab47d585f292",
+      "url": "https://github.com/yetone/avante.nvim/archive/c2188e1afd8fcfb4c791eec18953ab47d585f292.tar.gz",
+      "hash": "13mlb3g7p5sl17g9gmx48gbhllhl6cdif8pisx3zy6fpqgb8a08m"
     },
     "baleia-nvim": {
       "type": "Git",
@@ -2047,9 +2047,9 @@
         "repo": "neorg"
       },
       "branch": "main",
-      "revision": "18d1a182720fba71ea286d9ce6c3e9970bf7ed51",
-      "url": "https://github.com/vhyrro/neorg/archive/18d1a182720fba71ea286d9ce6c3e9970bf7ed51.tar.gz",
-      "hash": "11nnf99jw2dkrr04w7b1pf52yfy6pnr8cjyl8hcnh6p3k79b7ah8"
+      "revision": "b47b4d3138beef51ffbf59bcbd7d149150b4bd2e",
+      "url": "https://github.com/vhyrro/neorg/archive/b47b4d3138beef51ffbf59bcbd7d149150b4bd2e.tar.gz",
+      "hash": "1x9sk24i8gyxssc8qz99x3d5nh3m2pi3srmv1f3fbgpffcgvl1yv"
     },
     "neoscroll-nvim": {
       "type": "Git",
