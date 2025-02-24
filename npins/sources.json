@@ -1088,9 +1088,9 @@
         "repo": "dracula.nvim"
       },
       "branch": "main",
-      "revision": "515acae4fd294fcefa5b15237a333c2606e958d1",
-      "url": "https://github.com/Mofiqul/dracula.nvim/archive/515acae4fd294fcefa5b15237a333c2606e958d1.tar.gz",
-      "hash": "1sr09v6q07q111pbcm8nc12mvgzb5f5n7bg8frrwb6dpspj4h97n"
+      "revision": "96c9d19ce81b26053055ad6f688277d655b3f7d2",
+      "url": "https://github.com/Mofiqul/dracula.nvim/archive/96c9d19ce81b26053055ad6f688277d655b3f7d2.tar.gz",
+      "hash": "0w8r0h9sk3gspahiv203wxj744cry70sra2gf230x2pfrysp09g0"
     },
     "dressing-nvim": {
       "type": "Git",
@@ -1424,9 +1424,9 @@
         "repo": "hardtime.nvim"
       },
       "branch": "main",
-      "revision": "6274ddaddb81df977bd521968b44ccb3de79fd00",
-      "url": "https://github.com/m4xshen/hardtime.nvim/archive/6274ddaddb81df977bd521968b44ccb3de79fd00.tar.gz",
-      "hash": "1cnw9k6njwqci0rrl44sqvrq5pm2dwf5q7qc0qg6dppk1a234570"
+      "revision": "48689c55f1204427206afc4ea1b9461a587d4558",
+      "url": "https://github.com/m4xshen/hardtime.nvim/archive/48689c55f1204427206afc4ea1b9461a587d4558.tar.gz",
+      "hash": "0bgd7d5336kc9sz19x6wdq9kvcfc1i0sdiy84r4phckl6s6mg6i2"
     },
     "harpoon": {
       "type": "Git",
@@ -4147,9 +4147,9 @@
         "repo": "vscode.nvim"
       },
       "branch": "main",
-      "revision": "298c5ce4750a256ea208b72d7a472b8824ef2a49",
-      "url": "https://github.com/Mofiqul/vscode.nvim/archive/298c5ce4750a256ea208b72d7a472b8824ef2a49.tar.gz",
-      "hash": "030bp38mvi1kxjsjhsx4f7acyw4drhbf58wjn0xrb9k1qmyx1ymq"
+      "revision": "e5e61a0ea00b5de7a74dada2760e61ac59ecb98e",
+      "url": "https://github.com/Mofiqul/vscode.nvim/archive/e5e61a0ea00b5de7a74dada2760e61ac59ecb98e.tar.gz",
+      "hash": "16b78c0v2p4rmxb983kkcmgcr7rrqd242ba2b557m38mhm278xhx"
     },
     "which-key-nvim": {
       "type": "Git",
