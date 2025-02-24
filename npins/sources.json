@@ -44,9 +44,9 @@
         "repo": "SchemaStore.nvim"
       },
       "branch": "main",
-      "revision": "503f3221543d4fe897d600f66816cc54c4bf825f",
-      "url": "https://github.com/b0o/SchemaStore.nvim/archive/503f3221543d4fe897d600f66816cc54c4bf825f.tar.gz",
-      "hash": "0hxajmii93yb1c8azgkcgbly899g3qx4jmm742kl3ph34qqrcfi5"
+      "revision": "776d60cc8fd7e2f450c1756c9491e353c12b16fa",
+      "url": "https://github.com/b0o/SchemaStore.nvim/archive/776d60cc8fd7e2f450c1756c9491e353c12b16fa.tar.gz",
+      "hash": "0ysp8wm5nhd813xvqhp8a0sl292j1krqzfsdl8iwb5xn6k512aiw"
     },
     "alpha-nvim": {
       "type": "Git",
@@ -2863,9 +2863,9 @@
         "repo": "octo.nvim"
       },
       "branch": "master",
-      "revision": "16193016e5b12868feda70a764ef2b2262198274",
-      "url": "https://github.com/pwntester/octo.nvim/archive/16193016e5b12868feda70a764ef2b2262198274.tar.gz",
-      "hash": "1j65jwck4bz6a02by5z809fb3bcbvi4mj9p6vdh42nh59aw1cif1"
+      "revision": "a3d4af8e6aa1260912b55f63f5822bf0dde92c03",
+      "url": "https://github.com/pwntester/octo.nvim/archive/a3d4af8e6aa1260912b55f63f5822bf0dde92c03.tar.gz",
+      "hash": "04qnk2shgky9kk9m69359hiyrmybwxf0pkw9g3897ww6pcvpsvxd"
     },
     "oil-nvim": {
       "type": "Git",
@@ -4123,9 +4123,9 @@
         "repo": "vimtex"
       },
       "branch": "master",
-      "revision": "63ae2e94b0fabc6bdad0a685c1ef0a7e0705fe7b",
-      "url": "https://github.com/lervag/vimtex/archive/63ae2e94b0fabc6bdad0a685c1ef0a7e0705fe7b.tar.gz",
-      "hash": "0jc70dplcp0pjgj9h4wfi10hzd9wfpm94h8k271ak25mh4yp7j52"
+      "revision": "096a0450261abccb7944630fae66788712be46a8",
+      "url": "https://github.com/lervag/vimtex/archive/096a0450261abccb7944630fae66788712be46a8.tar.gz",
+      "hash": "1r2bp79sqz2za2mfvgklpg4k9zdgl8f3smxa0abx33nm4wphndk6"
     },
     "virt-column-nvim": {
       "type": "Git",
