@@ -3151,9 +3151,9 @@
         "repo": "rest.nvim"
       },
       "branch": "main",
-      "revision": "98f0bfc0c4d8b0c75df1d9fe30293f2a0e390504",
-      "url": "https://github.com/rest-nvim/rest.nvim/archive/98f0bfc0c4d8b0c75df1d9fe30293f2a0e390504.tar.gz",
-      "hash": "0rcy7b8id11ndgdam4z8zm671awsvl7115qfagpphnpj1mdigdvd"
+      "revision": "81dc7df4b39c4ba1e85ac0752dabb23bd5fdde7e",
+      "url": "https://github.com/rest-nvim/rest.nvim/archive/81dc7df4b39c4ba1e85ac0752dabb23bd5fdde7e.tar.gz",
+      "hash": "1v60jpnsh49g3cnb8nj2zmhrlwngw6jbn6acqb41cy9nrnz5izsr"
     },
     "rose-pine": {
       "type": "Git",
@@ -3451,9 +3451,9 @@
         "repo": "telescope-live-grep-args.nvim"
       },
       "branch": "master",
-      "revision": "649b662a8f476fd2c0289570764459e95ebaa3f3",
-      "url": "https://github.com/nvim-telescope/telescope-live-grep-args.nvim/archive/649b662a8f476fd2c0289570764459e95ebaa3f3.tar.gz",
-      "hash": "1zg6iyk2n883rpk3v5g8vi5izg89hxrjwlnjfkkk6hkxbggd551a"
+      "revision": "b80ec2c70ec4f32571478b501218c8979fab5201",
+      "url": "https://github.com/nvim-telescope/telescope-live-grep-args.nvim/archive/b80ec2c70ec4f32571478b501218c8979fab5201.tar.gz",
+      "hash": "1536cnpss91sdkmr7if54ryzx7xcynzj7ydpkcmm3pkgdlmznran"
     },
     "telescope-media-files-nvim": {
       "type": "Git",
@@ -3487,9 +3487,9 @@
         "repo": "telescope.nvim"
       },
       "branch": "master",
-      "revision": "589910694bafe3975d0f025a750dcabc09824126",
-      "url": "https://github.com/nvim-telescope/telescope.nvim/archive/589910694bafe3975d0f025a750dcabc09824126.tar.gz",
-      "hash": "0v4ydngg7iqm6fwhyp7xi2lwmvvrmz8az8ixn83q33pzcy6xbp9d"
+      "revision": "814f102cd1da3dc78c7d2f20f2ef3ed3cdf0e6e4",
+      "url": "https://github.com/nvim-telescope/telescope.nvim/archive/814f102cd1da3dc78c7d2f20f2ef3ed3cdf0e6e4.tar.gz",
+      "hash": "0lbsq6x5bf7l54x7rkdkh7pa63afsgf0jnm0zf9ig7fw2lh18b8f"
     },
     "telescope-packer-nvim": {
       "type": "Git",
