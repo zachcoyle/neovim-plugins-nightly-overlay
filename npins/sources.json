@@ -1664,9 +1664,9 @@
         "repo": "lazy.nvim"
       },
       "branch": "main",
-      "revision": "a8c6db5da7bd382094606340eed015d14fbb5654",
-      "url": "https://github.com/folke/lazy.nvim/archive/a8c6db5da7bd382094606340eed015d14fbb5654.tar.gz",
-      "hash": "17343zp8gj5pri0yn9y5n7m86gn3pyc4nxzk3nm6ln9js6vs78xv"
+      "revision": "96a205c8cea5476e5a87ed228acf2f221e4eae64",
+      "url": "https://github.com/folke/lazy.nvim/archive/96a205c8cea5476e5a87ed228acf2f221e4eae64.tar.gz",
+      "hash": "0bhsh3v94pw380b88aji1rfb0i3wy6sbsjhjh6i3pd1jm4gabd9k"
     },
     "lazygit-nvim": {
       "type": "Git",
@@ -1915,9 +1915,9 @@
         "repo": "mini.nvim"
       },
       "branch": "main",
-      "revision": "ad94e8bcf2b977849c8e290fabb359a1b45c905b",
-      "url": "https://github.com/echasnovski/mini.nvim/archive/ad94e8bcf2b977849c8e290fabb359a1b45c905b.tar.gz",
-      "hash": "121zddacbdm7xd3066mg6igv1d9kv91vnahxygnly10df6bs0w3w"
+      "revision": "e554890210cd29d017d6a0c1b1a46f995dcf9e64",
+      "url": "https://github.com/echasnovski/mini.nvim/archive/e554890210cd29d017d6a0c1b1a46f995dcf9e64.tar.gz",
+      "hash": "1259s3bhqd8fybk0r2f4ry9cjc2d6b7mfdvasrvrkv4mqq8mly2s"
     },
     "mkdnflow-nvim": {
       "type": "Git",
@@ -2995,9 +2995,9 @@
         "repo": "persistence.nvim"
       },
       "branch": "main",
-      "revision": "f6aad7dde7fcf54148ccfc5f622c6d5badd0cc3d",
-      "url": "https://github.com/folke/persistence.nvim/archive/f6aad7dde7fcf54148ccfc5f622c6d5badd0cc3d.tar.gz",
-      "hash": "01sm0dyq3k939qf91hx8nldpj9kik4s6s2z6mahmqjh5ghday6a1"
+      "revision": "166a79a55bfa7a4db3e26fc031b4d92af71d0b51",
+      "url": "https://github.com/folke/persistence.nvim/archive/166a79a55bfa7a4db3e26fc031b4d92af71d0b51.tar.gz",
+      "hash": "0hsfp3z93fg7vfs3ak5bixsw4d091nd21zg2pbxa414bqh6jmdca"
     },
     "plantuml-syntax": {
       "type": "Git",
@@ -4063,9 +4063,9 @@
         "repo": "vim-tmux-navigator"
       },
       "branch": "master",
-      "revision": "6477995246b6cfbd5df70fdee85eb9e0877fb2e6",
-      "url": "https://github.com/christoomey/vim-tmux-navigator/archive/6477995246b6cfbd5df70fdee85eb9e0877fb2e6.tar.gz",
-      "hash": "1njyjam76vmxlgi99yl48527lcxlqdfykdpqvx0xm8b5w78i5maf"
+      "revision": "791dacfcfc8ccb7f6eb1c853050883b03e5a22fe",
+      "url": "https://github.com/christoomey/vim-tmux-navigator/archive/791dacfcfc8ccb7f6eb1c853050883b03e5a22fe.tar.gz",
+      "hash": "1s1wbd52cfbd5ca27lr5gk6dx0xlkm2vfsg8h9r1yf39mqf0m87h"
     },
     "vim-vsnip": {
       "type": "Git",
