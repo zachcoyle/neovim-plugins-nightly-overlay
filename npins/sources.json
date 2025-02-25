@@ -2863,9 +2863,9 @@
         "repo": "octo.nvim"
       },
       "branch": "master",
-      "revision": "de0f4417044689b1fca7122d6b9a1079e74133b4",
-      "url": "https://github.com/pwntester/octo.nvim/archive/de0f4417044689b1fca7122d6b9a1079e74133b4.tar.gz",
-      "hash": "13ph1c2hn2d9qyihc7ikavnsiqzjp1bmlz6fc0v57fj1h08ra3k6"
+      "revision": "d794a4ce0feb7358b6b8ff9107c1447490cc8d46",
+      "url": "https://github.com/pwntester/octo.nvim/archive/d794a4ce0feb7358b6b8ff9107c1447490cc8d46.tar.gz",
+      "hash": "1bxichjn67y0asz6jav8bxklbs8g1ca4czpqvx5s18ixfcqqqcqy"
     },
     "oil-nvim": {
       "type": "Git",
@@ -3199,9 +3199,9 @@
         "repo": "smart-splits.nvim"
       },
       "branch": "master",
-      "revision": "b39ebcb2068680287616273a40a0495831943c78",
-      "url": "https://github.com/mrjones2014/smart-splits.nvim/archive/b39ebcb2068680287616273a40a0495831943c78.tar.gz",
-      "hash": "0jaj2qkyq0z2nm45m1vq390rs72aakjyw3ak5gvg0z2lkd1fsidf"
+      "revision": "821be21d3538de42df193383d402beaddfc2f297",
+      "url": "https://github.com/mrjones2014/smart-splits.nvim/archive/821be21d3538de42df193383d402beaddfc2f297.tar.gz",
+      "hash": "06jsppcrdhfgn2lxmy4syq5vyc5mh75bnv2kh77p2f4gn12hxlaq"
     },
     "smartcolumn-nvim": {
       "type": "Git",
