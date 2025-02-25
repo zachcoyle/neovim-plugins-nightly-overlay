@@ -1664,9 +1664,9 @@
         "repo": "lazy.nvim"
       },
       "branch": "main",
-      "revision": "96a205c8cea5476e5a87ed228acf2f221e4eae64",
-      "url": "https://github.com/folke/lazy.nvim/archive/96a205c8cea5476e5a87ed228acf2f221e4eae64.tar.gz",
-      "hash": "0bhsh3v94pw380b88aji1rfb0i3wy6sbsjhjh6i3pd1jm4gabd9k"
+      "revision": "1c9ba3704564a2e34a22191bb89678680ffeb245",
+      "url": "https://github.com/folke/lazy.nvim/archive/1c9ba3704564a2e34a22191bb89678680ffeb245.tar.gz",
+      "hash": "1n6z5xf74q6xjvqbvj17dfbi0khkshaiwrwi57wg9c2vanlgjsw7"
     },
     "lazygit-nvim": {
       "type": "Git",
@@ -3127,9 +3127,9 @@
         "repo": "refactoring.nvim"
       },
       "branch": "master",
-      "revision": "cd770c7e05bcc0a7e180063cde39e973b3be04ee",
-      "url": "https://github.com/ThePrimeagen/refactoring.nvim/archive/cd770c7e05bcc0a7e180063cde39e973b3be04ee.tar.gz",
-      "hash": "07akgbw24xkpl1jymdp9pnx1bb2psyf38k7rkg40z6ljg22i8lb0"
+      "revision": "eaa096df3f3a8ce879f841faea750c7c3fb2bf1c",
+      "url": "https://github.com/ThePrimeagen/refactoring.nvim/archive/eaa096df3f3a8ce879f841faea750c7c3fb2bf1c.tar.gz",
+      "hash": "03mzkqsxmmp51bhnw5cc932k3j327f4s2psdxjw594pazphy9y3l"
     },
     "render-markdown-nvim": {
       "type": "Git",
