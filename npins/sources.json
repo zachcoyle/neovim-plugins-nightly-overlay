@@ -2047,9 +2047,9 @@
         "repo": "neorg"
       },
       "branch": "main",
-      "revision": "b47b4d3138beef51ffbf59bcbd7d149150b4bd2e",
-      "url": "https://github.com/vhyrro/neorg/archive/b47b4d3138beef51ffbf59bcbd7d149150b4bd2e.tar.gz",
-      "hash": "1x9sk24i8gyxssc8qz99x3d5nh3m2pi3srmv1f3fbgpffcgvl1yv"
+      "revision": "09d467eaf2f68c1e0c43161b14587a2f4467ef4c",
+      "url": "https://github.com/vhyrro/neorg/archive/09d467eaf2f68c1e0c43161b14587a2f4467ef4c.tar.gz",
+      "hash": "19npk50b5nfdmnpf3gdgfa6mwgphx4393p472pqj4575j6kbw81a"
     },
     "neoscroll-nvim": {
       "type": "Git",
@@ -3139,9 +3139,9 @@
         "repo": "render-markdown.nvim"
       },
       "branch": "main",
-      "revision": "98a3b7d3a5befe495f0ab6ca967068f5f1da4421",
-      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/98a3b7d3a5befe495f0ab6ca967068f5f1da4421.tar.gz",
-      "hash": "11irwxpl181s6y24ls6ms249ljrd6dqp3yf4c4qzbincxd92md10"
+      "revision": "90d188a2a6b30e8ab9057c0630f285da4b029d07",
+      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/90d188a2a6b30e8ab9057c0630f285da4b029d07.tar.gz",
+      "hash": "037adkiw0n1jixhrvlqzy7wgzgi91nw63bi9kdh3babyi7kygwl1"
     },
     "rest-nvim": {
       "type": "Git",
