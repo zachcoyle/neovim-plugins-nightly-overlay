@@ -20,9 +20,9 @@
         "repo": "CopilotChat.nvim"
       },
       "branch": "main",
-      "revision": "3a562fd17e2fcd14d790a7c0c701b47d6724da60",
-      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/3a562fd17e2fcd14d790a7c0c701b47d6724da60.tar.gz",
-      "hash": "0pyi7ab460r6cgx5831yww7dmzdpfrvpmg7s58pbv1zynnlk2avm"
+      "revision": "a68645977882a012999d482f9a92bc7e7f95df3b",
+      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/a68645977882a012999d482f9a92bc7e7f95df3b.tar.gz",
+      "hash": "0v8bra6dsyb5gk70kw80l2wpyfr1ggy4q30rkxxgxx58jann3dld"
     },
     "Preview-nvim": {
       "type": "Git",
@@ -1688,9 +1688,9 @@
         "repo": "lean.nvim"
       },
       "branch": "main",
-      "revision": "d8423bdb9eb2e3046a6439fce7f0c483b981f5c3",
-      "url": "https://github.com/Julian/lean.nvim/archive/d8423bdb9eb2e3046a6439fce7f0c483b981f5c3.tar.gz",
-      "hash": "0dni0zxl5nfvjk9gn1ccfimjblfqshayg1fwdgh7ynf58bcklbla"
+      "revision": "284139891434b0e5dacca8f4439bbad30829de83",
+      "url": "https://github.com/Julian/lean.nvim/archive/284139891434b0e5dacca8f4439bbad30829de83.tar.gz",
+      "hash": "1l7d2xp7824zc2hc75zqwa03qa9agm4nhlqbddb1dvps0x9g7j8r"
     },
     "leap-nvim": {
       "type": "Git",
@@ -2755,9 +2755,9 @@
         "repo": "nvim-treesitter"
       },
       "branch": "master",
-      "revision": "081a99b3bed1f5050610d08870c71409b878c3c3",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/081a99b3bed1f5050610d08870c71409b878c3c3.tar.gz",
-      "hash": "1fjs57zbbb4p8gqmw8rzj5d32pl7xya3dbs9h2rwbkf9g3ycq493"
+      "revision": "8f87d28442f7f91347e993661c319135f47729c7",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/8f87d28442f7f91347e993661c319135f47729c7.tar.gz",
+      "hash": "0lpbr6ip35klhmw8f38vvqm24rldj5nvs7b09wgqyzyjgb6z9izy"
     },
     "nvim-treesitter-context": {
       "type": "Git",
