@@ -1783,9 +1783,9 @@
         "repo": "lspsaga.nvim"
       },
       "branch": "main",
-      "revision": "da8a66c53241876bba140980469876db3a183604",
-      "url": "https://github.com/nvimdev/lspsaga.nvim/archive/da8a66c53241876bba140980469876db3a183604.tar.gz",
-      "hash": "0rlkrmmlz64baypi4cbrymij5migr9if5qfsp4xjjgc95czsp5rb"
+      "revision": "6063935cf68de9aa6dd79f8e1caf5df0a9385de3",
+      "url": "https://github.com/nvimdev/lspsaga.nvim/archive/6063935cf68de9aa6dd79f8e1caf5df0a9385de3.tar.gz",
+      "hash": "1pqasjg2f2yd3ci8hyxfqqs7xnkmwdc411dlm6qg1agiv1h8v205"
     },
     "ltex_extra-nvim": {
       "type": "Git",
@@ -4219,9 +4219,9 @@
         "repo": "yazi.nvim"
       },
       "branch": "main",
-      "revision": "da9fb326af1619c9a24fc68996faf992f5ddf5cf",
-      "url": "https://github.com/mikavilpas/yazi.nvim/archive/da9fb326af1619c9a24fc68996faf992f5ddf5cf.tar.gz",
-      "hash": "1h2mdmq001pv1iwnmxbns0hgv8sjqqcgqbzkzfgswz09awlbsvx3"
+      "revision": "a16823b4dd434edadf7570e0db3877250336be62",
+      "url": "https://github.com/mikavilpas/yazi.nvim/archive/a16823b4dd434edadf7570e0db3877250336be62.tar.gz",
+      "hash": "1pnfn3yv58k35y1d61x1rfv83xbc3n50rppm39m2yc5y7pwsfmwq"
     },
     "yuck-vim": {
       "type": "Git",
