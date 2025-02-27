@@ -1688,9 +1688,9 @@
         "repo": "lean.nvim"
       },
       "branch": "main",
-      "revision": "73f3e8c2d6305dde66b58675bd4749ffd4228637",
-      "url": "https://github.com/Julian/lean.nvim/archive/73f3e8c2d6305dde66b58675bd4749ffd4228637.tar.gz",
-      "hash": "13lbivsg2bw2z6g5xz8imlsdkv73byvq14yy0np3h2chp4jkqws4"
+      "revision": "d2e2e041935ab6ab6259353fa72a0ec186d0ee69",
+      "url": "https://github.com/Julian/lean.nvim/archive/d2e2e041935ab6ab6259353fa72a0ec186d0ee69.tar.gz",
+      "hash": "18s78djn7l43aaa5si1vdsxkbk43rsfdll0blxf0zhbzn5vfkk5j"
     },
     "leap-nvim": {
       "type": "Git",
@@ -2863,9 +2863,9 @@
         "repo": "octo.nvim"
       },
       "branch": "master",
-      "revision": "d794a4ce0feb7358b6b8ff9107c1447490cc8d46",
-      "url": "https://github.com/pwntester/octo.nvim/archive/d794a4ce0feb7358b6b8ff9107c1447490cc8d46.tar.gz",
-      "hash": "1bxichjn67y0asz6jav8bxklbs8g1ca4czpqvx5s18ixfcqqqcqy"
+      "revision": "b96d0c02e6b670f4f343903baa120d3c4b200d57",
+      "url": "https://github.com/pwntester/octo.nvim/archive/b96d0c02e6b670f4f343903baa120d3c4b200d57.tar.gz",
+      "hash": "1dg3dky0qcsrnldapxqmac5bgn20l63v330qha10jm0npx52djy1"
     },
     "oil-nvim": {
       "type": "Git",
