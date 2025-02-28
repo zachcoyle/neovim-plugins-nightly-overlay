@@ -20,9 +20,9 @@
         "repo": "CopilotChat.nvim"
       },
       "branch": "main",
-      "revision": "f7bd923e8af0d7ca03868afbb5bc28801b97f588",
-      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/f7bd923e8af0d7ca03868afbb5bc28801b97f588.tar.gz",
-      "hash": "1lqmwz5zb4ahlz6g6wqvvhx4i8n3nrgl61rx0yckfms1a7sz2dmm"
+      "revision": "3c3bb1ecf770c02aa9f131725f167349291ab899",
+      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/3c3bb1ecf770c02aa9f131725f167349291ab899.tar.gz",
+      "hash": "09dm52gqdd3sij9bcalw66p7j5cmy2xv8k03bcbp1zhw2wxy4pz5"
     },
     "Preview-nvim": {
       "type": "Git",
@@ -236,9 +236,9 @@
         "repo": "nvim"
       },
       "branch": "main",
-      "revision": "7ab1a6ec70a664ecb95d84669efc20aaf4f4ed1b",
-      "url": "https://github.com/catppuccin/nvim/archive/7ab1a6ec70a664ecb95d84669efc20aaf4f4ed1b.tar.gz",
-      "hash": "071p2zjblww6vjaha1lpmfj5bdf3607af08lxa9m49qmcsmncgw3"
+      "revision": "5b5e3aef9ad7af84f463d17b5479f06b87d5c429",
+      "url": "https://github.com/catppuccin/nvim/archive/5b5e3aef9ad7af84f463d17b5479f06b87d5c429.tar.gz",
+      "hash": "0jmrwag2dx4b1g9x32xwxcr8y0l159hqks09z5miy99wav6dy7z2"
     },
     "ccc-nvim": {
       "type": "Git",
