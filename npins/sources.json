@@ -1891,9 +1891,9 @@
         "repo": "markview.nvim"
       },
       "branch": "main",
-      "revision": "f1e2a57388b61fff8e9d7519ce05cee27a59a57e",
-      "url": "https://github.com/OXY2DEV/markview.nvim/archive/f1e2a57388b61fff8e9d7519ce05cee27a59a57e.tar.gz",
-      "hash": "1fqc3xvnfxyf5v4aayv5m549ic9j66qxhbbhfzj9bb84qplicv5r"
+      "revision": "386a98e88e021a79df7f0494d8eb4145a78f59ae",
+      "url": "https://github.com/OXY2DEV/markview.nvim/archive/386a98e88e021a79df7f0494d8eb4145a78f59ae.tar.gz",
+      "hash": "0z7rmxb1g3shy4r094xbrix9hk0zxvkvlwagxvw1gscrb38h7xvs"
     },
     "melange": {
       "type": "Git",
