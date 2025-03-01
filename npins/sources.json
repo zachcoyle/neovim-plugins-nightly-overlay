@@ -1975,9 +1975,9 @@
         "repo": "neo-tree.nvim"
       },
       "branch": "main",
-      "revision": "1655119b2057838691467f8a640070462c9b7048",
-      "url": "https://github.com/nvim-neo-tree/neo-tree.nvim/archive/1655119b2057838691467f8a640070462c9b7048.tar.gz",
-      "hash": "0r611phsnhdd6pkdxqdafgyiiypml44gwvv5cx1368zlcrznxhh9"
+      "revision": "16854ed5559b940f69a6f7138906ebb22c15c553",
+      "url": "https://github.com/nvim-neo-tree/neo-tree.nvim/archive/16854ed5559b940f69a6f7138906ebb22c15c553.tar.gz",
+      "hash": "1ya9z0v9ri7w33qwfwxhyfyl73yhb6n1mp1j6iw1mzv87wrz8pxp"
     },
     "neocord": {
       "type": "Git",
@@ -2755,9 +2755,9 @@
         "repo": "nvim-treesitter"
       },
       "branch": "master",
-      "revision": "f37b1668a63b0d1c3ec165f6ba202367604df1a2",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/f37b1668a63b0d1c3ec165f6ba202367604df1a2.tar.gz",
-      "hash": "11807m7ha2wa0mdhf4ahzska1sfwzx4smyrihj2jwkf4cdiky5mz"
+      "revision": "c1efc9a9058bb54cfcb6f0a4fc14a4ac8a66bdaa",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/c1efc9a9058bb54cfcb6f0a4fc14a4ac8a66bdaa.tar.gz",
+      "hash": "10xrhifrmwnjz3q5rz5g7sl66i7wdlfgfmkawjxw9d31fwkwf3b5"
     },
     "nvim-treesitter-context": {
       "type": "Git",
