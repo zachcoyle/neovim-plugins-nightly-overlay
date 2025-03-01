@@ -308,9 +308,9 @@
         "repo": "cmake-tools.nvim"
       },
       "branch": "master",
-      "revision": "1d96327bf64189110286811a2b502c8c2262d4ca",
-      "url": "https://github.com/Civitasv/cmake-tools.nvim/archive/1d96327bf64189110286811a2b502c8c2262d4ca.tar.gz",
-      "hash": "1h2jpy5d8abldlcnzql7zqb3q8c6895xyk51x2ncqfhyjwf0a0g8"
+      "revision": "943438bb6433ad7d600a44fca86f1573dc5da9e2",
+      "url": "https://github.com/Civitasv/cmake-tools.nvim/archive/943438bb6433ad7d600a44fca86f1573dc5da9e2.tar.gz",
+      "hash": "116vwsfas2gbc7bzkqm5s7w8ndagr16xavgw952k77zp71qz3pzp"
     },
     "cmp-async-path": {
       "type": "Git",
@@ -1700,9 +1700,9 @@
         "repo": "leap.nvim"
       },
       "branch": "main",
-      "revision": "8b826a9fc766bffd14288aee01847cb0d6c6c383",
-      "url": "https://github.com/ggandor/leap.nvim/archive/8b826a9fc766bffd14288aee01847cb0d6c6c383.tar.gz",
-      "hash": "1biydwaky3104c1dys8m37yalrgcwyjyprlbk31j82y4mvmd1lmy"
+      "revision": "346a16ef942635a8ca5ff92e603d07e7e8be6cbe",
+      "url": "https://github.com/ggandor/leap.nvim/archive/346a16ef942635a8ca5ff92e603d07e7e8be6cbe.tar.gz",
+      "hash": "0rq73f7sw1sf8dn6angwgns8jd811aiixmvrndgqz2939dlqaw2l"
     },
     "lightline-vim": {
       "type": "Git",
@@ -2203,9 +2203,9 @@
         "repo": "neotest-java"
       },
       "branch": "main",
-      "revision": "bbbad04bda7af216a8c24509d47d1f51356b37ce",
-      "url": "https://github.com/rcasia/neotest-java/archive/bbbad04bda7af216a8c24509d47d1f51356b37ce.tar.gz",
-      "hash": "0mw3q19y18nr4kn1zd5qjyk6bbkdrv4ypakxyn2gc3xf6p3zl1id"
+      "revision": "3a1c24ded54b1a3d8f57d79c819ee2675b7d6b26",
+      "url": "https://github.com/rcasia/neotest-java/archive/3a1c24ded54b1a3d8f57d79c819ee2675b7d6b26.tar.gz",
+      "hash": "1az6d7rkr8qcpp9mdh942284qavgiqrx58rxncjadyg2inf5mk7n"
     },
     "neotest-jest": {
       "type": "Git",
@@ -2743,9 +2743,9 @@
         "repo": "nvim-tree.lua"
       },
       "branch": "master",
-      "revision": "6709463b2d18e77f7a946027917aa00d4aaed6f4",
-      "url": "https://github.com/nvim-tree/nvim-tree.lua/archive/6709463b2d18e77f7a946027917aa00d4aaed6f4.tar.gz",
-      "hash": "1m26fvvsj4lxlwdinvnz8nz968n6x59w8n7zj7vsqm5i8yi84fr6"
+      "revision": "c09ff35de503a41fa62465c6b4ae72d96e7a7ce4",
+      "url": "https://github.com/nvim-tree/nvim-tree.lua/archive/c09ff35de503a41fa62465c6b4ae72d96e7a7ce4.tar.gz",
+      "hash": "0bnc2fc9ipz9yp917l61vvcaqmbdg5fhqxrp7jfjxj5qmvadhai9"
     },
     "nvim-treesitter": {
       "type": "Git",
