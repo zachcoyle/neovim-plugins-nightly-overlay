@@ -20,9 +20,9 @@
         "repo": "CopilotChat.nvim"
       },
       "branch": "main",
-      "revision": "769335972ddc74752d5f4effb8e35a0301340971",
-      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/769335972ddc74752d5f4effb8e35a0301340971.tar.gz",
-      "hash": "0chr3d2xxvi36vsf3wkrr1qw33d04kjf2x1m0i1parw3fn3faf2d"
+      "revision": "071e49ced62c04b4f377d2d58fbda3959ca74e30",
+      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/071e49ced62c04b4f377d2d58fbda3959ca74e30.tar.gz",
+      "hash": "15dbifwx3wkr1d6rawva8jkfa6gg6mn32vdcgn0grhchqwwlcqdq"
     },
     "Preview-nvim": {
       "type": "Git",
@@ -1915,9 +1915,9 @@
         "repo": "mini.nvim"
       },
       "branch": "main",
-      "revision": "3a354c754656538ad76d1add93ca21e75b7f3181",
-      "url": "https://github.com/echasnovski/mini.nvim/archive/3a354c754656538ad76d1add93ca21e75b7f3181.tar.gz",
-      "hash": "0h7apm2snx5j4jbmlwwk3qw0n1ng1nxcwdgc4i7fawz0a2jg8c5i"
+      "revision": "f40da50a3dfbbc53e6173beef8dc28626e1b5ebc",
+      "url": "https://github.com/echasnovski/mini.nvim/archive/f40da50a3dfbbc53e6173beef8dc28626e1b5ebc.tar.gz",
+      "hash": "06fkd6zi023a9awjsi51ik7bgh1wbl54ykn2zq9yvwiawgcx4jvf"
     },
     "mkdnflow-nvim": {
       "type": "Git",
@@ -2203,9 +2203,9 @@
         "repo": "neotest-java"
       },
       "branch": "main",
-      "revision": "8a70c35c020e0739841450852fbb4a70b8767945",
-      "url": "https://github.com/rcasia/neotest-java/archive/8a70c35c020e0739841450852fbb4a70b8767945.tar.gz",
-      "hash": "18h39pg99nvpywcvqh4c2sgcldkqlrnfx137yyxnx5vkj74r6axw"
+      "revision": "39363eb049d8ce5bbd6dcf2129833f3d63dd97b0",
+      "url": "https://github.com/rcasia/neotest-java/archive/39363eb049d8ce5bbd6dcf2129833f3d63dd97b0.tar.gz",
+      "hash": "07s2nr2wyc3ziy84p7mmy7cbqryzk20dy4inrkw3zzvyk9jhagrp"
     },
     "neotest-jest": {
       "type": "Git",
