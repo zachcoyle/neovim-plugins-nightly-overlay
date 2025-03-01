@@ -20,9 +20,9 @@
         "repo": "CopilotChat.nvim"
       },
       "branch": "main",
-      "revision": "071e49ced62c04b4f377d2d58fbda3959ca74e30",
-      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/071e49ced62c04b4f377d2d58fbda3959ca74e30.tar.gz",
-      "hash": "15dbifwx3wkr1d6rawva8jkfa6gg6mn32vdcgn0grhchqwwlcqdq"
+      "revision": "da50ece82702c2f42440c3f8b913fd53286c50f5",
+      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/da50ece82702c2f42440c3f8b913fd53286c50f5.tar.gz",
+      "hash": "1jr7yg2bzv4smmckrs4648iviym32jdxxdqfhywqbaj7jmiqwhcf"
     },
     "Preview-nvim": {
       "type": "Git",
@@ -2491,9 +2491,9 @@
         "repo": "nvim-colorizer.lua"
       },
       "branch": "master",
-      "revision": "943be69156b94fbc96064f4913d653f0c7fb299f",
-      "url": "https://github.com/NvChad/nvim-colorizer.lua/archive/943be69156b94fbc96064f4913d653f0c7fb299f.tar.gz",
-      "hash": "0fb973i0h0dq02zr7c9ivm9vk64w6h3px9db2gqb6rzrm2inf0m1"
+      "revision": "517df88cf2afb36652830df2c655df2da416a0ae",
+      "url": "https://github.com/NvChad/nvim-colorizer.lua/archive/517df88cf2afb36652830df2c655df2da416a0ae.tar.gz",
+      "hash": "0gaxkq30wvxq3d8x6l6r10vdxyizfi5g55xnvzw69lfyl61d9qy8"
     },
     "nvim-coverage": {
       "type": "Git",
