@@ -20,9 +20,9 @@
         "repo": "CopilotChat.nvim"
       },
       "branch": "main",
-      "revision": "a0b1e415336fa2562ad8e14553f7888b7acb1010",
-      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/a0b1e415336fa2562ad8e14553f7888b7acb1010.tar.gz",
-      "hash": "10qpzcwrz7hhpyrnwxxjxak4crk50rsxcmn41h7vp91znkqpglpa"
+      "revision": "f637b9e823120f0ea1cec98816fe8aae85267eea",
+      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/f637b9e823120f0ea1cec98816fe8aae85267eea.tar.gz",
+      "hash": "0yvy24k0nnk6pm6s2b9qcxq8niilq697ycl30l80fx92w4ascz80"
     },
     "Preview-nvim": {
       "type": "Git",
@@ -2203,9 +2203,9 @@
         "repo": "neotest-java"
       },
       "branch": "main",
-      "revision": "39363eb049d8ce5bbd6dcf2129833f3d63dd97b0",
-      "url": "https://github.com/rcasia/neotest-java/archive/39363eb049d8ce5bbd6dcf2129833f3d63dd97b0.tar.gz",
-      "hash": "07s2nr2wyc3ziy84p7mmy7cbqryzk20dy4inrkw3zzvyk9jhagrp"
+      "revision": "d29d9d21cf8faa3b859b9ed546392bd5298e634f",
+      "url": "https://github.com/rcasia/neotest-java/archive/d29d9d21cf8faa3b859b9ed546392bd5298e634f.tar.gz",
+      "hash": "06pf67qazh77kq845ficcq3mlvigpiqzd677bazvvlzrhqbd8jgb"
     },
     "neotest-jest": {
       "type": "Git",
@@ -2863,9 +2863,9 @@
         "repo": "octo.nvim"
       },
       "branch": "master",
-      "revision": "ad15e6f4a40627ed31771583af633d2c68585026",
-      "url": "https://github.com/pwntester/octo.nvim/archive/ad15e6f4a40627ed31771583af633d2c68585026.tar.gz",
-      "hash": "0lp3n8p4pwcf11jswjcvi4910vw0dpjznyqhay40zjfch9mbgq74"
+      "revision": "f0ab209f269e76e56ab98dad237ddd0fdd332847",
+      "url": "https://github.com/pwntester/octo.nvim/archive/f0ab209f269e76e56ab98dad237ddd0fdd332847.tar.gz",
+      "hash": "1yq1h7k9x9gfwxkglah32slh69swb2x1rqi6rgy5rn07hjxf4hm6"
     },
     "oil-nvim": {
       "type": "Git",
@@ -4219,9 +4219,9 @@
         "repo": "yazi.nvim"
       },
       "branch": "main",
-      "revision": "2b68a28c37c1471dc0b3d537027803239ff985f1",
-      "url": "https://github.com/mikavilpas/yazi.nvim/archive/2b68a28c37c1471dc0b3d537027803239ff985f1.tar.gz",
-      "hash": "0r4jiz29z2nvzc6whhqlys94pkr3lzs0gw26j8yii9aydszzl8r9"
+      "revision": "d2010a73f3d9a2346051c249c2fa7377d8a69b01",
+      "url": "https://github.com/mikavilpas/yazi.nvim/archive/d2010a73f3d9a2346051c249c2fa7377d8a69b01.tar.gz",
+      "hash": "0hrhc3s03mm50208ihnpg1mjs1a3ai5zfslbhds78cb1padpad3a"
     },
     "yuck-vim": {
       "type": "Git",
