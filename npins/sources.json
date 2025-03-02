@@ -1831,9 +1831,9 @@
         "repo": "lz.n"
       },
       "branch": "master",
-      "revision": "eb94a39433518b26a0eeb117b937b21dc6b18713",
-      "url": "https://github.com/nvim-neorocks/lz.n/archive/eb94a39433518b26a0eeb117b937b21dc6b18713.tar.gz",
-      "hash": "1sarbbj53b5f4mcj6b1iqkbjacrh3w63vp8dpz6j802wqwvi51wc"
+      "revision": "4f66c5fa9007cb414977699662e61a035b0d4dc2",
+      "url": "https://github.com/nvim-neorocks/lz.n/archive/4f66c5fa9007cb414977699662e61a035b0d4dc2.tar.gz",
+      "hash": "0ic5h0pl3kzab59q2lfss0y50f7xfyc90lrk6xg3j9ahd338cbc7"
     },
     "magma-nvim-goose": {
       "type": "Git",
@@ -3151,9 +3151,9 @@
         "repo": "rest.nvim"
       },
       "branch": "main",
-      "revision": "81dc7df4b39c4ba1e85ac0752dabb23bd5fdde7e",
-      "url": "https://github.com/rest-nvim/rest.nvim/archive/81dc7df4b39c4ba1e85ac0752dabb23bd5fdde7e.tar.gz",
-      "hash": "1v60jpnsh49g3cnb8nj2zmhrlwngw6jbn6acqb41cy9nrnz5izsr"
+      "revision": "949b585807cc315337602b7824ce60d0aef58bbd",
+      "url": "https://github.com/rest-nvim/rest.nvim/archive/949b585807cc315337602b7824ce60d0aef58bbd.tar.gz",
+      "hash": "06f40fmwqghd4iv3n22h6dyzhbbaljd9h4wdknygchch736ww681"
     },
     "rose-pine": {
       "type": "Git",
