@@ -1915,9 +1915,9 @@
         "repo": "mini.nvim"
       },
       "branch": "main",
-      "revision": "f40da50a3dfbbc53e6173beef8dc28626e1b5ebc",
-      "url": "https://github.com/echasnovski/mini.nvim/archive/f40da50a3dfbbc53e6173beef8dc28626e1b5ebc.tar.gz",
-      "hash": "06fkd6zi023a9awjsi51ik7bgh1wbl54ykn2zq9yvwiawgcx4jvf"
+      "revision": "307221b90376b68fc7e007e9315836370e9efb8f",
+      "url": "https://github.com/echasnovski/mini.nvim/archive/307221b90376b68fc7e007e9315836370e9efb8f.tar.gz",
+      "hash": "1zmni9r9pwcnvafplgavvl6ncbw43pi73qjjsxjhshv0r14f8mdm"
     },
     "mkdnflow-nvim": {
       "type": "Git",
@@ -2395,9 +2395,9 @@
         "repo": "none-ls.nvim"
       },
       "branch": "main",
-      "revision": "a66b5b9ad8d6a3f3dd8c0677a80eb27412fa5056",
-      "url": "https://github.com/nvimtools/none-ls.nvim/archive/a66b5b9ad8d6a3f3dd8c0677a80eb27412fa5056.tar.gz",
-      "hash": "1gigpylm05kgm91zfaxchnbwwl54aiqwiqj720ww40hk5k0zxin4"
+      "revision": "a117163db44c256d53c3be8717f3e1a2a28e6299",
+      "url": "https://github.com/nvimtools/none-ls.nvim/archive/a117163db44c256d53c3be8717f3e1a2a28e6299.tar.gz",
+      "hash": "1qxi1wq3snhns49sl6rli5hsgjn7zzc43brnwv0b6mfzl55ydzr8"
     },
     "nord-nvim": {
       "type": "Git",
