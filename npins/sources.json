@@ -2719,9 +2719,9 @@
         "repo": "nvim-spider"
       },
       "branch": "main",
-      "revision": "1c48b1f0f9f84192f5ab6b8c1e719bb1af46e021",
-      "url": "https://github.com/chrisgrieser/nvim-spider/archive/1c48b1f0f9f84192f5ab6b8c1e719bb1af46e021.tar.gz",
-      "hash": "1n9c8y7s7h7hzasvixnvcppwqgj9raj4flvf1l7jcwx99nfkqv88"
+      "revision": "9b9a1cf88a10790de69d3b0562d7d612f23561d5",
+      "url": "https://github.com/chrisgrieser/nvim-spider/archive/9b9a1cf88a10790de69d3b0562d7d612f23561d5.tar.gz",
+      "hash": "1pffj9jj44l3kwic3ihkc128i5f5cyyl823ymwbwyrjj8fvh565y"
     },
     "nvim-surround": {
       "type": "Git",
