@@ -2455,9 +2455,9 @@
         "repo": "nvim-blame-line"
       },
       "branch": "master",
-      "revision": "b3d94f0ed5882d3d1c843c69788b9670476e1f42",
-      "url": "https://github.com/tveskag/nvim-blame-line/archive/b3d94f0ed5882d3d1c843c69788b9670476e1f42.tar.gz",
-      "hash": "1ahw8b8mwcgv0z80nv05rvc4b1mjg852xy7bxircz5iix7msncd8"
+      "revision": "95b7626755b0cbf19c993e04a63c6db7b3a7da65",
+      "url": "https://github.com/tveskag/nvim-blame-line/archive/95b7626755b0cbf19c993e04a63c6db7b3a7da65.tar.gz",
+      "hash": "1p5kjjihpvnxqdxrr4fv2qsc1q3db8l1difj55lpr3wil3i4adcc"
     },
     "nvim-bqf": {
       "type": "Git",
