@@ -2455,9 +2455,9 @@
         "repo": "nvim-blame-line"
       },
       "branch": "master",
-      "revision": "95b7626755b0cbf19c993e04a63c6db7b3a7da65",
-      "url": "https://github.com/tveskag/nvim-blame-line/archive/95b7626755b0cbf19c993e04a63c6db7b3a7da65.tar.gz",
-      "hash": "1p5kjjihpvnxqdxrr4fv2qsc1q3db8l1difj55lpr3wil3i4adcc"
+      "revision": "c6dd6114976846bf93a52da8d82332179e8f09ec",
+      "url": "https://github.com/tveskag/nvim-blame-line/archive/c6dd6114976846bf93a52da8d82332179e8f09ec.tar.gz",
+      "hash": "196nrvvxil6zgg5gn6d1jy1lzb2w7j795k89rffcfqk6l84spiv1"
     },
     "nvim-bqf": {
       "type": "Git",
@@ -4219,9 +4219,9 @@
         "repo": "yazi.nvim"
       },
       "branch": "main",
-      "revision": "d2010a73f3d9a2346051c249c2fa7377d8a69b01",
-      "url": "https://github.com/mikavilpas/yazi.nvim/archive/d2010a73f3d9a2346051c249c2fa7377d8a69b01.tar.gz",
-      "hash": "0hrhc3s03mm50208ihnpg1mjs1a3ai5zfslbhds78cb1padpad3a"
+      "revision": "2d1978054fd55dd36cc5d7d8e68c1a84f1bcd4c8",
+      "url": "https://github.com/mikavilpas/yazi.nvim/archive/2d1978054fd55dd36cc5d7d8e68c1a84f1bcd4c8.tar.gz",
+      "hash": "0k8klzdns6vbn4fl0vakpjnyl2jhz70nhkys329g1g8k0v059n1m"
     },
     "yuck-vim": {
       "type": "Git",
