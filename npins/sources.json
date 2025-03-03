@@ -2203,9 +2203,9 @@
         "repo": "neotest-java"
       },
       "branch": "main",
-      "revision": "d29d9d21cf8faa3b859b9ed546392bd5298e634f",
-      "url": "https://github.com/rcasia/neotest-java/archive/d29d9d21cf8faa3b859b9ed546392bd5298e634f.tar.gz",
-      "hash": "06pf67qazh77kq845ficcq3mlvigpiqzd677bazvvlzrhqbd8jgb"
+      "revision": "f26a0d0299cbc167c56d69be596bcf62a8ff17a6",
+      "url": "https://github.com/rcasia/neotest-java/archive/f26a0d0299cbc167c56d69be596bcf62a8ff17a6.tar.gz",
+      "hash": "0yv9n7mn5m1sspdc8x3blfbmn5q996l8277424gjanhbz1mkj0dq"
     },
     "neotest-jest": {
       "type": "Git",
@@ -2863,9 +2863,9 @@
         "repo": "octo.nvim"
       },
       "branch": "master",
-      "revision": "37a9c32eae635bb4c57981abaeb58e4035958522",
-      "url": "https://github.com/pwntester/octo.nvim/archive/37a9c32eae635bb4c57981abaeb58e4035958522.tar.gz",
-      "hash": "1g2k48pvi18xsk1ddc312g468njln6w5z6v7k1cm8ymclhw49ivr"
+      "revision": "1bafbb2cf74cda2e57f578635ea1bfe4c4ec1f80",
+      "url": "https://github.com/pwntester/octo.nvim/archive/1bafbb2cf74cda2e57f578635ea1bfe4c4ec1f80.tar.gz",
+      "hash": "1hp90bdfawrvg9l420n0iyihnzi1dnmj2jv69dwmnjwbcp41wwcc"
     },
     "oil-nvim": {
       "type": "Git",
@@ -2923,9 +2923,9 @@
         "repo": "orgmode"
       },
       "branch": "master",
-      "revision": "e5b800e618bcb3eab34db4c8afd7e16ed411c863",
-      "url": "https://github.com/nvim-orgmode/orgmode/archive/e5b800e618bcb3eab34db4c8afd7e16ed411c863.tar.gz",
-      "hash": "1f3dlj5g1ybcbdxxidpg6wvd3sqyqgbcpwk4a9s0w100zc53f0p5"
+      "revision": "4a405fbb3f6b9c30dec42b50b3e243cb681d4d4f",
+      "url": "https://github.com/nvim-orgmode/orgmode/archive/4a405fbb3f6b9c30dec42b50b3e243cb681d4d4f.tar.gz",
+      "hash": "0wlicbmr4wpad1blvfmgfra4b1s4n0cwg3cy39iz7k0is84djak4"
     },
     "overseer-nvim": {
       "type": "Git",
