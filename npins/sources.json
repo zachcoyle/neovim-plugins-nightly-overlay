@@ -3139,9 +3139,9 @@
         "repo": "render-markdown.nvim"
       },
       "branch": "main",
-      "revision": "03e6b3f467579a969930562ee18445ebb870ab5a",
-      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/03e6b3f467579a969930562ee18445ebb870ab5a.tar.gz",
-      "hash": "0yd9mhshdlnly59w0xpz5fd4zh59k376svizx0b6w09ancmp4qg4"
+      "revision": "059f503ae5490f93346e5ad19b56aec12ead12a6",
+      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/059f503ae5490f93346e5ad19b56aec12ead12a6.tar.gz",
+      "hash": "0582hx8l4m6y9343y12kdajarq6ab8cv1d0k7gn10cijzd1h2a8w"
     },
     "rest-nvim": {
       "type": "Git",
@@ -3199,9 +3199,9 @@
         "repo": "smart-splits.nvim"
       },
       "branch": "master",
-      "revision": "ffbc5b9e5ea6778c1b07636817c47db58b1729e5",
-      "url": "https://github.com/mrjones2014/smart-splits.nvim/archive/ffbc5b9e5ea6778c1b07636817c47db58b1729e5.tar.gz",
-      "hash": "184azm6pnvx16firvd7mgs2fpn9r35dpkbicp122xhinar2c0n0l"
+      "revision": "baff41c382020e8b31037ca97a3339b310c23772",
+      "url": "https://github.com/mrjones2014/smart-splits.nvim/archive/baff41c382020e8b31037ca97a3339b310c23772.tar.gz",
+      "hash": "084b462s94vznmwl19vi1ynw73wqh4vnmhp5iwnw2h7v725xl5f5"
     },
     "smartcolumn-nvim": {
       "type": "Git",
