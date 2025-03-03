@@ -2755,9 +2755,9 @@
         "repo": "nvim-treesitter"
       },
       "branch": "master",
-      "revision": "bf6028e00c52c89d9e0792c56a41e965a2e54873",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/bf6028e00c52c89d9e0792c56a41e965a2e54873.tar.gz",
-      "hash": "12vpalc9wvjzmkh1v6lsy48kk00ryk4q5syh6v651mzahs9h3hah"
+      "revision": "1adcd5711929e44d1bc9e59fbf7d94656cf6d389",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/1adcd5711929e44d1bc9e59fbf7d94656cf6d389.tar.gz",
+      "hash": "001k737wzmi1yw5c24hirzf9d5cvqyil3ibiybk3g5fpvw5ikdmb"
     },
     "nvim-treesitter-context": {
       "type": "Git",
@@ -3139,9 +3139,9 @@
         "repo": "render-markdown.nvim"
       },
       "branch": "main",
-      "revision": "9e3393b2a05fb2347cdc57ee399b910934fa9f83",
-      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/9e3393b2a05fb2347cdc57ee399b910934fa9f83.tar.gz",
-      "hash": "0h0z9y5p3cxng0hhhmqnx7429zg07wx0qck4ahn347zchbq2sy59"
+      "revision": "03e6b3f467579a969930562ee18445ebb870ab5a",
+      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/03e6b3f467579a969930562ee18445ebb870ab5a.tar.gz",
+      "hash": "0yd9mhshdlnly59w0xpz5fd4zh59k376svizx0b6w09ancmp4qg4"
     },
     "rest-nvim": {
       "type": "Git",
@@ -3307,9 +3307,9 @@
         "repo": "statuscol.nvim"
       },
       "branch": "main",
-      "revision": "a2a0e3ed55ba0f636ce0b2ccf61bca4050edd288",
-      "url": "https://github.com/luukvbaal/statuscol.nvim/archive/a2a0e3ed55ba0f636ce0b2ccf61bca4050edd288.tar.gz",
-      "hash": "1r9m557yv01bbwsy0pgk4dnypccx39b0q5vln3p65rc7d9ib6shi"
+      "revision": "c399884e8f64019ec9bb581251f9710915b7f996",
+      "url": "https://github.com/luukvbaal/statuscol.nvim/archive/c399884e8f64019ec9bb581251f9710915b7f996.tar.gz",
+      "hash": "0ia3hw4jvh3mlsj372ncp7hj27mw98h9jghvw8q9vk37bghy5455"
     },
     "tagbar": {
       "type": "Git",
