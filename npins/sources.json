@@ -1795,9 +1795,9 @@
         "repo": "ltex_extra.nvim"
       },
       "branch": "master",
-      "revision": "e451d22abf664ae17037f0e0857b1c9c46716320",
-      "url": "https://github.com/barreiroleo/ltex_extra.nvim/archive/e451d22abf664ae17037f0e0857b1c9c46716320.tar.gz",
-      "hash": "184p6xxv85v6py6a7yrx8z02bwbsvzy7fyvyk2jyr0pn985aphxs"
+      "revision": "67dc3465af8d8caa49a00aaff066289a94eb753e",
+      "url": "https://github.com/barreiroleo/ltex_extra.nvim/archive/67dc3465af8d8caa49a00aaff066289a94eb753e.tar.gz",
+      "hash": "00l7snw6ji9zx1x99ck4js4n4mfi2spyzssfkwmf56q7w8h2v63b"
     },
     "lualine-nvim": {
       "type": "Git",
@@ -2599,9 +2599,9 @@
         "repo": "nvim-lspconfig"
       },
       "branch": "master",
-      "revision": "919f83ef8169d11eabd921a4cbda4fc1ba12f123",
-      "url": "https://github.com/neovim/nvim-lspconfig/archive/919f83ef8169d11eabd921a4cbda4fc1ba12f123.tar.gz",
-      "hash": "0mkvghlfbjq4pghpbb9cgmncshsqvvspjbmzhq59d1v2iln25q8z"
+      "revision": "84e0cd5a3c58e88ef706fdf4a1eed59ded1d3ce2",
+      "url": "https://github.com/neovim/nvim-lspconfig/archive/84e0cd5a3c58e88ef706fdf4a1eed59ded1d3ce2.tar.gz",
+      "hash": "01nhkyy2hvbzbbr3z94fvfxqkd19xvviggpgh13b3wjnyr6626zp"
     },
     "nvim-navbuddy": {
       "type": "Git",
