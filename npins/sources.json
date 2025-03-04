@@ -1268,9 +1268,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "480e29c20cb324bb9bf3d6f7d8e5505bcb49d555",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/480e29c20cb324bb9bf3d6f7d8e5505bcb49d555.tar.gz",
-      "hash": "188haqwyxkjcqk7f7q1rzak8afy63jc7r8fia92vqx3qr2pprh6r"
+      "revision": "b39f725cc59fbd83bfaca73ce48f4cdc50388e2d",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/b39f725cc59fbd83bfaca73ce48f4cdc50388e2d.tar.gz",
+      "hash": "08ca02nfrq3rkz6w9n0s5bjngl4a0k9da1pamvawwjrp2vw3x0nb"
     },
     "galaxyline-nvim": {
       "type": "Git",
@@ -3739,9 +3739,9 @@
         "repo": "undotree"
       },
       "branch": "master",
-      "revision": "2556c6800b210b2096b55b66e74b4cc1d9ebbe4f",
-      "url": "https://github.com/mbbill/undotree/archive/2556c6800b210b2096b55b66e74b4cc1d9ebbe4f.tar.gz",
-      "hash": "0cd6xw71aa51qr5vvg53y7hh2vlc7dzc1r7cldcgf31fn5md2ffh"
+      "revision": "86df4075f0e24ebae8b6190621a48b1f0eb488d3",
+      "url": "https://github.com/mbbill/undotree/archive/86df4075f0e24ebae8b6190621a48b1f0eb488d3.tar.gz",
+      "hash": "1cxgvk8kgwds4wa8iv4zylbniahi11y9rz0djwkcq1xwxa4xg0fc"
     },
     "vim-airline": {
       "type": "Git",
