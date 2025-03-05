@@ -116,9 +116,9 @@
         "repo": "avante.nvim"
       },
       "branch": "main",
-      "revision": "093c09b76086c3531db3c2dd9d80d7693b6d2634",
-      "url": "https://github.com/yetone/avante.nvim/archive/093c09b76086c3531db3c2dd9d80d7693b6d2634.tar.gz",
-      "hash": "0xgpvrq0ykh55yml0phc9z4d91nsqimk46vbcqpgs3k1mbf2illa"
+      "revision": "93c2e1fd83a98ae537d2b1a35e7f714fdcc77391",
+      "url": "https://github.com/yetone/avante.nvim/archive/93c2e1fd83a98ae537d2b1a35e7f714fdcc77391.tar.gz",
+      "hash": "17623kzp92gay5l6n6j2n79qp3c89smpkx16yfc3v87xw53grq67"
     },
     "baleia-nvim": {
       "type": "Git",
@@ -1975,9 +1975,9 @@
         "repo": "neo-tree.nvim"
       },
       "branch": "main",
-      "revision": "509b60214bee51312b9b11c37112f43f37c63a4b",
-      "url": "https://github.com/nvim-neo-tree/neo-tree.nvim/archive/509b60214bee51312b9b11c37112f43f37c63a4b.tar.gz",
-      "hash": "1mrxjfvv1816wcq1y90wjgnb17szglli72rk0kh0w21jl0swr522"
+      "revision": "55db5b5a00a57a4e6f66649630aad983a77f8438",
+      "url": "https://github.com/nvim-neo-tree/neo-tree.nvim/archive/55db5b5a00a57a4e6f66649630aad983a77f8438.tar.gz",
+      "hash": "1ac0mydrb2dv16ays8qn8n5p8bg74bgdm2qqswdyd5myrxd2ldp2"
     },
     "neocord": {
       "type": "Git",
