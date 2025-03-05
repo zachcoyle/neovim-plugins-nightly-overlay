@@ -20,9 +20,9 @@
         "repo": "CopilotChat.nvim"
       },
       "branch": "main",
-      "revision": "830eee06a236ffbf9effbde38da903ef96ece296",
-      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/830eee06a236ffbf9effbde38da903ef96ece296.tar.gz",
-      "hash": "0z47lmfflsj5fg9k9z3z62346ycmy6i6iwfsg51ix1q8gz4994f8"
+      "revision": "71790fffea719dcfe33408c780725226e1827bf3",
+      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/71790fffea719dcfe33408c780725226e1827bf3.tar.gz",
+      "hash": "020q4ksjv6dmn3rdpqaanzskbprqwadvd836cw28vhdbzn34jaav"
     },
     "Preview-nvim": {
       "type": "Git",
@@ -1891,9 +1891,9 @@
         "repo": "markview.nvim"
       },
       "branch": "main",
-      "revision": "247a35176b3c89498b006d1556767e41cfe18762",
-      "url": "https://github.com/OXY2DEV/markview.nvim/archive/247a35176b3c89498b006d1556767e41cfe18762.tar.gz",
-      "hash": "0w4fz16wgffdz7pmmnil7fi0z6kk2b9i683nsda9mgn4fja36h40"
+      "revision": "665ad501245a2acc7234939dec748bfb50121d2f",
+      "url": "https://github.com/OXY2DEV/markview.nvim/archive/665ad501245a2acc7234939dec748bfb50121d2f.tar.gz",
+      "hash": "1jgbg90naydq1xm53jf10468jd7clrh035mg4bc5gbw6lxkz7pgk"
     },
     "melange": {
       "type": "Git",
