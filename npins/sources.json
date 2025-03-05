@@ -20,9 +20,9 @@
         "repo": "CopilotChat.nvim"
       },
       "branch": "main",
-      "revision": "bdddfebb057aca1d91a9f7f8331fa3cbd82d30d5",
-      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/bdddfebb057aca1d91a9f7f8331fa3cbd82d30d5.tar.gz",
-      "hash": "04mhzx0fxwv5nk2k9xdp8rckm4i4d07zrbgxp0fmncny3kr3xknp"
+      "revision": "df7e76a693cc7252785c3bd53af2167d78759280",
+      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/df7e76a693cc7252785c3bd53af2167d78759280.tar.gz",
+      "hash": "0imhif94a8zb6hfw9gqhx0maahi14drgm5qqsizr8l2iwxb3pmpx"
     },
     "Preview-nvim": {
       "type": "Git",
@@ -116,9 +116,9 @@
         "repo": "avante.nvim"
       },
       "branch": "main",
-      "revision": "a652db7608ca340b980e905508b8e9187f93dfe5",
-      "url": "https://github.com/yetone/avante.nvim/archive/a652db7608ca340b980e905508b8e9187f93dfe5.tar.gz",
-      "hash": "0a6lngqcnjkx1hdavyk7lhcz2w4xfidbqk2bw428pm8bsqa3rcxj"
+      "revision": "093c09b76086c3531db3c2dd9d80d7693b6d2634",
+      "url": "https://github.com/yetone/avante.nvim/archive/093c09b76086c3531db3c2dd9d80d7693b6d2634.tar.gz",
+      "hash": "0xgpvrq0ykh55yml0phc9z4d91nsqimk46vbcqpgs3k1mbf2illa"
     },
     "baleia-nvim": {
       "type": "Git",
@@ -1975,9 +1975,9 @@
         "repo": "neo-tree.nvim"
       },
       "branch": "main",
-      "revision": "d800526d4b9508b96c76c7bb71136a5907df85bd",
-      "url": "https://github.com/nvim-neo-tree/neo-tree.nvim/archive/d800526d4b9508b96c76c7bb71136a5907df85bd.tar.gz",
-      "hash": "1zpxcv7bb0dm9c79aw3wqrzv7205hhw4sqchvk52jz6r96w492y1"
+      "revision": "509b60214bee51312b9b11c37112f43f37c63a4b",
+      "url": "https://github.com/nvim-neo-tree/neo-tree.nvim/archive/509b60214bee51312b9b11c37112f43f37c63a4b.tar.gz",
+      "hash": "1mrxjfvv1816wcq1y90wjgnb17szglli72rk0kh0w21jl0swr522"
     },
     "neocord": {
       "type": "Git",
@@ -4123,9 +4123,9 @@
         "repo": "vimtex"
       },
       "branch": "master",
-      "revision": "d7c696d9fe114876b53dc986e32d795cd16dbdcc",
-      "url": "https://github.com/lervag/vimtex/archive/d7c696d9fe114876b53dc986e32d795cd16dbdcc.tar.gz",
-      "hash": "03h16d3ibaykw7h2rz5xia539ld4q8dw32xxjfblr02m8ajkrhfr"
+      "revision": "bb4fbf6d02de0f97c99b63a4b880cb5040b1dab6",
+      "url": "https://github.com/lervag/vimtex/archive/bb4fbf6d02de0f97c99b63a4b880cb5040b1dab6.tar.gz",
+      "hash": "19c15xqkhsysx1ayzspjk6x5cc4kjw3464phgk4nmy0kfj2iagxb"
     },
     "virt-column-nvim": {
       "type": "Git",
