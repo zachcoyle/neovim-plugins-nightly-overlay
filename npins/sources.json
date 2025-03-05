@@ -116,9 +116,9 @@
         "repo": "avante.nvim"
       },
       "branch": "main",
-      "revision": "cad42ac00f991e9cf6c5c8cd12b9fe1070344ea2",
-      "url": "https://github.com/yetone/avante.nvim/archive/cad42ac00f991e9cf6c5c8cd12b9fe1070344ea2.tar.gz",
-      "hash": "1n9cmlxw6q4rwlqbrgr4z35zbrmykbdxz1fqpkq09i7rxs30djrh"
+      "revision": "662b6a547b2214232e7ff9e2dd3ba15fc22ca75a",
+      "url": "https://github.com/yetone/avante.nvim/archive/662b6a547b2214232e7ff9e2dd3ba15fc22ca75a.tar.gz",
+      "hash": "10hsy3dfn1k48n0knl8xx1n7jc4wwphnwd2x8kl1h61cccz09pam"
     },
     "baleia-nvim": {
       "type": "Git",
@@ -3127,9 +3127,9 @@
         "repo": "refactoring.nvim"
       },
       "branch": "master",
-      "revision": "eaa096df3f3a8ce879f841faea750c7c3fb2bf1c",
-      "url": "https://github.com/ThePrimeagen/refactoring.nvim/archive/eaa096df3f3a8ce879f841faea750c7c3fb2bf1c.tar.gz",
-      "hash": "03mzkqsxmmp51bhnw5cc932k3j327f4s2psdxjw594pazphy9y3l"
+      "revision": "bce639550c4e0f61c90f16e56e681405345e1e30",
+      "url": "https://github.com/ThePrimeagen/refactoring.nvim/archive/bce639550c4e0f61c90f16e56e681405345e1e30.tar.gz",
+      "hash": "1sz6mim7h98n7bz8j3f9xv3y696dr5gk35iw8y6miqjahyqd2p3l"
     },
     "render-markdown-nvim": {
       "type": "Git",
