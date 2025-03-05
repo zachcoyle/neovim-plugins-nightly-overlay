@@ -932,9 +932,9 @@
         "repo": "conform.nvim"
       },
       "branch": "master",
-      "revision": "579400bb334639cc4767458c5d15c12053cf0adc",
-      "url": "https://github.com/stevearc/conform.nvim/archive/579400bb334639cc4767458c5d15c12053cf0adc.tar.gz",
-      "hash": "1lj8kx2spxi6qamy8acy0hrc92v8i612lrmf1c8i808jcfp3wmsr"
+      "revision": "b5bcbf690981f4a4290be55bba2b9b76c8f2f8ba",
+      "url": "https://github.com/stevearc/conform.nvim/archive/b5bcbf690981f4a4290be55bba2b9b76c8f2f8ba.tar.gz",
+      "hash": "1lg8im9zhn8in9nq332513yrrwbr991z1vwc9ykxkk6wbr5cx7by"
     },
     "conjure": {
       "type": "Git",
@@ -1891,9 +1891,9 @@
         "repo": "markview.nvim"
       },
       "branch": "main",
-      "revision": "b990eaa6e2dc291e199599d2c2442bdf3bc0ffd5",
-      "url": "https://github.com/OXY2DEV/markview.nvim/archive/b990eaa6e2dc291e199599d2c2442bdf3bc0ffd5.tar.gz",
-      "hash": "1fmg9j2vw51gh29ah1by6d30fcfhsw4s9hjdvlphbhliqx34b0jf"
+      "revision": "247a35176b3c89498b006d1556767e41cfe18762",
+      "url": "https://github.com/OXY2DEV/markview.nvim/archive/247a35176b3c89498b006d1556767e41cfe18762.tar.gz",
+      "hash": "0w4fz16wgffdz7pmmnil7fi0z6kk2b9i683nsda9mgn4fja36h40"
     },
     "melange": {
       "type": "Git",
