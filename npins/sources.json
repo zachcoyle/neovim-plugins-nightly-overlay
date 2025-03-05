@@ -932,9 +932,9 @@
         "repo": "conform.nvim"
       },
       "branch": "master",
-      "revision": "b5bcbf690981f4a4290be55bba2b9b76c8f2f8ba",
-      "url": "https://github.com/stevearc/conform.nvim/archive/b5bcbf690981f4a4290be55bba2b9b76c8f2f8ba.tar.gz",
-      "hash": "1lg8im9zhn8in9nq332513yrrwbr991z1vwc9ykxkk6wbr5cx7by"
+      "revision": "db8a4a9edb217067b1d7a2e0362c74bfe9cc944d",
+      "url": "https://github.com/stevearc/conform.nvim/archive/db8a4a9edb217067b1d7a2e0362c74bfe9cc944d.tar.gz",
+      "hash": "13vpizk8ani64d3a9yrm0g3bz8m6m6cxnpzr2xgslbhxnkmbxq7j"
     },
     "conjure": {
       "type": "Git",
@@ -2875,9 +2875,9 @@
         "repo": "oil.nvim"
       },
       "branch": "master",
-      "revision": "d7c61c70849ec99f005615c4175118986f200e4f",
-      "url": "https://github.com/stevearc/oil.nvim/archive/d7c61c70849ec99f005615c4175118986f200e4f.tar.gz",
-      "hash": "0zg5gaxnbm2lbf3y6isfkl2c6cnii33r27dwz58hkvbyi09g45c2"
+      "revision": "54fe7dca365e2b917ee269744055320c1f29380d",
+      "url": "https://github.com/stevearc/oil.nvim/archive/54fe7dca365e2b917ee269744055320c1f29380d.tar.gz",
+      "hash": "15025yx8m85fa5ylr4xcpzfiz0dv20x2iak848mwgz1hyqjcircj"
     },
     "ollama-nvim": {
       "type": "Git",
