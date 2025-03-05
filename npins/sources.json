@@ -2875,9 +2875,9 @@
         "repo": "oil.nvim"
       },
       "branch": "master",
-      "revision": "54fe7dca365e2b917ee269744055320c1f29380d",
-      "url": "https://github.com/stevearc/oil.nvim/archive/54fe7dca365e2b917ee269744055320c1f29380d.tar.gz",
-      "hash": "15025yx8m85fa5ylr4xcpzfiz0dv20x2iak848mwgz1hyqjcircj"
+      "revision": "548587d68b55e632d8a69c92cefd981f360634fa",
+      "url": "https://github.com/stevearc/oil.nvim/archive/548587d68b55e632d8a69c92cefd981f360634fa.tar.gz",
+      "hash": "073rd5qsc6syvjl8s3hiyg69dlv3i5lyqyicwjpchfqvw8m059am"
     },
     "ollama-nvim": {
       "type": "Git",
