@@ -1400,9 +1400,9 @@
         "repo": "gruvbox.nvim"
       },
       "branch": "main",
-      "revision": "089b60e92aa0a1c6fa76ff527837cd35b6f5ac81",
-      "url": "https://github.com/ellisonleao/gruvbox.nvim/archive/089b60e92aa0a1c6fa76ff527837cd35b6f5ac81.tar.gz",
-      "hash": "0mr8q2xi4s2anibll8lhxax7q1akyg687bp5r58gckkhi04064q4"
+      "revision": "15958f5ee43e144856cd2084ce6c571bfdb44504",
+      "url": "https://github.com/ellisonleao/gruvbox.nvim/archive/15958f5ee43e144856cd2084ce6c571bfdb44504.tar.gz",
+      "hash": "16nrxcpds3zacqmfw5jsd5d8qqbwllkw9xacjkglcnaynp4qghqq"
     },
     "guess-indent-nvim": {
       "type": "Git",
@@ -2671,9 +2671,9 @@
         "repo": "nvim-scrollview"
       },
       "branch": "main",
-      "revision": "4ea6023a53762cec2feeeff2b4680abb85dd65e6",
-      "url": "https://github.com/dstein64/nvim-scrollview/archive/4ea6023a53762cec2feeeff2b4680abb85dd65e6.tar.gz",
-      "hash": "0l6ycn8llj6baxj7qvycq4gy4rhg1gvjs7v3zqvabx23cqv7igwl"
+      "revision": "4358487cfe016dd57031624c92a803ff730d864c",
+      "url": "https://github.com/dstein64/nvim-scrollview/archive/4358487cfe016dd57031624c92a803ff730d864c.tar.gz",
+      "hash": "067xc8nwf2687i8928s138r6hkyqi581x79gvncj4ms89swc8x7z"
     },
     "nvim-snippets": {
       "type": "Git",
