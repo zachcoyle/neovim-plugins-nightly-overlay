@@ -116,9 +116,9 @@
         "repo": "avante.nvim"
       },
       "branch": "main",
-      "revision": "2b0e7e09aedacb19955485cdf6a30138c09bcbd1",
-      "url": "https://github.com/yetone/avante.nvim/archive/2b0e7e09aedacb19955485cdf6a30138c09bcbd1.tar.gz",
-      "hash": "0zmcampazqp728p2726b3d1v2whzywrh71y28ib54pp66banhpa5"
+      "revision": "8620ea3e12cfdb90aef2e8ce6f7d5e864758ab71",
+      "url": "https://github.com/yetone/avante.nvim/archive/8620ea3e12cfdb90aef2e8ce6f7d5e864758ab71.tar.gz",
+      "hash": "0hbyi7pv5gsp6pyc609i4nv2khs2gwf6z6ivingq4jd7h4vg4zcv"
     },
     "baleia-nvim": {
       "type": "Git",
@@ -308,9 +308,9 @@
         "repo": "cmake-tools.nvim"
       },
       "branch": "master",
-      "revision": "943438bb6433ad7d600a44fca86f1573dc5da9e2",
-      "url": "https://github.com/Civitasv/cmake-tools.nvim/archive/943438bb6433ad7d600a44fca86f1573dc5da9e2.tar.gz",
-      "hash": "116vwsfas2gbc7bzkqm5s7w8ndagr16xavgw952k77zp71qz3pzp"
+      "revision": "a5d5bf0a93bb96085502334a5036fc054ad9cf33",
+      "url": "https://github.com/Civitasv/cmake-tools.nvim/archive/a5d5bf0a93bb96085502334a5036fc054ad9cf33.tar.gz",
+      "hash": "1d8k3m994wdlmbwp6564av5bpx3sw4q05h5ga8x14dcl6qw2zbp3"
     },
     "cmp-async-path": {
       "type": "Git",
