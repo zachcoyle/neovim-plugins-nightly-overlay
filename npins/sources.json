@@ -980,9 +980,9 @@
         "repo": "copilot.vim"
       },
       "branch": "release",
-      "revision": "cd7f01009fb7b30e22840cadc4faad88b05c6eef",
-      "url": "https://github.com/github/copilot.vim/archive/cd7f01009fb7b30e22840cadc4faad88b05c6eef.tar.gz",
-      "hash": "1jzq16ky63dmawmyqg6y0sara1x5sv0zff9w5g40gagrqgwh36qc"
+      "revision": "5015939f131627a6a332c9e3ecad9a7cb4c2e549",
+      "url": "https://github.com/github/copilot.vim/archive/5015939f131627a6a332c9e3ecad9a7cb4c2e549.tar.gz",
+      "hash": "198mymn0ad1kzqzs1rimrhq7z3nrami45fp3yqnwp15am8bxmwi0"
     },
     "coq-thirdparty": {
       "type": "Git",
@@ -1975,9 +1975,9 @@
         "repo": "neo-tree.nvim"
       },
       "branch": "main",
-      "revision": "0b44040ec7b8472dfc504bbcec735419347797ad",
-      "url": "https://github.com/nvim-neo-tree/neo-tree.nvim/archive/0b44040ec7b8472dfc504bbcec735419347797ad.tar.gz",
-      "hash": "05rkpnxwlyzilxz92jbjcq27phsjgdmznhpdzsfm37n6kfz6kk1r"
+      "revision": "2a5c86bd61e6c60ab7c2cb029c5cf619e4ee0b3a",
+      "url": "https://github.com/nvim-neo-tree/neo-tree.nvim/archive/2a5c86bd61e6c60ab7c2cb029c5cf619e4ee0b3a.tar.gz",
+      "hash": "1gpk6xwvap057b8025mq3vil5llysv72jnj07440qjpjd36r0j6c"
     },
     "neocord": {
       "type": "Git",
