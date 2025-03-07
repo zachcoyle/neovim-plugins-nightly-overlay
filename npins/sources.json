@@ -1891,9 +1891,9 @@
         "repo": "markview.nvim"
       },
       "branch": "main",
-      "revision": "665ad501245a2acc7234939dec748bfb50121d2f",
-      "url": "https://github.com/OXY2DEV/markview.nvim/archive/665ad501245a2acc7234939dec748bfb50121d2f.tar.gz",
-      "hash": "1jgbg90naydq1xm53jf10468jd7clrh035mg4bc5gbw6lxkz7pgk"
+      "revision": "b8ad5fc17585030c9a343f991f183d088a7b089b",
+      "url": "https://github.com/OXY2DEV/markview.nvim/archive/b8ad5fc17585030c9a343f991f183d088a7b089b.tar.gz",
+      "hash": "0b7zma47rvgsrhzlbzrswi76r30cv8z4k12cy1gr4rzmkggna6bp"
     },
     "melange": {
       "type": "Git",
@@ -3139,9 +3139,9 @@
         "repo": "render-markdown.nvim"
       },
       "branch": "main",
-      "revision": "b56fa1bc7b513f16a1c361b81438f4944b420a32",
-      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/b56fa1bc7b513f16a1c361b81438f4944b420a32.tar.gz",
-      "hash": "112iah4qcmjyq37zg595kpdbcqx0p3602jq0pzzb371r05k2yzd4"
+      "revision": "81374ffd26f9a9d5f44274a9e7e60547b5fd106f",
+      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/81374ffd26f9a9d5f44274a9e7e60547b5fd106f.tar.gz",
+      "hash": "1i098hjzyf8gppg9is8ac97r992haglkckaxwbkia2k8117yc679"
     },
     "rest-nvim": {
       "type": "Git",
