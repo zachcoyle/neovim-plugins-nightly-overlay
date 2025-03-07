@@ -1484,9 +1484,9 @@
         "repo": "helpview.nvim"
       },
       "branch": "main",
-      "revision": "d2d129423e2cbea50cb395f50223d99316d22b46",
-      "url": "https://github.com/OXY2DEV/helpview.nvim/archive/d2d129423e2cbea50cb395f50223d99316d22b46.tar.gz",
-      "hash": "1n2snihf7dkf2wahr7a1j2f7lldwzm25npngcgl4h0k1b2flzv50"
+      "revision": "49e8d4782ae73274a35d606fde2844b6e958a0c7",
+      "url": "https://github.com/OXY2DEV/helpview.nvim/archive/49e8d4782ae73274a35d606fde2844b6e958a0c7.tar.gz",
+      "hash": "1zb4dwd49lyi4ag1782nqrwkan719nsf1byrnn3pml06fm79qav1"
     },
     "hex-nvim": {
       "type": "Git",
@@ -2203,9 +2203,9 @@
         "repo": "neotest-java"
       },
       "branch": "main",
-      "revision": "f26a0d0299cbc167c56d69be596bcf62a8ff17a6",
-      "url": "https://github.com/rcasia/neotest-java/archive/f26a0d0299cbc167c56d69be596bcf62a8ff17a6.tar.gz",
-      "hash": "0yv9n7mn5m1sspdc8x3blfbmn5q996l8277424gjanhbz1mkj0dq"
+      "revision": "06bf61bc963473f1be8128f64169bd18883eb632",
+      "url": "https://github.com/rcasia/neotest-java/archive/06bf61bc963473f1be8128f64169bd18883eb632.tar.gz",
+      "hash": "115hy7zldgksg5y3karyakyg5gy8bax20w809d9cgb9dhviyrrq0"
     },
     "neotest-jest": {
       "type": "Git",
@@ -2923,9 +2923,9 @@
         "repo": "orgmode"
       },
       "branch": "master",
-      "revision": "2aa966f61dc7d822c84845223b2ec915d0a5efba",
-      "url": "https://github.com/nvim-orgmode/orgmode/archive/2aa966f61dc7d822c84845223b2ec915d0a5efba.tar.gz",
-      "hash": "0hhpiikqj05krbdc9d8qnprpw6vmmlvrsn9zqfzvyp78kayv97sm"
+      "revision": "dafb6aa6e2e09362e304a933974c563bab0b464f",
+      "url": "https://github.com/nvim-orgmode/orgmode/archive/dafb6aa6e2e09362e304a933974c563bab0b464f.tar.gz",
+      "hash": "0f66nfl8agnk9765p79xr0b2qvyqx8z46rzcf0y349q8fs681kp6"
     },
     "overseer-nvim": {
       "type": "Git",
