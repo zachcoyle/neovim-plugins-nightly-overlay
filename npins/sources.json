@@ -20,9 +20,9 @@
         "repo": "CopilotChat.nvim"
       },
       "branch": "main",
-      "revision": "24617d120a719596eed21555757e6297454aeee0",
-      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/24617d120a719596eed21555757e6297454aeee0.tar.gz",
-      "hash": "0dn1yac68f6hlhx9my64knzhsf39lx5i2nhhcm08123ysrrc53fv"
+      "revision": "908b53d0ac99e47b384f772f28a76949537676e8",
+      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/908b53d0ac99e47b384f772f28a76949537676e8.tar.gz",
+      "hash": "13xkm2bsb7n12smxrxk62yw8ji4vsy48qdww3hrdlb0b4dfsa20d"
     },
     "Preview-nvim": {
       "type": "Git",
@@ -116,9 +116,9 @@
         "repo": "avante.nvim"
       },
       "branch": "main",
-      "revision": "4d983532a13f11e7a497e9d305af677037ffa453",
-      "url": "https://github.com/yetone/avante.nvim/archive/4d983532a13f11e7a497e9d305af677037ffa453.tar.gz",
-      "hash": "18kj1b87bwaa346ikj6jwwdbq72k60l2ic053aaiq88854c3rap3"
+      "revision": "d75094b81579e2b36dc8fa9fc21bd499dea37590",
+      "url": "https://github.com/yetone/avante.nvim/archive/d75094b81579e2b36dc8fa9fc21bd499dea37590.tar.gz",
+      "hash": "0q30b1cvs7k7x9zxcvf6lphypc36lmxy8hrpvq6hsqbgqipw0vz6"
     },
     "baleia-nvim": {
       "type": "Git",
@@ -1484,9 +1484,9 @@
         "repo": "helpview.nvim"
       },
       "branch": "main",
-      "revision": "2bc021a2cf1e6ce103f95ceffc172cfefbbf9cfc",
-      "url": "https://github.com/OXY2DEV/helpview.nvim/archive/2bc021a2cf1e6ce103f95ceffc172cfefbbf9cfc.tar.gz",
-      "hash": "1wbcz75hrxgc4d3z5vn9091mpz91f18yppcpa7a96xq8yybpkmh6"
+      "revision": "d2d129423e2cbea50cb395f50223d99316d22b46",
+      "url": "https://github.com/OXY2DEV/helpview.nvim/archive/d2d129423e2cbea50cb395f50223d99316d22b46.tar.gz",
+      "hash": "1n2snihf7dkf2wahr7a1j2f7lldwzm25npngcgl4h0k1b2flzv50"
     },
     "hex-nvim": {
       "type": "Git",
@@ -1915,9 +1915,9 @@
         "repo": "mini.nvim"
       },
       "branch": "main",
-      "revision": "6dcb014319a177ad51774c05323cb833349bdf25",
-      "url": "https://github.com/echasnovski/mini.nvim/archive/6dcb014319a177ad51774c05323cb833349bdf25.tar.gz",
-      "hash": "1lq001jb8kj8grgr30wbn3wlhm2bvaxpnxj7dc8b584vs64gcq30"
+      "revision": "f6fe169821506a59b2407e3c7a3327562600e0e3",
+      "url": "https://github.com/echasnovski/mini.nvim/archive/f6fe169821506a59b2407e3c7a3327562600e0e3.tar.gz",
+      "hash": "11p705f9jdvaqhsj9qp87pjjpxh57niwnf6d99g6cwzy7v5x41gw"
     },
     "mkdnflow-nvim": {
       "type": "Git",
