@@ -2923,9 +2923,9 @@
         "repo": "orgmode"
       },
       "branch": "master",
-      "revision": "bad7aaada66582f7897b2a341be53ac149a9c71b",
-      "url": "https://github.com/nvim-orgmode/orgmode/archive/bad7aaada66582f7897b2a341be53ac149a9c71b.tar.gz",
-      "hash": "1jdc4swwr5150yyhqzfmad735f45plyf0h3krzxjjaclb72fjnws"
+      "revision": "de15ddfe131652a3d4a7f2d091fc0fb48043d660",
+      "url": "https://github.com/nvim-orgmode/orgmode/archive/de15ddfe131652a3d4a7f2d091fc0fb48043d660.tar.gz",
+      "hash": "0hd8ky26k67hhxb1090xrh1v1nj3ys9yca07az6jq6m6yzg7vcn0"
     },
     "overseer-nvim": {
       "type": "Git",
@@ -3739,9 +3739,9 @@
         "repo": "undotree"
       },
       "branch": "master",
-      "revision": "86df4075f0e24ebae8b6190621a48b1f0eb488d3",
-      "url": "https://github.com/mbbill/undotree/archive/86df4075f0e24ebae8b6190621a48b1f0eb488d3.tar.gz",
-      "hash": "1cxgvk8kgwds4wa8iv4zylbniahi11y9rz0djwkcq1xwxa4xg0fc"
+      "revision": "76c4e32d8f1aa493bb68d4a3fcd3c700395c303c",
+      "url": "https://github.com/mbbill/undotree/archive/76c4e32d8f1aa493bb68d4a3fcd3c700395c303c.tar.gz",
+      "hash": "0syxqj4fyjlahq8gk73v2jras30nw6rsymydmvf9zxsvfnxpfhsp"
     },
     "vim-airline": {
       "type": "Git",
