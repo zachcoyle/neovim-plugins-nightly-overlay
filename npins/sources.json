@@ -20,9 +20,9 @@
         "repo": "CopilotChat.nvim"
       },
       "branch": "main",
-      "revision": "59d33ad506a9d8347c29ea121a46d844f92fd94d",
-      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/59d33ad506a9d8347c29ea121a46d844f92fd94d.tar.gz",
-      "hash": "04xlf1wsc9vi9nnaqp1snlhjlkrh5hy7ipa6j9df7sr1r6v5rn73"
+      "revision": "d826c1827179cde461256d9ce0fb3098bc00e332",
+      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/d826c1827179cde461256d9ce0fb3098bc00e332.tar.gz",
+      "hash": "1a59866pf3j9fqqp4v883a90iypnsbrwsyj2ypsckz2a6yfmxg6x"
     },
     "Preview-nvim": {
       "type": "Git",
@@ -1987,9 +1987,9 @@
         "repo": "neocord"
       },
       "branch": "main",
-      "revision": "4d55d8dab2d5f2f272192add7a2c21982039c699",
-      "url": "https://github.com/IogaMaster/neocord/archive/4d55d8dab2d5f2f272192add7a2c21982039c699.tar.gz",
-      "hash": "18d84bd5242a3khpsk0iya3i75bc65mc2xc9kjldpvb827m6myl3"
+      "revision": "41bacd44e9d36f5e36e0271672ac2c02f6fa355a",
+      "url": "https://github.com/IogaMaster/neocord/archive/41bacd44e9d36f5e36e0271672ac2c02f6fa355a.tar.gz",
+      "hash": "1n998zsv0bikscwpr75qq11xh559xzx6d7rs7fc21jj1rivkk4aw"
     },
     "neogen": {
       "type": "Git",
