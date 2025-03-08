@@ -4219,9 +4219,9 @@
         "repo": "yazi.nvim"
       },
       "branch": "main",
-      "revision": "b376834a85422ba94472b986272edc82b715aa54",
-      "url": "https://github.com/mikavilpas/yazi.nvim/archive/b376834a85422ba94472b986272edc82b715aa54.tar.gz",
-      "hash": "00rpciib0dlvipfs17scgw8cm8vz6gz1hs5qch1j3m1j9a4j5s29"
+      "revision": "d6dafa3774af4eab0678f2884fff8714662308ef",
+      "url": "https://github.com/mikavilpas/yazi.nvim/archive/d6dafa3774af4eab0678f2884fff8714662308ef.tar.gz",
+      "hash": "0xsixq22vpvifj4zadcimlnajyjqq2sjcbs510insp21dc25dvfs"
     },
     "yuck-vim": {
       "type": "Git",
