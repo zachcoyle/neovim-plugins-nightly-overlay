@@ -116,9 +116,9 @@
         "repo": "avante.nvim"
       },
       "branch": "main",
-      "revision": "4766e76a3113bbdcdaf55d33b69ea483066c8ad0",
-      "url": "https://github.com/yetone/avante.nvim/archive/4766e76a3113bbdcdaf55d33b69ea483066c8ad0.tar.gz",
-      "hash": "0r2ncl6p07q9c4f9n2vad9rm6rllxny8zgcm631pmikf4lakm594"
+      "revision": "510bf2ff3530de88ed7cc467c18f9decd2636317",
+      "url": "https://github.com/yetone/avante.nvim/archive/510bf2ff3530de88ed7cc467c18f9decd2636317.tar.gz",
+      "hash": "0cmf682jvx1iig1kbjyp1f1q7c425k6lssqcs89gwhkpiz6wjk17"
     },
     "baleia-nvim": {
       "type": "Git",
@@ -4219,9 +4219,9 @@
         "repo": "yazi.nvim"
       },
       "branch": "main",
-      "revision": "12a0eefba07fcdee920df76c32b6f7a3b36fd8f1",
-      "url": "https://github.com/mikavilpas/yazi.nvim/archive/12a0eefba07fcdee920df76c32b6f7a3b36fd8f1.tar.gz",
-      "hash": "095psnpj6nh908hjknp56ma4gvfb1aq70s80a5c2w83wr46lqwrn"
+      "revision": "b376834a85422ba94472b986272edc82b715aa54",
+      "url": "https://github.com/mikavilpas/yazi.nvim/archive/b376834a85422ba94472b986272edc82b715aa54.tar.gz",
+      "hash": "00rpciib0dlvipfs17scgw8cm8vz6gz1hs5qch1j3m1j9a4j5s29"
     },
     "yuck-vim": {
       "type": "Git",
