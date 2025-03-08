@@ -20,9 +20,9 @@
         "repo": "CopilotChat.nvim"
       },
       "branch": "main",
-      "revision": "61c5917471b37ae2dee2487ba2803f062e746e03",
-      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/61c5917471b37ae2dee2487ba2803f062e746e03.tar.gz",
-      "hash": "1ckgwlcj4k9c9bfaklawjd3v2hibsnn4a6m0nhyq57lkk5db2cbz"
+      "revision": "7ba905eefb9f42ac7de20607b29f54b922750de8",
+      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/7ba905eefb9f42ac7de20607b29f54b922750de8.tar.gz",
+      "hash": "1ma7aym390adqczqnmdgnbpcb2m61wbv7y903sx0bg78mpqmdxmw"
     },
     "Preview-nvim": {
       "type": "Git",
