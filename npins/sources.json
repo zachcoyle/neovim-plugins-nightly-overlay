@@ -20,9 +20,9 @@
         "repo": "CopilotChat.nvim"
       },
       "branch": "main",
-      "revision": "78595bb6153dd835c1bfd797de6ab073c093d4ad",
-      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/78595bb6153dd835c1bfd797de6ab073c093d4ad.tar.gz",
-      "hash": "1zq2kh0a8g5la1ck0gaiwc5xb5404lg26kghy31vahkyj254mqy4"
+      "revision": "1f91783fdf7dcea25c04dffc8e856ccb7a2db13f",
+      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/1f91783fdf7dcea25c04dffc8e856ccb7a2db13f.tar.gz",
+      "hash": "19ym963jyck381zr6z8cz2rxdfcc79c5xnwnnw2lilpwsiyr951g"
     },
     "Preview-nvim": {
       "type": "Git",
@@ -1424,9 +1424,9 @@
         "repo": "hardtime.nvim"
       },
       "branch": "main",
-      "revision": "48689c55f1204427206afc4ea1b9461a587d4558",
-      "url": "https://github.com/m4xshen/hardtime.nvim/archive/48689c55f1204427206afc4ea1b9461a587d4558.tar.gz",
-      "hash": "0bgd7d5336kc9sz19x6wdq9kvcfc1i0sdiy84r4phckl6s6mg6i2"
+      "revision": "f87c86d1aa1e05dcf3c6ecd97fbfd237e2de0bf5",
+      "url": "https://github.com/m4xshen/hardtime.nvim/archive/f87c86d1aa1e05dcf3c6ecd97fbfd237e2de0bf5.tar.gz",
+      "hash": "1zkrgszfh5sgnvbpsymp4vpfm8bpqasl8y3p214ww6bjmn00la5n"
     },
     "harpoon": {
       "type": "Git",
