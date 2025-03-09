@@ -20,9 +20,9 @@
         "repo": "CopilotChat.nvim"
       },
       "branch": "main",
-      "revision": "ddf4aac37519982285e9c88d6f16e5cf94b819c6",
-      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/ddf4aac37519982285e9c88d6f16e5cf94b819c6.tar.gz",
-      "hash": "0p2nd6276g95fissbbsakvg65dmalsgja0xgjbhiihcvzwfj0nxm"
+      "revision": "e00fc6b8cf00c0261d0f676de31642d4f08e2c19",
+      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/e00fc6b8cf00c0261d0f676de31642d4f08e2c19.tar.gz",
+      "hash": "1iknc9dq6k62s0v4ypvccbrf98g462zx9jvzqs5fwdxlqaar20dp"
     },
     "Preview-nvim": {
       "type": "Git",
@@ -1831,9 +1831,9 @@
         "repo": "lz.n"
       },
       "branch": "master",
-      "revision": "4f66c5fa9007cb414977699662e61a035b0d4dc2",
-      "url": "https://github.com/nvim-neorocks/lz.n/archive/4f66c5fa9007cb414977699662e61a035b0d4dc2.tar.gz",
-      "hash": "0ic5h0pl3kzab59q2lfss0y50f7xfyc90lrk6xg3j9ahd338cbc7"
+      "revision": "5d4e1bbb67d48aa852343efa9cfc89aea2d29cda",
+      "url": "https://github.com/nvim-neorocks/lz.n/archive/5d4e1bbb67d48aa852343efa9cfc89aea2d29cda.tar.gz",
+      "hash": "05644aaihvrrlm1k3rlv4rd3q8xkill448adfgi18mdz6b4cpw3l"
     },
     "magma-nvim-goose": {
       "type": "Git",
