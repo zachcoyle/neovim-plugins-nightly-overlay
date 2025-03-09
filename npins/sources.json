@@ -20,9 +20,9 @@
         "repo": "CopilotChat.nvim"
       },
       "branch": "main",
-      "revision": "3ba4a641f5fbc00e0515be19a275521500f3d65f",
-      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/3ba4a641f5fbc00e0515be19a275521500f3d65f.tar.gz",
-      "hash": "0kyy3xjkdy10kf7zl5rr48cn1a8z1z8ffn73ijf9m6vjlh0smpz8"
+      "revision": "4f1516bc7672ebf2b33777f3e5c76603b1601021",
+      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/4f1516bc7672ebf2b33777f3e5c76603b1601021.tar.gz",
+      "hash": "12wsi6a6741939nir0cq5iwlds1r4248qz5y2q55zyz5k92rh0aq"
     },
     "Preview-nvim": {
       "type": "Git",
@@ -1891,9 +1891,9 @@
         "repo": "markview.nvim"
       },
       "branch": "main",
-      "revision": "b8ad5fc17585030c9a343f991f183d088a7b089b",
-      "url": "https://github.com/OXY2DEV/markview.nvim/archive/b8ad5fc17585030c9a343f991f183d088a7b089b.tar.gz",
-      "hash": "0b7zma47rvgsrhzlbzrswi76r30cv8z4k12cy1gr4rzmkggna6bp"
+      "revision": "6c92a6455e97c954a4a419265a032fedd69846f6",
+      "url": "https://github.com/OXY2DEV/markview.nvim/archive/6c92a6455e97c954a4a419265a032fedd69846f6.tar.gz",
+      "hash": "01sw4iscnciyifpba4cwjb6fs95wrkk60xvqq67b8d5j8yb5449a"
     },
     "melange": {
       "type": "Git",
@@ -2203,9 +2203,9 @@
         "repo": "neotest-java"
       },
       "branch": "main",
-      "revision": "3f814f5c7e38609fc56ec4bd0ab24c6469c65993",
-      "url": "https://github.com/rcasia/neotest-java/archive/3f814f5c7e38609fc56ec4bd0ab24c6469c65993.tar.gz",
-      "hash": "0wm8p2naw9mkw2zshj041d54bw55k5xgnp8xbwgpi8az62fl0nxk"
+      "revision": "5b64418a81070676de8bc11e2a83d26a5589555d",
+      "url": "https://github.com/rcasia/neotest-java/archive/5b64418a81070676de8bc11e2a83d26a5589555d.tar.gz",
+      "hash": "1dl58gsfsijka6096sw82rbc4jpn60xfv1y4iml3dhybacn34kam"
     },
     "neotest-jest": {
       "type": "Git",
