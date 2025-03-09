@@ -116,9 +116,9 @@
         "repo": "avante.nvim"
       },
       "branch": "main",
-      "revision": "510bf2ff3530de88ed7cc467c18f9decd2636317",
-      "url": "https://github.com/yetone/avante.nvim/archive/510bf2ff3530de88ed7cc467c18f9decd2636317.tar.gz",
-      "hash": "0cmf682jvx1iig1kbjyp1f1q7c425k6lssqcs89gwhkpiz6wjk17"
+      "revision": "02fb470140664316eca75571e89d7b79eb55f7e7",
+      "url": "https://github.com/yetone/avante.nvim/archive/02fb470140664316eca75571e89d7b79eb55f7e7.tar.gz",
+      "hash": "1p9rp5av60y79zw2qr0sy4yj99d9977cq2561zfzqpvjvh40h9ma"
     },
     "baleia-nvim": {
       "type": "Git",
@@ -1028,9 +1028,9 @@
         "repo": "cyberdream.nvim"
       },
       "branch": "main",
-      "revision": "b02c977aaf0283a0ec7a0184e6a459366325c93b",
-      "url": "https://github.com/scottmckendry/cyberdream.nvim/archive/b02c977aaf0283a0ec7a0184e6a459366325c93b.tar.gz",
-      "hash": "14rnp66smhmc3zx2wvph2sayivmq7zdj0bi5rkk379ancj6nkvc5"
+      "revision": "094e4eb33e7d078cbf2105604a4246092eb8046e",
+      "url": "https://github.com/scottmckendry/cyberdream.nvim/archive/094e4eb33e7d078cbf2105604a4246092eb8046e.tar.gz",
+      "hash": "1nh1nxy6wqn0vlk9lpp8v8p24rlrzlcwl7y9lvhbhmlisyr5yrvj"
     },
     "dashboard-nvim": {
       "type": "Git",
