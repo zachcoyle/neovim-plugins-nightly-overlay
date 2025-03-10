@@ -20,9 +20,9 @@
         "repo": "CopilotChat.nvim"
       },
       "branch": "main",
-      "revision": "4f544d93daecfd7ba3cd60cbbe6828a8c0f786f8",
-      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/4f544d93daecfd7ba3cd60cbbe6828a8c0f786f8.tar.gz",
-      "hash": "00rk867awddhnxdjr27k0hvm3ixmkldfgs4h8gxs2pjz0nxqkwb5"
+      "revision": "003d2dcfc94ab64cd40899dc31852ce0749f296b",
+      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/003d2dcfc94ab64cd40899dc31852ce0749f296b.tar.gz",
+      "hash": "19ck0zqbfxbfa1f66zs55g88av8iw2qylswfipsg5pjszwqd0fk2"
     },
     "Preview-nvim": {
       "type": "Git",
@@ -1975,9 +1975,9 @@
         "repo": "neo-tree.nvim"
       },
       "branch": "main",
-      "revision": "40dd57777a96d0728f6758874b141f409466e2da",
-      "url": "https://github.com/nvim-neo-tree/neo-tree.nvim/archive/40dd57777a96d0728f6758874b141f409466e2da.tar.gz",
-      "hash": "170qmwr2iv2g8frazrgi291c2flzwlnxwf3lrkx600w3ryyiqygm"
+      "revision": "940063ec5c2c81f455d25dbc7e0b918774f5e924",
+      "url": "https://github.com/nvim-neo-tree/neo-tree.nvim/archive/940063ec5c2c81f455d25dbc7e0b918774f5e924.tar.gz",
+      "hash": "0lj1gzladpw6nsjp33q4yf9anxgf2d6889ddhkmrn2knqzyjkrw6"
     },
     "neocord": {
       "type": "Git",
