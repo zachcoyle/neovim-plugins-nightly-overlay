@@ -44,9 +44,9 @@
         "repo": "SchemaStore.nvim"
       },
       "branch": "main",
-      "revision": "c183ec0ee5847642f3e8a2de881fc9cfebec1536",
-      "url": "https://github.com/b0o/SchemaStore.nvim/archive/c183ec0ee5847642f3e8a2de881fc9cfebec1536.tar.gz",
-      "hash": "1lfpwajx59a4cs6zlrygl7yhc527b79b8cv4jffj32spawjq999j"
+      "revision": "e03b50ce453b1ce9f6b7805239c52db604d740dc",
+      "url": "https://github.com/b0o/SchemaStore.nvim/archive/e03b50ce453b1ce9f6b7805239c52db604d740dc.tar.gz",
+      "hash": "17pj6lnl9dwzv5s2a40dnflxd8sx2dq0w1mm9zdx5r93m9wkxxsb"
     },
     "alpha-nvim": {
       "type": "Git",
@@ -1004,9 +1004,9 @@
         "repo": "coq_nvim"
       },
       "branch": "coq",
-      "revision": "c53ca04de47c5b61f4d2f1f51fc981ad9f5bd408",
-      "url": "https://github.com/ms-jpq/coq_nvim/archive/c53ca04de47c5b61f4d2f1f51fc981ad9f5bd408.tar.gz",
-      "hash": "0s2rdss6z06aa3prs1wb86v0m4db1fnd884drwb6gd0qp8n1az6z"
+      "revision": "e48a17c63029ef9ac72af80a7a3a56577acffb00",
+      "url": "https://github.com/ms-jpq/coq_nvim/archive/e48a17c63029ef9ac72af80a7a3a56577acffb00.tar.gz",
+      "hash": "1g1alqkxf1nh794hwx560mfif9g6i9x3pipc948hnwx2rlcywyx1"
     },
     "crates-nvim": {
       "type": "Git",
@@ -2203,9 +2203,9 @@
         "repo": "neotest-java"
       },
       "branch": "main",
-      "revision": "5b64418a81070676de8bc11e2a83d26a5589555d",
-      "url": "https://github.com/rcasia/neotest-java/archive/5b64418a81070676de8bc11e2a83d26a5589555d.tar.gz",
-      "hash": "1dl58gsfsijka6096sw82rbc4jpn60xfv1y4iml3dhybacn34kam"
+      "revision": "c9b2f3060b6f0a37c9ea54042882ebb56018e1a3",
+      "url": "https://github.com/rcasia/neotest-java/archive/c9b2f3060b6f0a37c9ea54042882ebb56018e1a3.tar.gz",
+      "hash": "04xr086i3hp9pz3k58nfxa0vnadx356wdi6mcj3ilfvqn3l8razj"
     },
     "neotest-jest": {
       "type": "Git",
