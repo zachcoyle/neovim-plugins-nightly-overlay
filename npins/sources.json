@@ -1688,9 +1688,9 @@
         "repo": "lean.nvim"
       },
       "branch": "main",
-      "revision": "12fffed43f9b0964f140be507757a455e13a2931",
-      "url": "https://github.com/Julian/lean.nvim/archive/12fffed43f9b0964f140be507757a455e13a2931.tar.gz",
-      "hash": "09w2fz3acd3gpvdksc3qjpjg9gm0g9ayiy7f61gk95kk84cfzv01"
+      "revision": "88168e66e842d26512f32e5556f99247274ea45a",
+      "url": "https://github.com/Julian/lean.nvim/archive/88168e66e842d26512f32e5556f99247274ea45a.tar.gz",
+      "hash": "1q9cmffpikxnx6g79hypb0qnv6cddqlydnmrx41q2ww17w3ip5p8"
     },
     "leap-nvim": {
       "type": "Git",
@@ -1759,9 +1759,9 @@
         "repo": "lsp_signature.nvim"
       },
       "branch": "master",
-      "revision": "02629e5bc38f6cb1a49bb43ff4a441f23335a933",
-      "url": "https://github.com/ray-x/lsp_signature.nvim/archive/02629e5bc38f6cb1a49bb43ff4a441f23335a933.tar.gz",
-      "hash": "0wqa7yppkq5xbgr71hi5wnhq4r24g77zbmv82r661wl4iy9nfsc6"
+      "revision": "d8d4c24fcdd1e2f73d9fa227ac2f45b8facfc3de",
+      "url": "https://github.com/ray-x/lsp_signature.nvim/archive/d8d4c24fcdd1e2f73d9fa227ac2f45b8facfc3de.tar.gz",
+      "hash": "0833v74amrgrlh42r0si01v5siv25v3fyr6iq9i4g8nm2gn6kbh4"
     },
     "lspkind-nvim": {
       "type": "Git",
@@ -1975,9 +1975,9 @@
         "repo": "neo-tree.nvim"
       },
       "branch": "main",
-      "revision": "b545111b8ee19075f1f93735e2a69353b7b2c800",
-      "url": "https://github.com/nvim-neo-tree/neo-tree.nvim/archive/b545111b8ee19075f1f93735e2a69353b7b2c800.tar.gz",
-      "hash": "06baxvgvp442b526a8c941w39qpi5kr5pxcx4w7vfswc2r0g3cx9"
+      "revision": "d8d6c481ab5abda00c22ed8b122817c8cc697f7c",
+      "url": "https://github.com/nvim-neo-tree/neo-tree.nvim/archive/d8d6c481ab5abda00c22ed8b122817c8cc697f7c.tar.gz",
+      "hash": "086q9i0r2l6qm7n7lgdnlsx3nkmnvl11i53midqvk23a7c1d0vck"
     },
     "neocord": {
       "type": "Git",
