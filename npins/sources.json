@@ -1688,9 +1688,9 @@
         "repo": "lean.nvim"
       },
       "branch": "main",
-      "revision": "88168e66e842d26512f32e5556f99247274ea45a",
-      "url": "https://github.com/Julian/lean.nvim/archive/88168e66e842d26512f32e5556f99247274ea45a.tar.gz",
-      "hash": "1q9cmffpikxnx6g79hypb0qnv6cddqlydnmrx41q2ww17w3ip5p8"
+      "revision": "1e74b91d64a5fba6f7a489d296d50e044aced943",
+      "url": "https://github.com/Julian/lean.nvim/archive/1e74b91d64a5fba6f7a489d296d50e044aced943.tar.gz",
+      "hash": "0czkyn607r2gvbba80p1xfh3x4dnwh24mv75lb0iwkvcmc9mmkhc"
     },
     "leap-nvim": {
       "type": "Git",
@@ -1759,9 +1759,9 @@
         "repo": "lsp_signature.nvim"
       },
       "branch": "master",
-      "revision": "d8d4c24fcdd1e2f73d9fa227ac2f45b8facfc3de",
-      "url": "https://github.com/ray-x/lsp_signature.nvim/archive/d8d4c24fcdd1e2f73d9fa227ac2f45b8facfc3de.tar.gz",
-      "hash": "0833v74amrgrlh42r0si01v5siv25v3fyr6iq9i4g8nm2gn6kbh4"
+      "revision": "bf8594909803db6f9a38ee7d600b319e8926eba1",
+      "url": "https://github.com/ray-x/lsp_signature.nvim/archive/bf8594909803db6f9a38ee7d600b319e8926eba1.tar.gz",
+      "hash": "0kz8fx56hcbszhsby9kz82lkx52zc2jpdifcf3nwrv3pdd622pfv"
     },
     "lspkind-nvim": {
       "type": "Git",
@@ -4123,9 +4123,9 @@
         "repo": "vimtex"
       },
       "branch": "master",
-      "revision": "cf6b84775624582d7422715ee46b0a63b53cee38",
-      "url": "https://github.com/lervag/vimtex/archive/cf6b84775624582d7422715ee46b0a63b53cee38.tar.gz",
-      "hash": "18dp7jyrdnmqjdnbd04h4p0b3wanc0xpb0a18dxcw3grb9b39dk3"
+      "revision": "691ee15e1459e4420d207cfbc4a79b383f32b411",
+      "url": "https://github.com/lervag/vimtex/archive/691ee15e1459e4420d207cfbc4a79b383f32b411.tar.gz",
+      "hash": "0ylyzhdx6fpbkdba0sr7lm7w3z501x1d6x9hxpb00rfyii3cslz4"
     },
     "virt-column-nvim": {
       "type": "Git",
