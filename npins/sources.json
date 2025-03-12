@@ -116,9 +116,9 @@
         "repo": "avante.nvim"
       },
       "branch": "main",
-      "revision": "f9f92dc9d49959e03a15b8eb9bad50666a3f6b8d",
-      "url": "https://github.com/yetone/avante.nvim/archive/f9f92dc9d49959e03a15b8eb9bad50666a3f6b8d.tar.gz",
-      "hash": "1kdjvhzrp525ajhira024m9wr3xyck3g6vpfz4d17pdq48xlqjb3"
+      "revision": "8b37cfc306457b8ded6c26f19e7d72bec2378732",
+      "url": "https://github.com/yetone/avante.nvim/archive/8b37cfc306457b8ded6c26f19e7d72bec2378732.tar.gz",
+      "hash": "048ciify0p2iyy3f1gb5fl6dk1cv0a5yi5zrpxfxvav5yxfglx5a"
     },
     "baleia-nvim": {
       "type": "Git",
@@ -1364,9 +1364,9 @@
         "repo": "gitsigns.nvim"
       },
       "branch": "main",
-      "revision": "751bfae26a3561394afcafdf92b0dc52988ce436",
-      "url": "https://github.com/lewis6991/gitsigns.nvim/archive/751bfae26a3561394afcafdf92b0dc52988ce436.tar.gz",
-      "hash": "1lmxm6vbvlq9chb1w07bs2vnc0spszi26zysmavzrpyz8l8z5pqr"
+      "revision": "011dc6718bcebdf92a5336bb0da79189c3afe621",
+      "url": "https://github.com/lewis6991/gitsigns.nvim/archive/011dc6718bcebdf92a5336bb0da79189c3afe621.tar.gz",
+      "hash": "1q3iiwrj56jfvmwdk2xdivdr2cxdbbq6c6m3q95wmqc0p2zzqf27"
     },
     "glow-nvim": {
       "type": "Git",
