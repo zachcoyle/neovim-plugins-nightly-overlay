@@ -92,9 +92,9 @@
         "repo": "auto-session"
       },
       "branch": "main",
-      "revision": "d26acded2f22c2dff9dfb9f479e62ab24386ceef",
-      "url": "https://github.com/rmagatti/auto-session/archive/d26acded2f22c2dff9dfb9f479e62ab24386ceef.tar.gz",
-      "hash": "0gqawyghdf8i165dnl72q9jb9f70dw16jqyxgi7nav50c47sx1r4"
+      "revision": "79ef41274354a486cf4f100a7adf4a7575802ccf",
+      "url": "https://github.com/rmagatti/auto-session/archive/79ef41274354a486cf4f100a7adf4a7575802ccf.tar.gz",
+      "hash": "15f1h1pl1jsi86d2k182lbcjaqymixjgv395x7ga0zz09k1alwdm"
     },
     "autoclose-nvim": {
       "type": "Git",
