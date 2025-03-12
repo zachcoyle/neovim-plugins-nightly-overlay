@@ -2299,9 +2299,9 @@
         "repo": "neotest-rspec"
       },
       "branch": "main",
-      "revision": "f8c91edc5dd87ca467a624652f365ac217d7cc1c",
-      "url": "https://github.com/olimorris/neotest-rspec/archive/f8c91edc5dd87ca467a624652f365ac217d7cc1c.tar.gz",
-      "hash": "19ndf4rhpydb42hkl6h6ybzg3cshgkikb5nggqnza612fyas2yz9"
+      "revision": "281c0ed0e55d623e8028796e1c4dc27b7e421fd0",
+      "url": "https://github.com/olimorris/neotest-rspec/archive/281c0ed0e55d623e8028796e1c4dc27b7e421fd0.tar.gz",
+      "hash": "0gbdpplvai8cay0xmhiw1j27rxy5wzsx2b6jfnv3cqwk77chbabp"
     },
     "neotest-rust": {
       "type": "Git",
