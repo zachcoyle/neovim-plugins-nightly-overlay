@@ -1915,9 +1915,9 @@
         "repo": "mini.nvim"
       },
       "branch": "main",
-      "revision": "d7ba1dec0082b7a542aa79c327e9554d4a27cc2c",
-      "url": "https://github.com/echasnovski/mini.nvim/archive/d7ba1dec0082b7a542aa79c327e9554d4a27cc2c.tar.gz",
-      "hash": "1lfg17xp41524dmz81x0m8mkkv7yl9l44mhwpgia690pzyndlkqh"
+      "revision": "b21cd5b1b330844e4c4b93d65e99ecb7c79a63c9",
+      "url": "https://github.com/echasnovski/mini.nvim/archive/b21cd5b1b330844e4c4b93d65e99ecb7c79a63c9.tar.gz",
+      "hash": "0h5j0ppfm61iwhyrh2vqsqssw7s2ghryap9cwak9w3cbmaabmqkz"
     },
     "mkdnflow-nvim": {
       "type": "Git",
@@ -3739,9 +3739,9 @@
         "repo": "undotree"
       },
       "branch": "master",
-      "revision": "76c4e32d8f1aa493bb68d4a3fcd3c700395c303c",
-      "url": "https://github.com/mbbill/undotree/archive/76c4e32d8f1aa493bb68d4a3fcd3c700395c303c.tar.gz",
-      "hash": "0syxqj4fyjlahq8gk73v2jras30nw6rsymydmvf9zxsvfnxpfhsp"
+      "revision": "b951b87b46c34356d44aa71886aecf9dd7f5788a",
+      "url": "https://github.com/mbbill/undotree/archive/b951b87b46c34356d44aa71886aecf9dd7f5788a.tar.gz",
+      "hash": "0vp4wl4kiby7dlchki975fq682sw8c1vr9c6nhcndmxyhx7ghrqw"
     },
     "vim-airline": {
       "type": "Git",
