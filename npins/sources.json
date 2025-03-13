@@ -1807,9 +1807,9 @@
         "repo": "lualine.nvim"
       },
       "branch": "master",
-      "revision": "070cd91da2770df7d27d5c49241a8f4697350c6e",
-      "url": "https://github.com/nvim-lualine/lualine.nvim/archive/070cd91da2770df7d27d5c49241a8f4697350c6e.tar.gz",
-      "hash": "15zirj6caan1x5q4gdzzn684ilbkkcn6lnqmb51ard05wcmi18sh"
+      "revision": "02d61f515e7d88e1b02366ca972aecf2768d53df",
+      "url": "https://github.com/nvim-lualine/lualine.nvim/archive/02d61f515e7d88e1b02366ca972aecf2768d53df.tar.gz",
+      "hash": "1wdidw6nh3d75ic80x8gsjp64r438ykxh6la8378qcvnz3x9xspc"
     },
     "luasnip": {
       "type": "Git",
@@ -2755,9 +2755,9 @@
         "repo": "nvim-treesitter"
       },
       "branch": "master",
-      "revision": "548ed98f8a0af738d095ef1be5961f41061ed743",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/548ed98f8a0af738d095ef1be5961f41061ed743.tar.gz",
-      "hash": "0ylgwrbqvjbcy85mwdcsdab049bk69i0p1pj0phl36b3d1vnmhk1"
+      "revision": "178a68b7ff95595311ead913d40de8c365d5a224",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/178a68b7ff95595311ead913d40de8c365d5a224.tar.gz",
+      "hash": "1f3zvb4lmj3kz43zy71jvj5r43xs6dmh2bzxkl3z35wr2z12pb0k"
     },
     "nvim-treesitter-context": {
       "type": "Git",
