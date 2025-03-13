@@ -2731,9 +2731,9 @@
         "repo": "nvim-surround"
       },
       "branch": "main",
-      "revision": "ded28a62aebc91e490bcfc3b5c7c4bb6160f2b08",
-      "url": "https://github.com/kylechui/nvim-surround/archive/ded28a62aebc91e490bcfc3b5c7c4bb6160f2b08.tar.gz",
-      "hash": "1q9mnba1sh5apf0jfqsx9amrc1khzmn7np27gjpwnc8wc3vd8l36"
+      "revision": "f70d56275710e202af59148f52100d34b786aecb",
+      "url": "https://github.com/kylechui/nvim-surround/archive/f70d56275710e202af59148f52100d34b786aecb.tar.gz",
+      "hash": "1a20q9hfv1gh7si2ai68zf4m9jnggvvja4vqxvrimbnzx73vxrrl"
     },
     "nvim-tree-lua": {
       "type": "Git",
