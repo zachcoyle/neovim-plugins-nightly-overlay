@@ -20,9 +20,9 @@
         "repo": "CopilotChat.nvim"
       },
       "branch": "main",
-      "revision": "99bd1591ae1dfd48d2c3b69247193e6f9cc0ba39",
-      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/99bd1591ae1dfd48d2c3b69247193e6f9cc0ba39.tar.gz",
-      "hash": "0vibkbp5di8v06i8mv74mdw2p0zx6riivivff3qqzmsh22g5drc0"
+      "revision": "736cbeb653ba0e09cc01ef669443e54c2bd45037",
+      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/736cbeb653ba0e09cc01ef669443e54c2bd45037.tar.gz",
+      "hash": "1l8yxy1999l17cmkv0vfafc9xffmzbajhhn3j50iys6b6aswdnqx"
     },
     "Preview-nvim": {
       "type": "Git",
@@ -116,9 +116,9 @@
         "repo": "avante.nvim"
       },
       "branch": "main",
-      "revision": "1e82a1c0e7e9e5b41ced1619c8161a0a6e50e72b",
-      "url": "https://github.com/yetone/avante.nvim/archive/1e82a1c0e7e9e5b41ced1619c8161a0a6e50e72b.tar.gz",
-      "hash": "19by088ia59yij8vq83q22shdmly8flmsy5dgy9dmdqf2qfidyx1"
+      "revision": "110ba8a21fa407e5e01ee55e87015c9cc629ac8e",
+      "url": "https://github.com/yetone/avante.nvim/archive/110ba8a21fa407e5e01ee55e87015c9cc629ac8e.tar.gz",
+      "hash": "0pq97wchllb3aw2cb5wvdrvnhp94m8cr52a27isyjca74rr96ln3"
     },
     "baleia-nvim": {
       "type": "Git",
