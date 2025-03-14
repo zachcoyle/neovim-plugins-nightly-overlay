@@ -1975,9 +1975,9 @@
         "repo": "neo-tree.nvim"
       },
       "branch": "main",
-      "revision": "8c6349bceb1d8a863964dd25dc7944d588a56aaa",
-      "url": "https://github.com/nvim-neo-tree/neo-tree.nvim/archive/8c6349bceb1d8a863964dd25dc7944d588a56aaa.tar.gz",
-      "hash": "03lgpp5vyiyfbzig5w24ph84xbakahbfg1hqv148p0i34qf6mcbn"
+      "revision": "9b5d67119c46e3262ffe1508fe6d8540b79ad75d",
+      "url": "https://github.com/nvim-neo-tree/neo-tree.nvim/archive/9b5d67119c46e3262ffe1508fe6d8540b79ad75d.tar.gz",
+      "hash": "0gbfj25g6yafiajn8zrnzym4lwcrdn1ibi1hksnpva6hb7v2fi15"
     },
     "neocord": {
       "type": "Git",
@@ -2011,9 +2011,9 @@
         "repo": "neogit"
       },
       "branch": "master",
-      "revision": "0b756dd80c82da28fd7ed500eac642710ab21909",
-      "url": "https://github.com/TimUntersberger/neogit/archive/0b756dd80c82da28fd7ed500eac642710ab21909.tar.gz",
-      "hash": "1d35xr0hm5d8gjdhg1rxqylfqkywjl6qabdgig1xbpx8l7lqfqcc"
+      "revision": "333968f8222fda475d3e4545a9b15fe9912ca26a",
+      "url": "https://github.com/TimUntersberger/neogit/archive/333968f8222fda475d3e4545a9b15fe9912ca26a.tar.gz",
+      "hash": "16qjyv0qcwngi9185p5bzb4xjvb2c7xpv6qnmn2hi7kald6d4wp0"
     },
     "neon": {
       "type": "Git",
