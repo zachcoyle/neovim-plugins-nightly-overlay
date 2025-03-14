@@ -1807,9 +1807,9 @@
         "repo": "lualine.nvim"
       },
       "branch": "master",
-      "revision": "faf22b135b92ee664768b163695ff2718b7ae65c",
-      "url": "https://github.com/nvim-lualine/lualine.nvim/archive/faf22b135b92ee664768b163695ff2718b7ae65c.tar.gz",
-      "hash": "081ic56ivz6ca8qnf7bb7v3247m0axqmj5xr4m682pvzi235vg8r"
+      "revision": "edf4b24861fa5d586058ff2c9e8982bb971f7098",
+      "url": "https://github.com/nvim-lualine/lualine.nvim/archive/edf4b24861fa5d586058ff2c9e8982bb971f7098.tar.gz",
+      "hash": "0zlpb6pjqcblk3gdfgqpdjwxgpjk98jk1g1qil7x49n9sz3dlxy1"
     },
     "luasnip": {
       "type": "Git",
@@ -2923,9 +2923,9 @@
         "repo": "orgmode"
       },
       "branch": "master",
-      "revision": "e2a85fe116009a8ca847928906235e85e9e6670d",
-      "url": "https://github.com/nvim-orgmode/orgmode/archive/e2a85fe116009a8ca847928906235e85e9e6670d.tar.gz",
-      "hash": "08dw65pdahd2aq3p664zf4ghngn24fywjrbva0jqd6axfnbgl8az"
+      "revision": "6e94aeec20014188e1689b0268ae330a98e63b90",
+      "url": "https://github.com/nvim-orgmode/orgmode/archive/6e94aeec20014188e1689b0268ae330a98e63b90.tar.gz",
+      "hash": "1pdc3f0nwhb1c2m9a6p5w6nx6bkbqw6sar14ipi295cfh0szhwx8"
     },
     "overseer-nvim": {
       "type": "Git",
