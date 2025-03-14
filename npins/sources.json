@@ -1268,9 +1268,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "39ac9c74af7303e063638216fc7556eb5d4c0d1e",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/39ac9c74af7303e063638216fc7556eb5d4c0d1e.tar.gz",
-      "hash": "1yngy8z62q8ql2z3vmzyh4gjw3gwjmzyp7k3ahm6mjm3ig8kp8h2"
+      "revision": "9b433db0d3ace1fc24264a5746b4db9bd8cfc55f",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/9b433db0d3ace1fc24264a5746b4db9bd8cfc55f.tar.gz",
+      "hash": "1xmhcvzfml60fs4rspwllspkic20shk5k65nl1cc75ivsy1hxzvn"
     },
     "galaxyline-nvim": {
       "type": "Git",
@@ -4219,9 +4219,9 @@
         "repo": "yazi.nvim"
       },
       "branch": "main",
-      "revision": "ed7ac473a9610ba33e5414828aaf7b9387bc5569",
-      "url": "https://github.com/mikavilpas/yazi.nvim/archive/ed7ac473a9610ba33e5414828aaf7b9387bc5569.tar.gz",
-      "hash": "1gz0kw8sv5lcff2hpllx07b4z21559w3hq2f3jzz24cxdqwas506"
+      "revision": "9d3754b56f4812a677d7b45a6f74d8e700483ad9",
+      "url": "https://github.com/mikavilpas/yazi.nvim/archive/9d3754b56f4812a677d7b45a6f74d8e700483ad9.tar.gz",
+      "hash": "091p8l5d9y3rx3555mz5rswsrz6m6r0dcfgkdvgpa9wqf411av6a"
     },
     "yuck-vim": {
       "type": "Git",
