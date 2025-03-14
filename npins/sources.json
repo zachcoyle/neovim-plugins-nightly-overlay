@@ -20,9 +20,9 @@
         "repo": "CopilotChat.nvim"
       },
       "branch": "main",
-      "revision": "1d184b0792b907685f15ca43e14e20ac44da6a5c",
-      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/1d184b0792b907685f15ca43e14e20ac44da6a5c.tar.gz",
-      "hash": "1minzlpxxshdpz7h25sq0g8ic8q8a6gnhhn05wm7qkrljk0ym9s9"
+      "revision": "f9f0815678c9323fdc02cd9e6531e9d0ba3f6e53",
+      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/f9f0815678c9323fdc02cd9e6531e9d0ba3f6e53.tar.gz",
+      "hash": "1i20yj27wy9d9pczcqvv1g11y3vvw1zv34az7pq2gl7vk278dc4p"
     },
     "Preview-nvim": {
       "type": "Git",
@@ -44,9 +44,9 @@
         "repo": "SchemaStore.nvim"
       },
       "branch": "main",
-      "revision": "a0597d2f4c3e3511e43d8d5baed3abb484199ce2",
-      "url": "https://github.com/b0o/SchemaStore.nvim/archive/a0597d2f4c3e3511e43d8d5baed3abb484199ce2.tar.gz",
-      "hash": "02chsfynm0slw6px1ngbb953vflavr30g4a729afa1psnin73y6f"
+      "revision": "26ffb0764d6fb08bade49f05ed6fae67bd5a7bdf",
+      "url": "https://github.com/b0o/SchemaStore.nvim/archive/26ffb0764d6fb08bade49f05ed6fae67bd5a7bdf.tar.gz",
+      "hash": "1lhvli7y6dng04gv9nwyl1cil4hnxsrvyz53j5s2fkk57nxz86c6"
     },
     "alpha-nvim": {
       "type": "Git",
@@ -1915,9 +1915,9 @@
         "repo": "mini.nvim"
       },
       "branch": "main",
-      "revision": "b21cd5b1b330844e4c4b93d65e99ecb7c79a63c9",
-      "url": "https://github.com/echasnovski/mini.nvim/archive/b21cd5b1b330844e4c4b93d65e99ecb7c79a63c9.tar.gz",
-      "hash": "0h5j0ppfm61iwhyrh2vqsqssw7s2ghryap9cwak9w3cbmaabmqkz"
+      "revision": "2d873a0eaa9f37b105c7751bb0a2e30eb448120d",
+      "url": "https://github.com/echasnovski/mini.nvim/archive/2d873a0eaa9f37b105c7751bb0a2e30eb448120d.tar.gz",
+      "hash": "1r93jap85hpbhyj26yig8xfzq7b6iz5lmvvcbq379sah7ff1aas6"
     },
     "mkdnflow-nvim": {
       "type": "Git",
@@ -2923,9 +2923,9 @@
         "repo": "orgmode"
       },
       "branch": "master",
-      "revision": "8b4555bfc3dfa7aa6261dc31f02694e5146544f3",
-      "url": "https://github.com/nvim-orgmode/orgmode/archive/8b4555bfc3dfa7aa6261dc31f02694e5146544f3.tar.gz",
-      "hash": "0adbjicsgx3dyb2swjw6z67kww8k92n888y3rrwsmp9wdsixbrvb"
+      "revision": "2c95512f3b77bbdbda0e3795e00c538dc283dc55",
+      "url": "https://github.com/nvim-orgmode/orgmode/archive/2c95512f3b77bbdbda0e3795e00c538dc283dc55.tar.gz",
+      "hash": "05bnbajq7iz85jhl1ikqi3n9fbipxiry041jj6bmr8kvyz07r14g"
     },
     "overseer-nvim": {
       "type": "Git",
@@ -4219,9 +4219,9 @@
         "repo": "yazi.nvim"
       },
       "branch": "main",
-      "revision": "0e4e699496a5ee1c37bdca2f216f8e956c04de56",
-      "url": "https://github.com/mikavilpas/yazi.nvim/archive/0e4e699496a5ee1c37bdca2f216f8e956c04de56.tar.gz",
-      "hash": "0n3qaxldy25y0chlbvw5cvqfppfh8s47amv1jxd2763v1z1qxbmj"
+      "revision": "ed7ac473a9610ba33e5414828aaf7b9387bc5569",
+      "url": "https://github.com/mikavilpas/yazi.nvim/archive/ed7ac473a9610ba33e5414828aaf7b9387bc5569.tar.gz",
+      "hash": "1gz0kw8sv5lcff2hpllx07b4z21559w3hq2f3jzz24cxdqwas506"
     },
     "yuck-vim": {
       "type": "Git",
