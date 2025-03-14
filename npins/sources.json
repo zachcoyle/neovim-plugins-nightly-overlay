@@ -20,9 +20,9 @@
         "repo": "CopilotChat.nvim"
       },
       "branch": "main",
-      "revision": "28cd256c4210819d7413a882f19c01152dbde570",
-      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/28cd256c4210819d7413a882f19c01152dbde570.tar.gz",
-      "hash": "074909iqp4r3b8n7xdkgjrxnqk5m4n2lyg2mya0izxhkmldhs3i5"
+      "revision": "6482837ffbfd6be9a55ea78b916ef3b992816c06",
+      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/6482837ffbfd6be9a55ea78b916ef3b992816c06.tar.gz",
+      "hash": "1adfqnpam45kjzk9gbafg1s6b5kj2xc4r9zmd1rxiyjqz3zbyalh"
     },
     "Preview-nvim": {
       "type": "Git",
@@ -2863,9 +2863,9 @@
         "repo": "octo.nvim"
       },
       "branch": "master",
-      "revision": "1b36e08520ae8129660879c7e563f10aa54841cc",
-      "url": "https://github.com/pwntester/octo.nvim/archive/1b36e08520ae8129660879c7e563f10aa54841cc.tar.gz",
-      "hash": "0sksvwpgl4yyh45gwf2j4c8sg045bwywgi82bhhycj24lnhxn9av"
+      "revision": "a4cae62fd4370f544cb597df2a767945f78a120a",
+      "url": "https://github.com/pwntester/octo.nvim/archive/a4cae62fd4370f544cb597df2a767945f78a120a.tar.gz",
+      "hash": "0k5p66z1kb42602mh38j6vyxkawlywisn1wzydaf40zd86p8nlvr"
     },
     "oil-nvim": {
       "type": "Git",
