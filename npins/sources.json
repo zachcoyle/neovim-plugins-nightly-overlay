@@ -20,9 +20,9 @@
         "repo": "CopilotChat.nvim"
       },
       "branch": "main",
-      "revision": "675b31276815c76a4c21e911c3bd4eda621f9616",
-      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/675b31276815c76a4c21e911c3bd4eda621f9616.tar.gz",
-      "hash": "14aa2vjgvljszq1r4jszjgc7g72v2lf0vxw9c7pa5kl7ndnamxjn"
+      "revision": "456d3900680b431f72e7f4f350c802dc6b9091c4",
+      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/456d3900680b431f72e7f4f350c802dc6b9091c4.tar.gz",
+      "hash": "0ai9zwlywsn1li9pcng11j81cs3n9a9yagdazhbjsnsj0yzyx7fx"
     },
     "Preview-nvim": {
       "type": "Git",
@@ -2047,9 +2047,9 @@
         "repo": "neorg"
       },
       "branch": "main",
-      "revision": "53714b1783d4bb5fa154e2a5428b086fb5f3d8a5",
-      "url": "https://github.com/vhyrro/neorg/archive/53714b1783d4bb5fa154e2a5428b086fb5f3d8a5.tar.gz",
-      "hash": "0fmdr8b377pldsivj1rsf4fqpw8sk7vzkzkkmisdlqz69j3v8h1j"
+      "revision": "6f0b4eefa591fbc4c9344f110b0c0bac5b49078c",
+      "url": "https://github.com/vhyrro/neorg/archive/6f0b4eefa591fbc4c9344f110b0c0bac5b49078c.tar.gz",
+      "hash": "1x8h5hxzg06g1d849bna6rs4jzjf248g59v87zvlc4scmp9pzjga"
     },
     "neoscroll-nvim": {
       "type": "Git",
