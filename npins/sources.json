@@ -1807,9 +1807,9 @@
         "repo": "lualine.nvim"
       },
       "branch": "master",
-      "revision": "edf4b24861fa5d586058ff2c9e8982bb971f7098",
-      "url": "https://github.com/nvim-lualine/lualine.nvim/archive/edf4b24861fa5d586058ff2c9e8982bb971f7098.tar.gz",
-      "hash": "0zlpb6pjqcblk3gdfgqpdjwxgpjk98jk1g1qil7x49n9sz3dlxy1"
+      "revision": "b8b60c7f1d0d95ad74ee215b2291280b30482476",
+      "url": "https://github.com/nvim-lualine/lualine.nvim/archive/b8b60c7f1d0d95ad74ee215b2291280b30482476.tar.gz",
+      "hash": "02xyjp446b2nypw3hh4k6b6g9f892kxmmdv23s7dypcws28v50m9"
     },
     "luasnip": {
       "type": "Git",
@@ -2863,9 +2863,9 @@
         "repo": "octo.nvim"
       },
       "branch": "master",
-      "revision": "d9e5e0f918fa426e2118f4db54b8d71401622e9d",
-      "url": "https://github.com/pwntester/octo.nvim/archive/d9e5e0f918fa426e2118f4db54b8d71401622e9d.tar.gz",
-      "hash": "1s0pxswjn9k4xfagidmpwk78jz10aazsxkjd2ar701898gsnfrmq"
+      "revision": "8343a1d172cc07ffde0d17818f96510341de9d40",
+      "url": "https://github.com/pwntester/octo.nvim/archive/8343a1d172cc07ffde0d17818f96510341de9d40.tar.gz",
+      "hash": "17148h8k2kjbqqk1041slr5pgwbqrm0sg0bfq47bwrbl9w2hc710"
     },
     "oil-nvim": {
       "type": "Git",
