@@ -2767,9 +2767,9 @@
         "repo": "nvim-treesitter-context"
       },
       "branch": "master",
-      "revision": "198720b4016af04c9590f375d714d5bf8afecc1a",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter-context/archive/198720b4016af04c9590f375d714d5bf8afecc1a.tar.gz",
-      "hash": "13msw9i509ncysbgkqbl2wr1c23iw3f4mxkw30sc1yk9x9nx49ri"
+      "revision": "129fcc94fa986692926366e940a46f00d2a4abbe",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter-context/archive/129fcc94fa986692926366e940a46f00d2a4abbe.tar.gz",
+      "hash": "0hv8f3in3qan9f8n99h7h7lxrgmx18l963ym9b98kk5ynv2b49wg"
     },
     "nvim-treesitter-refactor": {
       "type": "Git",
@@ -2839,9 +2839,9 @@
         "repo": "nvim-web-devicons"
       },
       "branch": "master",
-      "revision": "ab4cfee554e501f497bce0856788d43cf2eb93d7",
-      "url": "https://github.com/kyazdani42/nvim-web-devicons/archive/ab4cfee554e501f497bce0856788d43cf2eb93d7.tar.gz",
-      "hash": "0hqzzbw143id422pwxrk1gia445zwdja1k83xna0hcq1yldrbihd"
+      "revision": "d0cafff5c4347a604a07edf7bb9a91fda7eb577e",
+      "url": "https://github.com/kyazdani42/nvim-web-devicons/archive/d0cafff5c4347a604a07edf7bb9a91fda7eb577e.tar.gz",
+      "hash": "1j5ccksn2lkd1f1fvhhjs2amhq17wxmgcqv6jk05jpdbngw2mv98"
     },
     "obsidian-nvim": {
       "type": "Git",
