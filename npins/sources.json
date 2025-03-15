@@ -20,9 +20,9 @@
         "repo": "CopilotChat.nvim"
       },
       "branch": "main",
-      "revision": "078ce415fd4efb6ab0ae353ef04a50ea6018c0ae",
-      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/078ce415fd4efb6ab0ae353ef04a50ea6018c0ae.tar.gz",
-      "hash": "15zi1y8i6761whjjihv287g27lng36v17dak99bphi0ayqy155vi"
+      "revision": "1e5640b9b0624a8d1c550524074b4ef1151a4c3b",
+      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/1e5640b9b0624a8d1c550524074b4ef1151a4c3b.tar.gz",
+      "hash": "04ka8m522qxfczwc09mmx530vjr3fqsgcr5lkbjbynzd12pykn7f"
     },
     "Preview-nvim": {
       "type": "Git",
@@ -2731,9 +2731,9 @@
         "repo": "nvim-surround"
       },
       "branch": "main",
-      "revision": "f70d56275710e202af59148f52100d34b786aecb",
-      "url": "https://github.com/kylechui/nvim-surround/archive/f70d56275710e202af59148f52100d34b786aecb.tar.gz",
-      "hash": "1a20q9hfv1gh7si2ai68zf4m9jnggvvja4vqxvrimbnzx73vxrrl"
+      "revision": "72a11ef57241fd9c0fc810bb662eea6182f8da77",
+      "url": "https://github.com/kylechui/nvim-surround/archive/72a11ef57241fd9c0fc810bb662eea6182f8da77.tar.gz",
+      "hash": "0k5ay317v27lvs66jzmk1kd0i3gnm9k110xcmm197inbarib0qa6"
     },
     "nvim-tree-lua": {
       "type": "Git",
