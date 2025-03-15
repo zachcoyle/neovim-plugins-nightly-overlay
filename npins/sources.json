@@ -20,9 +20,9 @@
         "repo": "CopilotChat.nvim"
       },
       "branch": "main",
-      "revision": "417cedf27ea164f92c8ab7656905d4ef631e8e91",
-      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/417cedf27ea164f92c8ab7656905d4ef631e8e91.tar.gz",
-      "hash": "1xpj26lc4d4z9a1yv0vk34b87wip1w77vqdm4f7c40c0rk1pi6w1"
+      "revision": "6a573c4b82ffb00076b97f02b9442256b9cb5205",
+      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/6a573c4b82ffb00076b97f02b9442256b9cb5205.tar.gz",
+      "hash": "1lsh8l8hq4fcw18dxir2w7255faak4ns4ri9ydl2v8jcq4wxkw8g"
     },
     "Preview-nvim": {
       "type": "Git",
@@ -2671,9 +2671,9 @@
         "repo": "nvim-scrollview"
       },
       "branch": "main",
-      "revision": "24a1995392f845e8e222c1ffcaca140a9623b2a7",
-      "url": "https://github.com/dstein64/nvim-scrollview/archive/24a1995392f845e8e222c1ffcaca140a9623b2a7.tar.gz",
-      "hash": "0qq9lzrqy0gizzn4s12hijf8f1yjdpwvh5c81f05my5nsad5h090"
+      "revision": "7fa64439e47803956317e4afc456f16a492b4a6a",
+      "url": "https://github.com/dstein64/nvim-scrollview/archive/7fa64439e47803956317e4afc456f16a492b4a6a.tar.gz",
+      "hash": "1wa7c4wxnwpjipnqzchkmg4f3g05lvbzpfv3796cxcpq2kidg9s8"
     },
     "nvim-snippets": {
       "type": "Git",
@@ -3115,9 +3115,9 @@
         "repo": "rainbow-delimiters.nvim"
       },
       "branch": "master",
-      "revision": "f4fc9f4812b1bbcbda78803317506045442e281d",
-      "url": "https://github.com/HiPhish/rainbow-delimiters.nvim/archive/f4fc9f4812b1bbcbda78803317506045442e281d.tar.gz",
-      "hash": "0c4wg78dq5fylkg59x1b4ry4zm85w40ql5psff48yn0rp7wcv1jd"
+      "revision": "f1e5490e87478cf0b528250ebb51552f3d08436a",
+      "url": "https://github.com/HiPhish/rainbow-delimiters.nvim/archive/f1e5490e87478cf0b528250ebb51552f3d08436a.tar.gz",
+      "hash": "02265awjpkd8v6s22wx8qrk2wxq8b7c7h5lr9n7pi6d4lwyrkrxf"
     },
     "refactoring-nvim": {
       "type": "Git",
