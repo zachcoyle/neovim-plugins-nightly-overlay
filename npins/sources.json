@@ -20,9 +20,9 @@
         "repo": "CopilotChat.nvim"
       },
       "branch": "main",
-      "revision": "96f23809efdcc99b5eb1c8a8ee498de5e53bc944",
-      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/96f23809efdcc99b5eb1c8a8ee498de5e53bc944.tar.gz",
-      "hash": "1ihpq3xw1lx37csh0vkjgkwr0wqx4q98gnfw71xncsj5x6bwv8z9"
+      "revision": "c76a64dd793fec740f0b62cc43ead8cb57b22d14",
+      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/c76a64dd793fec740f0b62cc43ead8cb57b22d14.tar.gz",
+      "hash": "1a9d37fn7m860kghjwx0l81r53gd2dhd1dvmzqkr3p3dcmyi3ykv"
     },
     "Preview-nvim": {
       "type": "Git",
@@ -1915,9 +1915,9 @@
         "repo": "mini.nvim"
       },
       "branch": "main",
-      "revision": "2d873a0eaa9f37b105c7751bb0a2e30eb448120d",
-      "url": "https://github.com/echasnovski/mini.nvim/archive/2d873a0eaa9f37b105c7751bb0a2e30eb448120d.tar.gz",
-      "hash": "1r93jap85hpbhyj26yig8xfzq7b6iz5lmvvcbq379sah7ff1aas6"
+      "revision": "18520ad6bbf7e6408b8449658326dc0c947c3507",
+      "url": "https://github.com/echasnovski/mini.nvim/archive/18520ad6bbf7e6408b8449658326dc0c947c3507.tar.gz",
+      "hash": "1a1if4y3bvkxb5lr8cd8x598flw175ab0sx3bsy8y97rsfq6rlvv"
     },
     "mkdnflow-nvim": {
       "type": "Git",
