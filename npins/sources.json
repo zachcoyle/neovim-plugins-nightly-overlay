@@ -2863,9 +2863,9 @@
         "repo": "octo.nvim"
       },
       "branch": "master",
-      "revision": "5c39557436710306f513a9c6a6f546e594086c07",
-      "url": "https://github.com/pwntester/octo.nvim/archive/5c39557436710306f513a9c6a6f546e594086c07.tar.gz",
-      "hash": "0gy1532bxpm4srhglpnpq5bqwyaj947q6i5ylfh0ajzzvjy6kj4y"
+      "revision": "d9e5e0f918fa426e2118f4db54b8d71401622e9d",
+      "url": "https://github.com/pwntester/octo.nvim/archive/d9e5e0f918fa426e2118f4db54b8d71401622e9d.tar.gz",
+      "hash": "1s0pxswjn9k4xfagidmpwk78jz10aazsxkjd2ar701898gsnfrmq"
     },
     "oil-nvim": {
       "type": "Git",
@@ -3115,9 +3115,9 @@
         "repo": "rainbow-delimiters.nvim"
       },
       "branch": "master",
-      "revision": "dce54f8651ee453ec98e5ad655e6312c842cfb76",
-      "url": "https://github.com/HiPhish/rainbow-delimiters.nvim/archive/dce54f8651ee453ec98e5ad655e6312c842cfb76.tar.gz",
-      "hash": "01104aj2g3bxw58fyx8sghrxrsrr6x8fjpgrd6llw52ds3nwf7w6"
+      "revision": "f4fc9f4812b1bbcbda78803317506045442e281d",
+      "url": "https://github.com/HiPhish/rainbow-delimiters.nvim/archive/f4fc9f4812b1bbcbda78803317506045442e281d.tar.gz",
+      "hash": "0c4wg78dq5fylkg59x1b4ry4zm85w40ql5psff48yn0rp7wcv1jd"
     },
     "refactoring-nvim": {
       "type": "Git",
