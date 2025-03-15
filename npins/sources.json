@@ -3115,9 +3115,9 @@
         "repo": "rainbow-delimiters.nvim"
       },
       "branch": "master",
-      "revision": "31632bd2e625ec9d783a4e09442cb8cdc5b789d8",
-      "url": "https://github.com/HiPhish/rainbow-delimiters.nvim/archive/31632bd2e625ec9d783a4e09442cb8cdc5b789d8.tar.gz",
-      "hash": "1v0b9z2d43nm1468bglwmyk7szsg6g81dnqnlin0zrssyf31v7q6"
+      "revision": "dce54f8651ee453ec98e5ad655e6312c842cfb76",
+      "url": "https://github.com/HiPhish/rainbow-delimiters.nvim/archive/dce54f8651ee453ec98e5ad655e6312c842cfb76.tar.gz",
+      "hash": "01104aj2g3bxw58fyx8sghrxrsrr6x8fjpgrd6llw52ds3nwf7w6"
     },
     "refactoring-nvim": {
       "type": "Git",
@@ -3379,9 +3379,9 @@
         "repo": "telescope-frecency.nvim"
       },
       "branch": "master",
-      "revision": "dd6ab9b6a5a26e239f268a06ef5bb1e69928ac5b",
-      "url": "https://github.com/nvim-telescope/telescope-frecency.nvim/archive/dd6ab9b6a5a26e239f268a06ef5bb1e69928ac5b.tar.gz",
-      "hash": "1dgdya9g9n1gdnjakpwl24l0xq9h0jfisry22v0d5crvy6mh37gz"
+      "revision": "a2f410ebe0d4c24670227076dec5fe36d5ae4a67",
+      "url": "https://github.com/nvim-telescope/telescope-frecency.nvim/archive/a2f410ebe0d4c24670227076dec5fe36d5ae4a67.tar.gz",
+      "hash": "0i7lnv0irjibq81f2vb6cgsz9kr59akga1l609zi4vkf3xsghv9k"
     },
     "telescope-fzf-native-nvim": {
       "type": "Git",
