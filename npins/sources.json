@@ -20,9 +20,9 @@
         "repo": "CopilotChat.nvim"
       },
       "branch": "main",
-      "revision": "6ee29363d6989de5ee688539bc46d893b1d52067",
-      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/6ee29363d6989de5ee688539bc46d893b1d52067.tar.gz",
-      "hash": "0w8mfxvzic7m96qlh0b7di6avikrswv5a1qwknldamza4ppgjpxl"
+      "revision": "7e24124b897433d28ee8114bd496d96cd3477b65",
+      "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim/archive/7e24124b897433d28ee8114bd496d96cd3477b65.tar.gz",
+      "hash": "1nbyx2bcgvydnz9a0i3q74p9cgjx2v088w96z20w5k45f5j3gx5y"
     },
     "Preview-nvim": {
       "type": "Git",
@@ -2671,9 +2671,9 @@
         "repo": "nvim-scrollview"
       },
       "branch": "main",
-      "revision": "7fa64439e47803956317e4afc456f16a492b4a6a",
-      "url": "https://github.com/dstein64/nvim-scrollview/archive/7fa64439e47803956317e4afc456f16a492b4a6a.tar.gz",
-      "hash": "1wa7c4wxnwpjipnqzchkmg4f3g05lvbzpfv3796cxcpq2kidg9s8"
+      "revision": "fd1abb2b17eb3fe868d32af972c461954554e361",
+      "url": "https://github.com/dstein64/nvim-scrollview/archive/fd1abb2b17eb3fe868d32af972c461954554e361.tar.gz",
+      "hash": "1jfnl59mjf4g3y8vl90pabkq7a0yq8pm1j4lnwc850i9k3axzwm3"
     },
     "nvim-snippets": {
       "type": "Git",
@@ -3379,9 +3379,9 @@
         "repo": "telescope-frecency.nvim"
       },
       "branch": "master",
-      "revision": "a2f410ebe0d4c24670227076dec5fe36d5ae4a67",
-      "url": "https://github.com/nvim-telescope/telescope-frecency.nvim/archive/a2f410ebe0d4c24670227076dec5fe36d5ae4a67.tar.gz",
-      "hash": "0i7lnv0irjibq81f2vb6cgsz9kr59akga1l609zi4vkf3xsghv9k"
+      "revision": "eeda21e429c86bd38ea287700e77f96058331be7",
+      "url": "https://github.com/nvim-telescope/telescope-frecency.nvim/archive/eeda21e429c86bd38ea287700e77f96058331be7.tar.gz",
+      "hash": "1wm70kvk1as623jdy0pgd2kgw4db0fd66f6k1z3s76mz1y8kdma1"
     },
     "telescope-fzf-native-nvim": {
       "type": "Git",
