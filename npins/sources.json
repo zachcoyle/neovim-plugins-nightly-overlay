@@ -1364,9 +1364,9 @@
         "repo": "gitsigns.nvim"
       },
       "branch": "main",
-      "revision": "011dc6718bcebdf92a5336bb0da79189c3afe621",
-      "url": "https://github.com/lewis6991/gitsigns.nvim/archive/011dc6718bcebdf92a5336bb0da79189c3afe621.tar.gz",
-      "hash": "1q3iiwrj56jfvmwdk2xdivdr2cxdbbq6c6m3q95wmqc0p2zzqf27"
+      "revision": "7010000889bfb6c26065e0b0f7f1e6aa9163edd9",
+      "url": "https://github.com/lewis6991/gitsigns.nvim/archive/7010000889bfb6c26065e0b0f7f1e6aa9163edd9.tar.gz",
+      "hash": "0hl572j5l1bqg51rg545bavxs8kxya02ss3fj5fxvp9ylrnaqsx9"
     },
     "glow-nvim": {
       "type": "Git",
@@ -1891,9 +1891,9 @@
         "repo": "markview.nvim"
       },
       "branch": "main",
-      "revision": "8c6b0af556a3e58a831384a3b7bcca9ea77882ee",
-      "url": "https://github.com/OXY2DEV/markview.nvim/archive/8c6b0af556a3e58a831384a3b7bcca9ea77882ee.tar.gz",
-      "hash": "1214cg2wxswm4w4rjc087hax36rian1z4lj7nv6x7ysbdrkzjnq2"
+      "revision": "d3daa83ce97240f798d055525bbedc08f6fd1545",
+      "url": "https://github.com/OXY2DEV/markview.nvim/archive/d3daa83ce97240f798d055525bbedc08f6fd1545.tar.gz",
+      "hash": "0f3hvnl7x3qd9lqdspq3c5s9bb6rghrgn7xwjg1jl8np63y0wvc1"
     },
     "melange": {
       "type": "Git",
@@ -1915,9 +1915,9 @@
         "repo": "mini.nvim"
       },
       "branch": "main",
-      "revision": "18520ad6bbf7e6408b8449658326dc0c947c3507",
-      "url": "https://github.com/echasnovski/mini.nvim/archive/18520ad6bbf7e6408b8449658326dc0c947c3507.tar.gz",
-      "hash": "1a1if4y3bvkxb5lr8cd8x598flw175ab0sx3bsy8y97rsfq6rlvv"
+      "revision": "9d728ef916f8443996e43199fe249d11a3d2ea72",
+      "url": "https://github.com/echasnovski/mini.nvim/archive/9d728ef916f8443996e43199fe249d11a3d2ea72.tar.gz",
+      "hash": "1zscl78gbwply76aw99dv4x282ghrik0l64v55w7mpgy72lkz303"
     },
     "mkdnflow-nvim": {
       "type": "Git",
