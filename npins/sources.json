@@ -1268,9 +1268,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "03eed634a3b1f4a4dc53f928868566b0b697dabe",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/03eed634a3b1f4a4dc53f928868566b0b697dabe.tar.gz",
-      "hash": "007fz9rwhcfx8l6k6dfnm91dcc4gsazr3vqbv95z5l1h1j184v6c"
+      "revision": "f970eafc532464cbf6339d501751bdcb6b8659e3",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/f970eafc532464cbf6339d501751bdcb6b8659e3.tar.gz",
+      "hash": "0fgsj541kv3gk46w0dgwib94ffar1fsa720xqv1k5qr4vgqx3nvs"
     },
     "galaxyline-nvim": {
       "type": "Git",
@@ -2863,9 +2863,9 @@
         "repo": "octo.nvim"
       },
       "branch": "master",
-      "revision": "42f21639f0fd37dde894ffd220e4405795ce6326",
-      "url": "https://github.com/pwntester/octo.nvim/archive/42f21639f0fd37dde894ffd220e4405795ce6326.tar.gz",
-      "hash": "1f9m96lwhmrl34x1bdn2w7rslm7w6xdnm6pdwk6znlk9adpqc1wq"
+      "revision": "3377816328436be94c1cad320377eda6cb9667b2",
+      "url": "https://github.com/pwntester/octo.nvim/archive/3377816328436be94c1cad320377eda6cb9667b2.tar.gz",
+      "hash": "0m90l4is5a8n4qi44wdjli54nv5lvxfvnbickf0iywz243gpznl6"
     },
     "oil-nvim": {
       "type": "Git",
