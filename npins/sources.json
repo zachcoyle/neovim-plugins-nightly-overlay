@@ -116,9 +116,9 @@
         "repo": "avante.nvim"
       },
       "branch": "main",
-      "revision": "e204ca1cf3bb1f44828c0ae6982833ff8457ce9e",
-      "url": "https://github.com/yetone/avante.nvim/archive/e204ca1cf3bb1f44828c0ae6982833ff8457ce9e.tar.gz",
-      "hash": "0bhpj5whwjhq5as3ay4idz75il3jp85d7l2kvfxdwxgna2jj6jyp"
+      "revision": "aaf400a4111c297259212f98d88fb4187caf214b",
+      "url": "https://github.com/yetone/avante.nvim/archive/aaf400a4111c297259212f98d88fb4187caf214b.tar.gz",
+      "hash": "0h26gmjmzclfswc0m2s4vpk1m1xcsxf2nmr7abk1pjcsyx4rr4f6"
     },
     "baleia-nvim": {
       "type": "Git",
@@ -2191,9 +2191,9 @@
         "repo": "neotest-haskell"
       },
       "branch": "master",
-      "revision": "2b878e7fc2c4a1eb3122bc1fb8d127e66c82b33f",
-      "url": "https://github.com/mrcjkb/neotest-haskell/archive/2b878e7fc2c4a1eb3122bc1fb8d127e66c82b33f.tar.gz",
-      "hash": "09bsbvv5h1h8dmgd7p8n7yn0ch85zcl5q90bij8512cy8hgn9i1m"
+      "revision": "ef8cdce17319ea90669066fa7e0f13729e39303c",
+      "url": "https://github.com/mrcjkb/neotest-haskell/archive/ef8cdce17319ea90669066fa7e0f13729e39303c.tar.gz",
+      "hash": "0jxqakg6dhx49g2fhy5nxk2ap2hgj4kr6y032axw6xkn5kb79a7i"
     },
     "neotest-java": {
       "type": "Git",
@@ -2755,9 +2755,9 @@
         "repo": "nvim-treesitter"
       },
       "branch": "master",
-      "revision": "da88ea477c67c7f7ebab6d1e662d0cdebfcb57f0",
-      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/da88ea477c67c7f7ebab6d1e662d0cdebfcb57f0.tar.gz",
-      "hash": "04hgb1ak3fz5446qwmhan3ac9y3jpsk58gmmzvhxs1r3yf3pa2cl"
+      "revision": "d76a8b6e1b67fd3bcffec4a5d45fd9dee4dbbee8",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/archive/d76a8b6e1b67fd3bcffec4a5d45fd9dee4dbbee8.tar.gz",
+      "hash": "19yi4szgxx3sy5nnzmwzzcrx0fwygjz1ahs39b59lj8si54ijlgx"
     },
     "nvim-treesitter-context": {
       "type": "Git",
@@ -3115,9 +3115,9 @@
         "repo": "rainbow-delimiters.nvim"
       },
       "branch": "master",
-      "revision": "f1e5490e87478cf0b528250ebb51552f3d08436a",
-      "url": "https://github.com/HiPhish/rainbow-delimiters.nvim/archive/f1e5490e87478cf0b528250ebb51552f3d08436a.tar.gz",
-      "hash": "02265awjpkd8v6s22wx8qrk2wxq8b7c7h5lr9n7pi6d4lwyrkrxf"
+      "revision": "ffb016e6b5307bb9c0fef056f3b25e365eb2b0a1",
+      "url": "https://github.com/HiPhish/rainbow-delimiters.nvim/archive/ffb016e6b5307bb9c0fef056f3b25e365eb2b0a1.tar.gz",
+      "hash": "06nm4vqwsk5m5wqkl0w83jc6lv4bw2yz42axg6wxl166grsv0bcl"
     },
     "refactoring-nvim": {
       "type": "Git",
