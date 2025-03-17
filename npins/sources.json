@@ -1592,9 +1592,9 @@
         "repo": "indent-blankline.nvim"
       },
       "branch": "master",
-      "revision": "e10626f7fcd51ccd56d7ffc00883ba7e0aa28f78",
-      "url": "https://github.com/lukas-reineke/indent-blankline.nvim/archive/e10626f7fcd51ccd56d7ffc00883ba7e0aa28f78.tar.gz",
-      "hash": "1whsjd715rr59warfy7nmw0hzkxfkxgzx9c8r6k2vka4flifirnk"
+      "revision": "f35993fcd8765e6458921149e8df050d3ee62c6a",
+      "url": "https://github.com/lukas-reineke/indent-blankline.nvim/archive/f35993fcd8765e6458921149e8df050d3ee62c6a.tar.gz",
+      "hash": "11vkxzbmh91zz3lpyl827qp6n0dy8gjp45saiiysq5y8mj7wr5p9"
     },
     "indent-o-matic": {
       "type": "Git",
@@ -1688,9 +1688,9 @@
         "repo": "lean.nvim"
       },
       "branch": "main",
-      "revision": "c40bb6bd313b686526744b06f8e87aa71f3a2a26",
-      "url": "https://github.com/Julian/lean.nvim/archive/c40bb6bd313b686526744b06f8e87aa71f3a2a26.tar.gz",
-      "hash": "1x2h8vjiv6ppdgg35xxk5qpmk29r58vxkw8k5pc0fvdm70s0jbrx"
+      "revision": "d069945505058ffbb6c6f77550f25be00611f678",
+      "url": "https://github.com/Julian/lean.nvim/archive/d069945505058ffbb6c6f77550f25be00611f678.tar.gz",
+      "hash": "11dbx2bhfv0yxlxzf9jfpcj630plnnbsq6sjyqqj0z09j96pi4sb"
     },
     "leap-nvim": {
       "type": "Git",
@@ -1891,9 +1891,9 @@
         "repo": "markview.nvim"
       },
       "branch": "main",
-      "revision": "d3daa83ce97240f798d055525bbedc08f6fd1545",
-      "url": "https://github.com/OXY2DEV/markview.nvim/archive/d3daa83ce97240f798d055525bbedc08f6fd1545.tar.gz",
-      "hash": "0f3hvnl7x3qd9lqdspq3c5s9bb6rghrgn7xwjg1jl8np63y0wvc1"
+      "revision": "2e344351972808465ff34a07001ca2c488a52369",
+      "url": "https://github.com/OXY2DEV/markview.nvim/archive/2e344351972808465ff34a07001ca2c488a52369.tar.gz",
+      "hash": "132s8sqrmagk843q13b0q7rvakhrwphq338aj4dcv2q4m3lk92nv"
     },
     "melange": {
       "type": "Git",
