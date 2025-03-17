@@ -1939,9 +1939,9 @@
         "repo": "modus-themes.nvim"
       },
       "branch": "master",
-      "revision": "1f9ba82c732a49cdafc80f904286dd70f02c4310",
-      "url": "https://github.com/miikanissi/modus-themes.nvim/archive/1f9ba82c732a49cdafc80f904286dd70f02c4310.tar.gz",
-      "hash": "1mlzdw5q49iggpp4r2rqqb6q2am5ds1f82d1lmz7nlk325skk48z"
+      "revision": "b6c46f8066b2d96cb75d5bc7202a9a4c097b5e9f",
+      "url": "https://github.com/miikanissi/modus-themes.nvim/archive/b6c46f8066b2d96cb75d5bc7202a9a4c097b5e9f.tar.gz",
+      "hash": "15sqscfkhy0rxycql1y2iwc6hirfvbfxww3j17586jxflj3nh0lq"
     },
     "molten-nvim": {
       "type": "Git",
