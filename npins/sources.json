@@ -116,9 +116,9 @@
         "repo": "avante.nvim"
       },
       "branch": "main",
-      "revision": "a8baee4354b0474ca06f047e2aac69d22e1ccd87",
-      "url": "https://github.com/yetone/avante.nvim/archive/a8baee4354b0474ca06f047e2aac69d22e1ccd87.tar.gz",
-      "hash": "1fdiwr7pg8n339g7bvcgq5a40nkc2km27s9cvij067mcs850yimb"
+      "revision": "191d7b8783e5454d2269d95e9658e0292119362c",
+      "url": "https://github.com/yetone/avante.nvim/archive/191d7b8783e5454d2269d95e9658e0292119362c.tar.gz",
+      "hash": "15l8bc8gqg2nj0rnhy5ink25324jf7xiag5pk58diw2kbf3gs08r"
     },
     "baleia-nvim": {
       "type": "Git",
@@ -1628,9 +1628,9 @@
         "repo": "intellitab.nvim"
       },
       "branch": "main",
-      "revision": "698ea483eb91e314f472c9c119915c034479ea08",
-      "url": "https://github.com/pta2002/intellitab.nvim/archive/698ea483eb91e314f472c9c119915c034479ea08.tar.gz",
-      "hash": "1z3vlbccwlq1z322yxnjgq8kvr3rkhj604ng6jlgccl06482vksa"
+      "revision": "955af8d74b07109d36729c623cb1bb232e25e16e",
+      "url": "https://github.com/pta2002/intellitab.nvim/archive/955af8d74b07109d36729c623cb1bb232e25e16e.tar.gz",
+      "hash": "1cpzw7yli1ykli4ix1y2ym7qpi6m45qji4cmxns2whc5r84h84sa"
     },
     "jupytext": {
       "type": "Git",
@@ -3115,9 +3115,9 @@
         "repo": "rainbow-delimiters.nvim"
       },
       "branch": "master",
-      "revision": "03347f9afe444f55a70a464c0147bdc0c2036c33",
-      "url": "https://github.com/HiPhish/rainbow-delimiters.nvim/archive/03347f9afe444f55a70a464c0147bdc0c2036c33.tar.gz",
-      "hash": "15qmzj3zbcpw49gfcl3wfypwxidss1abhs9yihrm9gdjfjiz8gvf"
+      "revision": "97a437bd0dd61f40c63a7be22df8caf4c29156f2",
+      "url": "https://github.com/HiPhish/rainbow-delimiters.nvim/archive/97a437bd0dd61f40c63a7be22df8caf4c29156f2.tar.gz",
+      "hash": "0drn3cr5j7wq3rmvcgfyny21p4ffkrm997mb1x7grjql8a5p3jrb"
     },
     "refactoring-nvim": {
       "type": "Git",
