@@ -116,9 +116,9 @@
         "repo": "avante.nvim"
       },
       "branch": "main",
-      "revision": "078649971254baf086a71de75b85ffac672864f2",
-      "url": "https://github.com/yetone/avante.nvim/archive/078649971254baf086a71de75b85ffac672864f2.tar.gz",
-      "hash": "0803kl2f5v8bfhy1g6j6waacsm131rphqs004xgr0g7xfyhb2hcb"
+      "revision": "abca1a4ea3d3a2fa70517d76d252031c8df0c8bf",
+      "url": "https://github.com/yetone/avante.nvim/archive/abca1a4ea3d3a2fa70517d76d252031c8df0c8bf.tar.gz",
+      "hash": "05bnfq8fcfmfqr6lhjgq3y5507m78ms8vzjff1wv1amz6wgzn15a"
     },
     "baleia-nvim": {
       "type": "Git",
@@ -1975,9 +1975,9 @@
         "repo": "neo-tree.nvim"
       },
       "branch": "main",
-      "revision": "d9544c74ec43cca0564fdc334c116fbe0be8a807",
-      "url": "https://github.com/nvim-neo-tree/neo-tree.nvim/archive/d9544c74ec43cca0564fdc334c116fbe0be8a807.tar.gz",
-      "hash": "0wiw4aipg3qmzw6k9vrljh4cg09kyqd28s6xpv2zhsg05mm38nhb"
+      "revision": "876c3298a6f822123b9b81b101d5809b1b5aa0c8",
+      "url": "https://github.com/nvim-neo-tree/neo-tree.nvim/archive/876c3298a6f822123b9b81b101d5809b1b5aa0c8.tar.gz",
+      "hash": "0g8hbqki1fjcqv5nzwmrdlsny9q46asvis3yw0zxq6567byyq8r4"
     },
     "neocord": {
       "type": "Git",
@@ -3199,9 +3199,9 @@
         "repo": "smart-splits.nvim"
       },
       "branch": "master",
-      "revision": "6aafcbef92874084eec09c6d03196ff5adf8f74f",
-      "url": "https://github.com/mrjones2014/smart-splits.nvim/archive/6aafcbef92874084eec09c6d03196ff5adf8f74f.tar.gz",
-      "hash": "0a8bv2kxw8bigxqdca3rpi5iym6mjas6hd65nz6b2zah3mxcnhm9"
+      "revision": "a3ccaa1ea09e21712ded3ffdabdbdc577f784054",
+      "url": "https://github.com/mrjones2014/smart-splits.nvim/archive/a3ccaa1ea09e21712ded3ffdabdbdc577f784054.tar.gz",
+      "hash": "03sp4sd2xajnrwsj5nfby6zi8964hbvsp98rvzm5f9gknph79z8f"
     },
     "smartcolumn-nvim": {
       "type": "Git",
