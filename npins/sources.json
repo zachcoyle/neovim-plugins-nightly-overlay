@@ -1891,9 +1891,9 @@
         "repo": "markview.nvim"
       },
       "branch": "main",
-      "revision": "f8b2d2939771ad5a98d1e1fed2145514b2999a99",
-      "url": "https://github.com/OXY2DEV/markview.nvim/archive/f8b2d2939771ad5a98d1e1fed2145514b2999a99.tar.gz",
-      "hash": "0l6jymddz0rfblmdaxdl7fc6k5if7k9707pnyc0dzakgj82hmsjj"
+      "revision": "f9f80ecc021a31af17cf5b7f53f082869ef7f4f8",
+      "url": "https://github.com/OXY2DEV/markview.nvim/archive/f9f80ecc021a31af17cf5b7f53f082869ef7f4f8.tar.gz",
+      "hash": "19k6bkpirv786fb2k93vss16qaxzb9jrn9zmav5s8d799ziczwhx"
     },
     "melange": {
       "type": "Git",
@@ -4207,9 +4207,9 @@
         "repo": "yanky.nvim"
       },
       "branch": "main",
-      "revision": "80d9385dbebe7049fd1961d7909b835a58ce9dcc",
-      "url": "https://github.com/gbprod/yanky.nvim/archive/80d9385dbebe7049fd1961d7909b835a58ce9dcc.tar.gz",
-      "hash": "1lg9nxc01shkazqk5g3j0iskiqbwr9sxv07sqrwkwlh36jn59rcp"
+      "revision": "b97b31b64faf038bf8bcd7c4b45415741a55d1e5",
+      "url": "https://github.com/gbprod/yanky.nvim/archive/b97b31b64faf038bf8bcd7c4b45415741a55d1e5.tar.gz",
+      "hash": "0v5q6axbyllf526m5hn5s5v4n12kmqw7spj7myn48996sd49bdf7"
     },
     "yazi-nvim": {
       "type": "Git",
