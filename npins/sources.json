@@ -116,9 +116,9 @@
         "repo": "avante.nvim"
       },
       "branch": "main",
-      "revision": "51eb8fc2d92c5e1ab26a92b379a810e2a04e21c9",
-      "url": "https://github.com/yetone/avante.nvim/archive/51eb8fc2d92c5e1ab26a92b379a810e2a04e21c9.tar.gz",
-      "hash": "0nc8hshy59cab612man27csgd61l9byrqxbc2yilgx97g939scb9"
+      "revision": "a8baee4354b0474ca06f047e2aac69d22e1ccd87",
+      "url": "https://github.com/yetone/avante.nvim/archive/a8baee4354b0474ca06f047e2aac69d22e1ccd87.tar.gz",
+      "hash": "1fdiwr7pg8n339g7bvcgq5a40nkc2km27s9cvij067mcs850yimb"
     },
     "baleia-nvim": {
       "type": "Git",
