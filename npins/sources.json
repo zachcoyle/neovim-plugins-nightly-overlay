@@ -1652,8 +1652,8 @@
         "repo": "kanagawa.nvim"
       },
       "branch": "master",
-      "revision": "0cd490da270ff8e627bc9edc7b6dd34ad929ae1a",
-      "url": "https://github.com/rebelot/kanagawa.nvim/archive/0cd490da270ff8e627bc9edc7b6dd34ad929ae1a.tar.gz",
+      "revision": "709018d5af92d2e5780bfb8a6d36e9cad01a6402",
+      "url": "https://github.com/rebelot/kanagawa.nvim/archive/709018d5af92d2e5780bfb8a6d36e9cad01a6402.tar.gz",
       "hash": "0p0bwydhpvjx5fdya10iwqkk2d0ihmkdkc1kkpi6i1cjk4ipkxws"
     },
     "lazy-nvim": {
@@ -1891,9 +1891,9 @@
         "repo": "markview.nvim"
       },
       "branch": "main",
-      "revision": "f9f80ecc021a31af17cf5b7f53f082869ef7f4f8",
-      "url": "https://github.com/OXY2DEV/markview.nvim/archive/f9f80ecc021a31af17cf5b7f53f082869ef7f4f8.tar.gz",
-      "hash": "19k6bkpirv786fb2k93vss16qaxzb9jrn9zmav5s8d799ziczwhx"
+      "revision": "7a7d3ed0d276b32e121d791f73d850aae6d61b42",
+      "url": "https://github.com/OXY2DEV/markview.nvim/archive/7a7d3ed0d276b32e121d791f73d850aae6d61b42.tar.gz",
+      "hash": "13wdjd24kxqr6dn5w7glxhibjl8baiyi9q0v5nydw08p8km1bzwp"
     },
     "melange": {
       "type": "Git",
@@ -2599,9 +2599,9 @@
         "repo": "nvim-lspconfig"
       },
       "branch": "master",
-      "revision": "2574ad38c6ee4f0bef3a1ca305cd5df627a52bb3",
-      "url": "https://github.com/neovim/nvim-lspconfig/archive/2574ad38c6ee4f0bef3a1ca305cd5df627a52bb3.tar.gz",
-      "hash": "1yii4an6fxi34clmq2984gb9rckp8n23p1xfdi7ql4la15mlg6ha"
+      "revision": "185b2af444b27d6541c02d662b5b68190e5cf0c4",
+      "url": "https://github.com/neovim/nvim-lspconfig/archive/185b2af444b27d6541c02d662b5b68190e5cf0c4.tar.gz",
+      "hash": "068glqj1xvfh81pf8rfhh5cpyqhg4wn8nsh6gm4xwzi18fpf5ac9"
     },
     "nvim-navbuddy": {
       "type": "Git",
