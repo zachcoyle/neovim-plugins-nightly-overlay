@@ -116,9 +116,9 @@
         "repo": "avante.nvim"
       },
       "branch": "main",
-      "revision": "191d7b8783e5454d2269d95e9658e0292119362c",
-      "url": "https://github.com/yetone/avante.nvim/archive/191d7b8783e5454d2269d95e9658e0292119362c.tar.gz",
-      "hash": "15l8bc8gqg2nj0rnhy5ink25324jf7xiag5pk58diw2kbf3gs08r"
+      "revision": "20fea1e717287a09ecaaee44037835ef16d5406d",
+      "url": "https://github.com/yetone/avante.nvim/archive/20fea1e717287a09ecaaee44037835ef16d5406d.tar.gz",
+      "hash": "184c0xl84ms5a38w6c9xxn9rpbws8lq11svl9m7hrflxm0gnb3bs"
     },
     "baleia-nvim": {
       "type": "Git",
@@ -2863,9 +2863,9 @@
         "repo": "octo.nvim"
       },
       "branch": "master",
-      "revision": "ff4756910c8e97581fbc46c5d3d2f6b8acaae88b",
-      "url": "https://github.com/pwntester/octo.nvim/archive/ff4756910c8e97581fbc46c5d3d2f6b8acaae88b.tar.gz",
-      "hash": "09yjz3mzfdxf7fixd4m6z1i0hjmrwxmdy24n9426mr5vc1bwf0pp"
+      "revision": "5dd22c9497d1bd2c6982e6c0afc829f8ad21eee0",
+      "url": "https://github.com/pwntester/octo.nvim/archive/5dd22c9497d1bd2c6982e6c0afc829f8ad21eee0.tar.gz",
+      "hash": "1ciwl2pxlswf99yz1dcvx39pxf1l0acfxqn9ir1qcar123c99b5j"
     },
     "oil-nvim": {
       "type": "Git",
@@ -3115,9 +3115,9 @@
         "repo": "rainbow-delimiters.nvim"
       },
       "branch": "master",
-      "revision": "97a437bd0dd61f40c63a7be22df8caf4c29156f2",
-      "url": "https://github.com/HiPhish/rainbow-delimiters.nvim/archive/97a437bd0dd61f40c63a7be22df8caf4c29156f2.tar.gz",
-      "hash": "0drn3cr5j7wq3rmvcgfyny21p4ffkrm997mb1x7grjql8a5p3jrb"
+      "revision": "2a2f7ea717d4e0373baa50c635e8afc708f6d604",
+      "url": "https://github.com/HiPhish/rainbow-delimiters.nvim/archive/2a2f7ea717d4e0373baa50c635e8afc708f6d604.tar.gz",
+      "hash": "129vlw8plssrhw2qm97sxdqhnn1j0v35kk37q7l1vfzjqry090nk"
     },
     "refactoring-nvim": {
       "type": "Git",
@@ -3139,9 +3139,9 @@
         "repo": "render-markdown.nvim"
       },
       "branch": "main",
-      "revision": "9721ffe230ec90e49c49ee33b5ca44c3fc689214",
-      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/9721ffe230ec90e49c49ee33b5ca44c3fc689214.tar.gz",
-      "hash": "0mq30s2dlzfci1f365ajcf8f46hilc8y01wli7hx2f4hb3n57slz"
+      "revision": "b8d93e83a02dadddc6a566b1f60dab87190c1296",
+      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/b8d93e83a02dadddc6a566b1f60dab87190c1296.tar.gz",
+      "hash": "0c375gq6mhfimrv5c8q4xwsys9b87wisp46h9ijmqdgwkfr8ajld"
     },
     "rest-nvim": {
       "type": "Git",
