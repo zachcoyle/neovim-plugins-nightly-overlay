@@ -932,9 +932,9 @@
         "repo": "conform.nvim"
       },
       "branch": "master",
-      "revision": "db8a4a9edb217067b1d7a2e0362c74bfe9cc944d",
-      "url": "https://github.com/stevearc/conform.nvim/archive/db8a4a9edb217067b1d7a2e0362c74bfe9cc944d.tar.gz",
-      "hash": "13vpizk8ani64d3a9yrm0g3bz8m6m6cxnpzr2xgslbhxnkmbxq7j"
+      "revision": "09d4fba3cbbafa8ec17edd59753811da4477acb0",
+      "url": "https://github.com/stevearc/conform.nvim/archive/09d4fba3cbbafa8ec17edd59753811da4477acb0.tar.gz",
+      "hash": "1ha8h5ifaxlwi3fjqrjq49lb2zwval6xph70p9c3nq1r2hn425g0"
     },
     "conjure": {
       "type": "Git",
@@ -1016,9 +1016,9 @@
         "repo": "crates.nvim"
       },
       "branch": "main",
-      "revision": "403a0abef0e2aec12749a534dc468d6fd50c6741",
-      "url": "https://github.com/Saecki/crates.nvim/archive/403a0abef0e2aec12749a534dc468d6fd50c6741.tar.gz",
-      "hash": "19ix86nbww5vljinfwfpjkz806j7dzw4pgjyjya201jb0n22lrc6"
+      "revision": "fd2bbca7aa588f24ffc3517831934b4c4a9588e9",
+      "url": "https://github.com/Saecki/crates.nvim/archive/fd2bbca7aa588f24ffc3517831934b4c4a9588e9.tar.gz",
+      "hash": "1l2z447svf1ldpnsb9sn5b4q1a22g3wx126yw9hj7rcqrv50xw6i"
     },
     "cyberdream-nvim": {
       "type": "Git",
@@ -2875,9 +2875,9 @@
         "repo": "oil.nvim"
       },
       "branch": "master",
-      "revision": "548587d68b55e632d8a69c92cefd981f360634fa",
-      "url": "https://github.com/stevearc/oil.nvim/archive/548587d68b55e632d8a69c92cefd981f360634fa.tar.gz",
-      "hash": "073rd5qsc6syvjl8s3hiyg69dlv3i5lyqyicwjpchfqvw8m059am"
+      "revision": "8649818fb29322a8ee24c5cd2cd7b2f6c40258a3",
+      "url": "https://github.com/stevearc/oil.nvim/archive/8649818fb29322a8ee24c5cd2cd7b2f6c40258a3.tar.gz",
+      "hash": "05lkh9x0fh5hnyjsjn291syc9a0l94if7ydbd9w27kpcq57k9l9b"
     },
     "ollama-nvim": {
       "type": "Git",
