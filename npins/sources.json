@@ -68,9 +68,9 @@
         "repo": "arrow.nvim"
       },
       "branch": "master",
-      "revision": "5438c977e729a29d96bd54c8da3103154e80dbd1",
-      "url": "https://github.com/otavioschwanck/arrow.nvim/archive/5438c977e729a29d96bd54c8da3103154e80dbd1.tar.gz",
-      "hash": "1sjd0gv7ka6by3fkgh8h48jwwfxmbgm21xcj7637349mj2ciaz7c"
+      "revision": "9608ce6d7e6935efd423946a319f7f4041cbde93",
+      "url": "https://github.com/otavioschwanck/arrow.nvim/archive/9608ce6d7e6935efd423946a319f7f4041cbde93.tar.gz",
+      "hash": "00xz4wnmllw8pc707py0n8a5avag5wyrk165i9yl0al2y92fw5fn"
     },
     "auto-save-nvim": {
       "type": "Git",
@@ -2923,9 +2923,9 @@
         "repo": "orgmode"
       },
       "branch": "master",
-      "revision": "5d7c03af47b41604e75ff701ac1c36d30f653482",
-      "url": "https://github.com/nvim-orgmode/orgmode/archive/5d7c03af47b41604e75ff701ac1c36d30f653482.tar.gz",
-      "hash": "140axp9m72ng3pzhhbnnvvdb55gq4bk1vqahpvp8i6caiy75z2f7"
+      "revision": "0ebe2e3c8a24137a86ac20b9f35c2a574a71035d",
+      "url": "https://github.com/nvim-orgmode/orgmode/archive/0ebe2e3c8a24137a86ac20b9f35c2a574a71035d.tar.gz",
+      "hash": "1rdn3sqacqzqkjqp8xpcf2ad2jq3mp6z10jbgixvhjwh9959xrqi"
     },
     "overseer-nvim": {
       "type": "Git",
