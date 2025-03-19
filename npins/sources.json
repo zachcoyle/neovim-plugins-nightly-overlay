@@ -44,9 +44,9 @@
         "repo": "SchemaStore.nvim"
       },
       "branch": "main",
-      "revision": "97f355da551634d345dcde870b7c7c2b638ff649",
-      "url": "https://github.com/b0o/SchemaStore.nvim/archive/97f355da551634d345dcde870b7c7c2b638ff649.tar.gz",
-      "hash": "1vh9xbcbpbj5v70bwsg8xja24dsalwdyabzsb443bwlry8xr7rpb"
+      "revision": "1cf2c23143c2daadbdf8ec372c6df7228dbdf8dd",
+      "url": "https://github.com/b0o/SchemaStore.nvim/archive/1cf2c23143c2daadbdf8ec372c6df7228dbdf8dd.tar.gz",
+      "hash": "0cmc5dpk0215x10c4mi0mwga1w4dbmj2g1rfw342g7lqqgnn93si"
     },
     "alpha-nvim": {
       "type": "Git",
@@ -116,9 +116,9 @@
         "repo": "avante.nvim"
       },
       "branch": "main",
-      "revision": "f226df8348bdfa463cba88f7f979a76193d34c43",
-      "url": "https://github.com/yetone/avante.nvim/archive/f226df8348bdfa463cba88f7f979a76193d34c43.tar.gz",
-      "hash": "0was9ygzr8yrbqw9a4nr3qhmljpcyfc796vhch2bkxs9qaww63rm"
+      "revision": "1c8cac1958cdf04b65942f23fa5a14cc4cfae44e",
+      "url": "https://github.com/yetone/avante.nvim/archive/1c8cac1958cdf04b65942f23fa5a14cc4cfae44e.tar.gz",
+      "hash": "14np2v6lg2bzprnm38rfqqm685z2k48ik41n9cyh3b5ccxrpqysi"
     },
     "baleia-nvim": {
       "type": "Git",
