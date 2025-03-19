@@ -1807,9 +1807,9 @@
         "repo": "lualine.nvim"
       },
       "branch": "master",
-      "revision": "97b2e8b9b2e24dd1eb0663a56f065151d503cc03",
-      "url": "https://github.com/nvim-lualine/lualine.nvim/archive/97b2e8b9b2e24dd1eb0663a56f065151d503cc03.tar.gz",
-      "hash": "13q1yn55hz77fy786r5r7yxc2d4yvvpc0vly1r1qgv6fg3sw3782"
+      "revision": "9fef261b53fbe3a2ef01ee9667f6fde064b1ed10",
+      "url": "https://github.com/nvim-lualine/lualine.nvim/archive/9fef261b53fbe3a2ef01ee9667f6fde064b1ed10.tar.gz",
+      "hash": "1i6fglxx31xfsvbj1yl9cll1pw1ynbwqils9k7dcniq1gmgdl1wp"
     },
     "luasnip": {
       "type": "Git",
@@ -2335,9 +2335,9 @@
         "repo": "neovim-ayu"
       },
       "branch": "master",
-      "revision": "283badaa983234c90e857c12c1f1c18e1544360a",
-      "url": "https://github.com/Shatur/neovim-ayu/archive/283badaa983234c90e857c12c1f1c18e1544360a.tar.gz",
-      "hash": "16pj4pkv04ff7wx5dnkzqzv69im16bgc686qbwrs5qazph702zh0"
+      "revision": "f5da37a8ddd62fc3a7b28900c4d1b807a3582584",
+      "url": "https://github.com/Shatur/neovim-ayu/archive/f5da37a8ddd62fc3a7b28900c4d1b807a3582584.tar.gz",
+      "hash": "0is9gibh6lrf7x3903v06l33l8nrq1hix0sm7clc2576pk2sp050"
     },
     "netman-nvim": {
       "type": "Git",
@@ -4219,9 +4219,9 @@
         "repo": "yazi.nvim"
       },
       "branch": "main",
-      "revision": "a438483e00b1f29694b5afee5578b16073471c7c",
-      "url": "https://github.com/mikavilpas/yazi.nvim/archive/a438483e00b1f29694b5afee5578b16073471c7c.tar.gz",
-      "hash": "0q3884gf5k6by5g61z80vg1njp9wvahxg0my4zkw887gxi15hdbx"
+      "revision": "160c105972910c278f023db5e1b34cab478942c4",
+      "url": "https://github.com/mikavilpas/yazi.nvim/archive/160c105972910c278f023db5e1b34cab478942c4.tar.gz",
+      "hash": "0lf2jfzjd0bbspj52p688pcjwv8n2m02lndm67assaw16963y4bk"
     },
     "yuck-vim": {
       "type": "Git",
