@@ -44,9 +44,9 @@
         "repo": "SchemaStore.nvim"
       },
       "branch": "main",
-      "revision": "1cf2c23143c2daadbdf8ec372c6df7228dbdf8dd",
-      "url": "https://github.com/b0o/SchemaStore.nvim/archive/1cf2c23143c2daadbdf8ec372c6df7228dbdf8dd.tar.gz",
-      "hash": "0cmc5dpk0215x10c4mi0mwga1w4dbmj2g1rfw342g7lqqgnn93si"
+      "revision": "9bac14f8e4951ed57d32a6944d8e3969d50e4d67",
+      "url": "https://github.com/b0o/SchemaStore.nvim/archive/9bac14f8e4951ed57d32a6944d8e3969d50e4d67.tar.gz",
+      "hash": "0pn6cjnh8zh0ix14kwjjxlbhlliwz69lnk8l6kgslgx0vzzxqs10"
     },
     "alpha-nvim": {
       "type": "Git",
