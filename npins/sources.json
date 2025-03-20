@@ -44,9 +44,9 @@
         "repo": "SchemaStore.nvim"
       },
       "branch": "main",
-      "revision": "9bac14f8e4951ed57d32a6944d8e3969d50e4d67",
-      "url": "https://github.com/b0o/SchemaStore.nvim/archive/9bac14f8e4951ed57d32a6944d8e3969d50e4d67.tar.gz",
-      "hash": "0pn6cjnh8zh0ix14kwjjxlbhlliwz69lnk8l6kgslgx0vzzxqs10"
+      "revision": "ad85eb0ce804771a82cbde518f41003a8fd83307",
+      "url": "https://github.com/b0o/SchemaStore.nvim/archive/ad85eb0ce804771a82cbde518f41003a8fd83307.tar.gz",
+      "hash": "16nizpqacaaw7gw87pq1yj1s15h9sf5i4pfp5j5zrx8ka8qwy3x3"
     },
     "alpha-nvim": {
       "type": "Git",
@@ -2431,9 +2431,9 @@
         "repo": "nvim-autopairs"
       },
       "branch": "master",
-      "revision": "68f0e5c3dab23261a945272032ee6700af86227a",
-      "url": "https://github.com/windwp/nvim-autopairs/archive/68f0e5c3dab23261a945272032ee6700af86227a.tar.gz",
-      "hash": "1ai3s1083dx6bddhrkv7d3hyq3zsrblizbvpgl09r1w9cijxhj8m"
+      "revision": "6522027785b305269fa17088395dfc0f456cedd2",
+      "url": "https://github.com/windwp/nvim-autopairs/archive/6522027785b305269fa17088395dfc0f456cedd2.tar.gz",
+      "hash": "1i63wdgm54n3iiiix0y18mjvy2rsswc4iybqppsfpvi8cg2xjpa6"
     },
     "nvim-bacon": {
       "type": "Git",
