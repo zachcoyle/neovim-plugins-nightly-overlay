@@ -44,9 +44,9 @@
         "repo": "SchemaStore.nvim"
       },
       "branch": "main",
-      "revision": "ad85eb0ce804771a82cbde518f41003a8fd83307",
-      "url": "https://github.com/b0o/SchemaStore.nvim/archive/ad85eb0ce804771a82cbde518f41003a8fd83307.tar.gz",
-      "hash": "16nizpqacaaw7gw87pq1yj1s15h9sf5i4pfp5j5zrx8ka8qwy3x3"
+      "revision": "3e0fd1d029c6c716b691a28cf33cf0bbf0afe995",
+      "url": "https://github.com/b0o/SchemaStore.nvim/archive/3e0fd1d029c6c716b691a28cf33cf0bbf0afe995.tar.gz",
+      "hash": "05168fn01wsprxz346my82n368zr6ygc5qm8f3z7kx3wi5i974vk"
     },
     "alpha-nvim": {
       "type": "Git",
@@ -116,9 +116,9 @@
         "repo": "avante.nvim"
       },
       "branch": "main",
-      "revision": "008fe29de8c8630b7db5abd304b2f7c07277361d",
-      "url": "https://github.com/yetone/avante.nvim/archive/008fe29de8c8630b7db5abd304b2f7c07277361d.tar.gz",
-      "hash": "1n55ygvxp1q7cz10mgp2ir50mwbq83dw8s1sg1arw5scmq81rvym"
+      "revision": "968d5fbd520a6c62c4265acd8ea94a9bcb9be024",
+      "url": "https://github.com/yetone/avante.nvim/archive/968d5fbd520a6c62c4265acd8ea94a9bcb9be024.tar.gz",
+      "hash": "18zi59hbmnaf542kcrphywpmdswglbb2gdlx2g23601d2ci2lgv9"
     },
     "baleia-nvim": {
       "type": "Git",
@@ -3139,9 +3139,9 @@
         "repo": "render-markdown.nvim"
       },
       "branch": "main",
-      "revision": "125258ac5bccd21651505d78dbd6120906243749",
-      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/125258ac5bccd21651505d78dbd6120906243749.tar.gz",
-      "hash": "1dfrkvfzkd33fw4dav98g320z2wk232i8vm66igg8lr1kvnd2x4x"
+      "revision": "62d6681332365cfddbe916c888752834d9f7ad0c",
+      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/62d6681332365cfddbe916c888752834d9f7ad0c.tar.gz",
+      "hash": "1vs9y74743dm9025sgzl27arxs50mkihyc2bbmhi7vhggwf4j0hr"
     },
     "rest-nvim": {
       "type": "Git",
@@ -4219,9 +4219,9 @@
         "repo": "yazi.nvim"
       },
       "branch": "main",
-      "revision": "00dd0a94360d3ad50ef1b39bc3b20c8670094027",
-      "url": "https://github.com/mikavilpas/yazi.nvim/archive/00dd0a94360d3ad50ef1b39bc3b20c8670094027.tar.gz",
-      "hash": "0ycdyxdfzibz87clsvpa12zrc8kqpp46kh26aflmsfb6m180vqlq"
+      "revision": "a4c14eab6787b13ab14ef1c2fbb44a0383b9c9c2",
+      "url": "https://github.com/mikavilpas/yazi.nvim/archive/a4c14eab6787b13ab14ef1c2fbb44a0383b9c9c2.tar.gz",
+      "hash": "1485xpw2mg55sy9c2qpjym1f3l8xv4dmw4j7i0cbahlmpk3zgjhz"
     },
     "yuck-vim": {
       "type": "Git",
