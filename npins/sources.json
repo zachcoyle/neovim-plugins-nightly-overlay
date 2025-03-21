@@ -968,9 +968,9 @@
         "repo": "copilot.lua"
       },
       "branch": "master",
-      "revision": "acb0545ac9c1d85c2e8b01075eb451fdfca3b7b7",
-      "url": "https://github.com/zbirenbaum/copilot.lua/archive/acb0545ac9c1d85c2e8b01075eb451fdfca3b7b7.tar.gz",
-      "hash": "06m2x0hasihpc2570p8qpa488zf4ya16c2sgsc8v05ryhmw6sdsa"
+      "revision": "330ffb9630509cd0cd56815c6e667bc497ec82f4",
+      "url": "https://github.com/zbirenbaum/copilot.lua/archive/330ffb9630509cd0cd56815c6e667bc497ec82f4.tar.gz",
+      "hash": "10l8bdqpsd2kjvy5x29n3xv4390xrgk1r5x64dffir01svpccfry"
     },
     "copilot-vim": {
       "type": "Git",
@@ -2875,9 +2875,9 @@
         "repo": "oil.nvim"
       },
       "branch": "master",
-      "revision": "4c9bdf0d839932617cdb25ed46a2f7bb1e090f77",
-      "url": "https://github.com/stevearc/oil.nvim/archive/4c9bdf0d839932617cdb25ed46a2f7bb1e090f77.tar.gz",
-      "hash": "0rl4r3jyl3g14wjgrvbkcwqvmm0ws078q25ws84bvglcprcydpi2"
+      "revision": "ab887d926c2665a708fbe9e6c4654042cc5f4c60",
+      "url": "https://github.com/stevearc/oil.nvim/archive/ab887d926c2665a708fbe9e6c4654042cc5f4c60.tar.gz",
+      "hash": "13jp8i11yhl9xjki3pcyr1q1gzskskm2fgb3slrwfphn586jb5i6"
     },
     "ollama-nvim": {
       "type": "Git",
