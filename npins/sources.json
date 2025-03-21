@@ -1376,9 +1376,9 @@
         "repo": "glow.nvim"
       },
       "branch": "main",
-      "revision": "238070a686c1da3bccccf1079700eb4b5e19aea4",
-      "url": "https://github.com/ellisonleao/glow.nvim/archive/238070a686c1da3bccccf1079700eb4b5e19aea4.tar.gz",
-      "hash": "1j63y3hb03n5m4jig8576sxnb3jixxlr66m9xcs8vgfm5h0mrhqs"
+      "revision": "5d5954b2f22e109d4a6eba8b2618c5b96e4ee7a2",
+      "url": "https://github.com/ellisonleao/glow.nvim/archive/5d5954b2f22e109d4a6eba8b2618c5b96e4ee7a2.tar.gz",
+      "hash": "11rlis4riy1w4clnkiza8x6fs8xjwsrsgfzlz2k8z041ancmrw0a"
     },
     "goyo-vim": {
       "type": "Git",
