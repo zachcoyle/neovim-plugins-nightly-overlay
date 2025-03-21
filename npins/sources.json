@@ -44,9 +44,9 @@
         "repo": "SchemaStore.nvim"
       },
       "branch": "main",
-      "revision": "5713a0f84f50075d8181e9117aa147c29bf8d5cf",
-      "url": "https://github.com/b0o/SchemaStore.nvim/archive/5713a0f84f50075d8181e9117aa147c29bf8d5cf.tar.gz",
-      "hash": "08wbmalahyf6za50fdj88knccmqsg90aizs95bgyvsrbkixzyp98"
+      "revision": "b79d4c6457aa7f62c0c21b709859b8b93241a74b",
+      "url": "https://github.com/b0o/SchemaStore.nvim/archive/b79d4c6457aa7f62c0c21b709859b8b93241a74b.tar.gz",
+      "hash": "0gh07833zh3rqbzwq2n94cjbkxlpavqsxn3z45flkbw86rxm8lgh"
     },
     "alpha-nvim": {
       "type": "Git",
@@ -968,9 +968,9 @@
         "repo": "copilot.lua"
       },
       "branch": "master",
-      "revision": "256393d0737741c460726716cac3a605c45d1c3f",
-      "url": "https://github.com/zbirenbaum/copilot.lua/archive/256393d0737741c460726716cac3a605c45d1c3f.tar.gz",
-      "hash": "18mr70hdar4v1dvrlry9gg93rsrb3s7hfhqkjsymaj5dm11mvrll"
+      "revision": "dbcee9650fbbcfe44eb0747de87893c5d0936654",
+      "url": "https://github.com/zbirenbaum/copilot.lua/archive/dbcee9650fbbcfe44eb0747de87893c5d0936654.tar.gz",
+      "hash": "0i6a0yhkig6dw4l3cdjz5755wm8hdixvm0kd45qqk575i43llqnm"
     },
     "copilot-vim": {
       "type": "Git",
