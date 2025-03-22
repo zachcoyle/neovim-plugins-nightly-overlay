@@ -1196,9 +1196,9 @@
         "repo": "firenvim"
       },
       "branch": "master",
-      "revision": "f8a5fa6f1ed42536490acf0840497c40331c184f",
-      "url": "https://github.com/glacambre/firenvim/archive/f8a5fa6f1ed42536490acf0840497c40331c184f.tar.gz",
-      "hash": "08n53sqgw25m1piwdpyi4g5b30xw5qjprf2fwz73i6zgnyyf83ra"
+      "revision": "a1d596e9b334efaabdc1a2268aba1aa7bb76f858",
+      "url": "https://github.com/glacambre/firenvim/archive/a1d596e9b334efaabdc1a2268aba1aa7bb76f858.tar.gz",
+      "hash": "1n7jhp7wphl04l8789h1mk73wrwihbaf5d4ax49f3rgdq9sb7v6r"
     },
     "flash-nvim": {
       "type": "Git",
@@ -2863,9 +2863,9 @@
         "repo": "octo.nvim"
       },
       "branch": "master",
-      "revision": "92edd26efb6f17eb617b949256a67665384462a7",
-      "url": "https://github.com/pwntester/octo.nvim/archive/92edd26efb6f17eb617b949256a67665384462a7.tar.gz",
-      "hash": "05ikj69z0vxjyv6bg5jp0ak72q9icr6gd0ngg1m57ilf41v0rnj0"
+      "revision": "69b78565dc28918ae8dac46b51fb4d7a828a28f7",
+      "url": "https://github.com/pwntester/octo.nvim/archive/69b78565dc28918ae8dac46b51fb4d7a828a28f7.tar.gz",
+      "hash": "1hf6nj3kcj1g4l71af860875wdb8x51x666ybrsqkpr0p25y93q7"
     },
     "oil-nvim": {
       "type": "Git",
