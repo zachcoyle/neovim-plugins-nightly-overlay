@@ -968,9 +968,9 @@
         "repo": "copilot.lua"
       },
       "branch": "master",
-      "revision": "49807c6d963ff0f1cb5110d3672732f3734965e6",
-      "url": "https://github.com/zbirenbaum/copilot.lua/archive/49807c6d963ff0f1cb5110d3672732f3734965e6.tar.gz",
-      "hash": "0vp817zp0hg1wyg0a3hdf65a8scmdf51f241kn2ms814fhgr6a41"
+      "revision": "e69f7aa08b0e1b3003fad4e24344fff0ac9fcb60",
+      "url": "https://github.com/zbirenbaum/copilot.lua/archive/e69f7aa08b0e1b3003fad4e24344fff0ac9fcb60.tar.gz",
+      "hash": "1ljg9yswah48hnwb51high1drcyflbw3vnqcc0b33yarv0zm10l2"
     },
     "copilot-vim": {
       "type": "Git",
@@ -1268,9 +1268,9 @@
         "repo": "fzf-lua"
       },
       "branch": "main",
-      "revision": "0c04031db9c0cdfbfe27b278277bd58d945e635f",
-      "url": "https://github.com/ibhagwan/fzf-lua/archive/0c04031db9c0cdfbfe27b278277bd58d945e635f.tar.gz",
-      "hash": "0qm9qprmk971wh1r8zbzdjsjzkfw03m1hby0iissn5rr8j2y44rb"
+      "revision": "494af9d85ecab388334f9f03163463b3db11f997",
+      "url": "https://github.com/ibhagwan/fzf-lua/archive/494af9d85ecab388334f9f03163463b3db11f997.tar.gz",
+      "hash": "01c0bimbsbjrma3kq4ay8kl0nr8gkdlaramsh62ky3iwqzlmpg94"
     },
     "galaxyline-nvim": {
       "type": "Git",
