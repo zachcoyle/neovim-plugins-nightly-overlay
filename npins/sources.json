@@ -1688,9 +1688,9 @@
         "repo": "lean.nvim"
       },
       "branch": "main",
-      "revision": "af3fd27d8fc5a9b6107048ed1f4ec29d3731c0ff",
-      "url": "https://github.com/Julian/lean.nvim/archive/af3fd27d8fc5a9b6107048ed1f4ec29d3731c0ff.tar.gz",
-      "hash": "0i3kq0nz0z8cjcl2ic3jzif0g43p1daa51qh42ybkpd0s09mx7lf"
+      "revision": "5b84a31922d6f31fbfd9dce0ba93ea1fc96d0a68",
+      "url": "https://github.com/Julian/lean.nvim/archive/5b84a31922d6f31fbfd9dce0ba93ea1fc96d0a68.tar.gz",
+      "hash": "113x1hhkvsx0vldjwkmrkhl9ifl0n8j87mppgg80mk71ml72fv44"
     },
     "leap-nvim": {
       "type": "Git",
@@ -3139,9 +3139,9 @@
         "repo": "render-markdown.nvim"
       },
       "branch": "main",
-      "revision": "62d6681332365cfddbe916c888752834d9f7ad0c",
-      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/62d6681332365cfddbe916c888752834d9f7ad0c.tar.gz",
-      "hash": "1vs9y74743dm9025sgzl27arxs50mkihyc2bbmhi7vhggwf4j0hr"
+      "revision": "9f4ef684da01016c270af2bc2b862eb6823aa7ab",
+      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/9f4ef684da01016c270af2bc2b862eb6823aa7ab.tar.gz",
+      "hash": "0rqr659h29kk8p35bjv839yp0ni7s1c7lb7kljq4pjmqlfhc2gl6"
     },
     "rest-nvim": {
       "type": "Git",
