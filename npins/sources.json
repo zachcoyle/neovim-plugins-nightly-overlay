@@ -3139,9 +3139,9 @@
         "repo": "render-markdown.nvim"
       },
       "branch": "main",
-      "revision": "9f4ef684da01016c270af2bc2b862eb6823aa7ab",
-      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/9f4ef684da01016c270af2bc2b862eb6823aa7ab.tar.gz",
-      "hash": "0rqr659h29kk8p35bjv839yp0ni7s1c7lb7kljq4pjmqlfhc2gl6"
+      "revision": "d6aaa19913415c653fa38aead4d9867628394510",
+      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim/archive/d6aaa19913415c653fa38aead4d9867628394510.tar.gz",
+      "hash": "1ahjp28sj495i1ixsrrhdy31mrwpys9sp39vgdllabg5wv0jv5sk"
     },
     "rest-nvim": {
       "type": "Git",
