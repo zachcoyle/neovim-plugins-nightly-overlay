@@ -2047,9 +2047,9 @@
         "repo": "neorg"
       },
       "branch": "main",
-      "revision": "6f0b4eefa591fbc4c9344f110b0c0bac5b49078c",
-      "url": "https://github.com/vhyrro/neorg/archive/6f0b4eefa591fbc4c9344f110b0c0bac5b49078c.tar.gz",
-      "hash": "1x8h5hxzg06g1d849bna6rs4jzjf248g59v87zvlc4scmp9pzjga"
+      "revision": "91fe8bdb40fa296ff4949fcc53224bd7cb8970a5",
+      "url": "https://github.com/vhyrro/neorg/archive/91fe8bdb40fa296ff4949fcc53224bd7cb8970a5.tar.gz",
+      "hash": "0hlff89qx6nda44g9b3lpalmkxwd1iybqsqrshvwf0vwfj8a6sj6"
     },
     "neoscroll-nvim": {
       "type": "Git",
@@ -3187,9 +3187,9 @@
         "repo": "scrollbar.nvim"
       },
       "branch": "master",
-      "revision": "3f0d4170db4c4e148c2796f9cdd211970432fec4",
-      "url": "https://github.com/Xuyuanp/scrollbar.nvim/archive/3f0d4170db4c4e148c2796f9cdd211970432fec4.tar.gz",
-      "hash": "08l5b5hb80rr5agjzzh3x0z5i59c0xqnjxgk87sjsary18dbgzn2"
+      "revision": "c96fc2fb1a3b5a9e6e82d94014490d5bca9beb9b",
+      "url": "https://github.com/Xuyuanp/scrollbar.nvim/archive/c96fc2fb1a3b5a9e6e82d94014490d5bca9beb9b.tar.gz",
+      "hash": "1k0kpqhz7il6lxkz9vc999fa2ym2yyp5gmazha4wr5xsyl12jlca"
     },
     "smart-splits-nvim": {
       "type": "Git",
