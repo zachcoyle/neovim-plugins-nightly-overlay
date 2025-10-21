@@ -7,7 +7,7 @@ This overlay includes all of the plugins available through `Nixvim`, minus the o
 ```nix
 {
   inputs = {
-    neovim-plugins-nightly-overlay.url = "github:zachcoyle/nix-config";
+    neovim-plugins-nightly-overlay.url = "github:zachcoyle/github:zachcoyle/neovim-plugins-nightly-overlay";
   };
 }
 ```
