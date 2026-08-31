@@ -9,75 +9,44 @@
       url = "github:numtide/devshell/main";
       inputs.nixpkgs.follows = "nixpkgs";
     };
-    flake-parts = {
-      url = "github:hercules-ci/flake-parts/main";
-      inputs.nixpkgs-lib.follows = "nixpkgs";
-    };
-    hercules-ci-effects = {
-      url = "github:hercules-ci/hercules-ci-effects";
-      inputs.nixpkgs.follows = "nixpkgs";
-    };
     systems.url = "github:nix-systems/default/main";
   };
 
-  outputs = inputs @ {
+  outputs = {
     self,
     nixpkgs,
     devshell,
-    flake-parts,
-    hercules-ci-effects,
     systems,
     ...
-  }:
-    flake-parts.lib.mkFlake {inherit inputs;} {
-      systems = import systems;
-      imports = [
-        inputs.devshell.flakeModule
-        inputs.hercules-ci-effects.flakeModule
-      ];
+  }: let
+    forAllSystems = nixpkgs.lib.genAttrs (import systems);
+  in {
+    formatter = forAllSystems (system: nixpkgs.legacyPackages.${system}.alejandra);
 
-      hercules-ci.flake-update = {
-        enable = true;
-        baseMerge.enable = true;
-        baseMerge.method = "rebase";
-        autoMergeMethod = "rebase";
-        when = {
-          hour = [0];
-          minute = 0;
-        };
+    devShells = forAllSystems (system: let
+      pkgs = nixpkgs.legacyPackages.${system};
+    in {
+      default = devshell.legacyPackages.${system}.mkShell {
+        name = "neovim-plugins-nightly-overlay";
+        packages = [pkgs.npins];
       };
+    });
 
-      perSystem = {
-        config,
-        pkgs,
-        ...
-      }: {
-        formatter = pkgs.alejandra;
-
-        devshells.default = {
-          name = "neovim-plugins-nightly-overlay";
-          packages = with pkgs; [
-            npins
-          ];
-        };
-      };
-      flake = {
-        overlays.default = final: prev: let
-          pins = import ./npins;
-          plugins = builtins.attrNames pins;
-        in {
-          vimPlugins =
-            prev.vimPlugins
-            // builtins.listToAttrs
-            (map (name: {
-                inherit name;
-                value = prev.vimPlugins.${name}.overrideAttrs {
-                  src = pins.${name};
-                  version = "nightly-${pins.${name}.revision}";
-                };
-              })
-              plugins);
-        };
-      };
+    overlays.default = final: prev: let
+      pins = import ./npins;
+      plugins = builtins.attrNames pins;
+    in {
+      vimPlugins =
+        prev.vimPlugins
+        // builtins.listToAttrs
+        (map (name: {
+            inherit name;
+            value = prev.vimPlugins.${name}.overrideAttrs {
+              src = pins.${name};
+              version = "nightly-${pins.${name}.revision}";
+            };
+          })
+          plugins);
     };
+  };
 }
