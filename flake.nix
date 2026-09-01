@@ -70,6 +70,36 @@
             pname = targetName;
           });
 
+    mkTreesitterPlugin = pkgs: previousPlugins: let
+      stable = pkgs.vimPlugins.nvim-treesitter;
+      nightly = mkPlugin pkgs previousPlugins "nvim-treesitter" pluginSources.nvim-treesitter;
+      withStableDependencies = configured:
+        nightly.overrideAttrs {
+          passthru.dependencies = configured.dependencies;
+        };
+    in
+      nightly.overrideAttrs (old: {
+        passthru =
+          (old.passthru or {})
+          // {
+            # Nixpkgs generates a versioned grammar/query catalog. Upstream
+            # main can remove queries before that catalog is regenerated, so
+            # keep the catalog atomic while updating the plugin itself.
+            inherit
+              (stable)
+              allGrammars
+              buildQueries
+              builtGrammars
+              grammarPlugins
+              grammarToPlugin
+              parsers
+              queries
+              ;
+            withPlugins = f: withStableDependencies (stable.withPlugins f);
+            withAllGrammars = withStableDependencies stable.withAllGrammars;
+          };
+      });
+
     overlay = _final: prev: {
       # Extend nixpkgs' recursive plugin scope instead of merging a completed
       # attrset. This preserves nixpkgs overrides while rebinding dependencies
@@ -79,6 +109,9 @@
           lib.mapAttrs
           (targetName: sourceName: mkPlugin prev previousPlugins targetName sourceName)
           pluginSources
+          // {
+            nvim-treesitter = mkTreesitterPlugin prev previousPlugins;
+          }
       );
     };
 
@@ -179,9 +212,13 @@
         pkgs.runCommand "nixvim-coverage" {} "touch $out";
 
       # Guard a dependency-sensitive package: textobjects must load against the
-      # nightly treesitter selected through nixpkgs' recursive plugin scope.
+      # nightly treesitter selected through nixpkgs' recursive plugin scope,
+      # while the generated all-grammars catalog remains internally atomic.
       plugin-compatibility = pkgs.runCommand "plugin-compatibility" {
-        nativeBuildInputs = [pkgs.vimPlugins.nvim-treesitter-textobjects];
+        nativeBuildInputs = [
+          pkgs.vimPlugins.nvim-treesitter-textobjects
+          pkgs.vimPlugins.nvim-treesitter.withAllGrammars
+        ];
       } "touch $out";
     });
   };
