@@ -39,11 +39,11 @@
 
     shortRevision = pin: builtins.substring 0 12 pin.revision;
 
-    mkPlugin = prev: targetName: sourceName: let
+    mkPlugin = pkgs: previousPlugins: targetName: sourceName: let
       pin = pinSet.${sourceName};
       previous =
-        if builtins.hasAttr targetName prev.vimPlugins
-        then builtins.tryEval prev.vimPlugins.${targetName}
+        if builtins.hasAttr targetName previousPlugins
+        then builtins.tryEval previousPlugins.${targetName}
         else {
           success = false;
           value = null;
@@ -65,15 +65,21 @@
       if previous.success && lib.isDerivation previous.value
       then previous.value.overrideAttrs common
       else
-        prev.vimUtils.buildVimPlugin ((common {})
+        pkgs.vimUtils.buildVimPlugin ((common {})
           // {
             pname = targetName;
           });
 
     overlay = _final: prev: {
-      vimPlugins =
-        prev.vimPlugins
-        // lib.mapAttrs (targetName: sourceName: mkPlugin prev targetName sourceName) pluginSources;
+      # Extend nixpkgs' recursive plugin scope instead of merging a completed
+      # attrset. This preserves nixpkgs overrides while rebinding dependencies
+      # such as textobjects -> treesitter to their nightly counterparts.
+      vimPlugins = prev.vimPlugins.extend (
+        _finalPlugins: previousPlugins:
+          lib.mapAttrs
+          (targetName: sourceName: mkPlugin prev previousPlugins targetName sourceName)
+          pluginSources
+      );
     };
 
     collectNixvimPackages = value:
@@ -171,6 +177,12 @@
         ${lib.concatStringsSep "\n" uncoveredNames}
       '';
         pkgs.runCommand "nixvim-coverage" {} "touch $out";
+
+      # Guard a dependency-sensitive package: textobjects must load against the
+      # nightly treesitter selected through nixpkgs' recursive plugin scope.
+      plugin-compatibility = pkgs.runCommand "plugin-compatibility" {
+        nativeBuildInputs = [pkgs.vimPlugins.nvim-treesitter-textobjects];
+      } "touch $out";
     });
   };
 }
