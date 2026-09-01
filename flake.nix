@@ -157,6 +157,11 @@
       uncovered = uncoveredNixvimPackagesFor system;
       uncoveredNames = map (package: package.pname or package.name) uncovered;
     in {
+      formatting = pkgs.runCommand "formatting" {nativeBuildInputs = [pkgs.alejandra];} ''
+        alejandra --check ${./flake.nix} ${./source-aliases.nix}
+        touch $out
+      '';
+
       overlay-evaluates = assert lib.assertMsg (invalidPackages == [])
       "The overlay produced invalid plugin packages";
         pkgs.runCommand "overlay-evaluates" {} "touch $out";
