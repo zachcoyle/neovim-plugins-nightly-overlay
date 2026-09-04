@@ -47,7 +47,9 @@
         "nvim-treesitter-playground"
       ];
 
-      nightlyPluginSources = builtins.removeAttrs pluginSources treesitterFamily;
+      excludedPlugins = treesitterFamily ++ [ "harpoon2" ];
+
+      nightlyPluginSources = builtins.removeAttrs pluginSources excludedPlugins;
 
       shortRevision = pin: builtins.substring 0 12 pin.revision;
 
