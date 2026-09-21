@@ -51,6 +51,11 @@
 
       nightlyPluginSources = builtins.removeAttrs pluginSources excludedPlugins;
 
+      # Plugins that have a native (non-Lua) compilation step. Their
+      # nvimRequireCheck always fails in the Nix sandbox because the compiled
+      # shared library isn't present during the check phase.
+      nativePlugins = [ "blink-cmp" ];
+
       shortRevision = pin: builtins.substring 0 12 pin.revision;
 
       mkPlugin =
@@ -76,16 +81,23 @@
               };
             };
           };
+          plugin =
+            if previous.success && lib.isDerivation previous.value then
+              previous.value.overrideAttrs common
+            else
+              pkgs.vimUtils.buildVimPlugin (
+                (common { })
+                // {
+                  pname = targetName;
+                }
+              );
         in
-        if previous.success && lib.isDerivation previous.value then
-          previous.value.overrideAttrs common
+        if builtins.elem targetName nativePlugins then
+          plugin.overrideAttrs (_: {
+            doInstallCheck = false;
+          })
         else
-          pkgs.vimUtils.buildVimPlugin (
-            (common { })
-            // {
-              pname = targetName;
-            }
-          );
+          plugin;
 
       overlay = _final: prev: {
         # Extend nixpkgs' recursive plugin scope instead of merging a completed
@@ -143,7 +155,9 @@
           let
             attempted = builtins.tryEval (lib.hasPrefix "nightly-" package.version);
           in
-          attempted.success && !attempted.value
+          !(builtins.elem (package.pname or "") excludedPlugins)
+          && attempted.success
+          && !attempted.value
         ) (nixvimPackagesFor system);
     in
     {
@@ -181,7 +195,7 @@
         system:
         let
           pkgs = nixpkgs.legacyPackages.${system}.extend overlay;
-          overlayPackages = lib.attrVals (builtins.attrNames pluginSources) pkgs.vimPlugins;
+          overlayPackages = lib.attrVals (builtins.attrNames nightlyPluginSources) pkgs.vimPlugins;
           invalidPackages = builtins.filter (
             package:
             !(lib.isDerivation package)
